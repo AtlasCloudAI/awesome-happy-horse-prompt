@@ -54,8 +54,8 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 ];
 
 const en: Translation = {
-  title: "Awesome Happy Horse 1 Prompts",
-  subtitle: "A curated collection of Happy Horse 1 prompts sourced from the AtlasCloud prompt ecosystem.",
+  title: "Awesome Happy Horse 1.0 Prompts",
+  subtitle: "A curated collection of Happy Horse 1.0 prompts sourced from the AtlasCloud prompt ecosystem.",
   copyright: "All prompts are shared for educational and discovery purposes. Open an issue if anything should be removed.",
   viewInGallery: "View in AtlasCloud",
   promptLibrary: "Prompt Library",
@@ -84,8 +84,8 @@ const en: Translation = {
 };
 
 const zh: Translation = {
-  title: "Happy Horse 1 提示词大全",
-  subtitle: "基于 AtlasCloud 提示词生态整理的 Happy Horse 1 精选视频提示词仓库。",
+  title: "Happy Horse 1.0 提示词大全",
+  subtitle: "基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。",
   copyright: "所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。",
   viewInGallery: "在 AtlasCloud 查看",
   promptLibrary: "提示词库",
@@ -115,8 +115,8 @@ const zh: Translation = {
 
 const zhTW: Translation = {
   ...zh,
-  title: "Happy Horse 1 提示詞大全",
-  subtitle: "基於 AtlasCloud 提示詞生態整理的 Happy Horse 1 精選影片提示詞倉庫。",
+  title: "Happy Horse 1.0 提示詞大全",
+  subtitle: "基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。",
   copyright: "所有提示詞僅用於學習、整理和檢索。如有內容需要移除，請提交 issue。",
   stats: "統計資料",
   totalPrompts: "提示詞總數",

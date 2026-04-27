@@ -2,7 +2,7 @@
 
 ## What is this repository?
 
-This repository is a curated collection of Happy Horse 1 prompts derived from the AtlasCloud prompt ecosystem. It mirrors the structure of the GPT Image 2 awesome repository but focuses on video prompts and MP4 previews.
+This repository is a curated collection of Happy Horse 1.0 prompts derived from the AtlasCloud prompt ecosystem. It mirrors the structure of the GPT Image 2 awesome repository but focuses on video prompts and MP4 previews.
 
 ## How often is README updated?
 

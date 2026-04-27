@@ -1,4 +1,4 @@
-# Contributing to Awesome Happy Horse 1 Prompts
+# Contributing to Awesome Happy Horse 1.0 Prompts
 
 ## How to Contribute
 
@@ -12,7 +12,7 @@ We accept prompt submissions through GitHub Issues so the repository keeps a con
 ## Submission Guidelines
 
 - Keep the title clear and short.
-- Provide the full Happy Horse 1 prompt text.
+- Provide the full Happy Horse 1.0 prompt text.
 - Add a short description explaining what the clip demonstrates.
 - Include a public MP4 preview URL when possible.
 - Credit the original author and source link.

@@ -1,7 +1,7 @@
 {
   "name": "awesome-happy-horse-prompt",
   "version": "1.0.0",
-  "description": "Curated collection of Happy Horse 1 prompts",
+  "description": "Curated collection of Happy Horse 1.0 prompts",
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",

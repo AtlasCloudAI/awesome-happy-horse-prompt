@@ -43,6 +43,8 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 
   if (prompt.video_url) {
     lines.push(`- **${t("video", locale)}:** ${prompt.video_url}`);
+    lines.push("");
+    lines.push(`<video src="${prompt.video_url}" controls muted playsinline width="720"></video>`);
   }
 
   if (prompt.source_link) {

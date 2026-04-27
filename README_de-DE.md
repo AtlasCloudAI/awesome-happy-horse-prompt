@@ -25,7 +25,7 @@
 | Prompts Insgesamt | **283** |
 | Kategorien | **12** |
 | Vorschauvideos | **283** |
-| Zuletzt aktualisiert | **2026-04-27T15:35:14.171Z** |
+| Zuletzt aktualisiert | **2026-04-27T15:35:45.580Z** |
 
 ## Nach Kategorie durchsuchen
 
@@ -5891,4 +5891,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-04-27T15:35:14.171Z
+> Diese README wird automatisch erzeugt. 2026-04-27T15:35:45.580Z

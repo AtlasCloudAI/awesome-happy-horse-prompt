@@ -1,0 +1,118 @@
+name: Submit a Prompt
+description: Share a Happy Horse 1 prompt
+title: "[Prompt] <Short Title>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Submit Your Happy Horse 1 Prompt
+
+        Please share complete prompt information so it can be reviewed and merged into the dataset.
+
+  - type: input
+    id: prompt_title
+    attributes:
+      label: Prompt Title
+      description: A short descriptive title
+      placeholder: Joyful horse running through a golden field
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: Full Happy Horse 1 prompt text
+      placeholder: Describe the full motion, camera, and scene details here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Short explanation of the effect or use case
+      placeholder: A cinematic countryside running sequence with warm light.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - 超逼真视频生成
+        - 角色与场景一致性
+        - 高级运镜动作
+        - 创意视觉特效
+        - 剧情发展与延伸
+    validations:
+      required: true
+
+  - type: input
+    id: preview_video_url
+    attributes:
+      label: Preview Video URL
+      description: Public MP4 preview URL
+      placeholder: https://static.example.com/demo.mp4
+
+  - type: input
+    id: original_author
+    attributes:
+      label: Original Author
+      placeholder: AtlasCloud Community
+    validations:
+      required: true
+
+  - type: input
+    id: author_profile_link
+    attributes:
+      label: Author Profile Link
+      placeholder: https://x.com/username
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Source Link
+      placeholder: https://x.com/username/status/123
+
+  - type: input
+    id: source_platform
+    attributes:
+      label: Source Platform
+      placeholder: x / official / community
+
+  - type: dropdown
+    id: prompt_language
+    attributes:
+      label: Prompt Language
+      options:
+        - Chinese (中文)
+        - English
+        - Traditional Chinese (繁體中文)
+        - Japanese (日本語)
+        - Korean (한국어)
+        - Thai (ไทย)
+        - Vietnamese (Tiếng Việt)
+        - Hindi (हिन्दी)
+        - Spanish (Español)
+        - Latin American Spanish (Español Latinoamérica)
+        - German (Deutsch)
+        - French (Français)
+        - Italian (Italiano)
+        - Brazilian Portuguese (Português do Brasil)
+        - European Portuguese (Português)
+        - Turkish (Türkçe)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: License Agreement
+      options:
+        - label: I confirm I have the right to submit this content
+          required: true
+        - label: I agree to license it under CC BY 4.0
+          required: true

@@ -1,0 +1,67 @@
+name: Auto Close Stale Issues
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  close-stale-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Close stale issues
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const DAYS_INACTIVE = 3;
+            const now = new Date();
+            const msPerDay = 24 * 60 * 60 * 1000;
+
+            for (const issue of issues) {
+              if (issue.pull_request) {
+                continue;
+              }
+
+              const lastUpdated = new Date(issue.updated_at);
+              const daysSinceUpdate = (now - lastUpdated) / msPerDay;
+
+              if (daysSinceUpdate >= DAYS_INACTIVE) {
+                const excludeLabels = ['keep-open', 'pinned'];
+                const hasExcludeLabel = issue.labels.some(label =>
+                  excludeLabels.includes(label.name)
+                );
+
+                if (!hasExcludeLabel) {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    body: `This issue has been automatically closed due to inactivity for ${DAYS_INACTIVE} days. If you believe this was closed in error, please reopen it.`
+                  });
+
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    state: 'closed'
+                  });
+
+                  console.log(`Closed issue #${issue.number}: ${issue.title}`);
+                }
+              }
+            }

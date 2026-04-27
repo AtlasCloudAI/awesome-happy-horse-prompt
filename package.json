@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Awesome-style collection of happy horse prompts",
+  "description": "Awesome-style collection of Happy Horse 1 video prompts",
   "scripts": {
     "generate": "node scripts/generate-readme.mjs"
   }

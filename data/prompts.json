@@ -1,0 +1,70 @@
+[
+  {
+    "id": "happy-horse-001",
+    "title": "Golden Meadow Happy Horse Portrait",
+    "description": "A joyful cinematic portrait of a happy horse running through a golden meadow at sunset.",
+    "prompt": "A joyful photorealistic portrait of a happy horse galloping through a golden meadow at sunset, with a glossy coat, bright eyes, flowing mane, warm golden-hour light, soft dust, dynamic motion, and a cinematic countryside feeling.",
+    "language": "en",
+    "tags": [
+      "photorealistic",
+      "meadow",
+      "sunset",
+      "cinematic"
+    ],
+    "inspired_by": {
+      "title": "Western Open World Horse Scene",
+      "source_link": "https://x.com/1in3Mystery/status/2044872007104287203#reversed-1"
+    }
+  },
+  {
+    "id": "happy-horse-002",
+    "title": "Cute Happy Horse Sticker Sheet",
+    "description": "A cute sticker sheet showing a cheerful little horse in playful poses.",
+    "prompt": "Create a cute sticker sheet featuring a happy little horse in 12 expressive poses on a clean white background with pastel colors, fluffy mane, rosy cheeks, bright eyes, and cheerful captions like Yay, Good Job, and Lets Go.",
+    "language": "en",
+    "tags": [
+      "sticker",
+      "cute",
+      "chibi",
+      "social"
+    ],
+    "inspired_by": {
+      "title": "Cute Sticker Sheet Structure",
+      "source_link": "https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14490"
+    }
+  },
+  {
+    "id": "happy-horse-003",
+    "title": "Happy Horse Storybook Scene",
+    "description": "A warm storybook illustration of a child hugging a happy horse in a flower field.",
+    "prompt": "An enchanting storybook illustration of a smiling child hugging a happy horse in a flower field, with painterly textures, pastel colors, butterflies, drifting petals, soft sunlight, and a wholesome magical mood.",
+    "language": "en",
+    "tags": [
+      "storybook",
+      "wholesome",
+      "children",
+      "illustration"
+    ],
+    "inspired_by": {
+      "title": "Warm Character Hug Scene",
+      "source_link": "https://x.com/mitsuhiro_v01/status/2044938434331189362#reversed-1"
+    }
+  },
+  {
+    "id": "happy-horse-004",
+    "title": "Happy Horse Four Panel Manga",
+    "description": "A cozy four-panel manga about a horse helping friends on a sunny farm.",
+    "prompt": "Create a clean four-panel manga page about a happy horse helping friends on a sunny farm. Show a dropped basket of apples, playful teamwork, smiling animals, and a joyful picnic ending with soft pastel colors and a wholesome slice-of-life tone.",
+    "language": "en",
+    "tags": [
+      "manga",
+      "comic",
+      "farm",
+      "wholesome"
+    ],
+    "inspired_by": {
+      "title": "Four Panel Manga Layout",
+      "source_link": "https://x.com/koyo_koyoy/status/2046594396423143649#reversed-0"
+    }
+  }
+]

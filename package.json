@@ -1,0 +1,10 @@
+{
+  "name": "awesome-happy-horse-prompt",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Awesome-style collection of happy horse prompts",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs"
+  }
+}

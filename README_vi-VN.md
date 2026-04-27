@@ -1,33 +1,33 @@
-# Awesome Happy Horse 1.0 Prompts
+# Tuyen Tap Prompt Happy Horse 1.0
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
 
-> A curated collection of Happy Horse 1.0 prompts sourced from the AtlasCloud prompt ecosystem.
+> Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
-> All prompts are shared for educational and discovery purposes. Open an issue if anything should be removed.
+> Tat ca prompt duoc chia se cho muc dich hoc tap va tra cuu. Neu can go bo noi dung, vui long mo issue.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Current-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-Xem-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Xem-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Xem-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Xem-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Xem-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Xem-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Hien tai-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Xem-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Xem-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Xem-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Xem-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Xem-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Xem-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Xem-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Xem-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Xem-lightgrey)](README_tr-TR.md)
 
 ---
 
-## View in AtlasCloud
+## Xem tren AtlasCloud
 
-- Prompt Library: https://www.atlascloud.ai/vi-VN/happy-horse-1-prompt?locale=vi-VN
-- Model Page: https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683
+- Thu vien Prompt: https://www.atlascloud.ai/happy-horse-1-prompt?locale=en
+- Trang Model: https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683
 
-## Statistics
+## Thong ke
 
-| Metric | Count |
+| Muc | So luong |
 |--------|-------|
-| Total Prompts | **283** |
-| Categories | **12** |
-| Preview Videos | **283** |
-| Last Updated | **2026-04-27T15:20:34.411Z** |
+| Tong so Prompt | **283** |
+| So danh muc | **12** |
+| Video xem truoc | **283** |
+| Cap nhat lan cuoi | **2026-04-27T15:35:14.161Z** |
 
-## Browse by Category
+## Duyet theo danh muc
 
 - [`HappyHorse 创意批次`](#category-1): **90**
 - [`音频与语音合成`](#category-2): **30**
@@ -42,19 +42,19 @@
 - [`音乐卡点同步`](#category-11): **9**
 - [`情绪演绎`](#category-12): **6**
 
-## Featured Prompts
+## Prompt noi bat
 
 ### No. 1: Neon Opera Cathedral
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_001
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。
 
@@ -66,15 +66,15 @@
 
 ### No. 2: Clockwork Tea House
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_002
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。
 
@@ -86,15 +86,15 @@
 
 ### No. 3: Whale Library Sky
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_003
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。
 
@@ -106,15 +106,15 @@
 
 ### No. 4: Volcano Ramen Night
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_004
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。
 
@@ -126,15 +126,15 @@
 
 ### No. 5: Mini Dragon Gardener
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_005
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。
 
@@ -146,15 +146,15 @@
 
 ### No. 6: Desert Mirror Train
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_006
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 
@@ -164,7 +164,7 @@
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 ```
 
-## All Prompts
+## Tat ca Prompt
 
 <a id="category-1"></a>
 
@@ -172,15 +172,15 @@
 
 ### No. 1: Neon Opera Cathedral
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_001
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。
 
@@ -192,15 +192,15 @@
 
 ### No. 2: Clockwork Tea House
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_002
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。
 
@@ -212,15 +212,15 @@
 
 ### No. 3: Whale Library Sky
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_003
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。
 
@@ -232,15 +232,15 @@
 
 ### No. 4: Volcano Ramen Night
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_004
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。
 
@@ -252,15 +252,15 @@
 
 ### No. 5: Mini Dragon Gardener
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_005
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。
 
@@ -272,15 +272,15 @@
 
 ### No. 6: Desert Mirror Train
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_006
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 
@@ -292,15 +292,15 @@
 
 ### No. 7: Moonlight Kite Market
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_007
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_moonlight_kite_market.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_moonlight_kite_market.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。
 
@@ -312,15 +312,15 @@
 
 ### No. 8: Arctic Glass Orchestra
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_008
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_008
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_arctic_glass_orchestra.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_arctic_glass_orchestra.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。
 
@@ -332,15 +332,15 @@
 
 ### No. 9: Robot Farm Harvest
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_009
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_009
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_robot_farm_harvest.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_robot_farm_harvest.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。
 
@@ -352,15 +352,15 @@
 
 ### No. 10: Candy Canyon Race
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_010
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_010
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_candy_canyon_race.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_candy_canyon_race.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。
 
@@ -372,15 +372,15 @@
 
 ### No. 11: Underwater Post Office
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_011
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_011
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_underwater_post_office.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_underwater_post_office.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。
 
@@ -392,15 +392,15 @@
 
 ### No. 12: Mountain Bamboo Drone
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_012
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_012
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_mountain_bamboo_drone.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_mountain_bamboo_drone.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。
 
@@ -412,15 +412,15 @@
 
 ### No. 13: Cyberpunk Paper Lanterns
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_013
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_013
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_cyberpunk_paper_lanterns.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_cyberpunk_paper_lanterns.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。
 
@@ -432,15 +432,15 @@
 
 ### No. 14: Giant Turtle Carnival
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_014
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_014
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_giant_turtle_carnival.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_giant_turtle_carnival.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。
 
@@ -452,15 +452,15 @@
 
 ### No. 15: Samurai Snow Duel
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_015
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_015
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_samurai_snow_duel.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_samurai_snow_duel.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。
 
@@ -472,15 +472,15 @@
 
 ### No. 16: Balloon City Sunrise
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_016
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_016
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_balloon_city_sunrise.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_balloon_city_sunrise.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。
 
@@ -492,15 +492,15 @@
 
 ### No. 17: Forest Piano Ruins
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_017
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_017
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_forest_piano_ruins.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_forest_piano_ruins.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。
 
@@ -512,15 +512,15 @@
 
 ### No. 18: Mars Street Food
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_018
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_018
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_mars_street_food.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_mars_street_food.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。
 
@@ -532,15 +532,15 @@
 
 ### No. 19: Rainy Tokyo Bicycle
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_019
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_019
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_rainy_tokyo_bicycle.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_rainy_tokyo_bicycle.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。
 
@@ -552,15 +552,15 @@
 
 ### No. 20: Ancient Astronomy Tower
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_020
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_020
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ancient_astronomy_tower.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ancient_astronomy_tower.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。
 
@@ -572,15 +572,15 @@
 
 ### No. 21: Jungle Mech Elephant
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_021
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_021
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_jungle_mech_elephant.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_jungle_mech_elephant.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。
 
@@ -592,15 +592,15 @@
 
 ### No. 22: Ice Cream Galaxy
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_022
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_022
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ice_cream_galaxy.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ice_cream_galaxy.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。
 
@@ -612,15 +612,15 @@
 
 ### No. 23: Shadow Puppet Metropolis
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_023
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_023
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_shadow_puppet_metropolis.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_shadow_puppet_metropolis.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。
 
@@ -632,15 +632,15 @@
 
 ### No. 24: Subway Jazz Morning
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_024
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_024
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_subway_jazz_morning.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_subway_jazz_morning.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
 
@@ -652,15 +652,15 @@
 
 ### No. 25: Temple Of Wind Chimes
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_025
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_025
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_temple_of_wind_chimes.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_temple_of_wind_chimes.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。
 
@@ -672,15 +672,15 @@
 
 ### No. 26: Midnight Bookstore Portal
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_026
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_026
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_midnight_bookstore_portal.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_midnight_bookstore_portal.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。
 
@@ -692,15 +692,15 @@
 
 ### No. 27: Festival Of Fireflies
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_027
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_027
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_festival_of_fireflies.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_festival_of_fireflies.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。
 
@@ -712,15 +712,15 @@
 
 ### No. 28: Gravity Free Workshop
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_028
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_028
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_gravity_free_workshop.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_gravity_free_workshop.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。
 
@@ -732,15 +732,15 @@
 
 ### No. 29: Rainforest Glass Frog
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_029
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_029
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_rainforest_glass_frog.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_rainforest_glass_frog.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。
 
@@ -752,15 +752,15 @@
 
 ### No. 30: Solar Wind Surfers
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_030
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_030
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_solar_wind_surfers.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_solar_wind_surfers.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。
 
@@ -772,15 +772,15 @@
 
 ### No. 31: Neon Opera Cathedral V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。
 
@@ -792,15 +792,15 @@
 
 ### No. 32: Clockwork Tea House V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。
 
@@ -812,15 +812,15 @@
 
 ### No. 33: Whale Library Sky V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。
 
@@ -832,15 +832,15 @@
 
 ### No. 34: Volcano Ramen Night V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。
 
@@ -852,15 +852,15 @@
 
 ### No. 35: Mini Dragon Gardener V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。
 
@@ -872,15 +872,15 @@
 
 ### No. 36: Desert Mirror Train V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 
@@ -892,15 +892,15 @@
 
 ### No. 37: Moonlight Kite Market V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。
 
@@ -912,15 +912,15 @@
 
 ### No. 38: Arctic Glass Orchestra V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_008_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_008_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。
 
@@ -932,15 +932,15 @@
 
 ### No. 39: Robot Farm Harvest V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_009_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_009_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。
 
@@ -952,15 +952,15 @@
 
 ### No. 40: Candy Canyon Race V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_010_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_010_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。
 
@@ -972,15 +972,15 @@
 
 ### No. 41: Underwater Post Office V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_011_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_011_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。
 
@@ -992,15 +992,15 @@
 
 ### No. 42: Mountain Bamboo Drone V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_012_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_012_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。
 
@@ -1012,15 +1012,15 @@
 
 ### No. 43: Cyberpunk Paper Lanterns V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_013_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_013_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。
 
@@ -1032,15 +1032,15 @@
 
 ### No. 44: Giant Turtle Carnival V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_014_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_014_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。
 
@@ -1052,15 +1052,15 @@
 
 ### No. 45: Samurai Snow Duel V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_015_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_015_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。
 
@@ -1072,15 +1072,15 @@
 
 ### No. 46: Balloon City Sunrise V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_016_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_016_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。
 
@@ -1092,15 +1092,15 @@
 
 ### No. 47: Forest Piano Ruins V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_017_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_017_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。
 
@@ -1112,15 +1112,15 @@
 
 ### No. 48: Mars Street Food V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_018_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_018_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。
 
@@ -1132,15 +1132,15 @@
 
 ### No. 49: Rainy Tokyo Bicycle V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_019_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_019_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。
 
@@ -1152,15 +1152,15 @@
 
 ### No. 50: Ancient Astronomy Tower V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_020_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_020_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。
 
@@ -1172,15 +1172,15 @@
 
 ### No. 51: Jungle Mech Elephant V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_021_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_021_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。
 
@@ -1192,15 +1192,15 @@
 
 ### No. 52: Ice Cream Galaxy V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_022_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_022_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。
 
@@ -1212,15 +1212,15 @@
 
 ### No. 53: Shadow Puppet Metropolis V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_023_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_023_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。
 
@@ -1232,15 +1232,15 @@
 
 ### No. 54: Subway Jazz Morning V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_024_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_024_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
 
@@ -1252,15 +1252,15 @@
 
 ### No. 55: Temple Of Wind Chimes V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_025_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_025_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。
 
@@ -1272,15 +1272,15 @@
 
 ### No. 56: Midnight Bookstore Portal V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_026_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_026_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。
 
@@ -1292,15 +1292,15 @@
 
 ### No. 57: Festival Of Fireflies V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_027_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_027_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。
 
@@ -1312,15 +1312,15 @@
 
 ### No. 58: Gravity Free Workshop V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_028_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_028_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。
 
@@ -1332,15 +1332,15 @@
 
 ### No. 59: Rainforest Glass Frog V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_029_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_029_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。
 
@@ -1352,15 +1352,15 @@
 
 ### No. 60: Solar Wind Surfers V2
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_030_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_030_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。
 
@@ -1372,15 +1372,15 @@
 
 ### No. 61: Neon Opera Cathedral V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。
 
@@ -1392,15 +1392,15 @@
 
 ### No. 62: Clockwork Tea House V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。
 
@@ -1412,15 +1412,15 @@
 
 ### No. 63: Whale Library Sky V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。
 
@@ -1432,15 +1432,15 @@
 
 ### No. 64: Volcano Ramen Night V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。
 
@@ -1452,15 +1452,15 @@
 
 ### No. 65: Mini Dragon Gardener V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。
 
@@ -1472,15 +1472,15 @@
 
 ### No. 66: Desert Mirror Train V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 
@@ -1492,15 +1492,15 @@
 
 ### No. 67: Moonlight Kite Market V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_007_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_007_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。
 
@@ -1512,15 +1512,15 @@
 
 ### No. 68: Arctic Glass Orchestra V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_008_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_008_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。
 
@@ -1532,15 +1532,15 @@
 
 ### No. 69: Robot Farm Harvest V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_009_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_009_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。
 
@@ -1552,15 +1552,15 @@
 
 ### No. 70: Candy Canyon Race V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_010_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_010_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。
 
@@ -1572,15 +1572,15 @@
 
 ### No. 71: Underwater Post Office V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_011_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_011_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。
 
@@ -1592,15 +1592,15 @@
 
 ### No. 72: Mountain Bamboo Drone V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_012_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_012_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。
 
@@ -1612,15 +1612,15 @@
 
 ### No. 73: Cyberpunk Paper Lanterns V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_013_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_013_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。
 
@@ -1632,15 +1632,15 @@
 
 ### No. 74: Giant Turtle Carnival V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_014_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_014_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。
 
@@ -1652,15 +1652,15 @@
 
 ### No. 75: Samurai Snow Duel V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_015_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_015_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。
 
@@ -1672,15 +1672,15 @@
 
 ### No. 76: Balloon City Sunrise V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_016_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_016_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。
 
@@ -1692,15 +1692,15 @@
 
 ### No. 77: Forest Piano Ruins V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_017_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_017_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。
 
@@ -1712,15 +1712,15 @@
 
 ### No. 78: Mars Street Food V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_018_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_018_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。
 
@@ -1732,15 +1732,15 @@
 
 ### No. 79: Rainy Tokyo Bicycle V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_019_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_019_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。
 
@@ -1752,15 +1752,15 @@
 
 ### No. 80: Ancient Astronomy Tower V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_020_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_020_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。
 
@@ -1772,15 +1772,15 @@
 
 ### No. 81: Jungle Mech Elephant V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_021_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_021_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。
 
@@ -1792,15 +1792,15 @@
 
 ### No. 82: Ice Cream Galaxy V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_022_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_022_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。
 
@@ -1812,15 +1812,15 @@
 
 ### No. 83: Shadow Puppet Metropolis V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_023_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_023_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。
 
@@ -1832,15 +1832,15 @@
 
 ### No. 84: Subway Jazz Morning V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_024_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_024_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
 
@@ -1852,15 +1852,15 @@
 
 ### No. 85: Temple Of Wind Chimes V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_025_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_025_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。
 
@@ -1872,15 +1872,15 @@
 
 ### No. 86: Midnight Bookstore Portal V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_026_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_026_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。
 
@@ -1892,15 +1892,15 @@
 
 ### No. 87: Festival Of Fireflies V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_027_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_027_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。
 
@@ -1912,15 +1912,15 @@
 
 ### No. 88: Gravity Free Workshop V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_028_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_028_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。
 
@@ -1932,15 +1932,15 @@
 
 ### No. 89: Rainforest Glass Frog V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_029_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_029_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。
 
@@ -1952,15 +1952,15 @@
 
 ### No. 90: Solar Wind Surfers V3
 
-- **Category:** `HappyHorse 创意批次`
-- **Source:** `official`
-- **Author:** hh_030_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `HappyHorse 创意批次`
+- **Nguon:** `official`
+- **Tac gia:** hh_030_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。
 
@@ -1976,15 +1976,15 @@
 
 ### No. 1: 鱼眼镜头搞笑马
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_001
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/33_av_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/33_av_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用鱼眼镜头拍摄搞笑的马匹场景，配合夸张的音效。
 
@@ -1996,15 +1996,15 @@
 
 ### No. 2: 办公楼纪录片
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_002
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/34_av_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/34_av_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格介绍办公楼，配合专业旁白。
 
@@ -2016,15 +2016,15 @@
 
 ### No. 3: 猫狗吐槽大战
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_003
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/35_av_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/35_av_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 猫和狗之间的搞笑吐槽对话，充满幽默感。
 
@@ -2036,15 +2036,15 @@
 
 ### No. 4: 中国戏曲表演
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_004
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/36_av_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/36_av_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示中国传统戏曲表演，配合经典唱腔。
 
@@ -2056,15 +2056,15 @@
 
 ### No. 5: 电影感公路旅行 MV
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_005
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/37_av_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/37_av_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 电影质感的公路旅行音乐视频，配合原创音乐。
 
@@ -2076,15 +2076,15 @@
 
 ### No. 6: 多元文化家庭庆典
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_006
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/38_av_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/38_av_006.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示多元文化家庭的节日庆典场景。
 
@@ -2096,15 +2096,15 @@
 
 ### No. 7: 战术小队西班牙语简报
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_007
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/39_av_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/39_av_007.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 战术小队用西班牙语进行任务简报的场景。
 
@@ -2116,15 +2116,15 @@
 
 ### No. 8: 早晨叫醒对话
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_008
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_008
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/40_av_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/40_av_008.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的早晨叫醒对话场景，展示自然的语音交互。
 
@@ -2136,15 +2136,15 @@
 
 ### No. 9: 四川话奶茶对话
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_009
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_009
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/41_av_009.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/41_av_009.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用四川方言进行的搞笑奶茶店对话。
 
@@ -2156,15 +2156,15 @@
 
 ### No. 10: 西游记故事讲述
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_010
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_010
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/42_av_010.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/42_av_010.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以西游记为主题的故事讲述视频。
 
@@ -2176,15 +2176,15 @@
 
 ### No. 11: 鱼眼镜头搞笑马 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用鱼眼镜头拍摄搞笑的马匹场景，配合夸张的音效。
 
@@ -2196,15 +2196,15 @@
 
 ### No. 12: 办公楼纪录片 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格介绍办公楼，配合专业旁白。
 
@@ -2216,15 +2216,15 @@
 
 ### No. 13: 猫狗吐槽大战 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 猫和狗之间的搞笑吐槽对话，充满幽默感。
 
@@ -2236,15 +2236,15 @@
 
 ### No. 14: 中国戏曲表演 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示中国传统戏曲表演，配合经典唱腔。
 
@@ -2256,15 +2256,15 @@
 
 ### No. 15: 电影感公路旅行 MV V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 电影质感的公路旅行音乐视频，配合原创音乐。
 
@@ -2276,15 +2276,15 @@
 
 ### No. 16: 多元文化家庭庆典 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示多元文化家庭的节日庆典场景。
 
@@ -2296,15 +2296,15 @@
 
 ### No. 17: 战术小队西班牙语简报 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 战术小队用西班牙语进行任务简报的场景。
 
@@ -2316,15 +2316,15 @@
 
 ### No. 18: 早晨叫醒对话 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_008_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_008_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的早晨叫醒对话场景，展示自然的语音交互。
 
@@ -2336,15 +2336,15 @@
 
 ### No. 19: 四川话奶茶对话 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_009_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_009_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用四川方言进行的搞笑奶茶店对话。
 
@@ -2356,15 +2356,15 @@
 
 ### No. 20: 西游记故事讲述 V2
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_010_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_010_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以西游记为主题的故事讲述视频。
 
@@ -2376,15 +2376,15 @@
 
 ### No. 21: 鱼眼镜头搞笑马 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用鱼眼镜头拍摄搞笑的马匹场景，配合夸张的音效。
 
@@ -2396,15 +2396,15 @@
 
 ### No. 22: 办公楼纪录片 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格介绍办公楼，配合专业旁白。
 
@@ -2416,15 +2416,15 @@
 
 ### No. 23: 猫狗吐槽大战 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 猫和狗之间的搞笑吐槽对话，充满幽默感。
 
@@ -2436,15 +2436,15 @@
 
 ### No. 24: 中国戏曲表演 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示中国传统戏曲表演，配合经典唱腔。
 
@@ -2456,15 +2456,15 @@
 
 ### No. 25: 电影感公路旅行 MV V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 电影质感的公路旅行音乐视频，配合原创音乐。
 
@@ -2476,15 +2476,15 @@
 
 ### No. 26: 多元文化家庭庆典 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示多元文化家庭的节日庆典场景。
 
@@ -2496,15 +2496,15 @@
 
 ### No. 27: 战术小队西班牙语简报 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_007_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_007_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 战术小队用西班牙语进行任务简报的场景。
 
@@ -2516,15 +2516,15 @@
 
 ### No. 28: 早晨叫醒对话 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_008_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_008_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的早晨叫醒对话场景，展示自然的语音交互。
 
@@ -2536,15 +2536,15 @@
 
 ### No. 29: 四川话奶茶对话 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_009_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_009_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 用四川方言进行的搞笑奶茶店对话。
 
@@ -2556,15 +2556,15 @@
 
 ### No. 30: 西游记故事讲述 V3
 
-- **Category:** `音频与语音合成`
-- **Source:** `official`
-- **Author:** av_010_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音频与语音合成`
+- **Nguon:** `official`
+- **Tac gia:** av_010_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以西游记为主题的故事讲述视频。
 
@@ -2580,15 +2580,15 @@
 
 ### No. 1: VR 眼镜宇宙穿越
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_001
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_ce_001_vr.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_ce_001_vr.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过 VR 眼镜进入不同的数字世界，展示奇幻的宇宙穿越特效。
 
@@ -2600,15 +2600,15 @@
 
 ### No. 2: 时尚快速换装广告
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_002
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_ce_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_ce_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 模特快速换装的时尚广告，展示流畅的转场特效。
 
@@ -2620,15 +2620,15 @@
 
 ### No. 3: 羽绒服天鹅隐喻
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_003
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ce_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ce_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将羽绒服与天鹅进行创意隐喻，展示产品的轻盈质感。
 
@@ -2640,15 +2640,15 @@
 
 ### No. 4: 水墨风太极
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_004
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_ce_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_ce_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将太极动作与水墨画风格结合，营造东方美学视觉效果。
 
@@ -2660,15 +2660,15 @@
 
 ### No. 5: 魔法变身序列
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_005
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ce_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ce_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示角色的魔法变身过程，包含华丽的特效转场。
 
@@ -2680,15 +2680,15 @@
 
 ### No. 6: 拼图碎片转场 Logo
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_006
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_ce_006_logo.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_ce_006_logo.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以拼图碎片的方式进行创意转场，最终呈现品牌 Logo。
 
@@ -2700,15 +2700,15 @@
 
 ### No. 7: 金色粒子标题揭示
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_007
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_ce_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_ce_007.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 金色粒子汇聚形成标题文字的揭示特效。
 
@@ -2720,15 +2720,15 @@
 
 ### No. 8: 抽象泡面创意
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_008
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_008
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_ce_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_ce_008.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以抽象艺术风格展示泡面制作过程的创意视频。
 
@@ -2740,15 +2740,15 @@
 
 ### No. 9: VR 眼镜宇宙穿越 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过 VR 眼镜进入不同的数字世界，展示奇幻的宇宙穿越特效。
 
@@ -2760,15 +2760,15 @@
 
 ### No. 10: 时尚快速换装广告 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 模特快速换装的时尚广告，展示流畅的转场特效。
 
@@ -2780,15 +2780,15 @@
 
 ### No. 11: 羽绒服天鹅隐喻 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将羽绒服与天鹅进行创意隐喻，展示产品的轻盈质感。
 
@@ -2800,15 +2800,15 @@
 
 ### No. 12: 水墨风太极 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将太极动作与水墨画风格结合，营造东方美学视觉效果。
 
@@ -2820,15 +2820,15 @@
 
 ### No. 13: 魔法变身序列 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示角色的魔法变身过程，包含华丽的特效转场。
 
@@ -2840,15 +2840,15 @@
 
 ### No. 14: 拼图碎片转场 Logo V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以拼图碎片的方式进行创意转场，最终呈现品牌 Logo。
 
@@ -2860,15 +2860,15 @@
 
 ### No. 15: 金色粒子标题揭示 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 金色粒子汇聚形成标题文字的揭示特效。
 
@@ -2880,15 +2880,15 @@
 
 ### No. 16: 抽象泡面创意 V2
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_008_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_008_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以抽象艺术风格展示泡面制作过程的创意视频。
 
@@ -2900,15 +2900,15 @@
 
 ### No. 17: VR 眼镜宇宙穿越 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过 VR 眼镜进入不同的数字世界，展示奇幻的宇宙穿越特效。
 
@@ -2920,15 +2920,15 @@
 
 ### No. 18: 时尚快速换装广告 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 模特快速换装的时尚广告，展示流畅的转场特效。
 
@@ -2940,15 +2940,15 @@
 
 ### No. 19: 羽绒服天鹅隐喻 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将羽绒服与天鹅进行创意隐喻，展示产品的轻盈质感。
 
@@ -2960,15 +2960,15 @@
 
 ### No. 20: 水墨风太极 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将太极动作与水墨画风格结合，营造东方美学视觉效果。
 
@@ -2980,15 +2980,15 @@
 
 ### No. 21: 魔法变身序列 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展示角色的魔法变身过程，包含华丽的特效转场。
 
@@ -3000,15 +3000,15 @@
 
 ### No. 22: 拼图碎片转场 Logo V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以拼图碎片的方式进行创意转场，最终呈现品牌 Logo。
 
@@ -3020,15 +3020,15 @@
 
 ### No. 23: 金色粒子标题揭示 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_007_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_007_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 金色粒子汇聚形成标题文字的揭示特效。
 
@@ -3040,15 +3040,15 @@
 
 ### No. 24: 抽象泡面创意 V3
 
-- **Category:** `创意视觉特效`
-- **Source:** `official`
-- **Author:** ce_008_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `创意视觉特效`
+- **Nguon:** `official`
+- **Tac gia:** ce_008_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以抽象艺术风格展示泡面制作过程的创意视频。
 
@@ -3064,15 +3064,15 @@
 
 ### No. 1: 5分钟生成1分钟电影级战争视频，4个镜头结构
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_001
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/60_tw_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/60_tw_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 5分钟生成1分钟电影级战争视频，4个镜头结构。逼真的中东沙漠村庄步兵战斗场景。
 
@@ -3084,15 +3084,15 @@
 
 ### No. 2: 燃烧军车的城市战争航拍镜头
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_003
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/61_tw_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/61_tw_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 电影级无人机镜头捕捉城市战斗的余波。展示 Seedance 2.0 生成逼真战争场景的能力，包含详细的破坏效果和氛围渲染。
 
@@ -3104,15 +3104,15 @@
 
 ### No. 3: Will Smith 吃意大利面
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_004
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/62_tw_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/62_tw_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 Will Smith 在现代家庭厨房里吃意大利面。
 
@@ -3124,15 +3124,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 4: 女性控制飞机的复杂动作场景快速测试
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_007
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/63_tw_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/63_tw_007.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 女性突然意识到飞行员消失，在危机中控制飞机。
 
@@ -3144,15 +3144,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 5: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_008
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_008
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/64_tw_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/64_tw_008.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜头结构。
 
@@ -3164,15 +3164,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 6: 仅用3张参考图和简单提示词生成多镜头打斗场景
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_009
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_009
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/65_tw_009.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/65_tw_009.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 现代城市环境中两名女性之间的激烈武术打斗场景。
 
@@ -3184,15 +3184,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 7: 超越原版动画质量的一拳超人动画
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_016
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_016
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/66_tw_016.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/66_tw_016.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 超越原版动画质量的一拳超人动画。展示 Seedance 2.0 的动画制作能力。
 
@@ -3204,15 +3204,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 8: Will Smith 吃意大利面
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_018
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_018
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/67_tw_018.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/67_tw_018.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 Will Smith 在现代家庭厨房里吃意大利面。
 
@@ -3224,15 +3224,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 9: 水獭进入大型机甲的动画场景，包含详细机械镜头
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_021
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_021
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/68_tw_021.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/68_tw_021.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 水獭进入大型机甲的动画场景，包含详细机械镜头。展示创意叙事能力。
 
@@ -3244,15 +3244,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 10: 单个提示词生成的南印度电影外星人场景
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_022
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_022
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/69_tw_022.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/69_tw_022.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 单个提示词生成的南印度电影外星人场景。展示跨文化电影制作能力。
 
@@ -3264,15 +3264,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 11: 士兵穿越沙漠地形的地面战斗镜头
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_024
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_024
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/70_tw_024.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/70_tw_024.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 军事小队行进的紧张第一人称视角。展示逼真的战术移动和环境细节。
 
@@ -3284,15 +3284,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 12: 5分钟生成1分钟电影级战争视频，4个镜头结构 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 5分钟生成1分钟电影级战争视频，4个镜头结构。逼真的中东沙漠村庄步兵战斗场景。
 
@@ -3304,15 +3304,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 13: 燃烧军车的城市战争航拍镜头 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 电影级无人机镜头捕捉城市战斗的余波。展示 Seedance 2.0 生成逼真战争场景的能力，包含详细的破坏效果和氛围渲染。
 
@@ -3324,15 +3324,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 14: Will Smith 吃意大利面 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 Will Smith 在现代家庭厨房里吃意大利面。
 
@@ -3344,15 +3344,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 15: 女性控制飞机的复杂动作场景快速测试 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 女性突然意识到飞行员消失，在危机中控制飞机。
 
@@ -3364,15 +3364,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 16: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_008_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_008_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜头结构。
 
@@ -3384,15 +3384,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 17: 仅用3张参考图和简单提示词生成多镜头打斗场景 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_009_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_009_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 现代城市环境中两名女性之间的激烈武术打斗场景。
 
@@ -3404,15 +3404,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 18: 超越原版动画质量的一拳超人动画 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_016_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_016_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 超越原版动画质量的一拳超人动画。展示 Seedance 2.0 的动画制作能力。
 
@@ -3424,15 +3424,15 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 19: Will Smith 吃意大利面 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_018_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_018_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 Will Smith 在现代家庭厨房里吃意大利面。
 
@@ -3444,15 +3444,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 20: 水獭进入大型机甲的动画场景，包含详细机械镜头 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_021_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_021_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 水獭进入大型机甲的动画场景，包含详细机械镜头。展示创意叙事能力。
 
@@ -3464,15 +3464,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 21: 单个提示词生成的南印度电影外星人场景 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_022_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_022_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 单个提示词生成的南印度电影外星人场景。展示跨文化电影制作能力。
 
@@ -3484,15 +3484,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 22: 士兵穿越沙漠地形的地面战斗镜头 V2
 
-- **Category:** `Twitter 社区`
-- **Source:** `twitter`
-- **Author:** tw_024_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `Twitter 社区`
+- **Nguon:** `twitter`
+- **Tac gia:** tw_024_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 军事小队行进的紧张第一人称视角。展示逼真的战术移动和环境细节。
 
@@ -3508,15 +3508,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 1: 漫画分格动画化
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_001
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_ne_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_ne_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将静态漫画分格转化为动态动画，赋予漫画生命力。
 
@@ -3528,15 +3528,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 2: 童年四季纪录片
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_002
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_ne_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_ne_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格记录童年四季的美好时光。
 
@@ -3548,15 +3548,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 3: 情感旅程视频
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_003
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_ne_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_ne_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过多个场景串联展现一段情感旅程。
 
@@ -3568,15 +3568,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 4: 驴子摩托车特技广告
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_004
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_ne_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_ne_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 幽默的驴子骑摩托车特技广告，充满创意和趣味。
 
@@ -3588,15 +3588,15 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 5: 健身激励广告
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_005
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_ne_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_ne_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 充满动力的健身激励广告，展示运动服饰和品牌。
 
@@ -3608,15 +3608,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 咖啡晨间广告
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_006
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/31_ne_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/31_ne_006.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的咖啡晨间广告，展示咖啡制作和品牌故事。
 
@@ -3628,15 +3628,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 向日葵滑板故事
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_007
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/32_ne_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/32_ne_007.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以向日葵和滑板为主题的创意故事视频。
 
@@ -3648,15 +3648,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 漫画分格动画化 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将静态漫画分格转化为动态动画，赋予漫画生命力。
 
@@ -3668,15 +3668,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 童年四季纪录片 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格记录童年四季的美好时光。
 
@@ -3688,15 +3688,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 情感旅程视频 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过多个场景串联展现一段情感旅程。
 
@@ -3708,15 +3708,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 驴子摩托车特技广告 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 幽默的驴子骑摩托车特技广告，充满创意和趣味。
 
@@ -3728,15 +3728,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 健身激励广告 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 充满动力的健身激励广告，展示运动服饰和品牌。
 
@@ -3748,15 +3748,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 咖啡晨间广告 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的咖啡晨间广告，展示咖啡制作和品牌故事。
 
@@ -3768,15 +3768,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 向日葵滑板故事 V2
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以向日葵和滑板为主题的创意故事视频。
 
@@ -3788,15 +3788,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 漫画分格动画化 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将静态漫画分格转化为动态动画，赋予漫画生命力。
 
@@ -3808,15 +3808,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 童年四季纪录片 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以纪录片风格记录童年四季的美好时光。
 
@@ -3828,15 +3828,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 情感旅程视频 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 通过多个场景串联展现一段情感旅程。
 
@@ -3848,15 +3848,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 驴子摩托车特技广告 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 幽默的驴子骑摩托车特技广告，充满创意和趣味。
 
@@ -3868,15 +3868,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 19: 健身激励广告 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 充满动力的健身激励广告，展示运动服饰和品牌。
 
@@ -3888,15 +3888,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 20: 咖啡晨间广告 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 温馨的咖啡晨间广告，展示咖啡制作和品牌故事。
 
@@ -3908,15 +3908,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 21: 向日葵滑板故事 V3
 
-- **Category:** `剧情发展与延伸`
-- **Source:** `official`
-- **Author:** ne_007_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `剧情发展与延伸`
+- **Nguon:** `official`
+- **Tac gia:** ne_007_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以向日葵和滑板为主题的创意故事视频。
 
@@ -3932,15 +3932,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 电梯中的希区柯克变焦
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_001
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在电梯场景中运用经典的希区柯克变焦技法，营造紧张悬疑的视觉效果。
 
@@ -3952,15 +3952,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 复杂走廊追逐
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_002
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在走廊中进行复杂的追逐场景拍摄，展示多角度镜头切换和动态跟踪。
 
@@ -3972,15 +3972,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 旋转平板展示
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_003
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以旋转运镜展示平板产品，结合聚焦和环绕拍摄技巧。
 
@@ -3992,15 +3992,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 节奏感推拉舞蹈运镜
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_004
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_ac_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_ac_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合舞蹈节奏进行推拉运镜，营造动感十足的视觉效果。
 
@@ -4012,15 +4012,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 武术格斗场景
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_005
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_ac_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_ac_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 拍摄激烈的武术格斗场景，展示动作捕捉和多角色互动。
 
@@ -4032,15 +4032,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 史诗奇幻战斗
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_006
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_ac_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_ac_006.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展现宏大的奇幻战斗场景，结合特效和电影级运镜。
 
@@ -4052,15 +4052,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 汽车广告运镜
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_007
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_007
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_ac_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_ac_007.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 专业的汽车广告拍摄运镜，展示车辆动态和环境融合。
 
@@ -4072,15 +4072,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 电梯中的希区柯克变焦 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在电梯场景中运用经典的希区柯克变焦技法，营造紧张悬疑的视觉效果。
 
@@ -4092,15 +4092,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 复杂走廊追逐 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在走廊中进行复杂的追逐场景拍摄，展示多角度镜头切换和动态跟踪。
 
@@ -4112,15 +4112,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 旋转平板展示 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以旋转运镜展示平板产品，结合聚焦和环绕拍摄技巧。
 
@@ -4132,15 +4132,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 节奏感推拉舞蹈运镜 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合舞蹈节奏进行推拉运镜，营造动感十足的视觉效果。
 
@@ -4152,15 +4152,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 武术格斗场景 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 拍摄激烈的武术格斗场景，展示动作捕捉和多角色互动。
 
@@ -4172,15 +4172,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 史诗奇幻战斗 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展现宏大的奇幻战斗场景，结合特效和电影级运镜。
 
@@ -4192,15 +4192,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 汽车广告运镜 V2
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_007_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_007_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 专业的汽车广告拍摄运镜，展示车辆动态和环境融合。
 
@@ -4212,15 +4212,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 电梯中的希区柯克变焦 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在电梯场景中运用经典的希区柯克变焦技法，营造紧张悬疑的视觉效果。
 
@@ -4232,15 +4232,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 复杂走廊追逐 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在走廊中进行复杂的追逐场景拍摄，展示多角度镜头切换和动态跟踪。
 
@@ -4252,15 +4252,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 旋转平板展示 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以旋转运镜展示平板产品，结合聚焦和环绕拍摄技巧。
 
@@ -4272,15 +4272,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 节奏感推拉舞蹈运镜 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合舞蹈节奏进行推拉运镜，营造动感十足的视觉效果。
 
@@ -4292,15 +4292,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 19: 武术格斗场景 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 拍摄激烈的武术格斗场景，展示动作捕捉和多角色互动。
 
@@ -4312,15 +4312,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 20: 史诗奇幻战斗 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 展现宏大的奇幻战斗场景，结合特效和电影级运镜。
 
@@ -4332,15 +4332,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 21: 汽车广告运镜 V3
 
-- **Category:** `高级运镜动作`
-- **Source:** `official`
-- **Author:** ac_007_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `高级运镜动作`
+- **Nguon:** `official`
+- **Tac gia:** ac_007_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 专业的汽车广告拍摄运镜，展示车辆动态和环境融合。
 
@@ -4356,15 +4356,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 下班回家路上
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_001
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一个连贯的叙述，从办公室走廊到家中，保持角色的一致性，包含情感的转换和家庭互动。
 
@@ -4376,15 +4376,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 歌剧舞台变革
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_002
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在保持参考视频中的摄像机运动和过渡效果的同时进行角色替换。
 
@@ -4396,15 +4396,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 一镜到底无缝切换
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_003
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 复杂的长镜头拍摄，包含多次场景转换，始终保持视觉连贯性。
 
@@ -4416,15 +4416,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 磁性弓产品展示
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_004
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 具有品牌一致性和多场景展示的韩国产品广告。
 
@@ -4436,15 +4436,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 奢侈手袋广告
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_005
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 产品展示在多个参考图像之间保持细节一致性。
 
@@ -4456,15 +4456,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 恐怖第一人称探索
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_006
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_006
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 第一人称视角，在多个环境中保持场景一致性。
 
@@ -4476,15 +4476,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 下班回家路上 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一个连贯的叙述，从办公室走廊到家中，保持角色的一致性，包含情感的转换和家庭互动。
 
@@ -4496,15 +4496,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 歌剧舞台变革 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在保持参考视频中的摄像机运动和过渡效果的同时进行角色替换。
 
@@ -4516,15 +4516,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 一镜到底无缝切换 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 复杂的长镜头拍摄，包含多次场景转换，始终保持视觉连贯性。
 
@@ -4536,15 +4536,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 磁性弓产品展示 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 具有品牌一致性和多场景展示的韩国产品广告。
 
@@ -4556,15 +4556,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 奢侈手袋广告 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 产品展示在多个参考图像之间保持细节一致性。
 
@@ -4576,15 +4576,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 恐怖第一人称探索 V2
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_006_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_006_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 第一人称视角，在多个环境中保持场景一致性。
 
@@ -4596,15 +4596,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 下班回家路上 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一个连贯的叙述，从办公室走廊到家中，保持角色的一致性，包含情感的转换和家庭互动。
 
@@ -4616,15 +4616,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 歌剧舞台变革 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在保持参考视频中的摄像机运动和过渡效果的同时进行角色替换。
 
@@ -4636,15 +4636,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 一镜到底无缝切换 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 复杂的长镜头拍摄，包含多次场景转换，始终保持视觉连贯性。
 
@@ -4656,15 +4656,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 磁性弓产品展示 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 具有品牌一致性和多场景展示的韩国产品广告。
 
@@ -4676,15 +4676,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 奢侈手袋广告 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 产品展示在多个参考图像之间保持细节一致性。
 
@@ -4696,15 +4696,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 恐怖第一人称探索 V3
 
-- **Category:** `角色与场景一致性`
-- **Source:** `official`
-- **Author:** cs_006_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `角色与场景一致性`
+- **Nguon:** `official`
+- **Tac gia:** cs_006_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 第一人称视角，在多个环境中保持场景一致性。
 
@@ -4720,15 +4720,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 跑酷追逐长镜头
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_001
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/43_ot_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/43_ot_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的跑酷追逐场景，穿越多个场景。
 
@@ -4740,15 +4740,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 飞机窗外冰淇淋梦境
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_002
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/44_ot_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/44_ot_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 从飞机窗外开始的梦幻冰淇淋场景，一镜到底。
 
@@ -4760,15 +4760,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 间谍悬疑跟踪
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_003
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/45_ot_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/45_ot_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的间谍悬疑跟踪场景，充满紧张感。
 
@@ -4780,15 +4780,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 温馨小屋品茶时光
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_004
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/46_ot_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/46_ot_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底展示温馨小屋中的品茶时光。
 
@@ -4800,15 +4800,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 过山车第一人称视角
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_005
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/47_ot_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/47_ot_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以第一人称视角体验过山车的刺激旅程。
 
@@ -4820,15 +4820,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 跑酷追逐长镜头 V2
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的跑酷追逐场景，穿越多个场景。
 
@@ -4840,15 +4840,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 飞机窗外冰淇淋梦境 V2
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 从飞机窗外开始的梦幻冰淇淋场景，一镜到底。
 
@@ -4860,15 +4860,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 间谍悬疑跟踪 V2
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的间谍悬疑跟踪场景，充满紧张感。
 
@@ -4880,15 +4880,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 温馨小屋品茶时光 V2
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底展示温馨小屋中的品茶时光。
 
@@ -4900,15 +4900,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 过山车第一人称视角 V2
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以第一人称视角体验过山车的刺激旅程。
 
@@ -4920,15 +4920,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 跑酷追逐长镜头 V3
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的跑酷追逐场景，穿越多个场景。
 
@@ -4940,15 +4940,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 飞机窗外冰淇淋梦境 V3
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 从飞机窗外开始的梦幻冰淇淋场景，一镜到底。
 
@@ -4960,15 +4960,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 间谍悬疑跟踪 V3
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底的间谍悬疑跟踪场景，充满紧张感。
 
@@ -4980,15 +4980,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 温馨小屋品茶时光 V3
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一镜到底展示温馨小屋中的品茶时光。
 
@@ -5000,15 +5000,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 过山车第一人称视角 V3
 
-- **Category:** `一镜到底`
-- **Source:** `official`
-- **Author:** ot_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `一镜到底`
+- **Nguon:** `official`
+- **Tac gia:** ot_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以第一人称视角体验过山车的刺激旅程。
 
@@ -5024,15 +5024,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 泰坦尼克号暗黑反转
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_001
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/48_ve_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/48_ve_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将泰坦尼克号经典浪漫场景进行暗黑风格反转。
 
@@ -5044,15 +5044,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 严肃商务变零食交易
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_002
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/49_ve_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/49_ve_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将严肃的商务谈判场景反转为搞笑的零食交易。
 
@@ -5064,15 +5064,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 乐队歌手性别互换
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_003
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/50_ve_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/50_ve_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将乐队表演中的歌手进行性别互换的创意编辑。
 
@@ -5084,15 +5084,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 鲨鱼乱入
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_004
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/51_ve_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/51_ve_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在原始场景中添加鲨鱼元素的搞笑编辑。
 
@@ -5104,15 +5104,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 炸鸡品牌植入
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_005
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_005
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/52_ve_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/52_ve_005.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在餐厅场景中植入炸鸡品牌包装的创意编辑。
 
@@ -5124,15 +5124,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 泰坦尼克号暗黑反转 V2
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将泰坦尼克号经典浪漫场景进行暗黑风格反转。
 
@@ -5144,15 +5144,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 严肃商务变零食交易 V2
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将严肃的商务谈判场景反转为搞笑的零食交易。
 
@@ -5164,15 +5164,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 乐队歌手性别互换 V2
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将乐队表演中的歌手进行性别互换的创意编辑。
 
@@ -5184,15 +5184,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 鲨鱼乱入 V2
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在原始场景中添加鲨鱼元素的搞笑编辑。
 
@@ -5204,15 +5204,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 炸鸡品牌植入 V2
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_005_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_005_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在餐厅场景中植入炸鸡品牌包装的创意编辑。
 
@@ -5224,15 +5224,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 泰坦尼克号暗黑反转 V3
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将泰坦尼克号经典浪漫场景进行暗黑风格反转。
 
@@ -5244,15 +5244,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 严肃商务变零食交易 V3
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将严肃的商务谈判场景反转为搞笑的零食交易。
 
@@ -5264,15 +5264,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 乐队歌手性别互换 V3
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 将乐队表演中的歌手进行性别互换的创意编辑。
 
@@ -5284,15 +5284,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 鲨鱼乱入 V3
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在原始场景中添加鲨鱼元素的搞笑编辑。
 
@@ -5304,15 +5304,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 炸鸡品牌植入 V3
 
-- **Category:** `视频编辑与混剪`
-- **Source:** `official`
-- **Author:** ve_005_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `视频编辑与混剪`
+- **Nguon:** `official`
+- **Tac gia:** ve_005_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 在餐厅场景中植入炸鸡品牌包装的创意编辑。
 
@@ -5328,15 +5328,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 优雅的洗衣场景
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_001
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一位女士优雅地晾晒衣物，从篮子里取出另一件衣服，自然地抖动着。
 
@@ -5348,15 +5348,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 互动绘画角色
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_002
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一幅画中的人物活了过来，趁没人注意时偷偷喝可乐，营造出一个幽默的广告场景。
 
@@ -5368,15 +5368,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 维多利亚时代街景
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_003
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场设定在19世纪伦敦的古装剧场景，包含真实的环境细节和人物反应。
 
@@ -5388,15 +5388,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 带有障碍物的追逐场景
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_004
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场激烈的追逐场面，具有逼真的碰撞物理效果和人群恐慌。
 
@@ -5408,15 +5408,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 优雅的洗衣场景 V2
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一位女士优雅地晾晒衣物，从篮子里取出另一件衣服，自然地抖动着。
 
@@ -5428,15 +5428,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 互动绘画角色 V2
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一幅画中的人物活了过来，趁没人注意时偷偷喝可乐，营造出一个幽默的广告场景。
 
@@ -5448,15 +5448,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 维多利亚时代街景 V2
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场设定在19世纪伦敦的古装剧场景，包含真实的环境细节和人物反应。
 
@@ -5468,15 +5468,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 带有障碍物的追逐场景 V2
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场激烈的追逐场面，具有逼真的碰撞物理效果和人群恐慌。
 
@@ -5488,15 +5488,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 优雅的洗衣场景 V3
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一位女士优雅地晾晒衣物，从篮子里取出另一件衣服，自然地抖动着。
 
@@ -5508,15 +5508,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 互动绘画角色 V3
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_002_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_002_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一幅画中的人物活了过来，趁没人注意时偷偷喝可乐，营造出一个幽默的广告场景。
 
@@ -5528,15 +5528,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 维多利亚时代街景 V3
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_003_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_003_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场设定在19世纪伦敦的古装剧场景，包含真实的环境细节和人物反应。
 
@@ -5548,15 +5548,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 带有障碍物的追逐场景 V3
 
-- **Category:** `超逼真视频生成`
-- **Source:** `official`
-- **Author:** ur_004_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `超逼真视频生成`
+- **Nguon:** `official`
+- **Tac gia:** ur_004_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 一场激烈的追逐场面，具有逼真的碰撞物理效果和人群恐慌。
 
@@ -5572,15 +5572,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 时尚节拍卡点
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_001
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/53_ms_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/53_ms_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合音乐节拍展示时尚穿搭的卡点视频。
 
@@ -5592,15 +5592,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 动态人像节拍同步
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_002
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/54_ms_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/54_ms_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 多个人像随音乐节拍动态切换的卡点视频。
 
@@ -5612,15 +5612,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 风景转场音乐视频
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_003
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/55_ms_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/55_ms_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 多个风景场景随音乐节奏转场的 MV。
 
@@ -5632,15 +5632,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 动漫棋局对战分镜
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_004
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_004
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/56_ms_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/56_ms_004.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以动漫风格展示棋局对战的分镜卡点视频。
 
@@ -5652,15 +5652,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 时尚节拍卡点 V2
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合音乐节拍展示时尚穿搭的卡点视频。
 
@@ -5672,15 +5672,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 动态人像节拍同步 V2
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 多个人像随音乐节拍动态切换的卡点视频。
 
@@ -5692,15 +5692,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 风景转场音乐视频 V2
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 多个风景场景随音乐节奏转场的 MV。
 
@@ -5712,15 +5712,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 动漫棋局对战分镜 V2
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_004_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_004_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 以动漫风格展示棋局对战的分镜卡点视频。
 
@@ -5732,15 +5732,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 时尚节拍卡点 V3
 
-- **Category:** `音乐卡点同步`
-- **Source:** `official`
-- **Author:** ms_001_v3
-- **Language:** `zh-CN`
+- **Danh muc:** `音乐卡点同步`
+- **Nguon:** `official`
+- **Tac gia:** ms_001_v3
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 配合音乐节拍展示时尚穿搭的卡点视频。
 
@@ -5756,15 +5756,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 镜前情绪崩溃
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_001
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_001
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/57_ep_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/57_ep_001.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 角色在镜子前经历情绪崩溃的戏剧性表演。
 
@@ -5776,15 +5776,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 烹饪反差喜剧
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_002
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_002
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/58_ep_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/58_ep_002.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 平静烹饪与混乱烹饪的搞笑对比。
 
@@ -5796,15 +5796,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 戏剧性咆哮特写
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_003
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_003
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/59_ep_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/59_ep_003.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 角色戏剧性咆哮的特写镜头，展示强烈情感。
 
@@ -5816,15 +5816,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 镜前情绪崩溃 V2
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_001_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_001_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 角色在镜子前经历情绪崩溃的戏剧性表演。
 
@@ -5836,15 +5836,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 烹饪反差喜剧 V2
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_002_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_002_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 平静烹饪与混乱烹饪的搞笑对比。
 
@@ -5856,15 +5856,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 戏剧性咆哮特写 V2
 
-- **Category:** `情绪演绎`
-- **Source:** `official`
-- **Author:** ep_003_v2
-- **Language:** `zh-CN`
+- **Danh muc:** `情绪演绎`
+- **Nguon:** `official`
+- **Tac gia:** ep_003_v2
+- **Ngon ngu:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Description
+#### Mo ta
 
 角色戏剧性咆哮的特写镜头，展示强烈情感。
 
@@ -5874,21 +5874,21 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 @图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
 ```
 
-## How to Contribute
+## Cach dong gop
 
-Submit a GitHub issue with a complete prompt, category, and preview URL. After approval, the workflow syncs it into the dataset.
+Gui GitHub issue voi prompt, danh muc va URL xem truoc day du. Sau khi duoc duyet, workflow se dong bo vao bo du lieu.
 
-- Issue template: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml
-- Guide: docs/CONTRIBUTING.md
+- Mau Issue: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml
+- Huong dan: docs/CONTRIBUTING.md
 
-## Local Usage
+## Su dung cuc bo
 
 ```bash
 npm run generate
 ```
 
-## License
+## Giay phep
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-04-27T15:20:34.411Z
+> README nay duoc tao tu dong. 2026-04-27T15:35:14.161Z

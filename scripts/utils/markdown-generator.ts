@@ -7,30 +7,48 @@ function buildCategoryAnchor(index: number): string {
   return `category-${index + 1}`;
 }
 
-function getLocalePrefix(locale: string): string {
-  if (locale === "en") return "";
-  if (locale === "zh") return "/zh";
-  return `/${locale}`;
+function resolveAtlasLocale(locale: string): { prefix: string; localeParam: string } {
+  switch (locale) {
+    case "zh":
+      return { prefix: "/zh", localeParam: "zh-CN" };
+    case "zh-TW":
+      return { prefix: "/zh-TW", localeParam: "zh-TW" };
+    case "ja-JP":
+      return { prefix: "/ja", localeParam: "ja" };
+    case "ko-KR":
+      return { prefix: "/ko", localeParam: "ko" };
+    case "es-ES":
+    case "es-419":
+      return { prefix: "/es", localeParam: "es" };
+    case "pt-BR":
+    case "pt-PT":
+      return { prefix: "/pt", localeParam: "pt" };
+    case "de-DE":
+      return { prefix: "/de", localeParam: "de" };
+    case "fr-FR":
+      return { prefix: "/fr", localeParam: "fr" };
+    case "tr-TR":
+      return { prefix: "/tr", localeParam: "tr" };
+    default:
+      return { prefix: "", localeParam: "en" };
+  }
 }
 
 function buildPromptLibraryUrl(locale: string): string {
-  const prefix = getLocalePrefix(locale);
-  const localeParam = locale === "zh" ? "zh-CN" : locale;
+  const { prefix, localeParam } = resolveAtlasLocale(locale);
   return `https://www.atlascloud.ai${prefix}/happy-horse-1-prompt?locale=${localeParam}`;
 }
 
 function buildModelUrl(locale: string): string {
-  if (locale === "zh" || locale === "zh-TW") {
-    return "https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683";
-  }
-  return "https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683";
+  const { prefix } = resolveAtlasLocale(locale);
+  return `https://www.atlascloud.ai${prefix}/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683`;
 }
 
 function renderLanguageNavigation(currentLocale: string): string {
   return `${SUPPORTED_LANGUAGES.map((lang) => {
     const isCurrent = lang.code === currentLocale;
     const color = isCurrent ? "brightgreen" : "lightgrey";
-    const text = isCurrent ? "Current" : "View";
+    const text = isCurrent ? t("current", currentLocale) : t("view", currentLocale);
     return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${text}-${color})](${lang.readmeFileName})`;
   }).join(" ")}\n\n---\n`;
 }
@@ -102,7 +120,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(`## ${t("stats", locale)}`);
   lines.push("");
-  lines.push("| Metric | Count |");
+  lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
   lines.push("|--------|-------|");
   lines.push(`| ${t("totalPrompts", locale)} | **${data.stats.total}** |`);
   lines.push(`| ${t("categories", locale)} | **${data.categoryCounts.length}** |`);
@@ -142,8 +160,8 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(t("contributeDesc", locale));
   lines.push("");
-  lines.push("- Issue template: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml");
-  lines.push("- Guide: docs/CONTRIBUTING.md");
+  lines.push(`- ${t("issueTemplate", locale)}: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml`);
+  lines.push(`- ${t("guide", locale)}: docs/CONTRIBUTING.md`);
   lines.push("");
   lines.push(`## ${t("localUsage", locale)}`);
   lines.push("");

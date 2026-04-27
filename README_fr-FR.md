@@ -5,29 +5,29 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
 
-> A curated collection of Happy Horse 1.0 prompts sourced from the AtlasCloud prompt ecosystem.
+> Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
-> All prompts are shared for educational and discovery purposes. Open an issue if anything should be removed.
+> Tous les prompts sont partages a des fins d'apprentissage et de decouverte. Ouvrez une issue si un contenu doit etre retire.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Current-brightgreen)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-Voir-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Voir-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Voir-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Voir-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Voir-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Voir-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Voir-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Voir-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Voir-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Voir-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Voir-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Actuel-brightgreen)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Voir-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Voir-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Voir-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Voir-lightgrey)](README_tr-TR.md)
 
 ---
 
-## View in AtlasCloud
+## Voir dans AtlasCloud
 
-- Prompt Library: https://www.atlascloud.ai/fr-FR/happy-horse-1-prompt?locale=fr-FR
-- Model Page: https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683
+- Bibliotheque de Prompts: https://www.atlascloud.ai/fr/happy-horse-1-prompt?locale=fr
+- Page du Modele: https://www.atlascloud.ai/fr/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683
 
-## Statistics
+## Statistiques
 
-| Metric | Count |
+| Mesure | Nombre |
 |--------|-------|
-| Total Prompts | **283** |
+| Nombre Total de Prompts | **283** |
 | Categories | **12** |
-| Preview Videos | **283** |
-| Last Updated | **2026-04-27T15:20:34.426Z** |
+| Videos d'Apercu | **283** |
+| Derniere Mise a Jour | **2026-04-27T15:35:14.173Z** |
 
-## Browse by Category
+## Parcourir par Categorie
 
 - [`HappyHorse 创意批次`](#category-1): **90**
 - [`音频与语音合成`](#category-2): **30**
@@ -42,14 +42,14 @@
 - [`音乐卡点同步`](#category-11): **9**
 - [`情绪演绎`](#category-12): **6**
 
-## Featured Prompts
+## Prompts en Vedette
 
 ### No. 1: Neon Opera Cathedral
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_001
-- **Language:** `zh-CN`
+- **Auteur:** hh_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4" controls muted playsinline width="720"></video>
@@ -66,10 +66,10 @@
 
 ### No. 2: Clockwork Tea House
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_002
-- **Language:** `zh-CN`
+- **Auteur:** hh_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4" controls muted playsinline width="720"></video>
@@ -86,10 +86,10 @@
 
 ### No. 3: Whale Library Sky
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_003
-- **Language:** `zh-CN`
+- **Auteur:** hh_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4" controls muted playsinline width="720"></video>
@@ -106,10 +106,10 @@
 
 ### No. 4: Volcano Ramen Night
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_004
-- **Language:** `zh-CN`
+- **Auteur:** hh_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4" controls muted playsinline width="720"></video>
@@ -126,10 +126,10 @@
 
 ### No. 5: Mini Dragon Gardener
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_005
-- **Language:** `zh-CN`
+- **Auteur:** hh_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4" controls muted playsinline width="720"></video>
@@ -146,10 +146,10 @@
 
 ### No. 6: Desert Mirror Train
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_006
-- **Language:** `zh-CN`
+- **Auteur:** hh_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4" controls muted playsinline width="720"></video>
@@ -164,7 +164,7 @@
 镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。
 ```
 
-## All Prompts
+## Tous les Prompts
 
 <a id="category-1"></a>
 
@@ -172,10 +172,10 @@
 
 ### No. 1: Neon Opera Cathedral
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_001
-- **Language:** `zh-CN`
+- **Auteur:** hh_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_neon_opera_cathedral.mp4" controls muted playsinline width="720"></video>
@@ -192,10 +192,10 @@
 
 ### No. 2: Clockwork Tea House
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_002
-- **Language:** `zh-CN`
+- **Auteur:** hh_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_clockwork_tea_house.mp4" controls muted playsinline width="720"></video>
@@ -212,10 +212,10 @@
 
 ### No. 3: Whale Library Sky
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_003
-- **Language:** `zh-CN`
+- **Auteur:** hh_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_whale_library_sky.mp4" controls muted playsinline width="720"></video>
@@ -232,10 +232,10 @@
 
 ### No. 4: Volcano Ramen Night
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_004
-- **Language:** `zh-CN`
+- **Auteur:** hh_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_volcano_ramen_night.mp4" controls muted playsinline width="720"></video>
@@ -252,10 +252,10 @@
 
 ### No. 5: Mini Dragon Gardener
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_005
-- **Language:** `zh-CN`
+- **Auteur:** hh_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_mini_dragon_gardener.mp4" controls muted playsinline width="720"></video>
@@ -272,10 +272,10 @@
 
 ### No. 6: Desert Mirror Train
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_006
-- **Language:** `zh-CN`
+- **Auteur:** hh_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_desert_mirror_train.mp4" controls muted playsinline width="720"></video>
@@ -292,10 +292,10 @@
 
 ### No. 7: Moonlight Kite Market
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_007
-- **Language:** `zh-CN`
+- **Auteur:** hh_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_moonlight_kite_market.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_moonlight_kite_market.mp4" controls muted playsinline width="720"></video>
@@ -312,10 +312,10 @@
 
 ### No. 8: Arctic Glass Orchestra
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_008
-- **Language:** `zh-CN`
+- **Auteur:** hh_008
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_arctic_glass_orchestra.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_arctic_glass_orchestra.mp4" controls muted playsinline width="720"></video>
@@ -332,10 +332,10 @@
 
 ### No. 9: Robot Farm Harvest
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_009
-- **Language:** `zh-CN`
+- **Auteur:** hh_009
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_robot_farm_harvest.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_robot_farm_harvest.mp4" controls muted playsinline width="720"></video>
@@ -352,10 +352,10 @@
 
 ### No. 10: Candy Canyon Race
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_010
-- **Language:** `zh-CN`
+- **Auteur:** hh_010
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_candy_canyon_race.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_candy_canyon_race.mp4" controls muted playsinline width="720"></video>
@@ -372,10 +372,10 @@
 
 ### No. 11: Underwater Post Office
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_011
-- **Language:** `zh-CN`
+- **Auteur:** hh_011
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_underwater_post_office.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_underwater_post_office.mp4" controls muted playsinline width="720"></video>
@@ -392,10 +392,10 @@
 
 ### No. 12: Mountain Bamboo Drone
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_012
-- **Language:** `zh-CN`
+- **Auteur:** hh_012
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_mountain_bamboo_drone.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_mountain_bamboo_drone.mp4" controls muted playsinline width="720"></video>
@@ -412,10 +412,10 @@
 
 ### No. 13: Cyberpunk Paper Lanterns
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_013
-- **Language:** `zh-CN`
+- **Auteur:** hh_013
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_cyberpunk_paper_lanterns.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_cyberpunk_paper_lanterns.mp4" controls muted playsinline width="720"></video>
@@ -432,10 +432,10 @@
 
 ### No. 14: Giant Turtle Carnival
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_014
-- **Language:** `zh-CN`
+- **Auteur:** hh_014
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_giant_turtle_carnival.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_giant_turtle_carnival.mp4" controls muted playsinline width="720"></video>
@@ -452,10 +452,10 @@
 
 ### No. 15: Samurai Snow Duel
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_015
-- **Language:** `zh-CN`
+- **Auteur:** hh_015
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_samurai_snow_duel.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_samurai_snow_duel.mp4" controls muted playsinline width="720"></video>
@@ -472,10 +472,10 @@
 
 ### No. 16: Balloon City Sunrise
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_016
-- **Language:** `zh-CN`
+- **Auteur:** hh_016
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_balloon_city_sunrise.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_balloon_city_sunrise.mp4" controls muted playsinline width="720"></video>
@@ -492,10 +492,10 @@
 
 ### No. 17: Forest Piano Ruins
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_017
-- **Language:** `zh-CN`
+- **Auteur:** hh_017
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_forest_piano_ruins.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_forest_piano_ruins.mp4" controls muted playsinline width="720"></video>
@@ -512,10 +512,10 @@
 
 ### No. 18: Mars Street Food
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_018
-- **Language:** `zh-CN`
+- **Auteur:** hh_018
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_mars_street_food.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_mars_street_food.mp4" controls muted playsinline width="720"></video>
@@ -532,10 +532,10 @@
 
 ### No. 19: Rainy Tokyo Bicycle
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_019
-- **Language:** `zh-CN`
+- **Auteur:** hh_019
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_rainy_tokyo_bicycle.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_rainy_tokyo_bicycle.mp4" controls muted playsinline width="720"></video>
@@ -552,10 +552,10 @@
 
 ### No. 20: Ancient Astronomy Tower
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_020
-- **Language:** `zh-CN`
+- **Auteur:** hh_020
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ancient_astronomy_tower.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ancient_astronomy_tower.mp4" controls muted playsinline width="720"></video>
@@ -572,10 +572,10 @@
 
 ### No. 21: Jungle Mech Elephant
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_021
-- **Language:** `zh-CN`
+- **Auteur:** hh_021
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_jungle_mech_elephant.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_jungle_mech_elephant.mp4" controls muted playsinline width="720"></video>
@@ -592,10 +592,10 @@
 
 ### No. 22: Ice Cream Galaxy
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_022
-- **Language:** `zh-CN`
+- **Auteur:** hh_022
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ice_cream_galaxy.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ice_cream_galaxy.mp4" controls muted playsinline width="720"></video>
@@ -612,10 +612,10 @@
 
 ### No. 23: Shadow Puppet Metropolis
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_023
-- **Language:** `zh-CN`
+- **Auteur:** hh_023
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_shadow_puppet_metropolis.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_shadow_puppet_metropolis.mp4" controls muted playsinline width="720"></video>
@@ -632,10 +632,10 @@
 
 ### No. 24: Subway Jazz Morning
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_024
-- **Language:** `zh-CN`
+- **Auteur:** hh_024
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_subway_jazz_morning.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_subway_jazz_morning.mp4" controls muted playsinline width="720"></video>
@@ -652,10 +652,10 @@
 
 ### No. 25: Temple Of Wind Chimes
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_025
-- **Language:** `zh-CN`
+- **Auteur:** hh_025
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_temple_of_wind_chimes.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_temple_of_wind_chimes.mp4" controls muted playsinline width="720"></video>
@@ -672,10 +672,10 @@
 
 ### No. 26: Midnight Bookstore Portal
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_026
-- **Language:** `zh-CN`
+- **Auteur:** hh_026
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_midnight_bookstore_portal.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_midnight_bookstore_portal.mp4" controls muted playsinline width="720"></video>
@@ -692,10 +692,10 @@
 
 ### No. 27: Festival Of Fireflies
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_027
-- **Language:** `zh-CN`
+- **Auteur:** hh_027
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_festival_of_fireflies.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_festival_of_fireflies.mp4" controls muted playsinline width="720"></video>
@@ -712,10 +712,10 @@
 
 ### No. 28: Gravity Free Workshop
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_028
-- **Language:** `zh-CN`
+- **Auteur:** hh_028
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_gravity_free_workshop.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_gravity_free_workshop.mp4" controls muted playsinline width="720"></video>
@@ -732,10 +732,10 @@
 
 ### No. 29: Rainforest Glass Frog
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_029
-- **Language:** `zh-CN`
+- **Auteur:** hh_029
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_rainforest_glass_frog.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_rainforest_glass_frog.mp4" controls muted playsinline width="720"></video>
@@ -752,10 +752,10 @@
 
 ### No. 30: Solar Wind Surfers
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_030
-- **Language:** `zh-CN`
+- **Auteur:** hh_030
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_solar_wind_surfers.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_solar_wind_surfers.mp4" controls muted playsinline width="720"></video>
@@ -772,10 +772,10 @@
 
 ### No. 31: Neon Opera Cathedral V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -792,10 +792,10 @@
 
 ### No. 32: Clockwork Tea House V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -812,10 +812,10 @@
 
 ### No. 33: Whale Library Sky V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -832,10 +832,10 @@
 
 ### No. 34: Volcano Ramen Night V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -852,10 +852,10 @@
 
 ### No. 35: Mini Dragon Gardener V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -872,10 +872,10 @@
 
 ### No. 36: Desert Mirror Train V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -892,10 +892,10 @@
 
 ### No. 37: Moonlight Kite Market V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -912,10 +912,10 @@
 
 ### No. 38: Arctic Glass Orchestra V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_008_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_008_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
@@ -932,10 +932,10 @@
 
 ### No. 39: Robot Farm Harvest V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_009_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_009_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
@@ -952,10 +952,10 @@
 
 ### No. 40: Candy Canyon Race V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_010_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_010_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
@@ -972,10 +972,10 @@
 
 ### No. 41: Underwater Post Office V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_011_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_011_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
@@ -992,10 +992,10 @@
 
 ### No. 42: Mountain Bamboo Drone V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_012_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_012_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
@@ -1012,10 +1012,10 @@
 
 ### No. 43: Cyberpunk Paper Lanterns V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_013_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_013_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
@@ -1032,10 +1032,10 @@
 
 ### No. 44: Giant Turtle Carnival V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_014_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_014_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
@@ -1052,10 +1052,10 @@
 
 ### No. 45: Samurai Snow Duel V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_015_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_015_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
@@ -1072,10 +1072,10 @@
 
 ### No. 46: Balloon City Sunrise V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_016_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_016_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
@@ -1092,10 +1092,10 @@
 
 ### No. 47: Forest Piano Ruins V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_017_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_017_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
@@ -1112,10 +1112,10 @@
 
 ### No. 48: Mars Street Food V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_018_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_018_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
@@ -1132,10 +1132,10 @@
 
 ### No. 49: Rainy Tokyo Bicycle V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_019_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_019_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
@@ -1152,10 +1152,10 @@
 
 ### No. 50: Ancient Astronomy Tower V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_020_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_020_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
@@ -1172,10 +1172,10 @@
 
 ### No. 51: Jungle Mech Elephant V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_021_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_021_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
@@ -1192,10 +1192,10 @@
 
 ### No. 52: Ice Cream Galaxy V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_022_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_022_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
@@ -1212,10 +1212,10 @@
 
 ### No. 53: Shadow Puppet Metropolis V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_023_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_023_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
@@ -1232,10 +1232,10 @@
 
 ### No. 54: Subway Jazz Morning V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_024_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_024_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
@@ -1252,10 +1252,10 @@
 
 ### No. 55: Temple Of Wind Chimes V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_025_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_025_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
@@ -1272,10 +1272,10 @@
 
 ### No. 56: Midnight Bookstore Portal V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_026_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_026_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
@@ -1292,10 +1292,10 @@
 
 ### No. 57: Festival Of Fireflies V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_027_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_027_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
@@ -1312,10 +1312,10 @@
 
 ### No. 58: Gravity Free Workshop V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_028_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_028_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
@@ -1332,10 +1332,10 @@
 
 ### No. 59: Rainforest Glass Frog V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_029_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_029_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
@@ -1352,10 +1352,10 @@
 
 ### No. 60: Solar Wind Surfers V2
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_030_v2
-- **Language:** `zh-CN`
+- **Auteur:** hh_030_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
@@ -1372,10 +1372,10 @@
 
 ### No. 61: Neon Opera Cathedral V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -1392,10 +1392,10 @@
 
 ### No. 62: Clockwork Tea House V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -1412,10 +1412,10 @@
 
 ### No. 63: Whale Library Sky V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -1432,10 +1432,10 @@
 
 ### No. 64: Volcano Ramen Night V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -1452,10 +1452,10 @@
 
 ### No. 65: Mini Dragon Gardener V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -1472,10 +1472,10 @@
 
 ### No. 66: Desert Mirror Train V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -1492,10 +1492,10 @@
 
 ### No. 67: Moonlight Kite Market V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_007_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_007_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4" controls muted playsinline width="720"></video>
@@ -1512,10 +1512,10 @@
 
 ### No. 68: Arctic Glass Orchestra V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_008_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_008_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4" controls muted playsinline width="720"></video>
@@ -1532,10 +1532,10 @@
 
 ### No. 69: Robot Farm Harvest V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_009_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_009_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4" controls muted playsinline width="720"></video>
@@ -1552,10 +1552,10 @@
 
 ### No. 70: Candy Canyon Race V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_010_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_010_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4" controls muted playsinline width="720"></video>
@@ -1572,10 +1572,10 @@
 
 ### No. 71: Underwater Post Office V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_011_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_011_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4" controls muted playsinline width="720"></video>
@@ -1592,10 +1592,10 @@
 
 ### No. 72: Mountain Bamboo Drone V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_012_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_012_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4" controls muted playsinline width="720"></video>
@@ -1612,10 +1612,10 @@
 
 ### No. 73: Cyberpunk Paper Lanterns V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_013_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_013_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4" controls muted playsinline width="720"></video>
@@ -1632,10 +1632,10 @@
 
 ### No. 74: Giant Turtle Carnival V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_014_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_014_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4" controls muted playsinline width="720"></video>
@@ -1652,10 +1652,10 @@
 
 ### No. 75: Samurai Snow Duel V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_015_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_015_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4" controls muted playsinline width="720"></video>
@@ -1672,10 +1672,10 @@
 
 ### No. 76: Balloon City Sunrise V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_016_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_016_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4" controls muted playsinline width="720"></video>
@@ -1692,10 +1692,10 @@
 
 ### No. 77: Forest Piano Ruins V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_017_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_017_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4" controls muted playsinline width="720"></video>
@@ -1712,10 +1712,10 @@
 
 ### No. 78: Mars Street Food V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_018_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_018_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4" controls muted playsinline width="720"></video>
@@ -1732,10 +1732,10 @@
 
 ### No. 79: Rainy Tokyo Bicycle V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_019_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_019_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4" controls muted playsinline width="720"></video>
@@ -1752,10 +1752,10 @@
 
 ### No. 80: Ancient Astronomy Tower V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_020_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_020_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4" controls muted playsinline width="720"></video>
@@ -1772,10 +1772,10 @@
 
 ### No. 81: Jungle Mech Elephant V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_021_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_021_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4" controls muted playsinline width="720"></video>
@@ -1792,10 +1792,10 @@
 
 ### No. 82: Ice Cream Galaxy V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_022_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_022_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4" controls muted playsinline width="720"></video>
@@ -1812,10 +1812,10 @@
 
 ### No. 83: Shadow Puppet Metropolis V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_023_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_023_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4" controls muted playsinline width="720"></video>
@@ -1832,10 +1832,10 @@
 
 ### No. 84: Subway Jazz Morning V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_024_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_024_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4" controls muted playsinline width="720"></video>
@@ -1852,10 +1852,10 @@
 
 ### No. 85: Temple Of Wind Chimes V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_025_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_025_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4" controls muted playsinline width="720"></video>
@@ -1872,10 +1872,10 @@
 
 ### No. 86: Midnight Bookstore Portal V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_026_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_026_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4" controls muted playsinline width="720"></video>
@@ -1892,10 +1892,10 @@
 
 ### No. 87: Festival Of Fireflies V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_027_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_027_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4" controls muted playsinline width="720"></video>
@@ -1912,10 +1912,10 @@
 
 ### No. 88: Gravity Free Workshop V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_028_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_028_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4" controls muted playsinline width="720"></video>
@@ -1932,10 +1932,10 @@
 
 ### No. 89: Rainforest Glass Frog V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_029_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_029_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4" controls muted playsinline width="720"></video>
@@ -1952,10 +1952,10 @@
 
 ### No. 90: Solar Wind Surfers V3
 
-- **Category:** `HappyHorse 创意批次`
+- **Categorie:** `HappyHorse 创意批次`
 - **Source:** `official`
-- **Author:** hh_030_v3
-- **Language:** `zh-CN`
+- **Auteur:** hh_030_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4" controls muted playsinline width="720"></video>
@@ -1976,10 +1976,10 @@
 
 ### No. 1: 鱼眼镜头搞笑马
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_001
-- **Language:** `zh-CN`
+- **Auteur:** av_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/33_av_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/33_av_001.mp4" controls muted playsinline width="720"></video>
@@ -1996,10 +1996,10 @@
 
 ### No. 2: 办公楼纪录片
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_002
-- **Language:** `zh-CN`
+- **Auteur:** av_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/34_av_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/34_av_002.mp4" controls muted playsinline width="720"></video>
@@ -2016,10 +2016,10 @@
 
 ### No. 3: 猫狗吐槽大战
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_003
-- **Language:** `zh-CN`
+- **Auteur:** av_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/35_av_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/35_av_003.mp4" controls muted playsinline width="720"></video>
@@ -2036,10 +2036,10 @@
 
 ### No. 4: 中国戏曲表演
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_004
-- **Language:** `zh-CN`
+- **Auteur:** av_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/36_av_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/36_av_004.mp4" controls muted playsinline width="720"></video>
@@ -2056,10 +2056,10 @@
 
 ### No. 5: 电影感公路旅行 MV
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_005
-- **Language:** `zh-CN`
+- **Auteur:** av_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/37_av_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/37_av_005.mp4" controls muted playsinline width="720"></video>
@@ -2076,10 +2076,10 @@
 
 ### No. 6: 多元文化家庭庆典
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_006
-- **Language:** `zh-CN`
+- **Auteur:** av_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/38_av_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/38_av_006.mp4" controls muted playsinline width="720"></video>
@@ -2096,10 +2096,10 @@
 
 ### No. 7: 战术小队西班牙语简报
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_007
-- **Language:** `zh-CN`
+- **Auteur:** av_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/39_av_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/39_av_007.mp4" controls muted playsinline width="720"></video>
@@ -2116,10 +2116,10 @@
 
 ### No. 8: 早晨叫醒对话
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_008
-- **Language:** `zh-CN`
+- **Auteur:** av_008
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/40_av_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/40_av_008.mp4" controls muted playsinline width="720"></video>
@@ -2136,10 +2136,10 @@
 
 ### No. 9: 四川话奶茶对话
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_009
-- **Language:** `zh-CN`
+- **Auteur:** av_009
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/41_av_009.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/41_av_009.mp4" controls muted playsinline width="720"></video>
@@ -2156,10 +2156,10 @@
 
 ### No. 10: 西游记故事讲述
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_010
-- **Language:** `zh-CN`
+- **Auteur:** av_010
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/42_av_010.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/42_av_010.mp4" controls muted playsinline width="720"></video>
@@ -2176,10 +2176,10 @@
 
 ### No. 11: 鱼眼镜头搞笑马 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -2196,10 +2196,10 @@
 
 ### No. 12: 办公楼纪录片 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -2216,10 +2216,10 @@
 
 ### No. 13: 猫狗吐槽大战 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -2236,10 +2236,10 @@
 
 ### No. 14: 中国戏曲表演 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -2256,10 +2256,10 @@
 
 ### No. 15: 电影感公路旅行 MV V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -2276,10 +2276,10 @@
 
 ### No. 16: 多元文化家庭庆典 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -2296,10 +2296,10 @@
 
 ### No. 17: 战术小队西班牙语简报 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -2316,10 +2316,10 @@
 
 ### No. 18: 早晨叫醒对话 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_008_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_008_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
@@ -2336,10 +2336,10 @@
 
 ### No. 19: 四川话奶茶对话 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_009_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_009_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
@@ -2356,10 +2356,10 @@
 
 ### No. 20: 西游记故事讲述 V2
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_010_v2
-- **Language:** `zh-CN`
+- **Auteur:** av_010_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
@@ -2376,10 +2376,10 @@
 
 ### No. 21: 鱼眼镜头搞笑马 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -2396,10 +2396,10 @@
 
 ### No. 22: 办公楼纪录片 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -2416,10 +2416,10 @@
 
 ### No. 23: 猫狗吐槽大战 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -2436,10 +2436,10 @@
 
 ### No. 24: 中国戏曲表演 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -2456,10 +2456,10 @@
 
 ### No. 25: 电影感公路旅行 MV V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -2476,10 +2476,10 @@
 
 ### No. 26: 多元文化家庭庆典 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -2496,10 +2496,10 @@
 
 ### No. 27: 战术小队西班牙语简报 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_007_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_007_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4" controls muted playsinline width="720"></video>
@@ -2516,10 +2516,10 @@
 
 ### No. 28: 早晨叫醒对话 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_008_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_008_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4" controls muted playsinline width="720"></video>
@@ -2536,10 +2536,10 @@
 
 ### No. 29: 四川话奶茶对话 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_009_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_009_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4" controls muted playsinline width="720"></video>
@@ -2556,10 +2556,10 @@
 
 ### No. 30: 西游记故事讲述 V3
 
-- **Category:** `音频与语音合成`
+- **Categorie:** `音频与语音合成`
 - **Source:** `official`
-- **Author:** av_010_v3
-- **Language:** `zh-CN`
+- **Auteur:** av_010_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4" controls muted playsinline width="720"></video>
@@ -2580,10 +2580,10 @@
 
 ### No. 1: VR 眼镜宇宙穿越
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_001
-- **Language:** `zh-CN`
+- **Auteur:** ce_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_ce_001_vr.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/18_ce_001_vr.mp4" controls muted playsinline width="720"></video>
@@ -2600,10 +2600,10 @@
 
 ### No. 2: 时尚快速换装广告
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_002
-- **Language:** `zh-CN`
+- **Auteur:** ce_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_ce_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/19_ce_002.mp4" controls muted playsinline width="720"></video>
@@ -2620,10 +2620,10 @@
 
 ### No. 3: 羽绒服天鹅隐喻
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_003
-- **Language:** `zh-CN`
+- **Auteur:** ce_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ce_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/20_ce_003.mp4" controls muted playsinline width="720"></video>
@@ -2640,10 +2640,10 @@
 
 ### No. 4: 水墨风太极
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_004
-- **Language:** `zh-CN`
+- **Auteur:** ce_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_ce_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/21_ce_004.mp4" controls muted playsinline width="720"></video>
@@ -2660,10 +2660,10 @@
 
 ### No. 5: 魔法变身序列
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_005
-- **Language:** `zh-CN`
+- **Auteur:** ce_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ce_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/22_ce_005.mp4" controls muted playsinline width="720"></video>
@@ -2680,10 +2680,10 @@
 
 ### No. 6: 拼图碎片转场 Logo
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_006
-- **Language:** `zh-CN`
+- **Auteur:** ce_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_ce_006_logo.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/23_ce_006_logo.mp4" controls muted playsinline width="720"></video>
@@ -2700,10 +2700,10 @@
 
 ### No. 7: 金色粒子标题揭示
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_007
-- **Language:** `zh-CN`
+- **Auteur:** ce_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_ce_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/24_ce_007.mp4" controls muted playsinline width="720"></video>
@@ -2720,10 +2720,10 @@
 
 ### No. 8: 抽象泡面创意
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_008
-- **Language:** `zh-CN`
+- **Auteur:** ce_008
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_ce_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/25_ce_008.mp4" controls muted playsinline width="720"></video>
@@ -2740,10 +2740,10 @@
 
 ### No. 9: VR 眼镜宇宙穿越 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -2760,10 +2760,10 @@
 
 ### No. 10: 时尚快速换装广告 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -2780,10 +2780,10 @@
 
 ### No. 11: 羽绒服天鹅隐喻 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -2800,10 +2800,10 @@
 
 ### No. 12: 水墨风太极 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -2820,10 +2820,10 @@
 
 ### No. 13: 魔法变身序列 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -2840,10 +2840,10 @@
 
 ### No. 14: 拼图碎片转场 Logo V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -2860,10 +2860,10 @@
 
 ### No. 15: 金色粒子标题揭示 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -2880,10 +2880,10 @@
 
 ### No. 16: 抽象泡面创意 V2
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_008_v2
-- **Language:** `zh-CN`
+- **Auteur:** ce_008_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
@@ -2900,10 +2900,10 @@
 
 ### No. 17: VR 眼镜宇宙穿越 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -2920,10 +2920,10 @@
 
 ### No. 18: 时尚快速换装广告 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -2940,10 +2940,10 @@
 
 ### No. 19: 羽绒服天鹅隐喻 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -2960,10 +2960,10 @@
 
 ### No. 20: 水墨风太极 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -2980,10 +2980,10 @@
 
 ### No. 21: 魔法变身序列 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -3000,10 +3000,10 @@
 
 ### No. 22: 拼图碎片转场 Logo V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -3020,10 +3020,10 @@
 
 ### No. 23: 金色粒子标题揭示 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_007_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_007_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4" controls muted playsinline width="720"></video>
@@ -3040,10 +3040,10 @@
 
 ### No. 24: 抽象泡面创意 V3
 
-- **Category:** `创意视觉特效`
+- **Categorie:** `创意视觉特效`
 - **Source:** `official`
-- **Author:** ce_008_v3
-- **Language:** `zh-CN`
+- **Auteur:** ce_008_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4" controls muted playsinline width="720"></video>
@@ -3064,10 +3064,10 @@
 
 ### No. 1: 5分钟生成1分钟电影级战争视频，4个镜头结构
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_001
-- **Language:** `zh-CN`
+- **Auteur:** tw_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/60_tw_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/60_tw_001.mp4" controls muted playsinline width="720"></video>
@@ -3084,10 +3084,10 @@
 
 ### No. 2: 燃烧军车的城市战争航拍镜头
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_003
-- **Language:** `zh-CN`
+- **Auteur:** tw_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/61_tw_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/61_tw_003.mp4" controls muted playsinline width="720"></video>
@@ -3104,10 +3104,10 @@
 
 ### No. 3: Will Smith 吃意大利面
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_004
-- **Language:** `zh-CN`
+- **Auteur:** tw_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/62_tw_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/62_tw_004.mp4" controls muted playsinline width="720"></video>
@@ -3124,10 +3124,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 4: 女性控制飞机的复杂动作场景快速测试
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_007
-- **Language:** `zh-CN`
+- **Auteur:** tw_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/63_tw_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/63_tw_007.mp4" controls muted playsinline width="720"></video>
@@ -3144,10 +3144,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 5: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_008
-- **Language:** `zh-CN`
+- **Auteur:** tw_008
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/64_tw_008.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/64_tw_008.mp4" controls muted playsinline width="720"></video>
@@ -3164,10 +3164,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 6: 仅用3张参考图和简单提示词生成多镜头打斗场景
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_009
-- **Language:** `zh-CN`
+- **Auteur:** tw_009
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/65_tw_009.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/65_tw_009.mp4" controls muted playsinline width="720"></video>
@@ -3184,10 +3184,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 7: 超越原版动画质量的一拳超人动画
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_016
-- **Language:** `zh-CN`
+- **Auteur:** tw_016
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/66_tw_016.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/66_tw_016.mp4" controls muted playsinline width="720"></video>
@@ -3204,10 +3204,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 8: Will Smith 吃意大利面
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_018
-- **Language:** `zh-CN`
+- **Auteur:** tw_018
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/67_tw_018.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/67_tw_018.mp4" controls muted playsinline width="720"></video>
@@ -3224,10 +3224,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 9: 水獭进入大型机甲的动画场景，包含详细机械镜头
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_021
-- **Language:** `zh-CN`
+- **Auteur:** tw_021
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/68_tw_021.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/68_tw_021.mp4" controls muted playsinline width="720"></video>
@@ -3244,10 +3244,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 10: 单个提示词生成的南印度电影外星人场景
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_022
-- **Language:** `zh-CN`
+- **Auteur:** tw_022
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/69_tw_022.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/69_tw_022.mp4" controls muted playsinline width="720"></video>
@@ -3264,10 +3264,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 11: 士兵穿越沙漠地形的地面战斗镜头
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_024
-- **Language:** `zh-CN`
+- **Auteur:** tw_024
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/70_tw_024.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/70_tw_024.mp4" controls muted playsinline width="720"></video>
@@ -3284,10 +3284,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 12: 5分钟生成1分钟电影级战争视频，4个镜头结构 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -3304,10 +3304,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 13: 燃烧军车的城市战争航拍镜头 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -3324,10 +3324,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 14: Will Smith 吃意大利面 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -3344,10 +3344,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 15: 女性控制飞机的复杂动作场景快速测试 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -3364,10 +3364,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 16: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_008_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_008_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
@@ -3384,10 +3384,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 17: 仅用3张参考图和简单提示词生成多镜头打斗场景 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_009_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_009_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
@@ -3404,10 +3404,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 18: 超越原版动画质量的一拳超人动画 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_016_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_016_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
@@ -3424,10 +3424,10 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 
 ### No. 19: Will Smith 吃意大利面 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_018_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_018_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
@@ -3444,10 +3444,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 20: 水獭进入大型机甲的动画场景，包含详细机械镜头 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_021_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_021_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
@@ -3464,10 +3464,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 21: 单个提示词生成的南印度电影外星人场景 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_022_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_022_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
@@ -3484,10 +3484,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 22: 士兵穿越沙漠地形的地面战斗镜头 V2
 
-- **Category:** `Twitter 社区`
+- **Categorie:** `Twitter 社区`
 - **Source:** `twitter`
-- **Author:** tw_024_v2
-- **Language:** `zh-CN`
+- **Auteur:** tw_024_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
@@ -3508,10 +3508,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 1: 漫画分格动画化
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_001
-- **Language:** `zh-CN`
+- **Auteur:** ne_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_ne_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/26_ne_001.mp4" controls muted playsinline width="720"></video>
@@ -3528,10 +3528,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 2: 童年四季纪录片
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_002
-- **Language:** `zh-CN`
+- **Auteur:** ne_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_ne_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/27_ne_002.mp4" controls muted playsinline width="720"></video>
@@ -3548,10 +3548,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 3: 情感旅程视频
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_003
-- **Language:** `zh-CN`
+- **Auteur:** ne_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_ne_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/28_ne_003.mp4" controls muted playsinline width="720"></video>
@@ -3568,10 +3568,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 4: 驴子摩托车特技广告
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_004
-- **Language:** `zh-CN`
+- **Auteur:** ne_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_ne_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/29_ne_004.mp4" controls muted playsinline width="720"></video>
@@ -3588,10 +3588,10 @@ Will Smith 在现代家庭厨房里吃意大利面。
 
 ### No. 5: 健身激励广告
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_005
-- **Language:** `zh-CN`
+- **Auteur:** ne_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_ne_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/30_ne_005.mp4" controls muted playsinline width="720"></video>
@@ -3608,10 +3608,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 咖啡晨间广告
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_006
-- **Language:** `zh-CN`
+- **Auteur:** ne_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/31_ne_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/31_ne_006.mp4" controls muted playsinline width="720"></video>
@@ -3628,10 +3628,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 向日葵滑板故事
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_007
-- **Language:** `zh-CN`
+- **Auteur:** ne_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/32_ne_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/32_ne_007.mp4" controls muted playsinline width="720"></video>
@@ -3648,10 +3648,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 漫画分格动画化 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -3668,10 +3668,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 童年四季纪录片 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -3688,10 +3688,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 情感旅程视频 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -3708,10 +3708,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 驴子摩托车特技广告 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -3728,10 +3728,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 健身激励广告 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -3748,10 +3748,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 咖啡晨间广告 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -3768,10 +3768,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 向日葵滑板故事 V2
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** ne_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -3788,10 +3788,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 漫画分格动画化 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -3808,10 +3808,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 童年四季纪录片 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -3828,10 +3828,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 情感旅程视频 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -3848,10 +3848,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 驴子摩托车特技广告 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -3868,10 +3868,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 19: 健身激励广告 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -3888,10 +3888,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 20: 咖啡晨间广告 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -3908,10 +3908,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 21: 向日葵滑板故事 V3
 
-- **Category:** `剧情发展与延伸`
+- **Categorie:** `剧情发展与延伸`
 - **Source:** `official`
-- **Author:** ne_007_v3
-- **Language:** `zh-CN`
+- **Auteur:** ne_007_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
@@ -3932,10 +3932,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 电梯中的希区柯克变焦
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_001
-- **Language:** `zh-CN`
+- **Auteur:** ac_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4" controls muted playsinline width="720"></video>
@@ -3952,10 +3952,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 复杂走廊追逐
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_002
-- **Language:** `zh-CN`
+- **Auteur:** ac_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4" controls muted playsinline width="720"></video>
@@ -3972,10 +3972,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 旋转平板展示
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_003
-- **Language:** `zh-CN`
+- **Auteur:** ac_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
@@ -3992,10 +3992,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 节奏感推拉舞蹈运镜
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_004
-- **Language:** `zh-CN`
+- **Auteur:** ac_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_ac_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/14_ac_004.mp4" controls muted playsinline width="720"></video>
@@ -4012,10 +4012,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 武术格斗场景
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_005
-- **Language:** `zh-CN`
+- **Auteur:** ac_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_ac_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/15_ac_005.mp4" controls muted playsinline width="720"></video>
@@ -4032,10 +4032,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 史诗奇幻战斗
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_006
-- **Language:** `zh-CN`
+- **Auteur:** ac_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_ac_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/16_ac_006.mp4" controls muted playsinline width="720"></video>
@@ -4052,10 +4052,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 汽车广告运镜
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_007
-- **Language:** `zh-CN`
+- **Auteur:** ac_007
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_ac_007.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/17_ac_007.mp4" controls muted playsinline width="720"></video>
@@ -4072,10 +4072,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 电梯中的希区柯克变焦 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -4092,10 +4092,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 复杂走廊追逐 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -4112,10 +4112,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 旋转平板展示 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -4132,10 +4132,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 节奏感推拉舞蹈运镜 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -4152,10 +4152,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 武术格斗场景 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -4172,10 +4172,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 史诗奇幻战斗 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -4192,10 +4192,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 汽车广告运镜 V2
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_007_v2
-- **Language:** `zh-CN`
+- **Auteur:** ac_007_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
@@ -4212,10 +4212,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 电梯中的希区柯克变焦 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -4232,10 +4232,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 复杂走廊追逐 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -4252,10 +4252,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 旋转平板展示 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -4272,10 +4272,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 节奏感推拉舞蹈运镜 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -4292,10 +4292,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 19: 武术格斗场景 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -4312,10 +4312,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 20: 史诗奇幻战斗 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -4332,10 +4332,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 21: 汽车广告运镜 V3
 
-- **Category:** `高级运镜动作`
+- **Categorie:** `高级运镜动作`
 - **Source:** `official`
-- **Author:** ac_007_v3
-- **Language:** `zh-CN`
+- **Auteur:** ac_007_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4" controls muted playsinline width="720"></video>
@@ -4356,10 +4356,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 下班回家路上
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_001
-- **Language:** `zh-CN`
+- **Auteur:** cs_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4" controls muted playsinline width="720"></video>
@@ -4376,10 +4376,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 歌剧舞台变革
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_002
-- **Language:** `zh-CN`
+- **Auteur:** cs_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4" controls muted playsinline width="720"></video>
@@ -4396,10 +4396,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 一镜到底无缝切换
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_003
-- **Language:** `zh-CN`
+- **Auteur:** cs_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
@@ -4416,10 +4416,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 磁性弓产品展示
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_004
-- **Language:** `zh-CN`
+- **Auteur:** cs_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
@@ -4436,10 +4436,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 奢侈手袋广告
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_005
-- **Language:** `zh-CN`
+- **Auteur:** cs_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
@@ -4456,10 +4456,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 恐怖第一人称探索
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_006
-- **Language:** `zh-CN`
+- **Auteur:** cs_006
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
@@ -4476,10 +4476,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 下班回家路上 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -4496,10 +4496,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 歌剧舞台变革 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -4516,10 +4516,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 一镜到底无缝切换 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -4536,10 +4536,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 磁性弓产品展示 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -4556,10 +4556,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 奢侈手袋广告 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -4576,10 +4576,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 恐怖第一人称探索 V2
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_006_v2
-- **Language:** `zh-CN`
+- **Auteur:** cs_006_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4" controls muted playsinline width="720"></video>
@@ -4596,10 +4596,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 下班回家路上 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -4616,10 +4616,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 歌剧舞台变革 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -4636,10 +4636,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 一镜到底无缝切换 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -4656,10 +4656,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: 磁性弓产品展示 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -4676,10 +4676,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 17: 奢侈手袋广告 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -4696,10 +4696,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 18: 恐怖第一人称探索 V3
 
-- **Category:** `角色与场景一致性`
+- **Categorie:** `角色与场景一致性`
 - **Source:** `official`
-- **Author:** cs_006_v3
-- **Language:** `zh-CN`
+- **Auteur:** cs_006_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4" controls muted playsinline width="720"></video>
@@ -4720,10 +4720,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 跑酷追逐长镜头
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_001
-- **Language:** `zh-CN`
+- **Auteur:** ot_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/43_ot_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/43_ot_001.mp4" controls muted playsinline width="720"></video>
@@ -4740,10 +4740,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 飞机窗外冰淇淋梦境
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_002
-- **Language:** `zh-CN`
+- **Auteur:** ot_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/44_ot_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/44_ot_002.mp4" controls muted playsinline width="720"></video>
@@ -4760,10 +4760,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 间谍悬疑跟踪
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_003
-- **Language:** `zh-CN`
+- **Auteur:** ot_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/45_ot_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/45_ot_003.mp4" controls muted playsinline width="720"></video>
@@ -4780,10 +4780,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 温馨小屋品茶时光
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_004
-- **Language:** `zh-CN`
+- **Auteur:** ot_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/46_ot_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/46_ot_004.mp4" controls muted playsinline width="720"></video>
@@ -4800,10 +4800,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 过山车第一人称视角
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_005
-- **Language:** `zh-CN`
+- **Auteur:** ot_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/47_ot_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/47_ot_005.mp4" controls muted playsinline width="720"></video>
@@ -4820,10 +4820,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 跑酷追逐长镜头 V2
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ot_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -4840,10 +4840,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 飞机窗外冰淇淋梦境 V2
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ot_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -4860,10 +4860,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 间谍悬疑跟踪 V2
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ot_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -4880,10 +4880,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 温馨小屋品茶时光 V2
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ot_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -4900,10 +4900,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 过山车第一人称视角 V2
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** ot_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -4920,10 +4920,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 跑酷追逐长镜头 V3
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ot_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -4940,10 +4940,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 飞机窗外冰淇淋梦境 V3
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ot_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -4960,10 +4960,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 间谍悬疑跟踪 V3
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ot_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -4980,10 +4980,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 温馨小屋品茶时光 V3
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ot_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -5000,10 +5000,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 过山车第一人称视角 V3
 
-- **Category:** `一镜到底`
+- **Categorie:** `一镜到底`
 - **Source:** `official`
-- **Author:** ot_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** ot_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -5024,10 +5024,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 泰坦尼克号暗黑反转
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_001
-- **Language:** `zh-CN`
+- **Auteur:** ve_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/48_ve_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/48_ve_001.mp4" controls muted playsinline width="720"></video>
@@ -5044,10 +5044,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 严肃商务变零食交易
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_002
-- **Language:** `zh-CN`
+- **Auteur:** ve_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/49_ve_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/49_ve_002.mp4" controls muted playsinline width="720"></video>
@@ -5064,10 +5064,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 乐队歌手性别互换
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_003
-- **Language:** `zh-CN`
+- **Auteur:** ve_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/50_ve_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/50_ve_003.mp4" controls muted playsinline width="720"></video>
@@ -5084,10 +5084,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 鲨鱼乱入
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_004
-- **Language:** `zh-CN`
+- **Auteur:** ve_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/51_ve_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/51_ve_004.mp4" controls muted playsinline width="720"></video>
@@ -5104,10 +5104,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 炸鸡品牌植入
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_005
-- **Language:** `zh-CN`
+- **Auteur:** ve_005
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/52_ve_005.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/52_ve_005.mp4" controls muted playsinline width="720"></video>
@@ -5124,10 +5124,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 泰坦尼克号暗黑反转 V2
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ve_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -5144,10 +5144,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 严肃商务变零食交易 V2
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ve_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -5164,10 +5164,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 乐队歌手性别互换 V2
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ve_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -5184,10 +5184,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 鲨鱼乱入 V2
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ve_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -5204,10 +5204,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 炸鸡品牌植入 V2
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_005_v2
-- **Language:** `zh-CN`
+- **Auteur:** ve_005_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
@@ -5224,10 +5224,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 泰坦尼克号暗黑反转 V3
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ve_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -5244,10 +5244,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 严肃商务变零食交易 V3
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ve_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -5264,10 +5264,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 13: 乐队歌手性别互换 V3
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ve_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -5284,10 +5284,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 14: 鲨鱼乱入 V3
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ve_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -5304,10 +5304,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 15: 炸鸡品牌植入 V3
 
-- **Category:** `视频编辑与混剪`
+- **Categorie:** `视频编辑与混剪`
 - **Source:** `official`
-- **Author:** ve_005_v3
-- **Language:** `zh-CN`
+- **Auteur:** ve_005_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4" controls muted playsinline width="720"></video>
@@ -5328,10 +5328,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 优雅的洗衣场景
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_001
-- **Language:** `zh-CN`
+- **Auteur:** ur_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
@@ -5348,10 +5348,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 互动绘画角色
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_002
-- **Language:** `zh-CN`
+- **Auteur:** ur_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
@@ -5368,10 +5368,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 维多利亚时代街景
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_003
-- **Language:** `zh-CN`
+- **Auteur:** ur_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
@@ -5388,10 +5388,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 带有障碍物的追逐场景
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_004
-- **Language:** `zh-CN`
+- **Auteur:** ur_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
@@ -5408,10 +5408,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 优雅的洗衣场景 V2
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ur_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -5428,10 +5428,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 互动绘画角色 V2
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ur_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -5448,10 +5448,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 维多利亚时代街景 V2
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ur_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -5468,10 +5468,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 带有障碍物的追逐场景 V2
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ur_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -5488,10 +5488,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 优雅的洗衣场景 V3
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ur_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -5508,10 +5508,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 10: 互动绘画角色 V3
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_002_v3
-- **Language:** `zh-CN`
+- **Auteur:** ur_002_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
@@ -5528,10 +5528,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 11: 维多利亚时代街景 V3
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_003_v3
-- **Language:** `zh-CN`
+- **Auteur:** ur_003_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
@@ -5548,10 +5548,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 12: 带有障碍物的追逐场景 V3
 
-- **Category:** `超逼真视频生成`
+- **Categorie:** `超逼真视频生成`
 - **Source:** `official`
-- **Author:** ur_004_v3
-- **Language:** `zh-CN`
+- **Auteur:** ur_004_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
@@ -5572,10 +5572,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 时尚节拍卡点
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_001
-- **Language:** `zh-CN`
+- **Auteur:** ms_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/53_ms_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/53_ms_001.mp4" controls muted playsinline width="720"></video>
@@ -5592,10 +5592,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 动态人像节拍同步
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_002
-- **Language:** `zh-CN`
+- **Auteur:** ms_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/54_ms_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/54_ms_002.mp4" controls muted playsinline width="720"></video>
@@ -5612,10 +5612,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 风景转场音乐视频
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_003
-- **Language:** `zh-CN`
+- **Auteur:** ms_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/55_ms_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/55_ms_003.mp4" controls muted playsinline width="720"></video>
@@ -5632,10 +5632,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 动漫棋局对战分镜
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_004
-- **Language:** `zh-CN`
+- **Auteur:** ms_004
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/56_ms_004.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/56_ms_004.mp4" controls muted playsinline width="720"></video>
@@ -5652,10 +5652,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 时尚节拍卡点 V2
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ms_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -5672,10 +5672,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 动态人像节拍同步 V2
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ms_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -5692,10 +5692,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 7: 风景转场音乐视频 V2
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ms_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -5712,10 +5712,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: 动漫棋局对战分镜 V2
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_004_v2
-- **Language:** `zh-CN`
+- **Auteur:** ms_004_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
@@ -5732,10 +5732,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 9: 时尚节拍卡点 V3
 
-- **Category:** `音乐卡点同步`
+- **Categorie:** `音乐卡点同步`
 - **Source:** `official`
-- **Author:** ms_001_v3
-- **Language:** `zh-CN`
+- **Auteur:** ms_001_v3
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4" controls muted playsinline width="720"></video>
@@ -5756,10 +5756,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 1: 镜前情绪崩溃
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_001
-- **Language:** `zh-CN`
+- **Auteur:** ep_001
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/57_ep_001.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/57_ep_001.mp4" controls muted playsinline width="720"></video>
@@ -5776,10 +5776,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 2: 烹饪反差喜剧
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_002
-- **Language:** `zh-CN`
+- **Auteur:** ep_002
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/58_ep_002.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/58_ep_002.mp4" controls muted playsinline width="720"></video>
@@ -5796,10 +5796,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 3: 戏剧性咆哮特写
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_003
-- **Language:** `zh-CN`
+- **Auteur:** ep_003
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/59_ep_003.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/59_ep_003.mp4" controls muted playsinline width="720"></video>
@@ -5816,10 +5816,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 4: 镜前情绪崩溃 V2
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_001_v2
-- **Language:** `zh-CN`
+- **Auteur:** ep_001_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
@@ -5836,10 +5836,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 5: 烹饪反差喜剧 V2
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_002_v2
-- **Language:** `zh-CN`
+- **Auteur:** ep_002_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
@@ -5856,10 +5856,10 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 6: 戏剧性咆哮特写 V2
 
-- **Category:** `情绪演绎`
+- **Categorie:** `情绪演绎`
 - **Source:** `official`
-- **Author:** ep_003_v2
-- **Language:** `zh-CN`
+- **Auteur:** ep_003_v2
+- **Langue:** `zh-CN`
 - **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
@@ -5874,21 +5874,21 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 @图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
 ```
 
-## How to Contribute
+## Comment Contribuer
 
-Submit a GitHub issue with a complete prompt, category, and preview URL. After approval, the workflow syncs it into the dataset.
+Soumettez une issue GitHub avec un prompt complet, une categorie et une URL d'aperçu. Une fois approuve, le workflow le synchronise dans le jeu de donnees.
 
-- Issue template: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml
+- Modele d'Issue: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml
 - Guide: docs/CONTRIBUTING.md
 
-## Local Usage
+## Utilisation Locale
 
 ```bash
 npm run generate
 ```
 
-## License
+## Licence
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-04-27T15:20:34.426Z
+> Ce README est genere automatiquement. 2026-04-27T15:35:14.173Z

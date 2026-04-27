@@ -70,10 +70,12 @@ export function sortPrompts(prompts: PromptRecord[]): SortedPromptData {
     all: prompts,
     featured,
     regular,
-    categoryCounts: [...categoryMap.entries()].map(([category, count]) => ({
-      category,
-      count,
-    })),
+    categoryCounts: [...categoryMap.entries()]
+      .map(([category, count]) => ({
+        category,
+        count,
+      }))
+      .sort((a, b) => b.count - a.count || a.category.localeCompare(b.category)),
     stats: {
       total: prompts.length,
       featured: featured.length,

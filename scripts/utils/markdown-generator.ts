@@ -3,6 +3,10 @@ import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
 export { SUPPORTED_LANGUAGES };
 
+function buildCategoryAnchor(index: number): string {
+  return `category-${index + 1}`;
+}
+
 function getLocalePrefix(locale: string): string {
   if (locale === "en") return "";
   if (locale === "zh") return "/zh";
@@ -71,6 +75,13 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 export function generateMarkdown(data: SortedPromptData, locale: string): string {
   const now = new Date().toISOString();
   const lines: string[] = [];
+  const promptsByCategory = new Map<string, PromptRecord[]>();
+
+  for (const prompt of data.all) {
+    const categoryPrompts = promptsByCategory.get(prompt.category) || [];
+    categoryPrompts.push(prompt);
+    promptsByCategory.set(prompt.category, categoryPrompts);
+  }
 
   lines.push(`# ${t("title", locale)}`);
   lines.push("");
@@ -101,9 +112,10 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`## ${t("browseByCategory", locale)}`);
   lines.push("");
 
-  for (const item of data.categoryCounts) {
-    lines.push(`- \`${item.category}\`: **${item.count}**`);
-  }
+  data.categoryCounts.forEach((item, index) => {
+    const anchor = buildCategoryAnchor(index);
+    lines.push(`- [\`${item.category}\`](#${anchor}): **${item.count}**`);
+  });
 
   lines.push("");
   lines.push(`## ${t("featuredPrompts", locale)}`);
@@ -111,7 +123,21 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
   lines.push(`## ${t("allPrompts", locale)}`);
   lines.push("");
-  data.all.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
+
+  data.categoryCounts.forEach((item, index) => {
+    const anchor = buildCategoryAnchor(index);
+    const prompts = promptsByCategory.get(item.category) || [];
+
+    lines.push(`<a id="${anchor}"></a>`);
+    lines.push("");
+    lines.push(`### ${item.category} (${prompts.length})`);
+    lines.push("");
+
+    prompts.forEach((prompt, promptIndex) => {
+      lines.push(renderPrompt(prompt, promptIndex, locale));
+    });
+  });
+
   lines.push(`## ${t("contribute", locale)}`);
   lines.push("");
   lines.push(t("contributeDesc", locale));

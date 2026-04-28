@@ -64,13 +64,13 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
   ];
 
   if (prompt.video_url) {
-    lines.push(`- **${t("video", locale)}:** ${prompt.video_url}`);
+    lines.push(`- **${t("video", locale)}:** [${t("view", locale)}](${prompt.video_url})`);
     lines.push("");
     lines.push(`<video src="${prompt.video_url}" controls muted playsinline width="720"></video>`);
   }
 
   if (prompt.source_link) {
-    lines.push(`- **${t("sourceLink", locale)}:** ${prompt.source_link}`);
+    lines.push(`- **${t("sourceLink", locale)}:** [${t("view", locale)}](${prompt.source_link})`);
   }
 
   lines.push(
@@ -175,8 +175,8 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(renderLanguageNavigation(locale));
   lines.push(`## ${t("viewInGallery", locale)}`);
   lines.push("");
-  lines.push(`- ${t("promptLibrary", locale)}: ${buildPromptLibraryUrl(locale)}`);
-  lines.push(`- ${t("modelPage", locale)}: ${buildModelUrl(locale)}`);
+  lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
+  lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
   lines.push("");
   lines.push(renderModelIntro(locale));
   lines.push(`## ${t("stats", locale)}`);
@@ -221,8 +221,8 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(t("contributeDesc", locale));
   lines.push("");
-  lines.push(`- ${t("issueTemplate", locale)}: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml`);
-  lines.push(`- ${t("guide", locale)}: docs/CONTRIBUTING.md`);
+  lines.push(`- ${t("issueTemplate", locale)}: [${t("view", locale)}](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)`);
+  lines.push(`- ${t("guide", locale)}: [${t("view", locale)}](docs/CONTRIBUTING.md)`);
   lines.push("");
   lines.push(`## ${t("localUsage", locale)}`);
   lines.push("");

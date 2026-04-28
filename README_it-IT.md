@@ -15,8 +15,8 @@
 
 ## Vedi su AtlasCloud
 
-- Libreria Prompt: https://www.atlascloud.ai/happy-horse-1-prompt?locale=en
-- Pagina del Modello: https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683
+- Libreria Prompt: [Vedi](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en)
+- Pagina del Modello: [Vedi](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +40,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Prompt Totali | **800** |
 | Categorie | **12** |
 | Video di Anteprima | **800** |
-| Ultimo Aggiornamento | **2026-04-28T05:28:04.141Z** |
+| Ultimo Aggiornamento | **2026-04-28T07:39:24.625Z** |
 
 ## Sfoglia per Categoria
 
@@ -71,7 +71,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - **Fonte:** `custom`
 - **Autore:** hh_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -91,7 +91,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -111,7 +111,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -131,7 +131,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -151,7 +151,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -171,7 +171,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -191,7 +191,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -211,7 +211,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -231,7 +231,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -251,7 +251,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -271,7 +271,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -291,7 +291,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -311,7 +311,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -331,7 +331,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -351,7 +351,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -371,7 +371,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -391,7 +391,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -411,7 +411,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -431,7 +431,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -451,7 +451,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -471,7 +471,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -491,7 +491,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -511,7 +511,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -531,7 +531,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -551,7 +551,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -571,7 +571,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -591,7 +591,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -611,7 +611,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -631,7 +631,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -651,7 +651,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -671,7 +671,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -691,7 +691,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -711,7 +711,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -731,7 +731,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -751,7 +751,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -771,7 +771,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -791,7 +791,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -811,7 +811,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -831,7 +831,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -851,7 +851,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -871,7 +871,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -891,7 +891,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -911,7 +911,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -931,7 +931,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -951,7 +951,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -971,7 +971,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -991,7 +991,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1011,7 +1011,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1031,7 +1031,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1051,7 +1051,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1071,7 +1071,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1091,7 +1091,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1111,7 +1111,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1131,7 +1131,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1151,7 +1151,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1171,7 +1171,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1191,7 +1191,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1211,7 +1211,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1231,7 +1231,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1251,7 +1251,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1271,7 +1271,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1291,7 +1291,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1311,7 +1311,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -1331,7 +1331,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -1351,7 +1351,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1371,7 +1371,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1391,7 +1391,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1411,7 +1411,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1431,7 +1431,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1451,7 +1451,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1471,7 +1471,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1491,7 +1491,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1511,7 +1511,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1531,7 +1531,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1551,7 +1551,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1571,7 +1571,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1591,7 +1591,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1611,7 +1611,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1631,7 +1631,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1651,7 +1651,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1671,7 +1671,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1691,7 +1691,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1711,7 +1711,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1731,7 +1731,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1751,7 +1751,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1771,7 +1771,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1791,7 +1791,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1811,7 +1811,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1831,7 +1831,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1851,7 +1851,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1871,7 +1871,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1891,7 +1891,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1911,7 +1911,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1931,7 +1931,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -1951,7 +1951,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -1971,7 +1971,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -1991,7 +1991,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2011,7 +2011,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2031,7 +2031,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2051,7 +2051,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2071,7 +2071,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2091,7 +2091,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2111,7 +2111,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2131,7 +2131,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2151,7 +2151,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2171,7 +2171,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2191,7 +2191,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2211,7 +2211,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2231,7 +2231,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2251,7 +2251,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2271,7 +2271,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2291,7 +2291,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2311,7 +2311,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2331,7 +2331,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2351,7 +2351,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2371,7 +2371,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2391,7 +2391,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2411,7 +2411,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2431,7 +2431,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2451,7 +2451,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2471,7 +2471,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2491,7 +2491,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2511,7 +2511,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2531,7 +2531,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2551,7 +2551,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -2571,7 +2571,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -2591,7 +2591,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2611,7 +2611,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2631,7 +2631,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2651,7 +2651,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2671,7 +2671,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2691,7 +2691,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2711,7 +2711,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2731,7 +2731,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2751,7 +2751,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2771,7 +2771,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2791,7 +2791,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2811,7 +2811,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2831,7 +2831,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2851,7 +2851,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2871,7 +2871,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2891,7 +2891,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2911,7 +2911,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2931,7 +2931,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2951,7 +2951,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2971,7 +2971,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -2991,7 +2991,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3011,7 +3011,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3031,7 +3031,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3051,7 +3051,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3071,7 +3071,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3091,7 +3091,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3111,7 +3111,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3131,7 +3131,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3151,7 +3151,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3171,7 +3171,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -3191,7 +3191,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -3211,7 +3211,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3231,7 +3231,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3251,7 +3251,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3271,7 +3271,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3291,7 +3291,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3311,7 +3311,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3331,7 +3331,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3351,7 +3351,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3371,7 +3371,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3391,7 +3391,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3411,7 +3411,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3431,7 +3431,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3451,7 +3451,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3471,7 +3471,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3491,7 +3491,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3511,7 +3511,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3531,7 +3531,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3551,7 +3551,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3571,7 +3571,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3591,7 +3591,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3611,7 +3611,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3631,7 +3631,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3651,7 +3651,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3671,7 +3671,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3691,7 +3691,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3711,7 +3711,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3731,7 +3731,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3751,7 +3751,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3771,7 +3771,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3791,7 +3791,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -3811,7 +3811,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_008
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -3831,7 +3831,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3851,7 +3851,7 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 - **Fonte:** `custom`
 - **Autore:** hh_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3871,7 +3871,7 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 - **Fonte:** `custom`
 - **Autore:** hh_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3891,7 +3891,7 @@ A giant whale carries an ancient library on its back and swims slowly through th
 - **Fonte:** `custom`
 - **Autore:** hh_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3911,7 +3911,7 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 - **Fonte:** `custom`
 - **Autore:** hh_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3931,7 +3931,7 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 - **Fonte:** `custom`
 - **Autore:** hh_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3951,7 +3951,7 @@ The mirror train passes through the white salt lake desert, and the car body ref
 - **Fonte:** `custom`
 - **Autore:** hh_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3971,7 +3971,7 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 - **Fonte:** `custom`
 - **Autore:** hh_008_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -3991,7 +3991,7 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 - **Fonte:** `custom`
 - **Autore:** hh_009_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4011,7 +4011,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4031,7 +4031,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4051,7 +4051,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4071,7 +4071,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4091,7 +4091,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4111,7 +4111,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4131,7 +4131,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4151,7 +4151,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4171,7 +4171,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4191,7 +4191,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4211,7 +4211,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4231,7 +4231,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4251,7 +4251,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4271,7 +4271,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4291,7 +4291,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4311,7 +4311,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4331,7 +4331,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4351,7 +4351,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4371,7 +4371,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4391,7 +4391,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4411,7 +4411,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -4431,7 +4431,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `custom`
 - **Autore:** hh_009
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4451,7 +4451,7 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 - **Fonte:** `custom`
 - **Autore:** hh_010
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4471,7 +4471,7 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 - **Fonte:** `custom`
 - **Autore:** hh_011
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4491,7 +4491,7 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 - **Fonte:** `custom`
 - **Autore:** hh_012
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4511,7 +4511,7 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 - **Fonte:** `custom`
 - **Autore:** hh_013
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4531,7 +4531,7 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 - **Fonte:** `custom`
 - **Autore:** hh_014
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4551,7 +4551,7 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 - **Fonte:** `custom`
 - **Autore:** hh_015
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4571,7 +4571,7 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 - **Fonte:** `custom`
 - **Autore:** hh_016
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4591,7 +4591,7 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 - **Fonte:** `custom`
 - **Autore:** hh_017
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4611,7 +4611,7 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 - **Fonte:** `custom`
 - **Autore:** hh_018
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4631,7 +4631,7 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 - **Fonte:** `custom`
 - **Autore:** hh_019
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4651,7 +4651,7 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 - **Fonte:** `custom`
 - **Autore:** hh_020
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4671,7 +4671,7 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 - **Fonte:** `custom`
 - **Autore:** hh_021
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4691,7 +4691,7 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 - **Fonte:** `custom`
 - **Autore:** hh_022
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4711,7 +4711,7 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 - **Fonte:** `custom`
 - **Autore:** hh_023
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4731,7 +4731,7 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 - **Fonte:** `custom`
 - **Autore:** hh_024
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4751,7 +4751,7 @@ At the subway station in the early morning, a jazz band played on the platform, 
 - **Fonte:** `custom`
 - **Autore:** hh_025
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4771,7 +4771,7 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 - **Fonte:** `custom`
 - **Autore:** hh_026
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4791,7 +4791,7 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 - **Fonte:** `custom`
 - **Autore:** hh_027
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4811,7 +4811,7 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 - **Fonte:** `custom`
 - **Autore:** hh_028
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4831,7 +4831,7 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 - **Fonte:** `custom`
 - **Autore:** hh_029
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4851,7 +4851,7 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 - **Fonte:** `custom`
 - **Autore:** hh_030
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4875,7 +4875,7 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 - **Fonte:** `twitter`
 - **Autore:** tw_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4895,7 +4895,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4915,7 +4915,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4935,7 +4935,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4955,7 +4955,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4975,7 +4975,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -4995,7 +4995,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5015,7 +5015,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5035,7 +5035,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5055,7 +5055,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5075,7 +5075,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5095,7 +5095,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5115,7 +5115,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5135,7 +5135,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5155,7 +5155,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5175,7 +5175,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5195,7 +5195,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5215,7 +5215,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5235,7 +5235,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5255,7 +5255,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5275,7 +5275,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5295,7 +5295,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5315,7 +5315,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5335,7 +5335,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -5355,7 +5355,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -5375,7 +5375,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5395,7 +5395,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5415,7 +5415,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5435,7 +5435,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5455,7 +5455,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5475,7 +5475,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5495,7 +5495,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5515,7 +5515,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5535,7 +5535,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5555,7 +5555,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5575,7 +5575,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -5595,7 +5595,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5615,7 +5615,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5635,7 +5635,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5655,7 +5655,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5675,7 +5675,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5695,7 +5695,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5715,7 +5715,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5735,7 +5735,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5755,7 +5755,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5775,7 +5775,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5795,7 +5795,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -5815,7 +5815,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5835,7 +5835,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5855,7 +5855,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5875,7 +5875,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5895,7 +5895,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5915,7 +5915,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5935,7 +5935,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5955,7 +5955,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5975,7 +5975,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -5995,7 +5995,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -6015,7 +6015,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -6035,7 +6035,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6055,7 +6055,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6075,7 +6075,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6095,7 +6095,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6115,7 +6115,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6135,7 +6135,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6155,7 +6155,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6175,7 +6175,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6195,7 +6195,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6215,7 +6215,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6235,7 +6235,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6255,7 +6255,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -6275,7 +6275,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_008
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6295,7 +6295,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6315,7 +6315,7 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 - **Fonte:** `twitter`
 - **Autore:** tw_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6335,7 +6335,7 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 - **Fonte:** `twitter`
 - **Autore:** tw_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6355,7 +6355,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6375,7 +6375,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 - **Fonte:** `twitter`
 - **Autore:** tw_008_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6395,7 +6395,7 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 - **Fonte:** `twitter`
 - **Autore:** tw_009_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6415,7 +6415,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6435,7 +6435,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6455,7 +6455,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6475,7 +6475,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6495,7 +6495,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -6515,7 +6515,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `twitter`
 - **Autore:** tw_009
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6535,7 +6535,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 - **Fonte:** `twitter`
 - **Autore:** tw_016
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6555,7 +6555,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 - **Fonte:** `twitter`
 - **Autore:** tw_018
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6575,7 +6575,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 - **Fonte:** `twitter`
 - **Autore:** tw_021
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6595,7 +6595,7 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 - **Fonte:** `twitter`
 - **Autore:** tw_022
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6615,7 +6615,7 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 - **Fonte:** `twitter`
 - **Autore:** tw_024
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6639,7 +6639,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 - **Fonte:** `official`
 - **Autore:** av_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6659,7 +6659,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6679,7 +6679,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6699,7 +6699,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6719,7 +6719,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6739,7 +6739,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6759,7 +6759,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6779,7 +6779,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6799,7 +6799,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6819,7 +6819,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6839,7 +6839,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V2
 - **Fonte:** `official`
 - **Autore:** av_009_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6859,7 +6859,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V2
 - **Fonte:** `official`
 - **Autore:** av_010_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6879,7 +6879,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -6899,7 +6899,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -6919,7 +6919,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -6939,7 +6939,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -6959,7 +6959,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -6979,7 +6979,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -6999,7 +6999,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -7019,7 +7019,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -7039,7 +7039,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -7059,7 +7059,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V3
 - **Fonte:** `official`
 - **Autore:** av_009_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -7079,7 +7079,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V3
 - **Fonte:** `official`
 - **Autore:** av_010_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -7099,7 +7099,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -7119,7 +7119,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7139,7 +7139,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7159,7 +7159,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7179,7 +7179,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7199,7 +7199,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7219,7 +7219,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7239,7 +7239,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7259,7 +7259,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7279,7 +7279,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V4
 - **Fonte:** `official`
 - **Autore:** av_009_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7299,7 +7299,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V4
 - **Fonte:** `official`
 - **Autore:** av_010_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -7319,7 +7319,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -7339,7 +7339,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7359,7 +7359,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7379,7 +7379,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7399,7 +7399,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7419,7 +7419,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7439,7 +7439,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7459,7 +7459,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7479,7 +7479,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7499,7 +7499,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V5
 - **Fonte:** `official`
 - **Autore:** av_009_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7519,7 +7519,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V5
 - **Fonte:** `official`
 - **Autore:** av_010_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -7539,7 +7539,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -7559,7 +7559,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7579,7 +7579,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7599,7 +7599,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7619,7 +7619,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7639,7 +7639,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7659,7 +7659,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7679,7 +7679,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7699,7 +7699,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7719,7 +7719,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V6
 - **Fonte:** `official`
 - **Autore:** av_009_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7739,7 +7739,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V6
 - **Fonte:** `official`
 - **Autore:** av_010_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -7759,7 +7759,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -7779,7 +7779,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7799,7 +7799,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7819,7 +7819,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7839,7 +7839,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7859,7 +7859,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7879,7 +7879,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7899,7 +7899,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7919,7 +7919,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7939,7 +7939,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V7
 - **Fonte:** `official`
 - **Autore:** av_009_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7959,7 +7959,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V7
 - **Fonte:** `official`
 - **Autore:** av_010_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -7979,7 +7979,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_008
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -7999,7 +7999,7 @@ Intimate couple scene with natural voice acting and emotional nuance.
 - **Fonte:** `official`
 - **Autore:** av_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8019,7 +8019,7 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 - **Fonte:** `official`
 - **Autore:** av_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8039,7 +8039,7 @@ Based on the provided office building promotional photos, generate a 15-second c
 - **Fonte:** `official`
 - **Autore:** av_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8059,7 +8059,7 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 - **Fonte:** `official`
 - **Autore:** av_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8079,7 +8079,7 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 - **Fonte:** `official`
 - **Autore:** av_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8099,7 +8099,7 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 - **Fonte:** `official`
 - **Autore:** av_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8119,7 +8119,7 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 - **Fonte:** `official`
 - **Autore:** av_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8139,7 +8139,7 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 - **Fonte:** `official`
 - **Autore:** av_008_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8159,7 +8159,7 @@ Intimate couple scene with natural voice acting and emotional nuance. V8
 - **Fonte:** `official`
 - **Autore:** av_009_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8179,7 +8179,7 @@ Comedy scene with authentic Sichuan dialect and character interaction. V8
 - **Fonte:** `official`
 - **Autore:** av_010_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -8199,7 +8199,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** av_009
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8219,7 +8219,7 @@ Comedy scene with authentic Sichuan dialect and character interaction.
 - **Fonte:** `official`
 - **Autore:** av_010
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8243,7 +8243,7 @@ Using documentary style and voice, present the content from image 1, including t
 - **Fonte:** `official`
 - **Autore:** ce_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8263,7 +8263,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8283,7 +8283,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8303,7 +8303,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8323,7 +8323,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8343,7 +8343,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8363,7 +8363,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8383,7 +8383,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8403,7 +8403,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8423,7 +8423,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8443,7 +8443,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8463,7 +8463,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8483,7 +8483,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8503,7 +8503,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8523,7 +8523,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8543,7 +8543,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8563,7 +8563,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8583,7 +8583,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8603,7 +8603,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -8623,7 +8623,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8643,7 +8643,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8663,7 +8663,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8683,7 +8683,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8703,7 +8703,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8723,7 +8723,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8743,7 +8743,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8763,7 +8763,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8783,7 +8783,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -8803,7 +8803,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -8823,7 +8823,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8843,7 +8843,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8863,7 +8863,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8883,7 +8883,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8903,7 +8903,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8923,7 +8923,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8943,7 +8943,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8963,7 +8963,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -8983,7 +8983,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9003,7 +9003,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9023,7 +9023,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9043,7 +9043,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9063,7 +9063,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9083,7 +9083,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9103,7 +9103,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9123,7 +9123,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9143,7 +9143,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -9163,7 +9163,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9183,7 +9183,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9203,7 +9203,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9223,7 +9223,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9243,7 +9243,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9263,7 +9263,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9283,7 +9283,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9303,7 +9303,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9323,7 +9323,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -9343,7 +9343,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_008
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9363,7 +9363,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ce_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9383,7 +9383,7 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 - **Fonte:** `official`
 - **Autore:** ce_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9403,7 +9403,7 @@ Reference the facial features of the model in the first image. The model wears t
 - **Fonte:** `official`
 - **Autore:** ce_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9423,7 +9423,7 @@ Reference the advertising creativity of the video, use the provided down jacket 
 - **Fonte:** `official`
 - **Autore:** ce_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9443,7 +9443,7 @@ Black and white ink wash style, the character from @image1 references the effect
 - **Fonte:** `official`
 - **Autore:** ce_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9463,7 +9463,7 @@ Replace the first frame character of @video1 with @image1, completely reference 
 - **Fonte:** `official`
 - **Autore:** ce_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9483,7 +9483,7 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 - **Fonte:** `official`
 - **Autore:** ce_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9503,7 +9503,7 @@ Opening with black screen, reference the particle effects and materials of video
 - **Fonte:** `official`
 - **Autore:** ce_008_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -9527,7 +9527,7 @@ The character from @image1 references the movements and facial expression change
 - **Fonte:** `official`
 - **Autore:** ac_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4" controls muted playsinline width="720"></video>
 
@@ -9547,7 +9547,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4" controls muted playsinline width="720"></video>
 
@@ -9567,7 +9567,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9587,7 +9587,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9607,7 +9607,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9627,7 +9627,7 @@ Product showcase with rotating camera and environment transformation. V2
 - **Fonte:** `official`
 - **Autore:** ac_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9647,7 +9647,7 @@ Synchronized camera push-pull movements matching dance choreography. V2
 - **Fonte:** `official`
 - **Autore:** ac_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9667,7 +9667,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9687,7 +9687,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9707,7 +9707,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
 
@@ -9727,7 +9727,7 @@ Product showcase with rotating camera and environment transformation.
 - **Fonte:** `official`
 - **Autore:** ac_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9747,7 +9747,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9767,7 +9767,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9787,7 +9787,7 @@ Product showcase with rotating camera and environment transformation. V3
 - **Fonte:** `official`
 - **Autore:** ac_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9807,7 +9807,7 @@ Synchronized camera push-pull movements matching dance choreography. V3
 - **Fonte:** `official`
 - **Autore:** ac_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9827,7 +9827,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9847,7 +9847,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -9867,7 +9867,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -9887,7 +9887,7 @@ Synchronized camera push-pull movements matching dance choreography.
 - **Fonte:** `official`
 - **Autore:** ac_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -9907,7 +9907,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -9927,7 +9927,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -9947,7 +9947,7 @@ Product showcase with rotating camera and environment transformation. V4
 - **Fonte:** `official`
 - **Autore:** ac_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -9967,7 +9967,7 @@ Synchronized camera push-pull movements matching dance choreography. V4
 - **Fonte:** `official`
 - **Autore:** ac_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -9987,7 +9987,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -10007,7 +10007,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -10027,7 +10027,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10047,7 +10047,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10067,7 +10067,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10087,7 +10087,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10107,7 +10107,7 @@ Product showcase with rotating camera and environment transformation. V5
 - **Fonte:** `official`
 - **Autore:** ac_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10127,7 +10127,7 @@ Synchronized camera push-pull movements matching dance choreography. V5
 - **Fonte:** `official`
 - **Autore:** ac_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10147,7 +10147,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10167,7 +10167,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -10187,7 +10187,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10207,7 +10207,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10227,7 +10227,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10247,7 +10247,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10267,7 +10267,7 @@ Product showcase with rotating camera and environment transformation. V6
 - **Fonte:** `official`
 - **Autore:** ac_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10287,7 +10287,7 @@ Synchronized camera push-pull movements matching dance choreography. V6
 - **Fonte:** `official`
 - **Autore:** ac_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10307,7 +10307,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10327,7 +10327,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -10347,7 +10347,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10367,7 +10367,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10387,7 +10387,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10407,7 +10407,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10427,7 +10427,7 @@ Product showcase with rotating camera and environment transformation. V7
 - **Fonte:** `official`
 - **Autore:** ac_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10447,7 +10447,7 @@ Synchronized camera push-pull movements matching dance choreography. V7
 - **Fonte:** `official`
 - **Autore:** ac_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10467,7 +10467,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10487,7 +10487,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -10507,7 +10507,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ac_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10527,7 +10527,7 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10547,7 +10547,7 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 - **Fonte:** `official`
 - **Autore:** ac_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10567,7 +10567,7 @@ Product showcase with rotating camera and environment transformation. V8
 - **Fonte:** `official`
 - **Autore:** ac_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10587,7 +10587,7 @@ Synchronized camera push-pull movements matching dance choreography. V8
 - **Fonte:** `official`
 - **Autore:** ac_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10607,7 +10607,7 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 - **Fonte:** `official`
 - **Autore:** ac_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10627,7 +10627,7 @@ Reference the character movements from video 1, reference the orbital camera cin
 - **Fonte:** `official`
 - **Autore:** ac_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -10651,7 +10651,7 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 - **Fonte:** `official`
 - **Autore:** ne_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10671,7 +10671,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10691,7 +10691,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10711,7 +10711,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10731,7 +10731,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10751,7 +10751,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10771,7 +10771,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10791,7 +10791,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10811,7 +10811,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10831,7 +10831,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -10851,7 +10851,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10871,7 +10871,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10891,7 +10891,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10911,7 +10911,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10931,7 +10931,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10951,7 +10951,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10971,7 +10971,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -10991,7 +10991,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11011,7 +11011,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11031,7 +11031,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11051,7 +11051,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11071,7 +11071,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11091,7 +11091,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11111,7 +11111,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11131,7 +11131,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -11151,7 +11151,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11171,7 +11171,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11191,7 +11191,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11211,7 +11211,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11231,7 +11231,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11251,7 +11251,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11271,7 +11271,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11291,7 +11291,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -11311,7 +11311,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11331,7 +11331,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11351,7 +11351,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11371,7 +11371,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11391,7 +11391,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11411,7 +11411,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11431,7 +11431,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11451,7 +11451,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -11471,7 +11471,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_007
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11491,7 +11491,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11511,7 +11511,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11531,7 +11531,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11551,7 +11551,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11571,7 +11571,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11591,7 +11591,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11611,7 +11611,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -11631,7 +11631,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** ne_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11651,7 +11651,7 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 - **Fonte:** `official`
 - **Autore:** ne_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11671,7 +11671,7 @@ Reference the storyboard script of the documentary from @image1, reference the s
 - **Fonte:** `official`
 - **Autore:** ne_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11691,7 +11691,7 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 - **Fonte:** `official`
 - **Autore:** ne_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11711,7 +11711,7 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 - **Fonte:** `official`
 - **Autore:** ne_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11731,7 +11731,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 - **Fonte:** `official`
 - **Autore:** ne_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11751,7 +11751,7 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 - **Fonte:** `official`
 - **Autore:** ne_007_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -11775,7 +11775,7 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 - **Fonte:** `official`
 - **Autore:** cs_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4" controls muted playsinline width="720"></video>
 
@@ -11795,7 +11795,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4" controls muted playsinline width="720"></video>
 
@@ -11815,7 +11815,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11835,7 +11835,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11855,7 +11855,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11875,7 +11875,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11895,7 +11895,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11915,7 +11915,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -11935,7 +11935,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
 
@@ -11955,7 +11955,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -11975,7 +11975,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -11995,7 +11995,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12015,7 +12015,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12035,7 +12035,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12055,7 +12055,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12075,7 +12075,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
 
@@ -12095,7 +12095,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12115,7 +12115,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12135,7 +12135,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12155,7 +12155,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12175,7 +12175,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12195,7 +12195,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -12215,7 +12215,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
 
@@ -12235,7 +12235,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12255,7 +12255,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12275,7 +12275,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12295,7 +12295,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12315,7 +12315,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12335,7 +12335,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -12355,7 +12355,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_006
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
 
@@ -12375,7 +12375,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12395,7 +12395,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12415,7 +12415,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12435,7 +12435,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12455,7 +12455,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12475,7 +12475,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -12495,7 +12495,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12515,7 +12515,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12535,7 +12535,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12555,7 +12555,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12575,7 +12575,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12595,7 +12595,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -12615,7 +12615,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** cs_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12635,7 +12635,7 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 - **Fonte:** `official`
 - **Autore:** cs_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12655,7 +12655,7 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 - **Fonte:** `official`
 - **Autore:** cs_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12675,7 +12675,7 @@ Reference all transitions and camera movements from @video1, one continuous take
 - **Fonte:** `official`
 - **Autore:** cs_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12695,7 +12695,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 - **Fonte:** `official`
 - **Autore:** cs_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12715,7 +12715,7 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 - **Fonte:** `official`
 - **Autore:** cs_006_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -12739,7 +12739,7 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 - **Fonte:** `official`
 - **Autore:** ot_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12759,7 +12759,7 @@ Dynamic one-take following runner through multiple environments.
 - **Fonte:** `official`
 - **Autore:** ot_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12779,7 +12779,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12799,7 +12799,7 @@ Dynamic one-take following runner through multiple environments. V2
 - **Fonte:** `official`
 - **Autore:** ot_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12819,7 +12819,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12839,7 +12839,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12859,7 +12859,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12879,7 +12879,7 @@ Thrilling first-person roller coaster experience with increasing speed. V2
 - **Fonte:** `official`
 - **Autore:** ot_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -12899,7 +12899,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12919,7 +12919,7 @@ Dynamic one-take following runner through multiple environments. V3
 - **Fonte:** `official`
 - **Autore:** ot_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12939,7 +12939,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12959,7 +12959,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12979,7 +12979,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -12999,7 +12999,7 @@ Thrilling first-person roller coaster experience with increasing speed. V3
 - **Fonte:** `official`
 - **Autore:** ot_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13019,7 +13019,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13039,7 +13039,7 @@ Dynamic one-take following runner through multiple environments. V4
 - **Fonte:** `official`
 - **Autore:** ot_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13059,7 +13059,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13079,7 +13079,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13099,7 +13099,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13119,7 +13119,7 @@ Thrilling first-person roller coaster experience with increasing speed. V4
 - **Fonte:** `official`
 - **Autore:** ot_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13139,7 +13139,7 @@ Thrilling first-person roller coaster experience with increasing speed.
 - **Fonte:** `official`
 - **Autore:** ot_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13159,7 +13159,7 @@ Dynamic one-take following runner through multiple environments. V5
 - **Fonte:** `official`
 - **Autore:** ot_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13179,7 +13179,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13199,7 +13199,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13219,7 +13219,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13239,7 +13239,7 @@ Thrilling first-person roller coaster experience with increasing speed. V5
 - **Fonte:** `official`
 - **Autore:** ot_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -13259,7 +13259,7 @@ Dynamic one-take following runner through multiple environments. V6
 - **Fonte:** `official`
 - **Autore:** ot_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -13279,7 +13279,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -13299,7 +13299,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -13319,7 +13319,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -13339,7 +13339,7 @@ Thrilling first-person roller coaster experience with increasing speed. V6
 - **Fonte:** `official`
 - **Autore:** ot_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -13359,7 +13359,7 @@ Dynamic one-take following runner through multiple environments. V7
 - **Fonte:** `official`
 - **Autore:** ot_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -13379,7 +13379,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -13399,7 +13399,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -13419,7 +13419,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -13439,7 +13439,7 @@ Thrilling first-person roller coaster experience with increasing speed. V7
 - **Fonte:** `official`
 - **Autore:** ot_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -13459,7 +13459,7 @@ Dynamic one-take following runner through multiple environments. V8
 - **Fonte:** `official`
 - **Autore:** ot_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -13479,7 +13479,7 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 - **Fonte:** `official`
 - **Autore:** ot_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -13499,7 +13499,7 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 - **Fonte:** `official`
 - **Autore:** ot_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -13519,7 +13519,7 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 - **Fonte:** `official`
 - **Autore:** ot_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -13543,7 +13543,7 @@ Thrilling first-person roller coaster experience with increasing speed. V8
 - **Fonte:** `official`
 - **Autore:** ve_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13563,7 +13563,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13583,7 +13583,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13603,7 +13603,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13623,7 +13623,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13643,7 +13643,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13663,7 +13663,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13683,7 +13683,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13703,7 +13703,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -13723,7 +13723,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -13743,7 +13743,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -13763,7 +13763,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -13783,7 +13783,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -13803,7 +13803,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13823,7 +13823,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13843,7 +13843,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13863,7 +13863,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13883,7 +13883,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13903,7 +13903,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -13923,7 +13923,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_005
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -13943,7 +13943,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13963,7 +13963,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -13983,7 +13983,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14003,7 +14003,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14023,7 +14023,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14043,7 +14043,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14063,7 +14063,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14083,7 +14083,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14103,7 +14103,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14123,7 +14123,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14143,7 +14143,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14163,7 +14163,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14183,7 +14183,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14203,7 +14203,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14223,7 +14223,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14243,7 +14243,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ve_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14263,7 +14263,7 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 - **Fonte:** `official`
 - **Autore:** ve_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14283,7 +14283,7 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 - **Fonte:** `official`
 - **Autore:** ve_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14303,7 +14303,7 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 - **Fonte:** `official`
 - **Autore:** ve_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14323,7 +14323,7 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 - **Fonte:** `official`
 - **Autore:** ve_005_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14347,7 +14347,7 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 - **Fonte:** `official`
 - **Autore:** ms_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14367,7 +14367,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14387,7 +14387,7 @@ Character portraits appearing on music keyframes with enhanced dynamics.
 - **Fonte:** `official`
 - **Autore:** ms_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14407,7 +14407,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14427,7 +14427,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V2
 - **Fonte:** `official`
 - **Autore:** ms_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14447,7 +14447,7 @@ Scenic transitions perfectly timed to music rhythm. V2
 - **Fonte:** `official`
 - **Autore:** ms_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14467,7 +14467,7 @@ Storyboarded anime sequence with dramatic timing. V2
 - **Fonte:** `official`
 - **Autore:** ms_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14487,7 +14487,7 @@ Scenic transitions perfectly timed to music rhythm.
 - **Fonte:** `official`
 - **Autore:** ms_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -14507,7 +14507,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -14527,7 +14527,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V3
 - **Fonte:** `official`
 - **Autore:** ms_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -14547,7 +14547,7 @@ Scenic transitions perfectly timed to music rhythm. V3
 - **Fonte:** `official`
 - **Autore:** ms_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -14567,7 +14567,7 @@ Storyboarded anime sequence with dramatic timing. V3
 - **Fonte:** `official`
 - **Autore:** ms_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -14587,7 +14587,7 @@ Storyboarded anime sequence with dramatic timing.
 - **Fonte:** `official`
 - **Autore:** ms_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -14607,7 +14607,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -14627,7 +14627,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V4
 - **Fonte:** `official`
 - **Autore:** ms_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -14647,7 +14647,7 @@ Scenic transitions perfectly timed to music rhythm. V4
 - **Fonte:** `official`
 - **Autore:** ms_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -14667,7 +14667,7 @@ Storyboarded anime sequence with dramatic timing. V4
 - **Fonte:** `official`
 - **Autore:** ms_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14687,7 +14687,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14707,7 +14707,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V5
 - **Fonte:** `official`
 - **Autore:** ms_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14727,7 +14727,7 @@ Scenic transitions perfectly timed to music rhythm. V5
 - **Fonte:** `official`
 - **Autore:** ms_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -14747,7 +14747,7 @@ Storyboarded anime sequence with dramatic timing. V5
 - **Fonte:** `official`
 - **Autore:** ms_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14767,7 +14767,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14787,7 +14787,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V6
 - **Fonte:** `official`
 - **Autore:** ms_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14807,7 +14807,7 @@ Scenic transitions perfectly timed to music rhythm. V6
 - **Fonte:** `official`
 - **Autore:** ms_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -14827,7 +14827,7 @@ Storyboarded anime sequence with dramatic timing. V6
 - **Fonte:** `official`
 - **Autore:** ms_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14847,7 +14847,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14867,7 +14867,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V7
 - **Fonte:** `official`
 - **Autore:** ms_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14887,7 +14887,7 @@ Scenic transitions perfectly timed to music rhythm. V7
 - **Fonte:** `official`
 - **Autore:** ms_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -14907,7 +14907,7 @@ Storyboarded anime sequence with dramatic timing. V7
 - **Fonte:** `official`
 - **Autore:** ms_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14927,7 +14927,7 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 - **Fonte:** `official`
 - **Autore:** ms_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14947,7 +14947,7 @@ Character portraits appearing on music keyframes with enhanced dynamics. V8
 - **Fonte:** `official`
 - **Autore:** ms_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14967,7 +14967,7 @@ Scenic transitions perfectly timed to music rhythm. V8
 - **Fonte:** `official`
 - **Autore:** ms_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -14991,7 +14991,7 @@ Storyboarded anime sequence with dramatic timing. V8
 - **Fonte:** `official`
 - **Autore:** ur_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
 
@@ -15011,7 +15011,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
 
@@ -15031,7 +15031,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15051,7 +15051,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15071,7 +15071,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15091,7 +15091,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15111,7 +15111,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
 
@@ -15131,7 +15131,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15151,7 +15151,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15171,7 +15171,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15191,7 +15191,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15211,7 +15211,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_004
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
 
@@ -15231,7 +15231,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15251,7 +15251,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15271,7 +15271,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15291,7 +15291,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15311,7 +15311,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15331,7 +15331,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15351,7 +15351,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15371,7 +15371,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15391,7 +15391,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15411,7 +15411,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15431,7 +15431,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15451,7 +15451,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15471,7 +15471,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -15491,7 +15491,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -15511,7 +15511,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -15531,7 +15531,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -15551,7 +15551,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ur_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -15571,7 +15571,7 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 - **Fonte:** `official`
 - **Autore:** ur_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -15591,7 +15591,7 @@ The character in the painting has a guilty expression, eyes looking left and rig
 - **Fonte:** `official`
 - **Autore:** ur_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -15611,7 +15611,7 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 - **Fonte:** `official`
 - **Autore:** ur_004_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -15635,7 +15635,7 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 - **Fonte:** `official`
 - **Autore:** ep_001
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15655,7 +15655,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15675,7 +15675,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_001_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15695,7 +15695,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15715,7 +15715,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v2
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15735,7 +15735,7 @@ Comedic dramatic performance with exaggerated expression. V2
 - **Fonte:** `official`
 - **Autore:** ep_003
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
 
@@ -15755,7 +15755,7 @@ Comedic dramatic performance with exaggerated expression.
 - **Fonte:** `official`
 - **Autore:** ep_001_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15775,7 +15775,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15795,7 +15795,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v3
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4" controls muted playsinline width="720"></video>
 
@@ -15815,7 +15815,7 @@ Comedic dramatic performance with exaggerated expression. V3
 - **Fonte:** `official`
 - **Autore:** ep_001_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15835,7 +15835,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15855,7 +15855,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v4
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4" controls muted playsinline width="720"></video>
 
@@ -15875,7 +15875,7 @@ Comedic dramatic performance with exaggerated expression. V4
 - **Fonte:** `official`
 - **Autore:** ep_001_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15895,7 +15895,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15915,7 +15915,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v5
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4" controls muted playsinline width="720"></video>
 
@@ -15935,7 +15935,7 @@ Comedic dramatic performance with exaggerated expression. V5
 - **Fonte:** `official`
 - **Autore:** ep_001_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15955,7 +15955,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15975,7 +15975,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v6
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4" controls muted playsinline width="720"></video>
 
@@ -15995,7 +15995,7 @@ Comedic dramatic performance with exaggerated expression. V6
 - **Fonte:** `official`
 - **Autore:** ep_001_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -16015,7 +16015,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -16035,7 +16035,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v7
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4" controls muted playsinline width="720"></video>
 
@@ -16055,7 +16055,7 @@ Comedic dramatic performance with exaggerated expression. V7
 - **Fonte:** `official`
 - **Autore:** ep_001_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -16075,7 +16075,7 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 - **Fonte:** `official`
 - **Autore:** ep_002_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -16095,7 +16095,7 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 - **Fonte:** `official`
 - **Autore:** ep_003_v8
 - **Lingua:** `it-IT`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4" controls muted playsinline width="720"></video>
 
@@ -16113,8 +16113,8 @@ Comedic dramatic performance with exaggerated expression. V8
 
 Invia una issue GitHub con prompt completo, categoria e URL di anteprima. Dopo l'approvazione, il workflow lo sincronizzera nel dataset.
 
-- Template Issue: https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml
-- Guida: docs/CONTRIBUTING.md
+- Template Issue: [Vedi](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Guida: [Vedi](docs/CONTRIBUTING.md)
 
 ## Uso Locale
 
@@ -16126,4 +16126,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-04-28T05:28:04.141Z
+> Questo README e generato automaticamente. 2026-04-28T07:39:24.625Z

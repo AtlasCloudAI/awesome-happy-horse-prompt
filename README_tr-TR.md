@@ -40,22 +40,22 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Toplam Prompt | **800** |
 | Kategoriler | **12** |
 | Onizleme Videolari | **800** |
-| Son Guncelleme | **2026-04-28T03:27:09.553Z** |
+| Son Guncelleme | **2026-04-28T05:05:44.005Z** |
 
 ## Kategoriye Gore Gozat
 
-- [`HappyHorse Creative Batch`](#category-1): **240**
-- [`Twitter Community`](#category-2): **88**
-- [`音频与语音合成`](#category-3): **80**
-- [`创意视觉特效`](#category-4): **64**
-- [`剧情发展与延伸`](#category-5): **56**
-- [`高级运镜动作`](#category-6): **56**
-- [`角色与场景一致性`](#category-7): **48**
-- [`一镜到底`](#category-8): **40**
-- [`视频编辑与混剪`](#category-9): **40**
-- [`超逼真视频生成`](#category-10): **32**
-- [`音乐卡点同步`](#category-11): **32**
-- [`情绪演绎`](#category-12): **24**
+- [`HappyHorse Yaratici Seri`](#category-1): **240**
+- [`Twitter Toplulugu`](#category-2): **88**
+- [`Ses ve Konuşma Sentezi`](#category-3): **80**
+- [`Yaratıcı Görsel Efektler`](#category-4): **64**
+- [`Gelişmiş Kamera Hareketleri`](#category-5): **56**
+- [`Hikâye Geliştirme ve Uzatma`](#category-6): **56**
+- [`Karakter ve Sahne Tutarlılığı`](#category-7): **48**
+- [`Tek Çekim Sinematografisi`](#category-8): **40**
+- [`Video Düzenleme ve Remiks`](#category-9): **40**
+- [`Müzik Senkronizasyonu`](#category-10): **32**
+- [`Ultra Gerçekçi Video Üretimi`](#category-11): **32**
+- [`Duygusal Performans`](#category-12): **24**
 
 ## One Cikan Promptlar
 
@@ -63,11 +63,11 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### HappyHorse Creative Batch (240)
+### HappyHorse Yaratici Seri (240)
 
-### No. 1: Neon Opera Cathedral
+### No. 1: Neon Opera Katedrali
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001
 - **Dil:** `tr`
@@ -77,17 +77,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影的近景开始，低机位缓慢推进，随后穿过彩窗升至高空俯拍整座城市在节拍中呼吸。电影级光影，体积雾，潮湿反射，强节奏镜头推进，超现实。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü.
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影的近景开始，低机位缓慢推进，随后穿过彩窗升至高空俯拍整座城市在节拍中呼吸。电影级光影，体积雾，潮湿反射，强节奏镜头推进，超现实。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü.
 ```
 
-### No. 2: Clockwork Tea House
+### No. 2: Otomatik Çay Evi
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002
 - **Dil:** `tr`
@@ -97,577 +97,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是一只机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头先贴近茶杯边缘捕捉旋转茶汤，再环绕桌面推进到半空，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，轻雾漂浮，梦幻质感，精致机械结构。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku.
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是一只机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头先贴近茶杯边缘捕捉旋转茶汤，再环绕桌面推进到半空，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，轻雾漂浮，梦幻质感，精致机械结构。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku.
 ```
 
-### No. 3: Whale Library Sky
+### No. 3: Neon Opera Katedrali V2
 
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写慢慢拉远到超广角，全景呈现天空海洋般的云层尺度，再切入角色追逐动作。史诗感，宁静又震撼，清晨金色体积光，空气透视明显。
-
-#### Prompt
-
-```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写慢慢拉远到超广角，全景呈现天空海洋般的云层尺度，再切入角色追逐动作。史诗感，宁静又震撼，清晨金色体积光，空气透视明显。
-```
-
-### No. 4: Volcano Ramen Night
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随热汤上桌，再快速切到拉面甩动与熔岩背景的对比画面。高对比电影感，炽热光晕，蒸汽翻涌，夜色与火光形成强烈视觉反差。
-
-#### Prompt
-
-```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随热汤上桌，再快速切到拉面甩动与熔岩背景的对比画面。高对比电影感，炽热光晕，蒸汽翻涌，夜色与火光形成强烈视觉反差。
-```
-
-### No. 5: Mini Dragon Gardener
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓之间微距推进，露珠里倒映出小龙的身影，再切到它停在枝头整理花盆。童话风但写实材质，温暖晨光，浅景深，细腻纹理，轻盈空气感。
-
-#### Prompt
-
-```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓之间微距推进，露珠里倒映出小龙的身影，再切到它停在枝头整理花盆。童话风但写实材质，温暖晨光，浅景深，细腻纹理，轻盈空气感。
-```
-
-### No. 6: Desert Mirror Train
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮与地面接触的特写高速跟拍，随后猛然抬升到航拍视角，展示整列火车划开地平线。速度感强，极简美学，干净构图，天空反射清晰。
-
-#### Prompt
-
-```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮与地面接触的特写高速跟拍，随后猛然抬升到航拍视角，展示整列火车划开地平线。速度感强，极简美学，干净构图，天空反射清晰。
-```
-
-### No. 7: Moonlight Kite Market
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群与摊位之间，再升空追随一只凤凰风筝越过屋脊和月光。东方奇幻，层次丰富，灯笼暖光与月色冷光形成对比，热闹又梦幻。
-
-#### Prompt
-
-```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群与摊位之间，再升空追随一只凤凰风筝越过屋脊和月光。东方奇幻，层次丰富，灯笼暖光与月色冷光形成对比，热闹又梦幻。
-```
-
-### No. 8: Arctic Glass Orchestra
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_008
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-海底地铁站静静运行，乘客是穿西装的章鱼、海马和水母。列车进站时带起一圈发光气泡，广告牌上浮动珊瑚字体。镜头沿站台平移，越过玻璃窗观察车厢内部，再切到列车驶离时的尾灯与水波拖影。霓虹蓝绿色调，未来感，通透水下体积光。
-
-#### Prompt
-
-```text
-海底地铁站静静运行，乘客是穿西装的章鱼、海马和水母。列车进站时带起一圈发光气泡，广告牌上浮动珊瑚字体。镜头沿站台平移，越过玻璃窗观察车厢内部，再切到列车驶离时的尾灯与水波拖影。霓虹蓝绿色调，未来感，通透水下体积光。
-```
-
-### No. 9: Robot Farm Harvest
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_009
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-雪山顶端建有透明温室，里面盛开着巨型热带花朵和会发声的蝴蝶。科学家在温室中记录植物脉冲，窗外是暴风雪呼啸。镜头从结霜玻璃外侧慢慢推进到温室内部，再围绕主花朵旋转展示细节。冷热反差强烈，纯净冰蓝与高饱和花色并置，科幻自然融合。
-
-#### Prompt
-
-```text
-雪山顶端建有透明温室，里面盛开着巨型热带花朵和会发声的蝴蝶。科学家在温室中记录植物脉冲，窗外是暴风雪呼啸。镜头从结霜玻璃外侧慢慢推进到温室内部，再围绕主花朵旋转展示细节。冷热反差强烈，纯净冰蓝与高饱和花色并置，科幻自然融合。
-```
-
-### No. 10: Candy Canyon Race
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_010
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-旧工业码头改造成漂浮舞台，机器人爵士乐队在夕阳金光里演奏。铜管乐器反射海面波光，观众乘坐小船围绕舞台鼓掌。镜头从鼓槌敲击的近景开始，节奏感切换到环绕舞台的运动镜头，最后拉到远景看整片海港。复古未来主义，暖金色逆光，海风和机械细节并存。
-
-#### Prompt
-
-```text
-旧工业码头改造成漂浮舞台，机器人爵士乐队在夕阳金光里演奏。铜管乐器反射海面波光，观众乘坐小船围绕舞台鼓掌。镜头从鼓槌敲击的近景开始，节奏感切换到环绕舞台的运动镜头，最后拉到远景看整片海港。复古未来主义，暖金色逆光，海风和机械细节并存。
-```
-
-### No. 11: Underwater Post Office
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_011
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-森林深处的邮局由树根和蘑菇搭建，小狐狸邮差骑着甲虫投递会发光的信件。镜头贴地跟随甲虫穿过湿润落叶，再抬升到邮局门口，展示一封封信飞向林间木屋。童话写实风，柔和晨雾，绿色层次丰富，微观视角沉浸感强。
-
-#### Prompt
-
-```text
-森林深处的邮局由树根和蘑菇搭建，小狐狸邮差骑着甲虫投递会发光的信件。镜头贴地跟随甲虫穿过湿润落叶，再抬升到邮局门口，展示一封封信飞向林间木屋。童话写实风，柔和晨雾，绿色层次丰富，微观视角沉浸感强。
-```
-
-### No. 12: Mountain Bamboo Drone
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_012
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-未来篮球场悬浮在城市天际线之间，球员穿磁悬浮鞋在空中变向扣篮。电子广告与无人机灯阵在周围同步闪烁。镜头以跟拍方式紧贴持球者冲刺，再切到高空俯视整个球场结构与人群欢呼。高速节奏，强对比霓虹色，动感粒子和城市夜景反射。
-
-#### Prompt
-
-```text
-未来篮球场悬浮在城市天际线之间，球员穿磁悬浮鞋在空中变向扣篮。电子广告与无人机灯阵在周围同步闪烁。镜头以跟拍方式紧贴持球者冲刺，再切到高空俯视整个球场结构与人群欢呼。高速节奏，强对比霓虹色，动感粒子和城市夜景反射。
-```
-
-### No. 13: Cyberpunk Paper Lanterns
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_013
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。
-
-#### Prompt
-
-```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。
-```
-
-### No. 14: Giant Turtle Carnival
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_014
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。
-
-#### Prompt
-
-```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。
-```
-
-### No. 15: Samurai Snow Duel
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_015
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。
-
-#### Prompt
-
-```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。
-```
-
-### No. 16: Balloon City Sunrise
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_016
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。
-
-#### Prompt
-
-```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。
-```
-
-### No. 17: Forest Piano Ruins
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_017
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。
-
-#### Prompt
-
-```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。
-```
-
-### No. 18: Mars Street Food
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_018
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。
-
-#### Prompt
-
-```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。
-```
-
-### No. 19: Rainy Tokyo Bicycle
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_019
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。
-
-#### Prompt
-
-```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。
-```
-
-### No. 20: Ancient Astronomy Tower
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_020
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。
-
-#### Prompt
-
-```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。
-```
-
-### No. 21: Jungle Mech Elephant
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_021
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。
-
-#### Prompt
-
-```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。
-```
-
-### No. 22: Ice Cream Galaxy
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_022
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。
-
-#### Prompt
-
-```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。
-```
-
-### No. 23: Shadow Puppet Metropolis
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_023
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。
-
-#### Prompt
-
-```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。
-```
-
-### No. 24: Subway Jazz Morning
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_024
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
-
-#### Prompt
-
-```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
-```
-
-### No. 25: Temple Of Wind Chimes
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_025
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。
-
-#### Prompt
-
-```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。
-```
-
-### No. 26: Midnight Bookstore Portal
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_026
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。
-
-#### Prompt
-
-```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。
-```
-
-### No. 27: Festival Of Fireflies
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_027
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。
-
-#### Prompt
-
-```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。
-```
-
-### No. 28: Gravity Free Workshop
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_028
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。
-
-#### Prompt
-
-```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。
-```
-
-### No. 29: Rainforest Glass Frog
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_029
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。
-
-#### Prompt
-
-```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。
-```
-
-### No. 30: Solar Wind Surfers
-
-- **Kategori:** `HappyHorse Creative Batch`
-- **Kaynak:** `custom`
-- **Yazar:** hh_030
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。
-
-#### Prompt
-
-```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。
-```
-
-### No. 31: Neon Opera Cathedral 变体2
-
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v2
 - **Dil:** `tr`
@@ -677,17 +117,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V2
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 32: Clockwork Tea House 变体2
+### No. 4: Otomatik Çay Evi V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v2
 - **Dil:** `tr`
@@ -697,17 +137,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V2
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 33: Whale Library Sky 变体2
+### No. 5: Balina Kütüphanesi Gökyüzü V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v2
 - **Dil:** `tr`
@@ -717,17 +157,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V2
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 34: Volcano Ramen Night 变体2
+### No. 6: Volkan Ramen Gecesi V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v2
 - **Dil:** `tr`
@@ -737,17 +177,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V2
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 35: Mini Dragon Gardener 变体2
+### No. 7: Mini Ejderha Bahçıvanı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v2
 - **Dil:** `tr`
@@ -757,17 +197,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V2
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 36: Desert Mirror Train 变体2
+### No. 8: Çöl Ayna Treni V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v2
 - **Dil:** `tr`
@@ -777,17 +217,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V2
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 37: Moonlight Kite Market 变体2
+### No. 9: Ayışığı Uçurtma Pazarı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v2
 - **Dil:** `tr`
@@ -797,17 +237,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V2
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 38: Arctic Glass Orchestra 变体2
+### No. 10: Arktik Cam Orkestrası V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v2
 - **Dil:** `tr`
@@ -817,17 +257,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V2
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 39: Robot Farm Harvest 变体2
+### No. 11: Robot Çiftliği Hasadı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v2
 - **Dil:** `tr`
@@ -837,17 +277,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V2
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 40: Candy Canyon Race 变体2
+### No. 12: Şeker Kanyonu Yarışı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v2
 - **Dil:** `tr`
@@ -857,17 +297,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V2
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 41: Underwater Post Office 变体2
+### No. 13: Sualtı Postanesi V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v2
 - **Dil:** `tr`
@@ -877,17 +317,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V2
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 42: Mountain Bamboo Drone 变体2
+### No. 14: Dağ Bambu Drone V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v2
 - **Dil:** `tr`
@@ -897,17 +337,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V2
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 43: Cyberpunk Paper Lanterns 变体2
+### No. 15: Cyberpunk Kağıt Fenerler V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v2
 - **Dil:** `tr`
@@ -917,17 +357,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V2
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 44: Giant Turtle Carnival 变体2
+### No. 16: Dev Kaplumbağa Karnavalı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v2
 - **Dil:** `tr`
@@ -937,17 +377,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V2
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 45: Samurai Snow Duel 变体2
+### No. 17: Samuray Kar Düellosu V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v2
 - **Dil:** `tr`
@@ -957,17 +397,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V2
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 46: Balloon City Sunrise 变体2
+### No. 18: Balon Şehri Gün Doğumu V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v2
 - **Dil:** `tr`
@@ -977,17 +417,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V2
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 47: Forest Piano Ruins 变体2
+### No. 19: Orman Piyano Harabeleri V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v2
 - **Dil:** `tr`
@@ -997,17 +437,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V2
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 48: Mars Street Food 变体2
+### No. 20: Mars Sokak Yemekleri V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v2
 - **Dil:** `tr`
@@ -1017,17 +457,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V2
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 49: Rainy Tokyo Bicycle 变体2
+### No. 21: Yağmurlu Tokyo Bisikleti V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v2
 - **Dil:** `tr`
@@ -1037,17 +477,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V2
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 50: Ancient Astronomy Tower 变体2
+### No. 22: Antik Astronomi Kulesi V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v2
 - **Dil:** `tr`
@@ -1057,17 +497,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V2
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 51: Jungle Mech Elephant 变体2
+### No. 23: Orman Robotu Fil V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v2
 - **Dil:** `tr`
@@ -1077,17 +517,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V2
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 52: Ice Cream Galaxy 变体2
+### No. 24: Dondurma Galaksi V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v2
 - **Dil:** `tr`
@@ -1097,17 +537,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V2
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 53: Shadow Puppet Metropolis 变体2
+### No. 25: Gölge Kuklası Metropolis V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v2
 - **Dil:** `tr`
@@ -1117,17 +557,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V2
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 54: Subway Jazz Morning 变体2
+### No. 26: Metro Caz Sabahı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v2
 - **Dil:** `tr`
@@ -1137,17 +577,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V2
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 55: Temple Of Wind Chimes 变体2
+### No. 27: Rüzgar Çanları Tapınağı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v2
 - **Dil:** `tr`
@@ -1157,17 +597,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V2
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 56: Midnight Bookstore Portal 变体2
+### No. 28: Gece Yarısı Kitabevi Portalı V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v2
 - **Dil:** `tr`
@@ -1177,17 +617,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V2
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 57: Festival Of Fireflies 变体2
+### No. 29: Ateşböcekleri Festivali V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v2
 - **Dil:** `tr`
@@ -1197,17 +637,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V2
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 58: Gravity Free Workshop 变体2
+### No. 30: Yerçekimsiz Atölye V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v2
 - **Dil:** `tr`
@@ -1217,17 +657,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V2
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 59: Rainforest Glass Frog 变体2
+### No. 31: Yağmur Ormanı Cam Kurbağası V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v2
 - **Dil:** `tr`
@@ -1237,17 +677,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V2
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 60: Solar Wind Surfers 变体2
+### No. 32: Güneş Rüzgar Sörfçüleri V2
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v2
 - **Dil:** `tr`
@@ -1257,17 +697,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V2
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Konuyu ve hikayenin özünü değiştirmeden tutun, daha güçlü bir sinematik lens ilerlemesine geçin, düşük kamera hareketi, hızlı tempo, sabahın erken saatlerinde veya akşam saatlerinde dramatik ışık ekleyin ve çevresel ayrıntıları ve hareket hissini geliştirin.
 ```
 
-### No. 61: Neon Opera Cathedral 变体3
+### No. 33: Balina Kütüphanesi Gökyüzü
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici.
+
+#### Prompt
+
+```text
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici.
+```
+
+### No. 34: Neon Opera Katedrali V3
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v3
 - **Dil:** `tr`
@@ -1277,17 +737,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V3
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 62: Clockwork Tea House 变体3
+### No. 35: Otomatik Çay Evi V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v3
 - **Dil:** `tr`
@@ -1297,17 +757,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V3
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 63: Whale Library Sky 变体3
+### No. 36: Balina Kütüphanesi Gökyüzü V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v3
 - **Dil:** `tr`
@@ -1317,17 +777,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V3
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 64: Volcano Ramen Night 变体3
+### No. 37: Volkan Ramen Gecesi V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v3
 - **Dil:** `tr`
@@ -1337,17 +797,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V3
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 65: Mini Dragon Gardener 变体3
+### No. 38: Mini Ejderha Bahçıvanı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v3
 - **Dil:** `tr`
@@ -1357,17 +817,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V3
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 66: Desert Mirror Train 变体3
+### No. 39: Çöl Ayna Treni V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v3
 - **Dil:** `tr`
@@ -1377,17 +837,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V3
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 67: Moonlight Kite Market 变体3
+### No. 40: Ayışığı Uçurtma Pazarı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v3
 - **Dil:** `tr`
@@ -1397,17 +857,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V3
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 68: Arctic Glass Orchestra 变体3
+### No. 41: Arktik Cam Orkestrası V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v3
 - **Dil:** `tr`
@@ -1417,17 +877,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V3
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 69: Robot Farm Harvest 变体3
+### No. 42: Robot Çiftliği Hasadı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v3
 - **Dil:** `tr`
@@ -1437,17 +897,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V3
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 70: Candy Canyon Race 变体3
+### No. 43: Şeker Kanyonu Yarışı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v3
 - **Dil:** `tr`
@@ -1457,17 +917,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V3
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 71: Underwater Post Office 变体3
+### No. 44: Sualtı Postanesi V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v3
 - **Dil:** `tr`
@@ -1477,17 +937,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V3
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 72: Mountain Bamboo Drone 变体3
+### No. 45: Dağ Bambu Drone V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v3
 - **Dil:** `tr`
@@ -1497,17 +957,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V3
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 73: Cyberpunk Paper Lanterns 变体3
+### No. 46: Cyberpunk Kağıt Fenerler V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v3
 - **Dil:** `tr`
@@ -1517,17 +977,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V3
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 74: Giant Turtle Carnival 变体3
+### No. 47: Dev Kaplumbağa Karnavalı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v3
 - **Dil:** `tr`
@@ -1537,17 +997,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V3
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 75: Samurai Snow Duel 变体3
+### No. 48: Samuray Kar Düellosu V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v3
 - **Dil:** `tr`
@@ -1557,17 +1017,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V3
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 76: Balloon City Sunrise 变体3
+### No. 49: Balon Şehri Gün Doğumu V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v3
 - **Dil:** `tr`
@@ -1577,17 +1037,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V3
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 77: Forest Piano Ruins 变体3
+### No. 50: Orman Piyano Harabeleri V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v3
 - **Dil:** `tr`
@@ -1597,17 +1057,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V3
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 78: Mars Street Food 变体3
+### No. 51: Mars Sokak Yemekleri V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v3
 - **Dil:** `tr`
@@ -1617,17 +1077,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V3
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 79: Rainy Tokyo Bicycle 变体3
+### No. 52: Yağmurlu Tokyo Bisikleti V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v3
 - **Dil:** `tr`
@@ -1637,17 +1097,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V3
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 80: Ancient Astronomy Tower 变体3
+### No. 53: Antik Astronomi Kulesi V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v3
 - **Dil:** `tr`
@@ -1657,17 +1117,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V3
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 81: Jungle Mech Elephant 变体3
+### No. 54: Orman Robotu Fil V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v3
 - **Dil:** `tr`
@@ -1677,17 +1137,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V3
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 82: Ice Cream Galaxy 变体3
+### No. 55: Dondurma Galaksi V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v3
 - **Dil:** `tr`
@@ -1697,17 +1157,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V3
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 83: Shadow Puppet Metropolis 变体3
+### No. 56: Gölge Kuklası Metropolis V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v3
 - **Dil:** `tr`
@@ -1717,17 +1177,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V3
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 84: Subway Jazz Morning 变体3
+### No. 57: Metro Caz Sabahı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v3
 - **Dil:** `tr`
@@ -1737,17 +1197,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V3
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 85: Temple Of Wind Chimes 变体3
+### No. 58: Rüzgar Çanları Tapınağı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v3
 - **Dil:** `tr`
@@ -1757,17 +1217,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V3
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 86: Midnight Bookstore Portal 变体3
+### No. 59: Gece Yarısı Kitabevi Portalı V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v3
 - **Dil:** `tr`
@@ -1777,17 +1237,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V3
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 87: Festival Of Fireflies 变体3
+### No. 60: Ateşböcekleri Festivali V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v3
 - **Dil:** `tr`
@@ -1797,17 +1257,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V3
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 88: Gravity Free Workshop 变体3
+### No. 61: Yerçekimsiz Atölye V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v3
 - **Dil:** `tr`
@@ -1817,17 +1277,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V3
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 89: Rainforest Glass Frog 变体3
+### No. 62: Yağmur Ormanı Cam Kurbağası V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v3
 - **Dil:** `tr`
@@ -1837,17 +1297,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V3
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 90: Solar Wind Surfers 变体3
+### No. 63: Güneş Rüzgar Sörfçüleri V3
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v3
 - **Dil:** `tr`
@@ -1857,17 +1317,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V3
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Temel karakterleri ve sahneleri değiştirmeden tutun ve genel olarak daha duygusal bir gerilim ve görsel kontrast oluşturmak için havadan açıklık, orta-yakın çekim geçişi, dinamik ön plan kapatma, hacimsel ışık, rüzgar veya yağmur vb. gibi çevresel unsurları ekleyerek daha atmosferik bir versiyona değiştirin.
 ```
 
-### No. 91: Neon Opera Cathedral 变体4
+### No. 64: Volkan Ramen Gecesi
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi.
+
+#### Prompt
+
+```text
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi.
+```
+
+### No. 65: Neon Opera Katedrali V4
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v4
 - **Dil:** `tr`
@@ -1877,17 +1357,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V4
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 92: Clockwork Tea House 变体4
+### No. 66: Otomatik Çay Evi V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v4
 - **Dil:** `tr`
@@ -1897,17 +1377,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V4
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 93: Whale Library Sky 变体4
+### No. 67: Balina Kütüphanesi Gökyüzü V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v4
 - **Dil:** `tr`
@@ -1917,17 +1397,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V4
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 94: Volcano Ramen Night 变体4
+### No. 68: Volkan Ramen Gecesi V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v4
 - **Dil:** `tr`
@@ -1937,17 +1417,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V4
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 95: Mini Dragon Gardener 变体4
+### No. 69: Mini Ejderha Bahçıvanı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v4
 - **Dil:** `tr`
@@ -1957,17 +1437,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V4
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 96: Desert Mirror Train 变体4
+### No. 70: Çöl Ayna Treni V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v4
 - **Dil:** `tr`
@@ -1977,17 +1457,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V4
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 97: Moonlight Kite Market 变体4
+### No. 71: Ayışığı Uçurtma Pazarı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v4
 - **Dil:** `tr`
@@ -1997,17 +1477,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V4
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 98: Arctic Glass Orchestra 变体4
+### No. 72: Arktik Cam Orkestrası V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v4
 - **Dil:** `tr`
@@ -2017,17 +1497,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V4
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 99: Robot Farm Harvest 变体4
+### No. 73: Robot Çiftliği Hasadı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v4
 - **Dil:** `tr`
@@ -2037,17 +1517,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V4
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 100: Candy Canyon Race 变体4
+### No. 74: Şeker Kanyonu Yarışı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v4
 - **Dil:** `tr`
@@ -2057,17 +1537,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V4
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 101: Underwater Post Office 变体4
+### No. 75: Sualtı Postanesi V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v4
 - **Dil:** `tr`
@@ -2077,17 +1557,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V4
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 102: Mountain Bamboo Drone 变体4
+### No. 76: Dağ Bambu Drone V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v4
 - **Dil:** `tr`
@@ -2097,17 +1577,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V4
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 103: Cyberpunk Paper Lanterns 变体4
+### No. 77: Cyberpunk Kağıt Fenerler V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v4
 - **Dil:** `tr`
@@ -2117,17 +1597,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V4
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 104: Giant Turtle Carnival 变体4
+### No. 78: Dev Kaplumbağa Karnavalı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v4
 - **Dil:** `tr`
@@ -2137,17 +1617,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V4
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 105: Samurai Snow Duel 变体4
+### No. 79: Samuray Kar Düellosu V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v4
 - **Dil:** `tr`
@@ -2157,17 +1637,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V4
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 106: Balloon City Sunrise 变体4
+### No. 80: Balon Şehri Gün Doğumu V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v4
 - **Dil:** `tr`
@@ -2177,17 +1657,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V4
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 107: Forest Piano Ruins 变体4
+### No. 81: Orman Piyano Harabeleri V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v4
 - **Dil:** `tr`
@@ -2197,17 +1677,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V4
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 108: Mars Street Food 变体4
+### No. 82: Mars Sokak Yemekleri V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v4
 - **Dil:** `tr`
@@ -2217,17 +1697,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V4
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 109: Rainy Tokyo Bicycle 变体4
+### No. 83: Yağmurlu Tokyo Bisikleti V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v4
 - **Dil:** `tr`
@@ -2237,17 +1717,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V4
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 110: Ancient Astronomy Tower 变体4
+### No. 84: Antik Astronomi Kulesi V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v4
 - **Dil:** `tr`
@@ -2257,17 +1737,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V4
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 111: Jungle Mech Elephant 变体4
+### No. 85: Orman Robotu Fil V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v4
 - **Dil:** `tr`
@@ -2277,17 +1757,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V4
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 112: Ice Cream Galaxy 变体4
+### No. 86: Dondurma Galaksi V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v4
 - **Dil:** `tr`
@@ -2297,17 +1777,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V4
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 113: Shadow Puppet Metropolis 变体4
+### No. 87: Gölge Kuklası Metropolis V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v4
 - **Dil:** `tr`
@@ -2317,17 +1797,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V4
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 114: Subway Jazz Morning 变体4
+### No. 88: Metro Caz Sabahı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v4
 - **Dil:** `tr`
@@ -2337,17 +1817,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V4
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 115: Temple Of Wind Chimes 变体4
+### No. 89: Rüzgar Çanları Tapınağı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v4
 - **Dil:** `tr`
@@ -2357,17 +1837,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V4
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 116: Midnight Bookstore Portal 变体4
+### No. 90: Gece Yarısı Kitabevi Portalı V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v4
 - **Dil:** `tr`
@@ -2377,17 +1857,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V4
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 117: Festival Of Fireflies 变体4
+### No. 91: Ateşböcekleri Festivali V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v4
 - **Dil:** `tr`
@@ -2397,17 +1877,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V4
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 118: Gravity Free Workshop 变体4
+### No. 92: Yerçekimsiz Atölye V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v4
 - **Dil:** `tr`
@@ -2417,17 +1897,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V4
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 119: Rainforest Glass Frog 变体4
+### No. 93: Yağmur Ormanı Cam Kurbağası V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v4
 - **Dil:** `tr`
@@ -2437,17 +1917,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V4
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 120: Solar Wind Surfers 变体4
+### No. 94: Güneş Rüzgar Sörfçüleri V4
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v4
 - **Dil:** `tr`
@@ -2457,17 +1937,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V4
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Temel içeriği değiştirmeden tutun ve kısa video iletişimine daha uygun, geliştirilmiş bir sürümle değiştirin. Daha doğrudan eylem ifadeleri, net konular, güçlü kontrast renkler ve daha hızlı mercek değiştirme kullanarak genel içeriği daha akıcı hale getirir.
 ```
 
-### No. 121: Neon Opera Cathedral 变体5
+### No. 95: Mini Ejderha Bahçıvanı
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular.
+
+#### Prompt
+
+```text
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular.
+```
+
+### No. 96: Neon Opera Katedrali V5
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v5
 - **Dil:** `tr`
@@ -2477,17 +1977,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V5
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 122: Clockwork Tea House 变体5
+### No. 97: Otomatik Çay Evi V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v5
 - **Dil:** `tr`
@@ -2497,17 +1997,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V5
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 123: Whale Library Sky 变体5
+### No. 98: Balina Kütüphanesi Gökyüzü V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v5
 - **Dil:** `tr`
@@ -2517,17 +2017,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V5
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 124: Volcano Ramen Night 变体5
+### No. 99: Volkan Ramen Gecesi V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v5
 - **Dil:** `tr`
@@ -2537,17 +2037,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V5
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 125: Mini Dragon Gardener 变体5
+### No. 100: Mini Ejderha Bahçıvanı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v5
 - **Dil:** `tr`
@@ -2557,17 +2057,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V5
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 126: Desert Mirror Train 变体5
+### No. 101: Çöl Ayna Treni V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v5
 - **Dil:** `tr`
@@ -2577,17 +2077,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V5
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 127: Moonlight Kite Market 变体5
+### No. 102: Ayışığı Uçurtma Pazarı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v5
 - **Dil:** `tr`
@@ -2597,17 +2097,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V5
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 128: Arctic Glass Orchestra 变体5
+### No. 103: Arktik Cam Orkestrası V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v5
 - **Dil:** `tr`
@@ -2617,17 +2117,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V5
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 129: Robot Farm Harvest 变体5
+### No. 104: Robot Çiftliği Hasadı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v5
 - **Dil:** `tr`
@@ -2637,17 +2137,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V5
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 130: Candy Canyon Race 变体5
+### No. 105: Şeker Kanyonu Yarışı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v5
 - **Dil:** `tr`
@@ -2657,17 +2157,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V5
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 131: Underwater Post Office 变体5
+### No. 106: Sualtı Postanesi V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v5
 - **Dil:** `tr`
@@ -2677,17 +2177,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V5
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 132: Mountain Bamboo Drone 变体5
+### No. 107: Dağ Bambu Drone V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v5
 - **Dil:** `tr`
@@ -2697,17 +2197,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V5
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 133: Cyberpunk Paper Lanterns 变体5
+### No. 108: Cyberpunk Kağıt Fenerler V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v5
 - **Dil:** `tr`
@@ -2717,17 +2217,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V5
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 134: Giant Turtle Carnival 变体5
+### No. 109: Dev Kaplumbağa Karnavalı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v5
 - **Dil:** `tr`
@@ -2737,17 +2237,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V5
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 135: Samurai Snow Duel 变体5
+### No. 110: Samuray Kar Düellosu V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v5
 - **Dil:** `tr`
@@ -2757,17 +2257,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V5
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 136: Balloon City Sunrise 变体5
+### No. 111: Balon Şehri Gün Doğumu V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v5
 - **Dil:** `tr`
@@ -2777,17 +2277,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V5
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 137: Forest Piano Ruins 变体5
+### No. 112: Orman Piyano Harabeleri V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v5
 - **Dil:** `tr`
@@ -2797,17 +2297,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V5
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 138: Mars Street Food 变体5
+### No. 113: Mars Sokak Yemekleri V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v5
 - **Dil:** `tr`
@@ -2817,17 +2317,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V5
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 139: Rainy Tokyo Bicycle 变体5
+### No. 114: Yağmurlu Tokyo Bisikleti V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v5
 - **Dil:** `tr`
@@ -2837,17 +2337,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V5
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 140: Ancient Astronomy Tower 变体5
+### No. 115: Antik Astronomi Kulesi V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v5
 - **Dil:** `tr`
@@ -2857,17 +2357,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V5
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 141: Jungle Mech Elephant 变体5
+### No. 116: Orman Robotu Fil V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v5
 - **Dil:** `tr`
@@ -2877,17 +2377,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V5
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 142: Ice Cream Galaxy 变体5
+### No. 117: Dondurma Galaksi V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v5
 - **Dil:** `tr`
@@ -2897,17 +2397,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V5
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 143: Shadow Puppet Metropolis 变体5
+### No. 118: Gölge Kuklası Metropolis V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v5
 - **Dil:** `tr`
@@ -2917,17 +2417,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V5
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 144: Subway Jazz Morning 变体5
+### No. 119: Metro Caz Sabahı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v5
 - **Dil:** `tr`
@@ -2937,17 +2437,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V5
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 145: Temple Of Wind Chimes 变体5
+### No. 120: Rüzgar Çanları Tapınağı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v5
 - **Dil:** `tr`
@@ -2957,17 +2457,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V5
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 146: Midnight Bookstore Portal 变体5
+### No. 121: Gece Yarısı Kitabevi Portalı V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v5
 - **Dil:** `tr`
@@ -2977,17 +2477,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V5
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 147: Festival Of Fireflies 变体5
+### No. 122: Ateşböcekleri Festivali V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v5
 - **Dil:** `tr`
@@ -2997,17 +2497,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V5
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 148: Gravity Free Workshop 变体5
+### No. 123: Yerçekimsiz Atölye V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v5
 - **Dil:** `tr`
@@ -3017,17 +2517,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V5
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 149: Rainforest Glass Frog 变体5
+### No. 124: Yağmur Ormanı Cam Kurbağası V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v5
 - **Dil:** `tr`
@@ -3037,17 +2537,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V5
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 150: Solar Wind Surfers 变体5
+### No. 125: Güneş Rüzgar Sörfçüleri V5
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v5
 - **Dil:** `tr`
@@ -3057,17 +2557,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V5
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Karakterleri ve sahneleri tutarlı tutun ve bunu daha ticari benzeri bir dokuya sahip, temiz kompozisyon, ağır çekim kamera rulosu, ayrıntılı yakın çekimler, yumuşak vurgular ve daha güçlü malzeme performansı ekleyerek genel görüntüyü daha gelişmiş hale getiren bir sürümle değiştirin.
 ```
 
-### No. 151: Neon Opera Cathedral 变体6
+### No. 126: Çöl Ayna Treni
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor.
+
+#### Prompt
+
+```text
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor.
+```
+
+### No. 127: Neon Opera Katedrali V6
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v6
 - **Dil:** `tr`
@@ -3077,17 +2597,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V6
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 152: Clockwork Tea House 变体6
+### No. 128: Otomatik Çay Evi V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v6
 - **Dil:** `tr`
@@ -3097,17 +2617,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V6
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 153: Whale Library Sky 变体6
+### No. 129: Balina Kütüphanesi Gökyüzü V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v6
 - **Dil:** `tr`
@@ -3117,17 +2637,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V6
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 154: Volcano Ramen Night 变体6
+### No. 130: Volkan Ramen Gecesi V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v6
 - **Dil:** `tr`
@@ -3137,17 +2657,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V6
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 155: Mini Dragon Gardener 变体6
+### No. 131: Mini Ejderha Bahçıvanı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v6
 - **Dil:** `tr`
@@ -3157,17 +2677,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V6
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 156: Desert Mirror Train 变体6
+### No. 132: Çöl Ayna Treni V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v6
 - **Dil:** `tr`
@@ -3177,17 +2697,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V6
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 157: Moonlight Kite Market 变体6
+### No. 133: Ayışığı Uçurtma Pazarı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v6
 - **Dil:** `tr`
@@ -3197,17 +2717,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V6
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 158: Arctic Glass Orchestra 变体6
+### No. 134: Arktik Cam Orkestrası V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v6
 - **Dil:** `tr`
@@ -3217,17 +2737,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V6
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 159: Robot Farm Harvest 变体6
+### No. 135: Robot Çiftliği Hasadı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v6
 - **Dil:** `tr`
@@ -3237,17 +2757,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V6
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 160: Candy Canyon Race 变体6
+### No. 136: Şeker Kanyonu Yarışı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v6
 - **Dil:** `tr`
@@ -3257,17 +2777,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V6
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 161: Underwater Post Office 变体6
+### No. 137: Sualtı Postanesi V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v6
 - **Dil:** `tr`
@@ -3277,17 +2797,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V6
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 162: Mountain Bamboo Drone 变体6
+### No. 138: Dağ Bambu Drone V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v6
 - **Dil:** `tr`
@@ -3297,17 +2817,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V6
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 163: Cyberpunk Paper Lanterns 变体6
+### No. 139: Cyberpunk Kağıt Fenerler V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v6
 - **Dil:** `tr`
@@ -3317,17 +2837,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V6
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 164: Giant Turtle Carnival 变体6
+### No. 140: Dev Kaplumbağa Karnavalı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v6
 - **Dil:** `tr`
@@ -3337,17 +2857,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V6
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 165: Samurai Snow Duel 变体6
+### No. 141: Samuray Kar Düellosu V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v6
 - **Dil:** `tr`
@@ -3357,17 +2877,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V6
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 166: Balloon City Sunrise 变体6
+### No. 142: Balon Şehri Gün Doğumu V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v6
 - **Dil:** `tr`
@@ -3377,17 +2897,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V6
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 167: Forest Piano Ruins 变体6
+### No. 143: Orman Piyano Harabeleri V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v6
 - **Dil:** `tr`
@@ -3397,17 +2917,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V6
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 168: Mars Street Food 变体6
+### No. 144: Mars Sokak Yemekleri V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v6
 - **Dil:** `tr`
@@ -3417,17 +2937,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V6
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 169: Rainy Tokyo Bicycle 变体6
+### No. 145: Yağmurlu Tokyo Bisikleti V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v6
 - **Dil:** `tr`
@@ -3437,17 +2957,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V6
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 170: Ancient Astronomy Tower 变体6
+### No. 146: Antik Astronomi Kulesi V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v6
 - **Dil:** `tr`
@@ -3457,17 +2977,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V6
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 171: Jungle Mech Elephant 变体6
+### No. 147: Orman Robotu Fil V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v6
 - **Dil:** `tr`
@@ -3477,17 +2997,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V6
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 172: Ice Cream Galaxy 变体6
+### No. 148: Dondurma Galaksi V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v6
 - **Dil:** `tr`
@@ -3497,17 +3017,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V6
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 173: Shadow Puppet Metropolis 变体6
+### No. 149: Gölge Kuklası Metropolis V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v6
 - **Dil:** `tr`
@@ -3517,17 +3037,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V6
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 174: Subway Jazz Morning 变体6
+### No. 150: Metro Caz Sabahı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v6
 - **Dil:** `tr`
@@ -3537,17 +3057,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V6
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 175: Temple Of Wind Chimes 变体6
+### No. 151: Rüzgar Çanları Tapınağı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v6
 - **Dil:** `tr`
@@ -3557,17 +3077,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V6
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 176: Midnight Bookstore Portal 变体6
+### No. 152: Gece Yarısı Kitabevi Portalı V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v6
 - **Dil:** `tr`
@@ -3577,17 +3097,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V6
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 177: Festival Of Fireflies 变体6
+### No. 153: Ateşböcekleri Festivali V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v6
 - **Dil:** `tr`
@@ -3597,17 +3117,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V6
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 178: Gravity Free Workshop 变体6
+### No. 154: Yerçekimsiz Atölye V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v6
 - **Dil:** `tr`
@@ -3617,17 +3137,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V6
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 179: Rainforest Glass Frog 变体6
+### No. 155: Yağmur Ormanı Cam Kurbağası V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v6
 - **Dil:** `tr`
@@ -3637,17 +3157,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V6
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 180: Solar Wind Surfers 变体6
+### No. 156: Güneş Rüzgar Sörfçüleri V6
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v6
 - **Dil:** `tr`
@@ -3657,17 +3177,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V6
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Ana ayarı değiştirmeden bırakın ve sosyal medya iletişimine daha uygun, öznel çekimler, hızlı geçişler, güçlü ön plan taramaları ve daha belirgin eylem geri bildirimi ekleyen sürükleyici birinci şahıs bakış açısı sürümüne değiştirin.
 ```
 
-### No. 181: Neon Opera Cathedral 变体7
+### No. 157: Ayışığı Uçurtma Pazarı
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi.
+
+#### Prompt
+
+```text
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi.
+```
+
+### No. 158: Neon Opera Katedrali V7
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v7
 - **Dil:** `tr`
@@ -3677,17 +3217,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V7
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 182: Clockwork Tea House 变体7
+### No. 159: Otomatik Çay Evi V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v7
 - **Dil:** `tr`
@@ -3697,17 +3237,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V7
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 183: Whale Library Sky 变体7
+### No. 160: Balina Kütüphanesi Gökyüzü V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v7
 - **Dil:** `tr`
@@ -3717,17 +3257,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V7
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 184: Volcano Ramen Night 变体7
+### No. 161: Volkan Ramen Gecesi V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v7
 - **Dil:** `tr`
@@ -3737,17 +3277,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V7
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 185: Mini Dragon Gardener 变体7
+### No. 162: Mini Ejderha Bahçıvanı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v7
 - **Dil:** `tr`
@@ -3757,17 +3297,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V7
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 186: Desert Mirror Train 变体7
+### No. 163: Çöl Ayna Treni V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v7
 - **Dil:** `tr`
@@ -3777,17 +3317,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V7
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 187: Moonlight Kite Market 变体7
+### No. 164: Ayışığı Uçurtma Pazarı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v7
 - **Dil:** `tr`
@@ -3797,17 +3337,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V7
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 188: Arctic Glass Orchestra 变体7
+### No. 165: Arktik Cam Orkestrası V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v7
 - **Dil:** `tr`
@@ -3817,17 +3357,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V7
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 189: Robot Farm Harvest 变体7
+### No. 166: Robot Çiftliği Hasadı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v7
 - **Dil:** `tr`
@@ -3837,17 +3377,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V7
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 190: Candy Canyon Race 变体7
+### No. 167: Şeker Kanyonu Yarışı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v7
 - **Dil:** `tr`
@@ -3857,17 +3397,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V7
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 191: Underwater Post Office 变体7
+### No. 168: Sualtı Postanesi V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v7
 - **Dil:** `tr`
@@ -3877,17 +3417,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V7
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 192: Mountain Bamboo Drone 变体7
+### No. 169: Dağ Bambu Drone V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v7
 - **Dil:** `tr`
@@ -3897,17 +3437,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V7
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 193: Cyberpunk Paper Lanterns 变体7
+### No. 170: Cyberpunk Kağıt Fenerler V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v7
 - **Dil:** `tr`
@@ -3917,17 +3457,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V7
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 194: Giant Turtle Carnival 变体7
+### No. 171: Dev Kaplumbağa Karnavalı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v7
 - **Dil:** `tr`
@@ -3937,17 +3477,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V7
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 195: Samurai Snow Duel 变体7
+### No. 172: Samuray Kar Düellosu V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v7
 - **Dil:** `tr`
@@ -3957,17 +3497,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V7
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 196: Balloon City Sunrise 变体7
+### No. 173: Balon Şehri Gün Doğumu V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v7
 - **Dil:** `tr`
@@ -3977,17 +3517,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V7
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 197: Forest Piano Ruins 变体7
+### No. 174: Orman Piyano Harabeleri V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v7
 - **Dil:** `tr`
@@ -3997,17 +3537,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V7
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 198: Mars Street Food 变体7
+### No. 175: Mars Sokak Yemekleri V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v7
 - **Dil:** `tr`
@@ -4017,17 +3557,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V7
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 199: Rainy Tokyo Bicycle 变体7
+### No. 176: Yağmurlu Tokyo Bisikleti V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v7
 - **Dil:** `tr`
@@ -4037,17 +3577,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V7
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 200: Ancient Astronomy Tower 变体7
+### No. 177: Antik Astronomi Kulesi V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v7
 - **Dil:** `tr`
@@ -4057,17 +3597,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V7
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 201: Jungle Mech Elephant 变体7
+### No. 178: Orman Robotu Fil V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v7
 - **Dil:** `tr`
@@ -4077,17 +3617,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V7
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 202: Ice Cream Galaxy 变体7
+### No. 179: Dondurma Galaksi V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v7
 - **Dil:** `tr`
@@ -4097,17 +3637,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V7
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 203: Shadow Puppet Metropolis 变体7
+### No. 180: Gölge Kuklası Metropolis V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v7
 - **Dil:** `tr`
@@ -4117,17 +3657,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V7
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 204: Subway Jazz Morning 变体7
+### No. 181: Metro Caz Sabahı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v7
 - **Dil:** `tr`
@@ -4137,17 +3677,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V7
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 205: Temple Of Wind Chimes 变体7
+### No. 182: Rüzgar Çanları Tapınağı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v7
 - **Dil:** `tr`
@@ -4157,17 +3697,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V7
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 206: Midnight Bookstore Portal 变体7
+### No. 183: Gece Yarısı Kitabevi Portalı V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v7
 - **Dil:** `tr`
@@ -4177,17 +3717,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V7
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 207: Festival Of Fireflies 变体7
+### No. 184: Ateşböcekleri Festivali V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v7
 - **Dil:** `tr`
@@ -4197,17 +3737,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V7
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 208: Gravity Free Workshop 变体7
+### No. 185: Yerçekimsiz Atölye V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v7
 - **Dil:** `tr`
@@ -4217,17 +3757,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V7
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 209: Rainforest Glass Frog 变体7
+### No. 186: Yağmur Ormanı Cam Kurbağası V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v7
 - **Dil:** `tr`
@@ -4237,17 +3777,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V7
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 210: Solar Wind Surfers 变体7
+### No. 187: Güneş Rüzgar Sörfçüleri V7
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v7
 - **Dil:** `tr`
@@ -4257,17 +3797,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V7
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Hikâyeyi ve karakterleri değiştirmeden, daha destansı bir versiyona dönüştürüldü; çekimleri oluşturan geniş sahne, uzun ve yakın çekimler arasında geçiş, büyük mekansal ölçek, bulutlar ve ışık huzmelerindeki değişiklikler eklendi ve her şey daha şok ediciydi.
 ```
 
-### No. 211: Neon Opera Cathedral 变体8
+### No. 188: Arktik Cam Orkestrası
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_008
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici.
+
+#### Prompt
+
+```text
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici.
+```
+
+### No. 189: Neon Opera Katedrali V8
+
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_001_v8
 - **Dil:** `tr`
@@ -4277,17 +3837,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. V8
 
 #### Prompt
 
 ```text
-午夜雨城中央，一座哥特式歌剧院由霓虹玻璃组成。成百上千把发光雨伞在空中自转，演员穿着会变色的礼服在屋顶边缘合唱。镜头从积水倒影抬升穿过彩窗，最后俯拍整座城市在节拍中呼吸。电影级光影，体积雾，超现实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Midnight Rain City'nin ortasında neon camdan yapılmış Gotik bir opera binası var. Yüzlerce ışıklı şemsiye havada dönüyor ve renk değiştiren önlükler içindeki aktörler çatının kenarında şarkı söylüyor. Kamera, suyun renkli pencerelerden yansımasından yükseliyor ve sonunda ritmin nefesini alan tüm şehrin kuşbakışı görüntüsünü alıyor. Sinematik ışık ve gölge, hacimsel sis, gerçeküstü. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 212: Clockwork Tea House 变体8
+### No. 190: Otomatik Çay Evi V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_002_v8
 - **Dil:** `tr`
@@ -4297,17 +3857,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. V8
 
 #### Prompt
 
 ```text
-蒸汽朋克茶馆漂浮在云海，黄铜齿轮像花瓣般开合。茶师是机械长颈鹿，优雅地为旅人倒出会发光的茶。镜头环绕茶杯，茶雾中浮现微型城市与飞船。细节丰富，柔和暖光，梦幻质感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Steampunk bir çay evi bulutlardan oluşan bir denizin üzerinde yüzüyor, pirinç dişliler taç yaprakları gibi açılıp kapanıyor. Çay ustası, gezginlere zarif bir şekilde parlak çay döken mekanik bir zürafadır. Kamera çay bardağının etrafında daireler çiziyor ve çay sisinin içinden minyatür şehirler ve uzay gemileri çıkıyor. Zengin ayrıntılar, yumuşak ve sıcak ışık, rüya gibi doku. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 213: Whale Library Sky 变体8
+### No. 191: Balina Kütüphanesi Gökyüzü V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_003_v8
 - **Dil:** `tr`
@@ -4317,17 +3877,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. V8
 
 #### Prompt
 
 ```text
-一头巨鲸背负古老图书馆在晨曦云层中缓慢游弋，书页像鸟群一样翻飞。学生在鲸背木桥上奔跑追逐纸飞机。镜头从鲸眼特写拉远至全景，呈现天空海洋的辽阔。史诗感，宁静又震撼。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dev bir balina sırtında eski bir kütüphane taşıyor ve sayfaları bir kuş sürüsü gibi çevirerek sabah bulutları arasında yavaşça yüzüyor. Öğrenciler balina sırtlı ahşap köprüde kağıt uçakları koşup kovalıyorlar. Lens, balina gözünün yakın planından uzaklaşarak gökyüzünün ve okyanusun enginliğini gösteren panoramik bir görüntüye doğru uzaklaşıyor. Destansı, sakin ve şok edici. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 214: Volcano Ramen Night 变体8
+### No. 192: Volkan Ramen Gecesi V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_004_v8
 - **Dil:** `tr`
@@ -4337,17 +3897,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. V8
 
 #### Prompt
 
 ```text
-火山口边缘开着一家深夜拉面摊，熔岩流像金色河流在脚下蜿蜒。厨师熟练甩面，面条在空中划出火花轨迹。镜头低角度跟随一碗热汤端上桌，蒸汽与星空交融。高对比，电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kraterin kenarında gece geç saatlerde bir ramen standı açıldı ve lav akıntıları ayaklarımızın altında altın nehirler gibi kıvrılarak aktı. Şef erişteleri ustaca fırlatarak havada kıvılcımlar oluşturdu. Kamera masanın üzerindeki bir kase sıcak çorbayı alçak bir açıdan takip ediyor, buhar yıldızlı gökyüzüyle karışıyor. Yüksek kontrast, sinema hissi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 215: Mini Dragon Gardener 变体8
+### No. 193: Mini Ejderha Bahçıvanı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_005_v8
 - **Dil:** `tr`
@@ -4357,17 +3917,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. V8
 
 #### Prompt
 
 ```text
-微型龙在盆景森林里当园丁，用小火焰修剪树叶，用翅膀掀起晨雾。镜头在苔藓间微距推进，露珠里倒映龙的身影。童话风但写实材质，温暖日光，细腻纹理。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Minyatür ejderhalar bonsai ormanında bahçıvan olarak çalışıyor, yaprakları minik alevlerle budayıp kanatlarıyla sabah sisini kaldırıyorlar. Kamera yosunların arasına zum yapıyor ve ejderhanın figürü çiğde yansıyor. Peri masalı tarzında ama gerçekçi malzemeler, sıcak güneş ışığı ve hassas dokular. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 216: Desert Mirror Train 变体8
+### No. 194: Çöl Ayna Treni V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_006_v8
 - **Dil:** `tr`
@@ -4377,17 +3937,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. V8
 
 #### Prompt
 
 ```text
-镜面列车穿越白色盐湖沙漠，车身反射天空云层像流动幻觉。旅客在透明车厢里跳舞，脚下是无尽倒影。镜头从车轮特写冲到航拍，速度感强，极简美学，干净构图。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Ayna treni beyaz tuz gölü çölünden geçiyor ve arabanın gövdesi gökyüzündeki bulutları akıcı bir yanılsama gibi yansıtıyor. Yolcular, ayaklarının dibinde sonsuz yansımalarla şeffaf vagonda dans ediyorlar. Objektif, güçlü bir hız duygusu, minimalist estetik ve temiz kompozisyonla tekerleklerin yakın çekimlerinden hava çekimlerine doğru hızla ilerliyor. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 217: Moonlight Kite Market 变体8
+### No. 195: Ayışığı Uçurtma Pazarı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_007_v8
 - **Dil:** `tr`
@@ -4397,17 +3957,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. V8
 
 #### Prompt
 
 ```text
-古镇夜市在满月下举办风筝节，风筝是会发光的神话生物。小贩摊位摆满银色糖果和发声灯笼。镜头穿梭人群再升空，追随一只凤凰风筝越过屋脊。东方奇幻，层次丰富。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Antik kentin gece pazarı, dolunay altında parlayan efsanevi yaratıklar olan uçurtma festivaline ev sahipliği yapıyor. Hawker tezgahları gümüş şekerler ve ses çıkaran fenerlerle dolu. Kamera kalabalığın içinde hareket ediyor ve ardından çatıdaki anka kuşu uçurtmasını takip ederek gökyüzüne yükseliyor. Katmanlar açısından zengin oryantal fantezi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 218: Arctic Glass Orchestra 变体8
+### No. 196: Arktik Cam Orkestrası V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_008_v8
 - **Dil:** `tr`
@@ -4417,17 +3977,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. V8
 
 #### Prompt
 
 ```text
-北极冰原上，透明玻璃乐团在极光下演奏。每个音符都化成彩色冰晶漂浮空中。镜头从小提琴弓弦的结霜细节慢慢拉到广角，乐声与极光同步舞动。冷色调，纯净震撼。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Arktik buz tabakasında, auroranın altında şeffaf bir cam orkestra çalıyor. Her nota havada yüzen renkli buz kristallerine dönüşür. Kamera yavaş yavaş keman yayının buzlu detaylarından geniş açıya doğru uzaklaşıyor ve müzik, aurora ile senkronize bir şekilde dans ediyor. Soğuk renkler, saf ve şok edici. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 219: Robot Farm Harvest 变体8
+### No. 197: Robot Çiftliği Hasadı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_009_v8
 - **Dil:** `tr`
@@ -4437,17 +3997,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. V8
 
 #### Prompt
 
 ```text
-秋日稻田里，一群圆滚滚机器人收割金黄稻穗，动作笨拙却默契。无人机像萤火虫在上空照明。镜头沿田埂平移，随后升起看见巨大的笑脸麦田图案。治愈温暖，纪录片质感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 220: Candy Canyon Race 变体8
+### No. 198: Şeker Kanyonu Yarışı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_010_v8
 - **Dil:** `tr`
@@ -4457,17 +4017,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. V8
 
 #### Prompt
 
 ```text
-糖果峡谷里举行蜗牛赛车，赛道是彩虹软糖桥。观众是穿礼帽的兔子和机械松鼠。镜头贴地追车，果酱飞溅形成慢动作彩色雨。夸张卡通与真实光照结合。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 221: Underwater Post Office 变体8
+### No. 199: Sualtı Postanesi V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_011_v8
 - **Dil:** `tr`
@@ -4477,17 +4037,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. V8
 
 #### Prompt
 
 ```text
-海底邮局由珊瑚搭建，海马邮差背着信袋穿行。水母灯笼在门口摇曳发光。镜头穿过气泡通道进入大厅，信封变成小鱼游向远方。唯美梦境，蓝绿调，轻柔漂浮感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 222: Mountain Bamboo Drone 变体8
+### No. 200: Dağ Bambu Drone V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_012_v8
 - **Dil:** `tr`
@@ -4497,17 +4057,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. V8
 
 #### Prompt
 
 ```text
-云雾山谷中，竹制无人机编队在茶梯田上空巡航播种。老茶农抬头微笑，晨光穿透薄雾。镜头先从茶叶露珠微距，再高速升空显示几何梯田。自然与科技融合，真实细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 223: Cyberpunk Paper Lanterns 变体8
+### No. 201: Cyberpunk Kağıt Fenerler V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_013_v8
 - **Dil:** `tr`
@@ -4517,17 +4077,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. V8
 
 #### Prompt
 
 ```text
-赛博街区停电后，居民同时点亮上千盏纸灯笼，霓虹和烛火交织。电车缓慢经过反射出橙蓝色光。镜头从巷口推入，穿过灯海到达天台俯瞰。情绪化叙事，电影长镜头感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 224: Giant Turtle Carnival 变体8
+### No. 202: Dev Kaplumbağa Karnavalı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_014_v8
 - **Dil:** `tr`
@@ -4537,17 +4097,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. V8
 
 #### Prompt
 
 ```text
-一只巨龟背上的移动嘉年华穿越森林，旋转木马和摩天轮在龟壳上运转。孩子们在藤蔓桥上欢呼。镜头围绕巨龟环绕，展示森林动物加入游行。奇观感，明亮高饱和。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 225: Samurai Snow Duel 变体8
+### No. 203: Samuray Kar Düellosu V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_015_v8
 - **Dil:** `tr`
@@ -4557,17 +4117,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. V8
 
 #### Prompt
 
 ```text
-雪夜竹林，两名武士在飘雪中对决，刀光划开雪雾。脚步踩碎薄冰的细节清晰可见。镜头慢推近身，再突然切换高速环绕捕捉关键一击。克制、肃杀、电影级动作设计。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 226: Balloon City Sunrise 变体8
+### No. 204: Balon Şehri Gün Doğumu V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_016_v8
 - **Dil:** `tr`
@@ -4577,17 +4137,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. V8
 
 #### Prompt
 
 ```text
-日出时，整座悬崖城市被数千热气球缓缓托起，街道与桥梁在半空漂浮。市民端着早餐看云海。镜头沿主街前进后跃升穿过气球群。宏大浪漫，金色晨光，超高细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 227: Forest Piano Ruins 变体8
+### No. 205: Orman Piyano Harabeleri V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_017_v8
 - **Dil:** `tr`
@@ -4597,17 +4157,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. V8
 
 #### Prompt
 
 ```text
-被藤蔓覆盖的古老钢琴厅遗址中，钢琴自动演奏，音符化作发光蝴蝶。镜头从断裂琴键微距进入大厅，光束穿过破碎穹顶。怀旧神秘，尘埃粒子可见，柔焦电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 228: Mars Street Food 变体8
+### No. 206: Mars Sokak Yemekleri V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_018_v8
 - **Dil:** `tr`
@@ -4617,17 +4177,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. V8
 
 #### Prompt
 
 ```text
-火星殖民地夜市热闹非凡，摊主用等离子炉烤串，红色风尘在霓虹下翻涌。宇航服游客排队点餐。镜头从烤串特写推到全景，展示穹顶外星地平线。科幻生活流，烟火气。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 229: Rainy Tokyo Bicycle 变体8
+### No. 207: Yağmurlu Tokyo Bisikleti V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_019_v8
 - **Dil:** `tr`
@@ -4637,17 +4197,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. V8
 
 #### Prompt
 
 ```text
-雨夜东京，一名快递员骑复古自行车穿梭狭窄巷道，路面倒映招牌光。镜头贴近车轮溅起水花，再切到头盔视角冲过十字路口。速度感强，霓虹反光，真实城市氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 230: Ancient Astronomy Tower 变体8
+### No. 208: Antik Astronomi Kulesi V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_020_v8
 - **Dil:** `tr`
@@ -4657,17 +4217,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. V8
 
 #### Prompt
 
 ```text
-古代天文塔内，铜制天球仪缓慢旋转，学者用羽毛笔记录星轨。窗外流星雨划过夜空。镜头围绕天球仪旋转并逐层上升到塔顶。历史质感，烛光阴影，沉浸叙事。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 231: Jungle Mech Elephant 变体8
+### No. 209: Orman Robotu Fil V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_021_v8
 - **Dil:** `tr`
@@ -4677,17 +4237,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. V8
 
 #### Prompt
 
 ```text
-热带雨林里，一头巨型机械象为村庄运送木材和药草，身体覆盖青苔。儿童在它腿边奔跑。镜头低机位跟随脚步震动，再升到树冠视角。厚重机械与自然共生，细节拉满。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 232: Ice Cream Galaxy 变体8
+### No. 210: Dondurma Galaksi V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_022_v8
 - **Dil:** `tr`
@@ -4697,17 +4257,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. V8
 
 #### Prompt
 
 ```text
-宇宙甜品师在星环上制作巨型冰淇淋，星尘像糖粉洒落。行星做成彩色配料旋转坠入圣代杯。镜头围绕勺子动作旋转，最后定格在银河甜品全景。奇思妙想，明快色彩。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 233: Shadow Puppet Metropolis 变体8
+### No. 211: Gölge Kuklası Metropolis V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_023_v8
 - **Dil:** `tr`
@@ -4717,17 +4277,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. V8
 
 #### Prompt
 
 ```text
-未来都市外墙上演巨型皮影戏，投影跨越整栋楼。地面观众戴着发光面具，鼓点震动空气。镜头从皮影手部特写拉开到城市广场。传统艺术与未来建筑碰撞，强视觉冲击。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 234: Subway Jazz Morning 变体8
+### No. 212: Metro Caz Sabahı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_024_v8
 - **Dil:** `tr`
@@ -4737,17 +4297,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. V8
 
 #### Prompt
 
 ```text
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 235: Temple Of Wind Chimes 变体8
+### No. 213: Rüzgar Çanları Tapınağı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_025_v8
 - **Dil:** `tr`
@@ -4757,17 +4317,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. V8
 
 #### Prompt
 
 ```text
-悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 236: Midnight Bookstore Portal 变体8
+### No. 214: Gece Yarısı Kitabevi Portalı V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_026_v8
 - **Dil:** `tr`
@@ -4777,17 +4337,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. V8
 
 #### Prompt
 
 ```text
-午夜旧书店突然打开时空门，书页像旋涡卷起，顾客被带入不同年代街景。镜头围绕一本翻开的书高速旋转，切换多个时代画面。奇幻叙事，转场丝滑，细节丰富。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 237: Festival Of Fireflies 变体8
+### No. 215: Ateşböcekleri Festivali V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_027_v8
 - **Dil:** `tr`
@@ -4797,17 +4357,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. V8
 
 #### Prompt
 
 ```text
-夏夜湖畔举办萤火节，成千上万萤火虫围绕木舟盘旋，像银河落入人间。人们放漂流灯祈愿。镜头从手中灯笼跟随到空中俯拍湖面。浪漫宁静，暖冷对比，电影级氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 238: Gravity Free Workshop 变体8
+### No. 216: Yerçekimsiz Atölye V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_028_v8
 - **Dil:** `tr`
@@ -4817,17 +4377,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. V8
 
 #### Prompt
 
 ```text
-零重力工坊里，工匠在半空中拼装透明机芯，零件缓慢漂浮旋转。激光标尺在空气中绘出蓝线。镜头围绕工匠360度环绕，展示细节装配过程。未来工业美学，干净锐利。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 239: Rainforest Glass Frog 变体8
+### No. 217: Yağmur Ormanı Cam Kurbağası V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_029_v8
 - **Dil:** `tr`
@@ -4837,17 +4397,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. V8
 
 #### Prompt
 
 ```text
-雨林夜色中，一只玻璃青蛙在发光蘑菇之间跳跃，体内可见微弱脉动光。镜头微距追随青蛙穿过叶片雨滴，最后停在湖面倒影。生命力与神秘感并存，超写实微观摄影。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
 ```
 
-### No. 240: Solar Wind Surfers 变体8
+### No. 218: Güneş Rüzgar Sörfçüleri V8
 
-- **Kategori:** `HappyHorse Creative Batch`
+- **Kategori:** `HappyHorse Yaratici Seri`
 - **Kaynak:** `custom`
 - **Yazar:** hh_030_v8
 - **Dil:** `tr`
@@ -4857,21 +4417,461 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. V8
 
 #### Prompt
 
 ```text
-高空平流层中，极限运动员驾驶太阳帆板借助太阳风滑行，尾迹划出金色弧线。远处云海与地平线渐变。镜头跟拍冲刺后切换无人机视角俯冲。未来运动大片，激昂动感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik. Aynı temel unsurları koruyarak doku ve ayrıntı gösterimine daha fazla önem veren, malzemelerin yakın çekimlerini, ağır çekim çekimlerini, ayna yansımalarını, su buharını veya toz parçacıklarını ekleyerek her şeyi daha hassas ve gerçekçi hale getiren bir versiyona geçildi.
+```
+
+### No. 219: Robot Çiftliği Hasadı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_009
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde.
+
+#### Prompt
+
+```text
+Sonbaharda pirinç tarlalarında bir grup tombul robot, hareketleri beceriksiz ama mükemmel bir uyum içinde, altın renkli pirinç başaklarını topladı. Drone'lar gökyüzünü ateşböcekleri gibi aydınlatıyor. Kamera tarla sırtı boyunca geziniyor, sonra yükselerek gülümseyen dev bir buğday tarlası desenini görüyor. Şifa veren sıcaklık, belgesel kalitesinde.
+```
+
+### No. 220: Şeker Kanyonu Yarışı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_010
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi.
+
+#### Prompt
+
+```text
+Salyangoz yarışı Candy Canyon'da düzenleniyor ve parkur Rainbow Gummi Köprüsü. Seyirci silindir şapkalı bir tavşan ve mekanik bir sincaptır. Araba kovalarken kamera yere yapışıyor ve sıkışıklık sıçrayarak ağır çekimde renkli bir yağmur oluşturuyor. Abartılı karikatürler gerçek ışıklandırmayla birleştirildi.
+```
+
+### No. 221: Sualtı Postanesi
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_011
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi.
+
+#### Prompt
+
+```text
+Sualtı postanesi mercandan yapılmış ve bir denizatı postacısı elinde bir mektup çantasıyla içinden geçiyor. Denizanası fenerleri kapı eşiğinde titreşip parlıyordu. Kamera kabarcık kanalından salona giriyor ve zarf, uzaklara doğru yüzen küçük bir balığa dönüşüyor. Güzel rüyalar diyarı, mavi ve yeşil tonlar, yumuşak süzülme hissi.
+```
+
+### No. 222: Dağ Bambu Drone
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_012
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi.
+
+#### Prompt
+
+```text
+Bulutlu vadide, bir bambu dron oluşumu tohum ekmek için çay teraslarının üzerinden geçiyor. Yaşlı çay çiftçisi başını kaldırdı ve gülümsedi, sabah ışığı sisin içine girdi. Kamera önce çay yaprakları üzerindeki çiy damlalarının makro görüntüsünü çekiyor ve ardından geometrik terasları göstermek için yüksek hızda hareket ediyor. Doğa ve teknolojinin özgün detaylarla birleşimi.
+```
+
+### No. 223: Cyberpunk Kağıt Fenerler
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_013
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi.
+
+#### Prompt
+
+```text
+Siber Sokak'ta yaşanan elektrik kesintisinin ardından vatandaşlar binlerce kağıt feneri aynı anda yakarak neon ışıkları ve mum ışığı karışımı oluşturdu. Yavaşça geçen tramvay turuncu-mavi ışığı yansıtıyordu. Kamera ara sokaktan içeri giriyor, ışık denizinden geçiyor ve kuşbakışı görüntü için çatıya ulaşıyor. Duygusal anlatım, uzak çekim sinema hissi.
+```
+
+### No. 224: Dev Kaplumbağa Karnavalı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_014
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu.
+
+#### Prompt
+
+```text
+Hareketli bir karnaval, dev bir kaplumbağanın sırtında ormanın içinden geçiyor; kaplumbağanın kabuğu üzerinde bir atlıkarınca ve dönme dolap dönüyor. Çocuklar asma köprüde tezahürat yaptı. Kamera dev kaplumbağanın etrafında dönerek geçit törenine katılan orman hayvanlarını gösteriyor. Parlak ve son derece doygun bir merak duygusu.
+```
+
+### No. 225: Samuray Kar Düellosu
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_015
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı.
+
+#### Prompt
+
+```text
+Karlı bir gecede bambu ormanında, iki savaşçı yağan karda düello yaptı, kılıçlarının ışığı karı ve sisi delip geçiyordu. İnce buzları kıran ayak seslerinin detayları açıkça görülüyor. Kamera yavaş yavaş yakınlaşır ve ardından aniden yüksek hızlı surround sese geçerek anahtar vuruşu yakalar. Kısıtlama, tüyler ürpertici ve film düzeyinde aksiyon tasarımı.
+```
+
+### No. 226: Balon Şehri Gün Doğumu
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_016
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar.
+
+#### Prompt
+
+```text
+Güneş doğarken, tüm uçurum şehri binlerce sıcak hava balonu tarafından yavaşça kaldırılıyor, sokaklar ve köprüler havada süzülüyor. Vatandaşlar kahvaltı yapıp bulutlardan oluşan denize bakıyor. Kamera Ana Cadde boyunca ilerliyor ve ardından bir grup balonun içinden atlıyor. Görkemli ve romantik, altın renkli sabah ışığı, ultra yüksek ayrıntılar.
+```
+
+### No. 227: Orman Piyano Harabeleri
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_017
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli.
+
+#### Prompt
+
+```text
+Sarmaşıklarla kaplı eski bir piyano salonunun kalıntılarında piyano otomatik olarak çalıyor ve notalar parlayan kelebeklere dönüşüyor. Kamera kırık piyano tuşlarından salona yaklaşıyor ve ışın kırık kubbeden geçiyor. Görünür toz parçacıkları ve yumuşak odaklı sinema hissi ile nostaljik ve gizemli.
+```
+
+### No. 228: Mars Sokak Yemekleri
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_018
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler.
+
+#### Prompt
+
+```text
+Mars Kolonisi gece pazarı etkinlikle dolup taşıyor. Tezgah sahipleri şişleri kızartmak için plazma sobaları kullanıyor ve neon ışıkların altında kırmızı toz uçuşuyor. Uzay giysisi turistleri yemek siparişi vermek için sıraya giriyor. Kamera şişlerin yakın çekiminden panoramik görüntüye yakınlaşarak kubbenin yabancı ufkunu gösteriyor. Bilim kurgu yaşam akışı, havai fişekler.
+```
+
+### No. 229: Yağmurlu Tokyo Bisikleti
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_019
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi.
+
+#### Prompt
+
+```text
+Tokyo'da yağmurlu bir gecede, bir kurye dar sokaklarda retro bir bisiklete biniyor ve tabelanın ışığı yola yansıyor. Kamera, su sıçratan tekerleğin yakınındadır ve ardından kavşaktan hızla geçerken kask perspektifini keser. Güçlü hız hissi, neon yansıması ve gerçek şehir atmosferi.
+```
+
+### No. 230: Antik Astronomi Kulesi
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_020
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım.
+
+#### Prompt
+
+```text
+Antik astronomi kulesinde bakır gök küresi yavaşça dönüyordu ve bilim adamları yıldız yollarını kaydetmek için tüy kalemler kullanıyorlardı. Pencerenin dışındaki gece gökyüzüne bir meteor yağmuru yağdı. Kamera gök küresinin etrafında döner ve kulenin tepesine kadar seviye kademe yükselir. Tarihi doku, mum ışığında gölge, sürükleyici anlatım.
+```
+
+### No. 231: Orman Robotu Fil
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_021
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu.
+
+#### Prompt
+
+```text
+Tropikal yağmur ormanlarında, vücudu yosunla kaplı dev bir mekanik fil köye odun ve şifalı bitkiler taşıyor. Çocuklar bacaklarının etrafında koşarlar. Kamera alçak bir konumdan gelen ayak sesleriyle birlikte titreşir ve ardından gölgelik perspektifine doğru yükselir. Ağır makineler ve doğa bir arada, ayrıntılarla dolu.
+```
+
+### No. 232: Dondurma Galaksi
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_022
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler.
+
+#### Prompt
+
+```text
+Kozmik pasta şefi, yıldız halkasının üzerinde dev bir dondurma yapar ve yıldız tozu, pudra şekeri gibi serpilir. Gezegenler, dönen ve dondurma bardağına düşen renkli soslara dönüştürülür. Kamera kaşık hareketinin etrafında dönüyor ve sonunda Samanyolu tatlısı panoramasında donuyor. İlginç fikirler, parlak renkler.
+```
+
+### No. 233: Gölge Kuklası Metropolis
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_023
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor.
+
+#### Prompt
+
+```text
+Gelecekteki şehrin dış duvarında, tüm binayı kapsayan projeksiyonlarla dev bir gölge kuklası gösterisi sahneleniyor. Yerdeki seyirciler parlayan maskeler takıyordu ve davul sesleri havayı titreştiriyordu. Kamera, gölge kuklasının ellerinin yakın çekiminden şehir meydanına yakınlaşıyor. Geleneksel sanat ile geleceğin mimarisinin çarpışması güçlü bir görsel etki yaratıyor.
+```
+
+### No. 234: Metro Caz Sabahı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_024
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim.
+
+#### Prompt
+
+```text
+Sabahın erken saatlerinde metro istasyonunda platformda bir caz grubu çalıyordu ve yolcular yavaş yavaş dansa katılmak için durmuştu. Tren istasyona yanaşıyor ve rüzgâr ortalığı karıştırıyor. Kamera kalabalığın üzerinde gezinerek gülümseyen yüzleri ve doğaçlama etkileşimleri yakalıyor. Hayat filmi hissi, sıcak ritim.
+```
+
+### No. 235: Rüzgar Çanları Tapınağı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_025
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık.
+
+#### Prompt
+
+```text
+Kayalık tapınağın üzerinde milyonlarca rüzgar çanı asılıdır ve deniz meltemi onun içinden geçerek ses dalgalarından oluşan katmanlar oluşturur. Keşiş yavaş yavaş yürüyordu, cübbesi bulutlar ve sisle birlikte akıyordu. Kamera rüzgar çanlarının titreşimine yaklaşıyor ve ardından uçurumun ve denizin üzerinden uçuyor. Ruhani ve ciddi, ağır çekim, şeffaf doğal ışık.
+```
+
+### No. 236: Gece Yarısı Kitabevi Portalı
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_026
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar.
+
+#### Prompt
+
+```text
+Kullanılmış kitapçı gece yarısı birdenbire zaman ve mekanın kapısını açtı, sayfalar girdap gibi kıvrıldı ve müşteriler farklı dönemlerin sokak manzaralarına çekildi. Kamera açık bir kitabın etrafında yüksek hızda dönerek birden fazla döneme ait sahneler arasında geçiş yapar. Fantastik anlatım, akıcı geçişler ve zengin detaylar.
+```
+
+### No. 237: Ateşböcekleri Festivali
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_027
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer.
+
+#### Prompt
+
+```text
+Bir yaz gecesi göl kenarında ateş böceği festivali düzenleniyor. Binlerce ateş böceği, dünyaya düşen Samanyolu gibi ahşap teknenin etrafında dönüyor. İnsanlar dua etmek için sürüklenen fenerleri söndürdü. Kamera gölün kuşbakışı görüntüsünü almak için elindeki feneri takip ediyor. Romantik ve sakin, sıcak ve soğuk kontrast, film düzeyinde bir atmosfer.
+```
+
+### No. 238: Yerçekimsiz Atölye
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_028
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin.
+
+#### Prompt
+
+```text
+Sıfır yerçekimi atölyesinde ustalar havada şeffaf hareketler monte ediyor ve parçalar yavaşça yüzüyor ve dönüyor. Lazer cetveli havada mavi bir çizgi çizer. Kamera ustaları 360 derece çevreleyerek ayrıntılı montaj sürecini gösteriyor. Geleceğin endüstriyel estetiği, temiz ve keskin.
+```
+
+### No. 239: Yağmur Ormanı Cam Kurbağası
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_029
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık.
+
+#### Prompt
+
+```text
+Yağmur ormanı gecesinde, vücudunda hafif titreşen ışık görülebilen bir cam kurbağa, parlayan mantarların arasından atlıyor. Makro lens, yapraklara düşen yağmur damlalarının arasından kurbağayı takip ediyor ve en sonunda göldeki yansımada duruyor. Canlılık ve gizem bir arada var, hiper gerçekçi mikroskobik fotoğrafçılık.
+```
+
+### No. 240: Güneş Rüzgar Sörfçüleri
+
+- **Kategori:** `HappyHorse Yaratici Seri`
+- **Kaynak:** `custom`
+- **Yazar:** hh_030
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik.
+
+#### Prompt
+
+```text
+Yüksek irtifadaki stratosferde, ekstrem sporcular güneş panellerini güneş rüzgârının yardımıyla süzülecek şekilde kullanıyorlar ve dümen suyunda altın yaylar çiziyorlar. Bulutlar denizi ve ufuk yavaş yavaş mesafeye göre değişiyor. Kamera sürat koşusunu takip eder ve ardından dalış için drone perspektifine geçer. Geleceğin gişe rekorları kıran bir spor filmi, heyecan verici ve dinamik.
 ```
 
 <a id="category-2"></a>
 
-### Twitter Community (88)
+### Twitter Toplulugu (88)
 
-### No. 1: 5分钟生成1分钟电影级战争视频，4个镜头结构
+### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001
 - **Dil:** `tr`
@@ -4881,217 +4881,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 2: 燃烧军车的城市战争航拍镜头
+### No. 2: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V2
 
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。
-
-#### Prompt
-
-```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。
-```
-
-### No. 3: Will Smith 吃意大利面
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-
-#### Prompt
-
-```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-```
-
-### No. 4: 女性控制飞机的复杂动作场景快速测试
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。
-
-#### Prompt
-
-```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。
-```
-
-### No. 5: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_008
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。
-
-#### Prompt
-
-```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。
-```
-
-### No. 6: 仅用3张参考图和简单提示词生成多镜头打斗场景
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_009
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。
-
-#### Prompt
-
-```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。
-```
-
-### No. 7: 超越原版动画质量的一拳超人动画
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_016
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。
-
-#### Prompt
-
-```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。
-```
-
-### No. 8: Will Smith 吃意大利面
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_018
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-
-#### Prompt
-
-```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-```
-
-### No. 9: 水獭进入大型机甲的动画场景，包含详细机械镜头
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_021
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。
-
-#### Prompt
-
-```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。
-```
-
-### No. 10: 单个提示词生成的南印度电影外星人场景
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_022
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。
-
-#### Prompt
-
-```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。
-```
-
-### No. 11: 士兵穿越沙漠地形的地面战斗镜头
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `twitter`
-- **Yazar:** tw_024
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。
-
-#### Prompt
-
-```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。
-```
-
-### No. 12: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体2
-
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v2
 - **Dil:** `tr`
@@ -5101,17 +4901,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V2
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 13: 燃烧军车的城市战争航拍镜头 变体2
+### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v2
 - **Dil:** `tr`
@@ -5121,17 +4921,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V2
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 14: Will Smith 吃意大利面 变体2
+### No. 4: Will Smith Eating Spaghetti V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v2
 - **Dil:** `tr`
@@ -5141,17 +4941,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Will Smith eating spaghetti in a modern home kitchen. V2
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 15: 女性控制飞机的复杂动作场景快速测试 变体2
+### No. 5: Quick Test of Female Controlling Plane in Complex Action Scene V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v2
 - **Dil:** `tr`
@@ -5161,17 +4961,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V2
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 16: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体2
+### No. 6: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v2
 - **Dil:** `tr`
@@ -5181,17 +4981,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V2
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 17: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体2
+### No. 7: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v2
 - **Dil:** `tr`
@@ -5201,17 +5001,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Intense martial arts fight between two women in modern urban environment. V2
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 18: 超越原版动画质量的一拳超人动画 变体2
+### No. 8: One Punch Man Animation Surpassing Original Quality V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v2
 - **Dil:** `tr`
@@ -5221,17 +5021,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V2
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 19: Will Smith 吃意大利面 变体2
+### No. 9: Will Smith Eating Spaghetti V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v2
 - **Dil:** `tr`
@@ -5241,17 +5041,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Will Smith eating spaghetti in a modern home kitchen. V2
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 20: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体2
+### No. 10: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v2
 - **Dil:** `tr`
@@ -5261,17 +5061,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V2
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 21: 单个提示词生成的南印度电影外星人场景 变体2
+### No. 11: South Indian Cinema Alien Scene Generated from Single Prompt V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v2
 - **Dil:** `tr`
@@ -5281,17 +5081,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V2
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 22: 士兵穿越沙漠地形的地面战斗镜头 变体2
+### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain V2
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v2
 - **Dil:** `tr`
@@ -5301,17 +5101,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V2
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 23: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体3
+### No. 13: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
+
+#### Prompt
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 14: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V3
+
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v3
 - **Dil:** `tr`
@@ -5321,17 +5141,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V3
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 24: 燃烧军车的城市战争航拍镜头 变体3
+### No. 15: Aerial Shot of Burning Military Vehicle in Urban Warfare V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v3
 - **Dil:** `tr`
@@ -5341,17 +5161,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V3
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 25: Will Smith 吃意大利面 变体3
+### No. 16: Will Smith Eating Spaghetti V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v3
 - **Dil:** `tr`
@@ -5361,17 +5181,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Will Smith eating spaghetti in a modern home kitchen. V3
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 26: 女性控制飞机的复杂动作场景快速测试 变体3
+### No. 17: Quick Test of Female Controlling Plane in Complex Action Scene V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v3
 - **Dil:** `tr`
@@ -5381,17 +5201,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V3
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 27: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体3
+### No. 18: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v3
 - **Dil:** `tr`
@@ -5401,17 +5221,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V3
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 28: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体3
+### No. 19: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v3
 - **Dil:** `tr`
@@ -5421,17 +5241,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Intense martial arts fight between two women in modern urban environment. V3
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 29: 超越原版动画质量的一拳超人动画 变体3
+### No. 20: One Punch Man Animation Surpassing Original Quality V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v3
 - **Dil:** `tr`
@@ -5441,17 +5261,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V3
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 30: Will Smith 吃意大利面 变体3
+### No. 21: Will Smith Eating Spaghetti V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v3
 - **Dil:** `tr`
@@ -5461,17 +5281,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Will Smith eating spaghetti in a modern home kitchen. V3
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 31: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体3
+### No. 22: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v3
 - **Dil:** `tr`
@@ -5481,17 +5301,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V3
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 32: 单个提示词生成的南印度电影外星人场景 变体3
+### No. 23: South Indian Cinema Alien Scene Generated from Single Prompt V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v3
 - **Dil:** `tr`
@@ -5501,17 +5321,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V3
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 33: 士兵穿越沙漠地形的地面战斗镜头 变体3
+### No. 24: Ground Combat Shot of Soldiers Traversing Desert Terrain V3
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v3
 - **Dil:** `tr`
@@ -5521,17 +5341,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V3
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 34: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体4
+### No. 25: Will Smith Eating Spaghetti
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Will Smith eating spaghetti in a modern home kitchen.
+
+#### Prompt
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 26: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V4
+
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v4
 - **Dil:** `tr`
@@ -5541,17 +5381,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V4
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 35: 燃烧军车的城市战争航拍镜头 变体4
+### No. 27: Aerial Shot of Burning Military Vehicle in Urban Warfare V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v4
 - **Dil:** `tr`
@@ -5561,17 +5401,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V4
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 36: Will Smith 吃意大利面 变体4
+### No. 28: Will Smith Eating Spaghetti V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v4
 - **Dil:** `tr`
@@ -5581,17 +5421,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Will Smith eating spaghetti in a modern home kitchen. V4
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 37: 女性控制飞机的复杂动作场景快速测试 变体4
+### No. 29: Quick Test of Female Controlling Plane in Complex Action Scene V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v4
 - **Dil:** `tr`
@@ -5601,17 +5441,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V4
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 38: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体4
+### No. 30: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v4
 - **Dil:** `tr`
@@ -5621,17 +5461,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V4
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 39: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体4
+### No. 31: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v4
 - **Dil:** `tr`
@@ -5641,17 +5481,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Intense martial arts fight between two women in modern urban environment. V4
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 40: 超越原版动画质量的一拳超人动画 变体4
+### No. 32: One Punch Man Animation Surpassing Original Quality V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v4
 - **Dil:** `tr`
@@ -5661,17 +5501,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V4
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 41: Will Smith 吃意大利面 变体4
+### No. 33: Will Smith Eating Spaghetti V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v4
 - **Dil:** `tr`
@@ -5681,17 +5521,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Will Smith eating spaghetti in a modern home kitchen. V4
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 42: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体4
+### No. 34: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v4
 - **Dil:** `tr`
@@ -5701,17 +5541,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V4
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 43: 单个提示词生成的南印度电影外星人场景 变体4
+### No. 35: South Indian Cinema Alien Scene Generated from Single Prompt V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v4
 - **Dil:** `tr`
@@ -5721,17 +5561,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V4
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 44: 士兵穿越沙漠地形的地面战斗镜头 变体4
+### No. 36: Ground Combat Shot of Soldiers Traversing Desert Terrain V4
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v4
 - **Dil:** `tr`
@@ -5741,17 +5581,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V4
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 45: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体5
+### No. 37: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v5
 - **Dil:** `tr`
@@ -5761,17 +5601,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V5
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 46: 燃烧军车的城市战争航拍镜头 变体5
+### No. 38: Aerial Shot of Burning Military Vehicle in Urban Warfare V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v5
 - **Dil:** `tr`
@@ -5781,17 +5621,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V5
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 47: Will Smith 吃意大利面 变体5
+### No. 39: Will Smith Eating Spaghetti V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v5
 - **Dil:** `tr`
@@ -5801,17 +5641,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Will Smith eating spaghetti in a modern home kitchen. V5
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 48: 女性控制飞机的复杂动作场景快速测试 变体5
+### No. 40: Quick Test of Female Controlling Plane in Complex Action Scene V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v5
 - **Dil:** `tr`
@@ -5821,17 +5661,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V5
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 49: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体5
+### No. 41: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v5
 - **Dil:** `tr`
@@ -5841,17 +5681,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V5
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 50: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体5
+### No. 42: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v5
 - **Dil:** `tr`
@@ -5861,17 +5701,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Intense martial arts fight between two women in modern urban environment. V5
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 51: 超越原版动画质量的一拳超人动画 变体5
+### No. 43: One Punch Man Animation Surpassing Original Quality V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v5
 - **Dil:** `tr`
@@ -5881,17 +5721,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V5
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 52: Will Smith 吃意大利面 变体5
+### No. 44: Will Smith Eating Spaghetti V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v5
 - **Dil:** `tr`
@@ -5901,17 +5741,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Will Smith eating spaghetti in a modern home kitchen. V5
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 53: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体5
+### No. 45: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v5
 - **Dil:** `tr`
@@ -5921,17 +5761,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V5
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 54: 单个提示词生成的南印度电影外星人场景 变体5
+### No. 46: South Indian Cinema Alien Scene Generated from Single Prompt V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v5
 - **Dil:** `tr`
@@ -5941,17 +5781,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V5
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 55: 士兵穿越沙漠地形的地面战斗镜头 变体5
+### No. 47: Ground Combat Shot of Soldiers Traversing Desert Terrain V5
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v5
 - **Dil:** `tr`
@@ -5961,17 +5801,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V5
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 56: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体6
+### No. 48: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v6
 - **Dil:** `tr`
@@ -5981,17 +5821,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V6
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 57: 燃烧军车的城市战争航拍镜头 变体6
+### No. 49: Aerial Shot of Burning Military Vehicle in Urban Warfare V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v6
 - **Dil:** `tr`
@@ -6001,17 +5841,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V6
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 58: Will Smith 吃意大利面 变体6
+### No. 50: Will Smith Eating Spaghetti V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v6
 - **Dil:** `tr`
@@ -6021,17 +5861,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Will Smith eating spaghetti in a modern home kitchen. V6
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 59: 女性控制飞机的复杂动作场景快速测试 变体6
+### No. 51: Quick Test of Female Controlling Plane in Complex Action Scene V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v6
 - **Dil:** `tr`
@@ -6041,17 +5881,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V6
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 60: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体6
+### No. 52: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v6
 - **Dil:** `tr`
@@ -6061,17 +5901,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V6
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 61: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体6
+### No. 53: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v6
 - **Dil:** `tr`
@@ -6081,17 +5921,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Intense martial arts fight between two women in modern urban environment. V6
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 62: 超越原版动画质量的一拳超人动画 变体6
+### No. 54: One Punch Man Animation Surpassing Original Quality V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v6
 - **Dil:** `tr`
@@ -6101,17 +5941,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V6
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 63: Will Smith 吃意大利面 变体6
+### No. 55: Will Smith Eating Spaghetti V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v6
 - **Dil:** `tr`
@@ -6121,17 +5961,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Will Smith eating spaghetti in a modern home kitchen. V6
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 64: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体6
+### No. 56: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v6
 - **Dil:** `tr`
@@ -6141,17 +5981,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V6
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 65: 单个提示词生成的南印度电影外星人场景 变体6
+### No. 57: South Indian Cinema Alien Scene Generated from Single Prompt V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v6
 - **Dil:** `tr`
@@ -6161,17 +6001,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V6
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 66: 士兵穿越沙漠地形的地面战斗镜头 变体6
+### No. 58: Ground Combat Shot of Soldiers Traversing Desert Terrain V6
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v6
 - **Dil:** `tr`
@@ -6181,17 +6021,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V6
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 67: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体7
+### No. 59: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
+
+#### Prompt
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 60: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V7
+
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v7
 - **Dil:** `tr`
@@ -6201,17 +6061,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V7
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 68: 燃烧军车的城市战争航拍镜头 变体7
+### No. 61: Aerial Shot of Burning Military Vehicle in Urban Warfare V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v7
 - **Dil:** `tr`
@@ -6221,17 +6081,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V7
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 69: Will Smith 吃意大利面 变体7
+### No. 62: Will Smith Eating Spaghetti V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v7
 - **Dil:** `tr`
@@ -6241,17 +6101,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Will Smith eating spaghetti in a modern home kitchen. V7
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 70: 女性控制飞机的复杂动作场景快速测试 变体7
+### No. 63: Quick Test of Female Controlling Plane in Complex Action Scene V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v7
 - **Dil:** `tr`
@@ -6261,17 +6121,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V7
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 71: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体7
+### No. 64: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v7
 - **Dil:** `tr`
@@ -6281,17 +6141,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V7
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 72: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体7
+### No. 65: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v7
 - **Dil:** `tr`
@@ -6301,17 +6161,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Intense martial arts fight between two women in modern urban environment. V7
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 73: 超越原版动画质量的一拳超人动画 变体7
+### No. 66: One Punch Man Animation Surpassing Original Quality V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v7
 - **Dil:** `tr`
@@ -6321,17 +6181,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V7
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 74: Will Smith 吃意大利面 变体7
+### No. 67: Will Smith Eating Spaghetti V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v7
 - **Dil:** `tr`
@@ -6341,17 +6201,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Will Smith eating spaghetti in a modern home kitchen. V7
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 75: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体7
+### No. 68: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v7
 - **Dil:** `tr`
@@ -6361,17 +6221,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V7
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 76: 单个提示词生成的南印度电影外星人场景 变体7
+### No. 69: South Indian Cinema Alien Scene Generated from Single Prompt V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v7
 - **Dil:** `tr`
@@ -6381,17 +6241,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V7
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 77: 士兵穿越沙漠地形的地面战斗镜头 变体7
+### No. 70: Ground Combat Shot of Soldiers Traversing Desert Terrain V7
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v7
 - **Dil:** `tr`
@@ -6401,17 +6261,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V7
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 78: 5分钟生成1分钟电影级战争视频，4个镜头结构 变体8
+### No. 71: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_008
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
+
+#### Prompt
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 72: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V8
+
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_001_v8
 - **Dil:** `tr`
@@ -6421,17 +6301,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V8
 
 #### Prompt
 
 ```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 79: 燃烧军车的城市战争航拍镜头 变体8
+### No. 73: Aerial Shot of Burning Military Vehicle in Urban Warfare V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_003_v8
 - **Dil:** `tr`
@@ -6441,17 +6321,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V8
 
 #### Prompt
 
 ```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
 ```
 
-### No. 80: Will Smith 吃意大利面 变体8
+### No. 74: Will Smith Eating Spaghetti V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_004_v8
 - **Dil:** `tr`
@@ -6461,17 +6341,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Will Smith eating spaghetti in a modern home kitchen. V8
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 81: 女性控制飞机的复杂动作场景快速测试 变体8
+### No. 75: Quick Test of Female Controlling Plane in Complex Action Scene V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_007_v8
 - **Dil:** `tr`
@@ -6481,17 +6361,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V8
 
 #### Prompt
 
 ```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
 ```
 
-### No. 82: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学 变体8
+### No. 76: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_008_v8
 - **Dil:** `tr`
@@ -6501,17 +6381,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V8
 
 #### Prompt
 
 ```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
 ```
 
-### No. 83: 仅用3张参考图和简单提示词生成多镜头打斗场景 变体8
+### No. 77: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_009_v8
 - **Dil:** `tr`
@@ -6521,17 +6401,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Intense martial arts fight between two women in modern urban environment. V8
 
 #### Prompt
 
 ```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 84: 超越原版动画质量的一拳超人动画 变体8
+### No. 78: One Punch Man Animation Surpassing Original Quality V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_016_v8
 - **Dil:** `tr`
@@ -6541,17 +6421,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V8
 
 #### Prompt
 
 ```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
 ```
 
-### No. 85: Will Smith 吃意大利面 变体8
+### No. 79: Will Smith Eating Spaghetti V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_018_v8
 - **Dil:** `tr`
@@ -6561,17 +6441,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Will Smith eating spaghetti in a modern home kitchen. V8
 
 #### Prompt
 
 ```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
 ```
 
-### No. 86: 水獭进入大型机甲的动画场景，包含详细机械镜头 变体8
+### No. 80: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_021_v8
 - **Dil:** `tr`
@@ -6581,17 +6461,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V8
 
 #### Prompt
 
 ```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
 ```
 
-### No. 87: 单个提示词生成的南印度电影外星人场景 变体8
+### No. 81: South Indian Cinema Alien Scene Generated from Single Prompt V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_022_v8
 - **Dil:** `tr`
@@ -6601,17 +6481,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V8
 
 #### Prompt
 
 ```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
 ```
 
-### No. 88: 士兵穿越沙漠地形的地面战斗镜头 变体8
+### No. 82: Ground Combat Shot of Soldiers Traversing Desert Terrain V8
 
-- **Kategori:** `Twitter Community`
+- **Kategori:** `Twitter Toplulugu`
 - **Kaynak:** `twitter`
 - **Yazar:** tw_024_v8
 - **Dil:** `tr`
@@ -6621,21 +6501,141 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V8
 
 #### Prompt
 
 ```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 83: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_009
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Intense martial arts fight between two women in modern urban environment.
+
+#### Prompt
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 84: One Punch Man Animation Surpassing Original Quality
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_016
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
+
+#### Prompt
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 85: Will Smith Eating Spaghetti
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_018
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Will Smith eating spaghetti in a modern home kitchen.
+
+#### Prompt
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 86: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_021
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
+
+#### Prompt
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 87: South Indian Cinema Alien Scene Generated from Single Prompt
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_022
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
+
+#### Prompt
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 88: Ground Combat Shot of Soldiers Traversing Desert Terrain
+
+- **Kategori:** `Twitter Toplulugu`
+- **Kaynak:** `twitter`
+- **Yazar:** tw_024
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
+
+#### Prompt
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
 <a id="category-3"></a>
 
-### 音频与语音合成 (80)
+### Ses ve Konuşma Sentezi (80)
 
-### No. 1: 鱼眼镜头搞笑马
+### No. 1: Balıkgözü At Komedisi
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001
 - **Dil:** `tr`
@@ -6645,17 +6645,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 2: 办公楼纪录片
+### No. 2: Ofis Binası Belgeseli
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002
 - **Dil:** `tr`
@@ -6665,177 +6665,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作
+Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 3: 猫狗吐槽大战
+### No. 3: Balıkgözü At Komedisi V2
 
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\
-
-#### Prompt
-
-```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\
-```
-
-### No. 4: 中国戏曲表演
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。
-
-#### Prompt
-
-```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。
-```
-
-### No. 5: 电影感公路旅行 MV
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。
-
-#### Prompt
-
-```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。
-```
-
-### No. 6: 多元文化家庭庆典
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。
-
-#### Prompt
-
-```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。
-```
-
-### No. 7: 战术小队西班牙语简报
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。
-
-#### Prompt
-
-```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。
-```
-
-### No. 8: 早晨叫醒对话
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_008
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。
-
-#### Prompt
-
-```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。
-```
-
-### No. 9: 四川话奶茶对话
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_009
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。
-
-#### Prompt
-
-```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。
-```
-
-### No. 10: 西游记故事讲述
-
-- **Kategori:** `音频与语音合成`
-- **Kaynak:** `official`
-- **Yazar:** av_010
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。
-
-#### Prompt
-
-```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。
-```
-
-### No. 11: 鱼眼镜头搞笑马 变体2
-
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v2
 - **Dil:** `tr`
@@ -6845,17 +6685,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V2
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 12: 办公楼纪录片 变体2
+### No. 4: Ofis Binası Belgeseli V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v2
 - **Dil:** `tr`
@@ -6865,17 +6705,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V2
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 13: 猫狗吐槽大战 变体2
+### No. 5: Kedi-Köpek Atışma Düellosu V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v2
 - **Dil:** `tr`
@@ -6885,17 +6725,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V2
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 14: 中国戏曲表演 变体2
+### No. 6: Çin Operası Performansı V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v2
 - **Dil:** `tr`
@@ -6905,17 +6745,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V2
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 15: 电影感公路旅行 MV 变体2
+### No. 7: Sinematik Road Trip Müzik Videosu V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v2
 - **Dil:** `tr`
@@ -6925,17 +6765,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V2
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 16: 多元文化家庭庆典 变体2
+### No. 8: Çok Kültürlü Aile Kutlaması V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v2
 - **Dil:** `tr`
@@ -6945,17 +6785,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V2
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 17: 战术小队西班牙语简报 变体2
+### No. 9: Taktik Ekip İspanyolca Brifingi V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v2
 - **Dil:** `tr`
@@ -6965,17 +6805,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V2
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 18: 早晨叫醒对话 变体2
+### No. 10: Sabah Uyanış Diyaloğu V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v2
 - **Dil:** `tr`
@@ -6985,17 +6825,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V2
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 19: 四川话奶茶对话 变体2
+### No. 11: Sichuan Lehçesiyle Bubble Tea V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v2
 - **Dil:** `tr`
@@ -7005,17 +6845,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V2
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 20: 西游记故事讲述 变体2
+### No. 12: Batıya Yolculuk Hikâye Anlatımı V2
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v2
 - **Dil:** `tr`
@@ -7025,17 +6865,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V2
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 21: 鱼眼镜头搞笑马 变体3
+### No. 13: Kedi-Köpek Atışma Düellosu
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
+
+#### Prompt
+
+```text
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
+```
+
+### No. 14: Balıkgözü At Komedisi V3
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v3
 - **Dil:** `tr`
@@ -7045,17 +6905,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V3
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 22: 办公楼纪录片 变体3
+### No. 15: Ofis Binası Belgeseli V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v3
 - **Dil:** `tr`
@@ -7065,17 +6925,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V3
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 23: 猫狗吐槽大战 变体3
+### No. 16: Kedi-Köpek Atışma Düellosu V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v3
 - **Dil:** `tr`
@@ -7085,17 +6945,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V3
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 24: 中国戏曲表演 变体3
+### No. 17: Çin Operası Performansı V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v3
 - **Dil:** `tr`
@@ -7105,17 +6965,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V3
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 25: 电影感公路旅行 MV 变体3
+### No. 18: Sinematik Road Trip Müzik Videosu V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v3
 - **Dil:** `tr`
@@ -7125,17 +6985,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V3
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 26: 多元文化家庭庆典 变体3
+### No. 19: Çok Kültürlü Aile Kutlaması V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v3
 - **Dil:** `tr`
@@ -7145,17 +7005,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V3
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 27: 战术小队西班牙语简报 变体3
+### No. 20: Taktik Ekip İspanyolca Brifingi V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v3
 - **Dil:** `tr`
@@ -7165,17 +7025,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V3
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 28: 早晨叫醒对话 变体3
+### No. 21: Sabah Uyanış Diyaloğu V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v3
 - **Dil:** `tr`
@@ -7185,17 +7045,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V3
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 29: 四川话奶茶对话 变体3
+### No. 22: Sichuan Lehçesiyle Bubble Tea V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v3
 - **Dil:** `tr`
@@ -7205,17 +7065,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V3
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 30: 西游记故事讲述 变体3
+### No. 23: Batıya Yolculuk Hikâye Anlatımı V3
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v3
 - **Dil:** `tr`
@@ -7225,17 +7085,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V3
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 31: 鱼眼镜头搞笑马 变体4
+### No. 24: Çin Operası Performansı
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
+```
+
+### No. 25: Balıkgözü At Komedisi V4
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v4
 - **Dil:** `tr`
@@ -7245,17 +7125,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V4
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 32: 办公楼纪录片 变体4
+### No. 26: Ofis Binası Belgeseli V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v4
 - **Dil:** `tr`
@@ -7265,17 +7145,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V4
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 33: 猫狗吐槽大战 变体4
+### No. 27: Kedi-Köpek Atışma Düellosu V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v4
 - **Dil:** `tr`
@@ -7285,17 +7165,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V4
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 34: 中国戏曲表演 变体4
+### No. 28: Çin Operası Performansı V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v4
 - **Dil:** `tr`
@@ -7305,17 +7185,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V4
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 35: 电影感公路旅行 MV 变体4
+### No. 29: Sinematik Road Trip Müzik Videosu V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v4
 - **Dil:** `tr`
@@ -7325,17 +7205,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V4
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 36: 多元文化家庭庆典 变体4
+### No. 30: Çok Kültürlü Aile Kutlaması V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v4
 - **Dil:** `tr`
@@ -7345,17 +7225,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V4
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 37: 战术小队西班牙语简报 变体4
+### No. 31: Taktik Ekip İspanyolca Brifingi V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v4
 - **Dil:** `tr`
@@ -7365,17 +7245,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V4
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 38: 早晨叫醒对话 变体4
+### No. 32: Sabah Uyanış Diyaloğu V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v4
 - **Dil:** `tr`
@@ -7385,17 +7265,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V4
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 39: 四川话奶茶对话 变体4
+### No. 33: Sichuan Lehçesiyle Bubble Tea V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v4
 - **Dil:** `tr`
@@ -7405,17 +7285,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V4
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 40: 西游记故事讲述 变体4
+### No. 34: Batıya Yolculuk Hikâye Anlatımı V4
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v4
 - **Dil:** `tr`
@@ -7425,17 +7305,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V4
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 41: 鱼眼镜头搞笑马 变体5
+### No. 35: Sinematik Road Trip Müzik Videosu
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
+```
+
+### No. 36: Balıkgözü At Komedisi V5
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v5
 - **Dil:** `tr`
@@ -7445,17 +7345,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V5
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 42: 办公楼纪录片 变体5
+### No. 37: Ofis Binası Belgeseli V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v5
 - **Dil:** `tr`
@@ -7465,17 +7365,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V5
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 43: 猫狗吐槽大战 变体5
+### No. 38: Kedi-Köpek Atışma Düellosu V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v5
 - **Dil:** `tr`
@@ -7485,17 +7385,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V5
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 44: 中国戏曲表演 变体5
+### No. 39: Çin Operası Performansı V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v5
 - **Dil:** `tr`
@@ -7505,17 +7405,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V5
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 45: 电影感公路旅行 MV 变体5
+### No. 40: Sinematik Road Trip Müzik Videosu V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v5
 - **Dil:** `tr`
@@ -7525,17 +7425,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V5
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 46: 多元文化家庭庆典 变体5
+### No. 41: Çok Kültürlü Aile Kutlaması V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v5
 - **Dil:** `tr`
@@ -7545,17 +7445,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V5
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 47: 战术小队西班牙语简报 变体5
+### No. 42: Taktik Ekip İspanyolca Brifingi V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v5
 - **Dil:** `tr`
@@ -7565,17 +7465,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V5
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 48: 早晨叫醒对话 变体5
+### No. 43: Sabah Uyanış Diyaloğu V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v5
 - **Dil:** `tr`
@@ -7585,17 +7485,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V5
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 49: 四川话奶茶对话 变体5
+### No. 44: Sichuan Lehçesiyle Bubble Tea V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v5
 - **Dil:** `tr`
@@ -7605,17 +7505,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V5
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 50: 西游记故事讲述 变体5
+### No. 45: Batıya Yolculuk Hikâye Anlatımı V5
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v5
 - **Dil:** `tr`
@@ -7625,17 +7525,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V5
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 51: 鱼眼镜头搞笑马 变体6
+### No. 46: Çok Kültürlü Aile Kutlaması
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
+```
+
+### No. 47: Balıkgözü At Komedisi V6
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v6
 - **Dil:** `tr`
@@ -7645,17 +7565,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V6
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 52: 办公楼纪录片 变体6
+### No. 48: Ofis Binası Belgeseli V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v6
 - **Dil:** `tr`
@@ -7665,17 +7585,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V6
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 53: 猫狗吐槽大战 变体6
+### No. 49: Kedi-Köpek Atışma Düellosu V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v6
 - **Dil:** `tr`
@@ -7685,17 +7605,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V6
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 54: 中国戏曲表演 变体6
+### No. 50: Çin Operası Performansı V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v6
 - **Dil:** `tr`
@@ -7705,17 +7625,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V6
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 55: 电影感公路旅行 MV 变体6
+### No. 51: Sinematik Road Trip Müzik Videosu V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v6
 - **Dil:** `tr`
@@ -7725,17 +7645,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V6
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 56: 多元文化家庭庆典 变体6
+### No. 52: Çok Kültürlü Aile Kutlaması V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v6
 - **Dil:** `tr`
@@ -7745,17 +7665,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V6
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 57: 战术小队西班牙语简报 变体6
+### No. 53: Taktik Ekip İspanyolca Brifingi V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v6
 - **Dil:** `tr`
@@ -7765,17 +7685,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V6
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 58: 早晨叫醒对话 变体6
+### No. 54: Sabah Uyanış Diyaloğu V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v6
 - **Dil:** `tr`
@@ -7785,17 +7705,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V6
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 59: 四川话奶茶对话 变体6
+### No. 55: Sichuan Lehçesiyle Bubble Tea V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v6
 - **Dil:** `tr`
@@ -7805,17 +7725,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V6
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 60: 西游记故事讲述 变体6
+### No. 56: Batıya Yolculuk Hikâye Anlatımı V6
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v6
 - **Dil:** `tr`
@@ -7825,17 +7745,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V6
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 61: 鱼眼镜头搞笑马 变体7
+### No. 57: Taktik Ekip İspanyolca Brifingi
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
+```
+
+### No. 58: Balıkgözü At Komedisi V7
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v7
 - **Dil:** `tr`
@@ -7845,17 +7785,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V7
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 62: 办公楼纪录片 变体7
+### No. 59: Ofis Binası Belgeseli V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v7
 - **Dil:** `tr`
@@ -7865,17 +7805,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V7
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 63: 猫狗吐槽大战 变体7
+### No. 60: Kedi-Köpek Atışma Düellosu V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v7
 - **Dil:** `tr`
@@ -7885,17 +7825,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V7
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 64: 中国戏曲表演 变体7
+### No. 61: Çin Operası Performansı V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v7
 - **Dil:** `tr`
@@ -7905,17 +7845,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V7
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 65: 电影感公路旅行 MV 变体7
+### No. 62: Sinematik Road Trip Müzik Videosu V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v7
 - **Dil:** `tr`
@@ -7925,17 +7865,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V7
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 66: 多元文化家庭庆典 变体7
+### No. 63: Çok Kültürlü Aile Kutlaması V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v7
 - **Dil:** `tr`
@@ -7945,17 +7885,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V7
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 67: 战术小队西班牙语简报 变体7
+### No. 64: Taktik Ekip İspanyolca Brifingi V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v7
 - **Dil:** `tr`
@@ -7965,17 +7905,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V7
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 68: 早晨叫醒对话 变体7
+### No. 65: Sabah Uyanış Diyaloğu V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v7
 - **Dil:** `tr`
@@ -7985,17 +7925,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V7
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 69: 四川话奶茶对话 变体7
+### No. 66: Sichuan Lehçesiyle Bubble Tea V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v7
 - **Dil:** `tr`
@@ -8005,17 +7945,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V7
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 70: 西游记故事讲述 变体7
+### No. 67: Batıya Yolculuk Hikâye Anlatımı V7
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v7
 - **Dil:** `tr`
@@ -8025,17 +7965,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V7
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
-### No. 71: 鱼眼镜头搞笑马 变体8
+### No. 68: Sabah Uyanış Diyaloğu
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_008
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
+```
+
+### No. 69: Balıkgözü At Komedisi V8
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_001_v8
 - **Dil:** `tr`
@@ -8045,17 +8005,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter. V8
 
 #### Prompt
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Balıkgözü lenste senkron diyalog ve ses efektlerine sahip hayvan karakter.
 ```
 
-### No. 72: 办公楼纪录片 变体8
+### No. 70: Ofis Binası Belgeseli V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_002_v8
 - **Dil:** `tr`
@@ -8065,17 +8025,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Profesyonel anlatımla sinematik gayrimenkul belgeseli. V8
 
 #### Prompt
 
 ```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Profesyonel anlatımla sinematik gayrimenkul belgeseli.
 ```
 
-### No. 73: 猫狗吐槽大战 变体8
+### No. 71: Kedi-Köpek Atışma Düellosu V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_003_v8
 - **Dil:** `tr`
@@ -8085,17 +8045,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u. V8
 
 #### Prompt
 
 ```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\ 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: İfadeli hayvan karakterler ve esprili diyaloglarla komedi talk show'u.
 ```
 
-### No. 74: 中国戏曲表演 变体8
+### No. 72: Çin Operası Performansı V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_004_v8
 - **Dil:** `tr`
@@ -8105,17 +8065,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi. V8
 
 #### Prompt
 
 ```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Otantik vokal ve dramatik gerilim içeren geleneksel Henan operası sahnesi.
 ```
 
-### No. 75: 电影感公路旅行 MV 变体8
+### No. 73: Sinematik Road Trip Müzik Videosu V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_005_v8
 - **Dil:** `tr`
@@ -8125,17 +8085,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu. V8
 
 #### Prompt
 
 ```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Belirli sinematografi anahtarları ve atmosferik sesle müzik videosu.
 ```
 
-### No. 76: 多元文化家庭庆典 变体8
+### No. 74: Çok Kültürlü Aile Kutlaması V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_006_v8
 - **Dil:** `tr`
@@ -8145,17 +8105,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi. V8
 
 #### Prompt
 
 ```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: İngilizce diyalog ve Latin müzikle sıcak aile kutlaması sahnesi.
 ```
 
-### No. 77: 战术小队西班牙语简报 变体8
+### No. 75: Taktik Ekip İspanyolca Brifingi V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_007_v8
 - **Dil:** `tr`
@@ -8165,17 +8125,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi. V8
 
 #### Prompt
 
 ```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: İspanyolca diyalog ve ekipman sesleri içeren askerî taktik sahnesi.
 ```
 
-### No. 78: 早晨叫醒对话 变体8
+### No. 76: Sabah Uyanış Diyaloğu V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_008_v8
 - **Dil:** `tr`
@@ -8185,17 +8145,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi. V8
 
 #### Prompt
 
 ```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Doğal ses oyunculuğu ve duygusal nüans taşıyan samimi çift sahnesi.
 ```
 
-### No. 79: 四川话奶茶对话 变体8
+### No. 77: Sichuan Lehçesiyle Bubble Tea V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_009_v8
 - **Dil:** `tr`
@@ -8205,17 +8165,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi. V8
 
 #### Prompt
 
 ```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
 ```
 
-### No. 80: 西游记故事讲述 变体8
+### No. 78: Batıya Yolculuk Hikâye Anlatımı V8
 
-- **Kategori:** `音频与语音合成`
+- **Kategori:** `Ses ve Konuşma Sentezi`
 - **Kaynak:** `official`
 - **Yazar:** av_010_v8
 - **Dil:** `tr`
@@ -8225,21 +8185,61 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik. V8
 
 #### Prompt
 
 ```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
+```
+
+### No. 79: Sichuan Lehçesiyle Bubble Tea
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_009
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Otantik Sichuan lehçesi ve karakter etkileşimiyle komedi sahnesi.
+```
+
+### No. 80: Batıya Yolculuk Hikâye Anlatımı
+
+- **Kategori:** `Ses ve Konuşma Sentezi`
+- **Kaynak:** `official`
+- **Yazar:** av_010
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Klasik Çin edebiyatını belgesel anlatımıyla açıklayan eğitici içerik.
 ```
 
 <a id="category-4"></a>
 
-### 创意视觉特效 (64)
+### Yaratıcı Görsel Efektler (64)
 
-### No. 1: VR 眼镜宇宙穿越
+### No. 1: VR Gözlükle Evren Yolculuğu
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001
 - **Dil:** `tr`
@@ -8249,17 +8249,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 2: 时尚快速换装广告
+### No. 2: Hızlı Kostüm Değişimli Moda Reklamı
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002
 - **Dil:** `tr`
@@ -8269,137 +8269,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 3: 羽绒服天鹅隐喻
+### No. 3: VR Gözlükle Evren Yolculuğu V2
 
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频
-
-#### Prompt
-
-```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频
-```
-
-### No. 4: 水墨风太极
-
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。
-
-#### Prompt
-
-```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。
-```
-
-### No. 5: 魔法变身序列
-
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。
-
-#### Prompt
-
-```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。
-```
-
-### No. 6: 拼图碎片转场 Logo
-
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。
-
-#### Prompt
-
-```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。
-```
-
-### No. 7: 金色粒子标题揭示
-
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。
-
-#### Prompt
-
-```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。
-```
-
-### No. 8: 抽象泡面创意
-
-- **Kategori:** `创意视觉特效`
-- **Kaynak:** `official`
-- **Yazar:** ce_008
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。
-
-#### Prompt
-
-```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。
-```
-
-### No. 9: VR 眼镜宇宙穿越 变体2
-
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v2
 - **Dil:** `tr`
@@ -8409,17 +8289,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V2
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 10: 时尚快速换装广告 变体2
+### No. 4: Hızlı Kostüm Değişimli Moda Reklamı V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v2
 - **Dil:** `tr`
@@ -8429,17 +8309,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V2
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 11: 羽绒服天鹅隐喻 变体2
+### No. 5: Kaz Tüyü Mont Kuğu Metaforu V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v2
 - **Dil:** `tr`
@@ -8449,17 +8329,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V2
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 12: 水墨风太极 变体2
+### No. 6: Mürekkep Yıkama Tai Chi V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v2
 - **Dil:** `tr`
@@ -8469,17 +8349,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V2
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 13: 魔法变身序列 变体2
+### No. 7: Büyülü Dönüşüm Sekansı V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v2
 - **Dil:** `tr`
@@ -8489,17 +8369,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V2
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 14: 拼图碎片转场 Logo 变体2
+### No. 8: Yapboz Parçalı Logo Geçişi V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v2
 - **Dil:** `tr`
@@ -8509,17 +8389,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V2
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 15: 金色粒子标题揭示 变体2
+### No. 9: Altın Parçacıkla Başlık Açılışı V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v2
 - **Dil:** `tr`
@@ -8529,17 +8409,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V2
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 16: 抽象泡面创意 变体2
+### No. 10: Soyut Hazır Erişte V2
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v2
 - **Dil:** `tr`
@@ -8549,17 +8429,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V2
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 17: VR 眼镜宇宙穿越 变体3
+### No. 11: Kaz Tüyü Mont Kuğu Metaforu
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
+```
+
+### No. 12: VR Gözlükle Evren Yolculuğu V3
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v3
 - **Dil:** `tr`
@@ -8569,17 +8469,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V3
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 18: 时尚快速换装广告 变体3
+### No. 13: Hızlı Kostüm Değişimli Moda Reklamı V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v3
 - **Dil:** `tr`
@@ -8589,17 +8489,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V3
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 19: 羽绒服天鹅隐喻 变体3
+### No. 14: Kaz Tüyü Mont Kuğu Metaforu V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v3
 - **Dil:** `tr`
@@ -8609,17 +8509,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V3
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 20: 水墨风太极 变体3
+### No. 15: Mürekkep Yıkama Tai Chi V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v3
 - **Dil:** `tr`
@@ -8629,17 +8529,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V3
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 21: 魔法变身序列 变体3
+### No. 16: Büyülü Dönüşüm Sekansı V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v3
 - **Dil:** `tr`
@@ -8649,17 +8549,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V3
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 22: 拼图碎片转场 Logo 变体3
+### No. 17: Yapboz Parçalı Logo Geçişi V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v3
 - **Dil:** `tr`
@@ -8669,17 +8569,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V3
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 23: 金色粒子标题揭示 变体3
+### No. 18: Altın Parçacıkla Başlık Açılışı V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v3
 - **Dil:** `tr`
@@ -8689,17 +8589,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V3
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 24: 抽象泡面创意 变体3
+### No. 19: Soyut Hazır Erişte V3
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v3
 - **Dil:** `tr`
@@ -8709,17 +8609,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V3
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 25: VR 眼镜宇宙穿越 变体4
+### No. 20: Mürekkep Yıkama Tai Chi
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
+```
+
+### No. 21: VR Gözlükle Evren Yolculuğu V4
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v4
 - **Dil:** `tr`
@@ -8729,17 +8649,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V4
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 26: 时尚快速换装广告 变体4
+### No. 22: Hızlı Kostüm Değişimli Moda Reklamı V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v4
 - **Dil:** `tr`
@@ -8749,17 +8669,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V4
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 27: 羽绒服天鹅隐喻 变体4
+### No. 23: Kaz Tüyü Mont Kuğu Metaforu V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v4
 - **Dil:** `tr`
@@ -8769,17 +8689,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V4
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 28: 水墨风太极 变体4
+### No. 24: Mürekkep Yıkama Tai Chi V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v4
 - **Dil:** `tr`
@@ -8789,17 +8709,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V4
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 29: 魔法变身序列 变体4
+### No. 25: Büyülü Dönüşüm Sekansı V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v4
 - **Dil:** `tr`
@@ -8809,17 +8729,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V4
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 30: 拼图碎片转场 Logo 变体4
+### No. 26: Yapboz Parçalı Logo Geçişi V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v4
 - **Dil:** `tr`
@@ -8829,17 +8749,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V4
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 31: 金色粒子标题揭示 变体4
+### No. 27: Altın Parçacıkla Başlık Açılışı V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v4
 - **Dil:** `tr`
@@ -8849,17 +8769,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V4
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 32: 抽象泡面创意 变体4
+### No. 28: Soyut Hazır Erişte V4
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v4
 - **Dil:** `tr`
@@ -8869,17 +8789,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V4
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 33: VR 眼镜宇宙穿越 变体5
+### No. 29: Büyülü Dönüşüm Sekansı
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
+```
+
+### No. 30: VR Gözlükle Evren Yolculuğu V5
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v5
 - **Dil:** `tr`
@@ -8889,17 +8829,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V5
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 34: 时尚快速换装广告 变体5
+### No. 31: Hızlı Kostüm Değişimli Moda Reklamı V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v5
 - **Dil:** `tr`
@@ -8909,17 +8849,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V5
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 35: 羽绒服天鹅隐喻 变体5
+### No. 32: Kaz Tüyü Mont Kuğu Metaforu V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v5
 - **Dil:** `tr`
@@ -8929,17 +8869,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V5
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 36: 水墨风太极 变体5
+### No. 33: Mürekkep Yıkama Tai Chi V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v5
 - **Dil:** `tr`
@@ -8949,17 +8889,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V5
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 37: 魔法变身序列 变体5
+### No. 34: Büyülü Dönüşüm Sekansı V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v5
 - **Dil:** `tr`
@@ -8969,17 +8909,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V5
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 38: 拼图碎片转场 Logo 变体5
+### No. 35: Yapboz Parçalı Logo Geçişi V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v5
 - **Dil:** `tr`
@@ -8989,17 +8929,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V5
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 39: 金色粒子标题揭示 变体5
+### No. 36: Altın Parçacıkla Başlık Açılışı V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v5
 - **Dil:** `tr`
@@ -9009,17 +8949,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V5
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 40: 抽象泡面创意 变体5
+### No. 37: Soyut Hazır Erişte V5
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v5
 - **Dil:** `tr`
@@ -9029,17 +8969,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V5
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 41: VR 眼镜宇宙穿越 变体6
+### No. 38: Yapboz Parçalı Logo Geçişi
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yapboz parçalanma efektiyle dinamik logo açılışı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
+```
+
+### No. 39: VR Gözlükle Evren Yolculuğu V6
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v6
 - **Dil:** `tr`
@@ -9049,17 +9009,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V6
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 42: 时尚快速换装广告 变体6
+### No. 40: Hızlı Kostüm Değişimli Moda Reklamı V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v6
 - **Dil:** `tr`
@@ -9069,17 +9029,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V6
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 43: 羽绒服天鹅隐喻 变体6
+### No. 41: Kaz Tüyü Mont Kuğu Metaforu V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v6
 - **Dil:** `tr`
@@ -9089,17 +9049,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V6
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 44: 水墨风太极 变体6
+### No. 42: Mürekkep Yıkama Tai Chi V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v6
 - **Dil:** `tr`
@@ -9109,17 +9069,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V6
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 45: 魔法变身序列 变体6
+### No. 43: Büyülü Dönüşüm Sekansı V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v6
 - **Dil:** `tr`
@@ -9129,17 +9089,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V6
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 46: 拼图碎片转场 Logo 变体6
+### No. 44: Yapboz Parçalı Logo Geçişi V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v6
 - **Dil:** `tr`
@@ -9149,17 +9109,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V6
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 47: 金色粒子标题揭示 变体6
+### No. 45: Altın Parçacıkla Başlık Açılışı V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v6
 - **Dil:** `tr`
@@ -9169,17 +9129,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V6
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 48: 抽象泡面创意 变体6
+### No. 46: Soyut Hazır Erişte V6
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v6
 - **Dil:** `tr`
@@ -9189,17 +9149,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V6
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 49: VR 眼镜宇宙穿越 变体7
+### No. 47: Altın Parçacıkla Başlık Açılışı
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Akışkan altın parçacıklarla sinematik başlık sekansı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
+```
+
+### No. 48: VR Gözlükle Evren Yolculuğu V7
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v7
 - **Dil:** `tr`
@@ -9209,17 +9189,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V7
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 50: 时尚快速换装广告 变体7
+### No. 49: Hızlı Kostüm Değişimli Moda Reklamı V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v7
 - **Dil:** `tr`
@@ -9229,17 +9209,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V7
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 51: 羽绒服天鹅隐喻 变体7
+### No. 50: Kaz Tüyü Mont Kuğu Metaforu V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v7
 - **Dil:** `tr`
@@ -9249,17 +9229,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V7
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 52: 水墨风太极 变体7
+### No. 51: Mürekkep Yıkama Tai Chi V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v7
 - **Dil:** `tr`
@@ -9269,17 +9249,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V7
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 53: 魔法变身序列 变体7
+### No. 52: Büyülü Dönüşüm Sekansı V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v7
 - **Dil:** `tr`
@@ -9289,17 +9269,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V7
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 54: 拼图碎片转场 Logo 变体7
+### No. 53: Yapboz Parçalı Logo Geçişi V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v7
 - **Dil:** `tr`
@@ -9309,17 +9289,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V7
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 55: 金色粒子标题揭示 变体7
+### No. 54: Altın Parçacıkla Başlık Açılışı V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v7
 - **Dil:** `tr`
@@ -9329,17 +9309,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V7
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 56: 抽象泡面创意 变体7
+### No. 55: Soyut Hazır Erişte V7
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v7
 - **Dil:** `tr`
@@ -9349,17 +9329,37 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V7
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
-### No. 57: VR 眼镜宇宙穿越 变体8
+### No. 56: Soyut Hazır Erişte
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
+- **Kaynak:** `official`
+- **Yazar:** ce_008
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
+```
+
+### No. 57: VR Gözlükle Evren Yolculuğu V8
+
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_001_v8
 - **Dil:** `tr`
@@ -9369,17 +9369,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi. V8
 
 #### Prompt
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Gerçek dünyadan VR arayüzüne ve çoklu dijital evrenlere geçen sürükleyici POV geçişi.
 ```
 
-### No. 58: 时尚快速换装广告 变体8
+### No. 58: Hızlı Kostüm Değişimli Moda Reklamı V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_002_v8
 - **Dil:** `tr`
@@ -9389,17 +9389,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu. V8
 
 #### Prompt
 
 ```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Balıkgözü efektleri ve glitch geçişlerle tempolu moda videosu.
 ```
 
-### No. 59: 羽绒服天鹅隐喻 变体8
+### No. 59: Kaz Tüyü Mont Kuğu Metaforu V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_003_v8
 - **Dil:** `tr`
@@ -9409,17 +9409,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam. V8
 
 #### Prompt
 
 ```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Ürünü doğal imgelemler ve Çince dış sesle birleştiren yaratıcı reklam.
 ```
 
-### No. 60: 水墨风太极 变体8
+### No. 60: Mürekkep Yıkama Tai Chi V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_004_v8
 - **Dil:** `tr`
@@ -9429,17 +9429,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı. V8
 
 #### Prompt
 
 ```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Geleneksel Çin mürekkep resmi estetiğinde dövüş sanatları performansı.
 ```
 
-### No. 61: 魔法变身序列 变体8
+### No. 61: Büyülü Dönüşüm Sekansı V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_005_v8
 - **Dil:** `tr`
@@ -9449,17 +9449,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü. V8
 
 #### Prompt
 
 ```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Organik büyüme ve parçacık çözülme efektleriyle karakter dönüşümü.
 ```
 
-### No. 62: 拼图碎片转场 Logo 变体8
+### No. 62: Yapboz Parçalı Logo Geçişi V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_006_v8
 - **Dil:** `tr`
@@ -9469,17 +9469,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yapboz parçalanma efektiyle dinamik logo açılışı. V8
 
 #### Prompt
 
 ```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Yapboz parçalanma efektiyle dinamik logo açılışı.
 ```
 
-### No. 63: 金色粒子标题揭示 变体8
+### No. 63: Altın Parçacıkla Başlık Açılışı V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_007_v8
 - **Dil:** `tr`
@@ -9489,17 +9489,17 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Akışkan altın parçacıklarla sinematik başlık sekansı. V8
 
 #### Prompt
 
 ```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Akışkan altın parçacıklarla sinematik başlık sekansı.
 ```
 
-### No. 64: 抽象泡面创意 变体8
+### No. 64: Soyut Hazır Erişte V8
 
-- **Kategori:** `创意视觉特效`
+- **Kategori:** `Yaratıcı Görsel Efektler`
 - **Kaynak:** `official`
 - **Yazar:** ce_008_v8
 - **Dil:** `tr`
@@ -9509,1145 +9509,21 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 #### Aciklama
 
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Gündelik bir eylemin abartılı ifadelerle sürreal yorumu. V8
 
 #### Prompt
 
 ```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Gündelik bir eylemin abartılı ifadelerle sürreal yorumu.
 ```
 
 <a id="category-5"></a>
 
-### 剧情发展与延伸 (56)
+### Gelişmiş Kamera Hareketleri (56)
 
-### No. 1: 漫画分格动画化
+### No. 1: Asansörde Hitchcock Zoom
 
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life"
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life"
-```
-
-### No. 2: 童年四季纪录片
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo
-```
-
-### No. 3: 情感旅程视频
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。
-```
-
-### No. 4: 驴子摩托车特技广告
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。
-```
-
-### No. 5: 健身激励广告
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video.
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video.
-```
-
-### No. 6: 咖啡晨间广告
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。
-```
-
-### No. 7: 向日葵滑板故事
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。
-```
-
-### No. 8: 漫画分格动画化 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 9: 童年四季纪录片 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 10: 情感旅程视频 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 11: 驴子摩托车特技广告 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 12: 健身激励广告 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 13: 咖啡晨间广告 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 14: 向日葵滑板故事 变体2
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 15: 漫画分格动画化 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 16: 童年四季纪录片 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 17: 情感旅程视频 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 18: 驴子摩托车特技广告 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 19: 健身激励广告 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 20: 咖啡晨间广告 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 21: 向日葵滑板故事 变体3
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 22: 漫画分格动画化 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 23: 童年四季纪录片 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 24: 情感旅程视频 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 25: 驴子摩托车特技广告 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 26: 健身激励广告 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 27: 咖啡晨间广告 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 28: 向日葵滑板故事 变体4
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 29: 漫画分格动画化 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 30: 童年四季纪录片 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 31: 情感旅程视频 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 32: 驴子摩托车特技广告 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 33: 健身激励广告 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 34: 咖啡晨间广告 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 35: 向日葵滑板故事 变体5
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 36: 漫画分格动画化 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 37: 童年四季纪录片 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 38: 情感旅程视频 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 39: 驴子摩托车特技广告 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 40: 健身激励广告 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 41: 咖啡晨间广告 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 42: 向日葵滑板故事 变体6
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 43: 漫画分格动画化 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 44: 童年四季纪录片 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 45: 情感旅程视频 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 46: 驴子摩托车特技广告 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 47: 健身激励广告 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 48: 咖啡晨间广告 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 49: 向日葵滑板故事 变体7
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 50: 漫画分格动画化 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_001_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 51: 童年四季纪录片 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_002_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 52: 情感旅程视频 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_003_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 53: 驴子摩托车特技广告 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_004_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 54: 健身激励广告 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_005_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video. 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 55: 咖啡晨间广告 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_006_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 56: 向日葵滑板故事 变体8
-
-- **Kategori:** `剧情发展与延伸`
-- **Kaynak:** `official`
-- **Yazar:** ne_007_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-<a id="category-6"></a>
-
-### 高级运镜动作 (56)
-
-### No. 1: 电梯中的希区柯克变焦
-
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001
 - **Dil:** `tr`
@@ -10657,17 +9533,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 2: 复杂走廊追逐
+### No. 2: Karmaşık Koridor Kovalamacası
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002
 - **Dil:** `tr`
@@ -10677,117 +9553,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 3: 旋转平板展示
+### No. 3: Asansörde Hitchcock Zoom V2
 
-- **Kategori:** `高级运镜动作`
-- **Kaynak:** `official`
-- **Yazar:** ac_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。
-
-#### Prompt
-
-```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。
-```
-
-### No. 4: 节奏感推拉舞蹈运镜
-
-- **Kategori:** `高级运镜动作`
-- **Kaynak:** `official`
-- **Yazar:** ac_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。
-
-#### Prompt
-
-```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。
-```
-
-### No. 5: 武术格斗场景
-
-- **Kategori:** `高级运镜动作`
-- **Kaynak:** `official`
-- **Yazar:** ac_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。
-
-#### Prompt
-
-```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。
-```
-
-### No. 6: 史诗奇幻战斗
-
-- **Kategori:** `高级运镜动作`
-- **Kaynak:** `official`
-- **Yazar:** ac_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。
-
-#### Prompt
-
-```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。
-```
-
-### No. 7: 汽车广告运镜
-
-- **Kategori:** `高级运镜动作`
-- **Kaynak:** `official`
-- **Yazar:** ac_007
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。
-
-#### Prompt
-
-```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。
-```
-
-### No. 8: 电梯中的希区柯克变焦 变体2
-
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v2
 - **Dil:** `tr`
@@ -10797,17 +9573,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V2
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 9: 复杂走廊追逐 变体2
+### No. 4: Karmaşık Koridor Kovalamacası V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v2
 - **Dil:** `tr`
@@ -10817,17 +9593,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V2
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 10: 旋转平板展示 变体2
+### No. 5: Dönen Tablet Ürün Vitrini V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v2
 - **Dil:** `tr`
@@ -10837,17 +9613,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V2
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 11: 节奏感推拉舞蹈运镜 变体2
+### No. 6: Ritmik Dans İtme-Çekme V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v2
 - **Dil:** `tr`
@@ -10857,17 +9633,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V2
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 12: 武术格斗场景 变体2
+### No. 7: Dövüş Sanatları Çatışma Sahnesi V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v2
 - **Dil:** `tr`
@@ -10877,17 +9653,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V2
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 13: 史诗奇幻战斗 变体2
+### No. 8: Epik Fantastik Savaş V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v2
 - **Dil:** `tr`
@@ -10897,17 +9673,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V2
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 14: 汽车广告运镜 变体2
+### No. 9: Otomobil Reklam Sinematografisi V2
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v2
 - **Dil:** `tr`
@@ -10917,17 +9693,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V2
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 15: 电梯中的希区柯克变焦 变体3
+### No. 10: Dönen Tablet Ürün Vitrini
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
+- **Kaynak:** `official`
+- **Yazar:** ac_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
+```
+
+### No. 11: Asansörde Hitchcock Zoom V3
+
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v3
 - **Dil:** `tr`
@@ -10937,17 +9733,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V3
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 16: 复杂走廊追逐 变体3
+### No. 12: Karmaşık Koridor Kovalamacası V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v3
 - **Dil:** `tr`
@@ -10957,17 +9753,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V3
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 17: 旋转平板展示 变体3
+### No. 13: Dönen Tablet Ürün Vitrini V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v3
 - **Dil:** `tr`
@@ -10977,17 +9773,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V3
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 18: 节奏感推拉舞蹈运镜 变体3
+### No. 14: Ritmik Dans İtme-Çekme V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v3
 - **Dil:** `tr`
@@ -10997,17 +9793,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V3
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 19: 武术格斗场景 变体3
+### No. 15: Dövüş Sanatları Çatışma Sahnesi V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v3
 - **Dil:** `tr`
@@ -11017,17 +9813,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V3
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 20: 史诗奇幻战斗 变体3
+### No. 16: Epik Fantastik Savaş V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v3
 - **Dil:** `tr`
@@ -11037,17 +9833,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V3
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 21: 汽车广告运镜 变体3
+### No. 17: Otomobil Reklam Sinematografisi V3
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v3
 - **Dil:** `tr`
@@ -11057,17 +9853,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V3
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 22: 电梯中的希区柯克变焦 变体4
+### No. 18: Ritmik Dans İtme-Çekme
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
+- **Kaynak:** `official`
+- **Yazar:** ac_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dans koreografisine senkron itme-çekme kamera hareketleri.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
+```
+
+### No. 19: Asansörde Hitchcock Zoom V4
+
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v4
 - **Dil:** `tr`
@@ -11077,17 +9893,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V4
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 23: 复杂走廊追逐 变体4
+### No. 20: Karmaşık Koridor Kovalamacası V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v4
 - **Dil:** `tr`
@@ -11097,17 +9913,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V4
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 24: 旋转平板展示 变体4
+### No. 21: Dönen Tablet Ürün Vitrini V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v4
 - **Dil:** `tr`
@@ -11117,17 +9933,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V4
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 25: 节奏感推拉舞蹈运镜 变体4
+### No. 22: Ritmik Dans İtme-Çekme V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v4
 - **Dil:** `tr`
@@ -11137,17 +9953,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V4
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 26: 武术格斗场景 变体4
+### No. 23: Dövüş Sanatları Çatışma Sahnesi V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v4
 - **Dil:** `tr`
@@ -11157,17 +9973,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V4
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 27: 史诗奇幻战斗 变体4
+### No. 24: Epik Fantastik Savaş V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v4
 - **Dil:** `tr`
@@ -11177,17 +9993,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V4
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 28: 汽车广告运镜 变体4
+### No. 25: Otomobil Reklam Sinematografisi V4
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v4
 - **Dil:** `tr`
@@ -11197,17 +10013,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V4
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 29: 电梯中的希区柯克变焦 变体5
+### No. 26: Dövüş Sanatları Çatışma Sahnesi
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
+- **Kaynak:** `official`
+- **Yazar:** ac_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
+```
+
+### No. 27: Asansörde Hitchcock Zoom V5
+
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v5
 - **Dil:** `tr`
@@ -11217,17 +10053,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V5
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 30: 复杂走廊追逐 变体5
+### No. 28: Karmaşık Koridor Kovalamacası V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v5
 - **Dil:** `tr`
@@ -11237,17 +10073,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V5
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 31: 旋转平板展示 变体5
+### No. 29: Dönen Tablet Ürün Vitrini V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v5
 - **Dil:** `tr`
@@ -11257,17 +10093,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V5
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 32: 节奏感推拉舞蹈运镜 变体5
+### No. 30: Ritmik Dans İtme-Çekme V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v5
 - **Dil:** `tr`
@@ -11277,17 +10113,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V5
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 33: 武术格斗场景 变体5
+### No. 31: Dövüş Sanatları Çatışma Sahnesi V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v5
 - **Dil:** `tr`
@@ -11297,17 +10133,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V5
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 34: 史诗奇幻战斗 变体5
+### No. 32: Epik Fantastik Savaş V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v5
 - **Dil:** `tr`
@@ -11317,17 +10153,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V5
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 35: 汽车广告运镜 变体5
+### No. 33: Otomobil Reklam Sinematografisi V5
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v5
 - **Dil:** `tr`
@@ -11337,17 +10173,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V5
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 36: 电梯中的希区柯克变焦 变体6
+### No. 34: Epik Fantastik Savaş
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
+- **Kaynak:** `official`
+- **Yazar:** ac_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
+```
+
+### No. 35: Asansörde Hitchcock Zoom V6
+
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v6
 - **Dil:** `tr`
@@ -11357,17 +10213,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V6
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 37: 复杂走廊追逐 变体6
+### No. 36: Karmaşık Koridor Kovalamacası V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v6
 - **Dil:** `tr`
@@ -11377,17 +10233,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V6
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 38: 旋转平板展示 变体6
+### No. 37: Dönen Tablet Ürün Vitrini V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v6
 - **Dil:** `tr`
@@ -11397,17 +10253,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V6
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 39: 节奏感推拉舞蹈运镜 变体6
+### No. 38: Ritmik Dans İtme-Çekme V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v6
 - **Dil:** `tr`
@@ -11417,17 +10273,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V6
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 40: 武术格斗场景 变体6
+### No. 39: Dövüş Sanatları Çatışma Sahnesi V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v6
 - **Dil:** `tr`
@@ -11437,17 +10293,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V6
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 41: 史诗奇幻战斗 变体6
+### No. 40: Epik Fantastik Savaş V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v6
 - **Dil:** `tr`
@@ -11457,17 +10313,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V6
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 42: 汽车广告运镜 变体6
+### No. 41: Otomobil Reklam Sinematografisi V6
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v6
 - **Dil:** `tr`
@@ -11477,17 +10333,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V6
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 43: 电梯中的希区柯克变焦 变体7
+### No. 42: Otomobil Reklam Sinematografisi
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
+- **Kaynak:** `official`
+- **Yazar:** ac_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
+```
+
+### No. 43: Asansörde Hitchcock Zoom V7
+
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v7
 - **Dil:** `tr`
@@ -11497,17 +10373,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V7
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 44: 复杂走廊追逐 变体7
+### No. 44: Karmaşık Koridor Kovalamacası V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v7
 - **Dil:** `tr`
@@ -11517,17 +10393,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V7
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 45: 旋转平板展示 变体7
+### No. 45: Dönen Tablet Ürün Vitrini V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v7
 - **Dil:** `tr`
@@ -11537,17 +10413,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V7
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 46: 节奏感推拉舞蹈运镜 变体7
+### No. 46: Ritmik Dans İtme-Çekme V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v7
 - **Dil:** `tr`
@@ -11557,17 +10433,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V7
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 47: 武术格斗场景 变体7
+### No. 47: Dövüş Sanatları Çatışma Sahnesi V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v7
 - **Dil:** `tr`
@@ -11577,17 +10453,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V7
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 48: 史诗奇幻战斗 变体7
+### No. 48: Epik Fantastik Savaş V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v7
 - **Dil:** `tr`
@@ -11597,17 +10473,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V7
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 49: 汽车广告运镜 变体7
+### No. 49: Otomobil Reklam Sinematografisi V7
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v7
 - **Dil:** `tr`
@@ -11617,17 +10493,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V7
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
 ```
 
-### No. 50: 电梯中的希区柯克变焦 变体8
+### No. 50: Asansörde Hitchcock Zoom V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_001_v8
 - **Dil:** `tr`
@@ -11637,17 +10513,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri. V8
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dar bir mekânda klasik Hitchcock vertigo etkisiyle karmaşık kamera hareketleri.
 ```
 
-### No. 51: 复杂走廊追逐 变体8
+### No. 51: Karmaşık Koridor Kovalamacası V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_002_v8
 - **Dil:** `tr`
@@ -11657,17 +10533,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi. V8
 
 #### Prompt
 
 ```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Hızlı kamera hareketleri ve perspektif değişimleriyle çok açılı takip çekimi.
 ```
 
-### No. 52: 旋转平板展示 变体8
+### No. 52: Dönen Tablet Ürün Vitrini V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_003_v8
 - **Dil:** `tr`
@@ -11677,17 +10553,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dönen kamera ve çevre dönüşümüyle ürün tanıtımı. V8
 
 #### Prompt
 
 ```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dönen kamera ve çevre dönüşümüyle ürün tanıtımı.
 ```
 
-### No. 53: 节奏感推拉舞蹈运镜 变体8
+### No. 53: Ritmik Dans İtme-Çekme V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_004_v8
 - **Dil:** `tr`
@@ -11697,17 +10573,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dans koreografisine senkron itme-çekme kamera hareketleri. V8
 
 #### Prompt
 
 ```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dans koreografisine senkron itme-çekme kamera hareketleri.
 ```
 
-### No. 54: 武术格斗场景 变体8
+### No. 54: Dövüş Sanatları Çatışma Sahnesi V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_005_v8
 - **Dil:** `tr`
@@ -11717,17 +10593,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi. V8
 
 #### Prompt
 
 ```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dinamik ortamda çok karakterli ve silahlı aksiyon koreografisi.
 ```
 
-### No. 55: 史诗奇幻战斗 变体8
+### No. 55: Epik Fantastik Savaş V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_006_v8
 - **Dil:** `tr`
@@ -11737,17 +10613,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi. V8
 
 #### Prompt
 
 ```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Yörüngesel kamera ve parçacık efektleriyle sinematik savaş sahnesi.
 ```
 
-### No. 56: 汽车广告运镜 变体8
+### No. 56: Otomobil Reklam Sinematografisi V8
 
-- **Kategori:** `高级运镜动作`
+- **Kategori:** `Gelişmiş Kamera Hareketleri`
 - **Kaynak:** `official`
 - **Yazar:** ac_007_v8
 - **Dil:** `tr`
@@ -11757,21 +10633,1145 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi. V8
 
 #### Prompt
 
 ```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dinamik kamera hareketleri ve sahne geçişleriyle profesyonel otomotiv çekimi.
+```
+
+<a id="category-6"></a>
+
+### Hikâye Geliştirme ve Uzatma (56)
+
+### No. 1: Çizgi Roman Panel Animasyonu
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 2: Çocukluk Mevsimleri Belgeseli
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 3: Çizgi Roman Panel Animasyonu V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 4: Çocukluk Mevsimleri Belgeseli V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 5: Duygusal Yolculuk Videosu V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 6: Eşekli Motosiklet Dublör Reklamı V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 7: Fitness Motivasyon Reklamı V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 8: Kahve Sabah Kampanyası V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 9: Ayçiçeği Kaykay Hikâyesi V2
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 10: Duygusal Yolculuk Videosu
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 11: Çizgi Roman Panel Animasyonu V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 12: Çocukluk Mevsimleri Belgeseli V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 13: Duygusal Yolculuk Videosu V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 14: Eşekli Motosiklet Dublör Reklamı V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 15: Fitness Motivasyon Reklamı V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 16: Kahve Sabah Kampanyası V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 17: Ayçiçeği Kaykay Hikâyesi V3
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 18: Eşekli Motosiklet Dublör Reklamı
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 19: Çizgi Roman Panel Animasyonu V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 20: Çocukluk Mevsimleri Belgeseli V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 21: Duygusal Yolculuk Videosu V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 22: Eşekli Motosiklet Dublör Reklamı V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 23: Fitness Motivasyon Reklamı V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 24: Kahve Sabah Kampanyası V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 25: Ayçiçeği Kaykay Hikâyesi V4
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 26: Fitness Motivasyon Reklamı
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 27: Çizgi Roman Panel Animasyonu V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 28: Çocukluk Mevsimleri Belgeseli V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 29: Duygusal Yolculuk Videosu V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 30: Eşekli Motosiklet Dublör Reklamı V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 31: Fitness Motivasyon Reklamı V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 32: Kahve Sabah Kampanyası V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 33: Ayçiçeği Kaykay Hikâyesi V5
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 34: Kahve Sabah Kampanyası
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 35: Çizgi Roman Panel Animasyonu V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 36: Çocukluk Mevsimleri Belgeseli V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 37: Duygusal Yolculuk Videosu V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 38: Eşekli Motosiklet Dublör Reklamı V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 39: Fitness Motivasyon Reklamı V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 40: Kahve Sabah Kampanyası V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 41: Ayçiçeği Kaykay Hikâyesi V6
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 42: Ayçiçeği Kaykay Hikâyesi
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 43: Çizgi Roman Panel Animasyonu V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 44: Çocukluk Mevsimleri Belgeseli V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 45: Duygusal Yolculuk Videosu V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 46: Eşekli Motosiklet Dublör Reklamı V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 47: Fitness Motivasyon Reklamı V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 48: Kahve Sabah Kampanyası V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 49: Ayçiçeği Kaykay Hikâyesi V7
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
+```
+
+### No. 50: Çizgi Roman Panel Animasyonu V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_001_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Statik çizgi roman panellerini ses efektleriyle animasyon sekansına dönüştürün.
+```
+
+### No. 51: Çocukluk Mevsimleri Belgeseli V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_002_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Storyboard temelinde iyileştirici bir belgesel açılışı üretin. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Storyboard temelinde iyileştirici bir belgesel açılışı üretin.
+```
+
+### No. 52: Duygusal Yolculuk Videosu V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_003_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla görsel ve sesten ilham alan mood odaklı video üretin. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla görsel ve sesten ilham alan mood odaklı video üretin.
+```
+
+### No. 53: Eşekli Motosiklet Dublör Reklamı V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_004_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hayvan karakterli sürreal ürün reklamıyla videoyu uzatın.
+```
+
+### No. 54: Fitness Motivasyon Reklamı V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_005_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dinamik fitness sekansı ve motive edici mesajlarla videoyu uzatın.
+```
+
+### No. 55: Kahve Sabah Kampanyası V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_006_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Atmosferik ışık ve metin açılışıyla kahve reklamını uzatın.
+```
+
+### No. 56: Ayçiçeği Kaykay Hikâyesi V8
+
+- **Kategori:** `Hikâye Geliştirme ve Uzatma`
+- **Kaynak:** `official`
+- **Yazar:** ne_007_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak bir öğleden sonra gündelik yaşam anlatımıyla videoyu uzatın.
 ```
 
 <a id="category-7"></a>
 
-### 角色与场景一致性 (48)
+### Karakter ve Sahne Tutarlılığı (48)
 
-### No. 1: 下班回家路上
+### No. 1: İş Çıkışı Eve Dönüş
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001
 - **Dil:** `tr`
@@ -11781,17 +11781,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 2: 歌剧舞台变革
+### No. 2: Opera Sahnesi Dönüşümü
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002
 - **Dil:** `tr`
@@ -11801,97 +11801,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 3: 一镜到底无缝切换
+### No. 3: İş Çıkışı Eve Dönüş V2
 
-- **Kategori:** `角色与场景一致性`
-- **Kaynak:** `official`
-- **Yazar:** cs_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底
-
-#### Prompt
-
-```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底
-```
-
-### No. 4: 磁性弓产品展示
-
-- **Kategori:** `角色与场景一致性`
-- **Kaynak:** `official`
-- **Yazar:** cs_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
-
-#### Prompt
-
-```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
-```
-
-### No. 5: 奢侈手袋广告
-
-- **Kategori:** `角色与场景一致性`
-- **Kaynak:** `official`
-- **Yazar:** cs_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。
-
-#### Prompt
-
-```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。
-```
-
-### No. 6: 恐怖第一人称探索
-
-- **Kategori:** `角色与场景一致性`
-- **Kaynak:** `official`
-- **Yazar:** cs_006
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。
-
-#### Prompt
-
-```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。
-```
-
-### No. 7: 下班回家路上 变体2
-
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v2
 - **Dil:** `tr`
@@ -11901,17 +11821,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V2
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 8: 歌剧舞台变革 变体2
+### No. 4: Opera Sahnesi Dönüşümü V2
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v2
 - **Dil:** `tr`
@@ -11921,17 +11841,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V2
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 9: 一镜到底无缝切换 变体2
+### No. 5: Tek Çekimde Kusursuz Geçiş V2
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v2
 - **Dil:** `tr`
@@ -11941,17 +11861,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V2
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 10: 磁性弓产品展示 变体2
+### No. 6: Magnetic Bow Ürün Vitrini V2
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v2
 - **Dil:** `tr`
@@ -11961,17 +11881,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V2
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 11: 奢侈手袋广告 变体2
+### No. 7: Lüks El Çantası Reklamı V2
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v2
 - **Dil:** `tr`
@@ -11981,17 +11901,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V2
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 12: 恐怖第一人称探索 变体2
+### No. 8: Birinci Şahıs Korku Keşfi V2
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v2
 - **Dil:** `tr`
@@ -12001,17 +11921,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V2
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 13: 下班回家路上 变体3
+### No. 9: Tek Çekimde Kusursuz Geçiş
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
+- **Kaynak:** `official`
+- **Yazar:** cs_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
+```
+
+### No. 10: İş Çıkışı Eve Dönüş V3
+
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v3
 - **Dil:** `tr`
@@ -12021,17 +11961,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V3
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 14: 歌剧舞台变革 变体3
+### No. 11: Opera Sahnesi Dönüşümü V3
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v3
 - **Dil:** `tr`
@@ -12041,17 +11981,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V3
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 15: 一镜到底无缝切换 变体3
+### No. 12: Tek Çekimde Kusursuz Geçiş V3
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v3
 - **Dil:** `tr`
@@ -12061,17 +12001,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V3
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 16: 磁性弓产品展示 变体3
+### No. 13: Magnetic Bow Ürün Vitrini V3
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v3
 - **Dil:** `tr`
@@ -12081,17 +12021,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V3
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 17: 奢侈手袋广告 变体3
+### No. 14: Lüks El Çantası Reklamı V3
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v3
 - **Dil:** `tr`
@@ -12101,17 +12041,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V3
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 18: 恐怖第一人称探索 变体3
+### No. 15: Birinci Şahıs Korku Keşfi V3
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v3
 - **Dil:** `tr`
@@ -12121,17 +12061,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V3
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 19: 下班回家路上 变体4
+### No. 16: Magnetic Bow Ürün Vitrini
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
+- **Kaynak:** `official`
+- **Yazar:** cs_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
+```
+
+### No. 17: İş Çıkışı Eve Dönüş V4
+
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v4
 - **Dil:** `tr`
@@ -12141,17 +12101,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V4
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 20: 歌剧舞台变革 变体4
+### No. 18: Opera Sahnesi Dönüşümü V4
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v4
 - **Dil:** `tr`
@@ -12161,17 +12121,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V4
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 21: 一镜到底无缝切换 变体4
+### No. 19: Tek Çekimde Kusursuz Geçiş V4
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v4
 - **Dil:** `tr`
@@ -12181,17 +12141,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V4
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 22: 磁性弓产品展示 变体4
+### No. 20: Magnetic Bow Ürün Vitrini V4
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v4
 - **Dil:** `tr`
@@ -12201,17 +12161,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V4
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 23: 奢侈手袋广告 变体4
+### No. 21: Lüks El Çantası Reklamı V4
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v4
 - **Dil:** `tr`
@@ -12221,17 +12181,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V4
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 24: 恐怖第一人称探索 变体4
+### No. 22: Birinci Şahıs Korku Keşfi V4
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v4
 - **Dil:** `tr`
@@ -12241,17 +12201,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V4
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 25: 下班回家路上 变体5
+### No. 23: Lüks El Çantası Reklamı
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
+- **Kaynak:** `official`
+- **Yazar:** cs_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
+```
+
+### No. 24: İş Çıkışı Eve Dönüş V5
+
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v5
 - **Dil:** `tr`
@@ -12261,17 +12241,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V5
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 26: 歌剧舞台变革 变体5
+### No. 25: Opera Sahnesi Dönüşümü V5
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v5
 - **Dil:** `tr`
@@ -12281,17 +12261,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V5
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 27: 一镜到底无缝切换 变体5
+### No. 26: Tek Çekimde Kusursuz Geçiş V5
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v5
 - **Dil:** `tr`
@@ -12301,17 +12281,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V5
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 28: 磁性弓产品展示 变体5
+### No. 27: Magnetic Bow Ürün Vitrini V5
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v5
 - **Dil:** `tr`
@@ -12321,17 +12301,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V5
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 29: 奢侈手袋广告 变体5
+### No. 28: Lüks El Çantası Reklamı V5
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v5
 - **Dil:** `tr`
@@ -12341,17 +12321,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V5
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 30: 恐怖第一人称探索 变体5
+### No. 29: Birinci Şahıs Korku Keşfi V5
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v5
 - **Dil:** `tr`
@@ -12361,17 +12341,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V5
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 31: 下班回家路上 变体6
+### No. 30: Birinci Şahıs Korku Keşfi
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
+- **Kaynak:** `official`
+- **Yazar:** cs_006
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
+```
+
+### No. 31: İş Çıkışı Eve Dönüş V6
+
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v6
 - **Dil:** `tr`
@@ -12381,17 +12381,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V6
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 32: 歌剧舞台变革 变体6
+### No. 32: Opera Sahnesi Dönüşümü V6
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v6
 - **Dil:** `tr`
@@ -12401,17 +12401,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V6
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 33: 一镜到底无缝切换 变体6
+### No. 33: Tek Çekimde Kusursuz Geçiş V6
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v6
 - **Dil:** `tr`
@@ -12421,17 +12421,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V6
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 34: 磁性弓产品展示 变体6
+### No. 34: Magnetic Bow Ürün Vitrini V6
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v6
 - **Dil:** `tr`
@@ -12441,17 +12441,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V6
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 35: 奢侈手袋广告 变体6
+### No. 35: Lüks El Çantası Reklamı V6
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v6
 - **Dil:** `tr`
@@ -12461,17 +12461,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V6
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 36: 恐怖第一人称探索 变体6
+### No. 36: Birinci Şahıs Korku Keşfi V6
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v6
 - **Dil:** `tr`
@@ -12481,17 +12481,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V6
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 37: 下班回家路上 变体7
+### No. 37: İş Çıkışı Eve Dönüş V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v7
 - **Dil:** `tr`
@@ -12501,17 +12501,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V7
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 38: 歌剧舞台变革 变体7
+### No. 38: Opera Sahnesi Dönüşümü V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v7
 - **Dil:** `tr`
@@ -12521,17 +12521,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V7
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 39: 一镜到底无缝切换 变体7
+### No. 39: Tek Çekimde Kusursuz Geçiş V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v7
 - **Dil:** `tr`
@@ -12541,17 +12541,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V7
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 40: 磁性弓产品展示 变体7
+### No. 40: Magnetic Bow Ürün Vitrini V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v7
 - **Dil:** `tr`
@@ -12561,17 +12561,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V7
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 41: 奢侈手袋广告 变体7
+### No. 41: Lüks El Çantası Reklamı V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v7
 - **Dil:** `tr`
@@ -12581,17 +12581,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V7
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 42: 恐怖第一人称探索 变体7
+### No. 42: Birinci Şahıs Korku Keşfi V7
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v7
 - **Dil:** `tr`
@@ -12601,17 +12601,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V7
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
-### No. 43: 下班回家路上 变体8
+### No. 43: İş Çıkışı Eve Dönüş V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_001_v8
 - **Dil:** `tr`
@@ -12621,17 +12621,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı. V8
 
 #### Prompt
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Ofis koridorundan eve uzanan, karakter tutarlılığı ve duygusal geçişleri koruyan kesintisiz anlatı.
 ```
 
-### No. 44: 歌剧舞台变革 变体8
+### No. 44: Opera Sahnesi Dönüşümü V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_002_v8
 - **Dil:** `tr`
@@ -12641,17 +12641,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır. V8
 
 #### Prompt
 
 ```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Referans videodaki kamera hareketi ve geçiş efektleri korunarak karakter değişimi yapılır.
 ```
 
-### No. 45: 一镜到底无缝切换 变体8
+### No. 45: Tek Çekimde Kusursuz Geçiş V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_003_v8
 - **Dil:** `tr`
@@ -12661,17 +12661,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim. V8
 
 #### Prompt
 
 ```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Birden çok sahne geçişini görsel tutarlılıkla birleştiren karmaşık tek çekim.
 ```
 
-### No. 46: 磁性弓产品展示 变体8
+### No. 46: Magnetic Bow Ürün Vitrini V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_004_v8
 - **Dil:** `tr`
@@ -12681,17 +12681,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı. V8
 
 #### Prompt
 
 ```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Marka tutarlılığı ve çok sahneli gösterim içeren Kore ürün reklamı.
 ```
 
-### No. 47: 奢侈手袋广告 变体8
+### No. 47: Lüks El Çantası Reklamı V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_005_v8
 - **Dil:** `tr`
@@ -12701,17 +12701,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini. V8
 
 #### Prompt
 
 ```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Birden fazla referans görselde detay tutarlılığını koruyan ürün vitrini.
 ```
 
-### No. 48: 恐怖第一人称探索 变体8
+### No. 48: Birinci Şahıs Korku Keşfi V8
 
-- **Kategori:** `角色与场景一致性`
+- **Kategori:** `Karakter ve Sahne Tutarlılığı`
 - **Kaynak:** `official`
 - **Yazar:** cs_006_v8
 - **Dil:** `tr`
@@ -12721,21 +12721,21 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi. V8
 
 #### Prompt
 
 ```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tutarlılığını koruyan korku keşfi.
 ```
 
 <a id="category-8"></a>
 
-### 一镜到底 (40)
+### Tek Çekim Sinematografisi (40)
 
-### No. 1: 跑酷追逐长镜头
+### No. 1: Parkur Kovalamaca Sekansı
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001
 - **Dil:** `tr`
@@ -12745,17 +12745,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 2: 飞机窗外冰淇淋梦境
+### No. 2: Uçak Penceresi Dondurma Rüyası
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002
 - **Dil:** `tr`
@@ -12765,77 +12765,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 3: 间谍悬疑跟踪
+### No. 3: Parkur Kovalamaca Sekansı V2
 
-- **Kategori:** `一镜到底`
-- **Kaynak:** `official`
-- **Yazar:** ot_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。
-
-#### Prompt
-
-```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。
-```
-
-### No. 4: 温馨小屋品茶时光
-
-- **Kategori:** `一镜到底`
-- **Kaynak:** `official`
-- **Yazar:** ot_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。
-
-#### Prompt
-
-```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。
-```
-
-### No. 5: 过山车第一人称视角
-
-- **Kategori:** `一镜到底`
-- **Kaynak:** `official`
-- **Yazar:** ot_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。
-
-#### Prompt
-
-```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。
-```
-
-### No. 6: 跑酷追逐长镜头 变体2
-
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v2
 - **Dil:** `tr`
@@ -12845,17 +12785,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V2
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 7: 飞机窗外冰淇淋梦境 变体2
+### No. 4: Uçak Penceresi Dondurma Rüyası V2
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v2
 - **Dil:** `tr`
@@ -12865,17 +12805,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V2
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 8: 间谍悬疑跟踪 变体2
+### No. 5: Casus Gerilim Takibi V2
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v2
 - **Dil:** `tr`
@@ -12885,17 +12825,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V2
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 9: 温馨小屋品茶时光 变体2
+### No. 6: Sıcacık Kulübede Çay Saati V2
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v2
 - **Dil:** `tr`
@@ -12905,17 +12845,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V2
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 10: 过山车第一人称视角 变体2
+### No. 7: Roller Coaster Birinci Şahıs POV V2
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v2
 - **Dil:** `tr`
@@ -12925,17 +12865,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V2
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 11: 跑酷追逐长镜头 变体3
+### No. 8: Casus Gerilim Takibi
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
+- **Kaynak:** `official`
+- **Yazar:** ot_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
+```
+
+### No. 9: Parkur Kovalamaca Sekansı V3
+
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v3
 - **Dil:** `tr`
@@ -12945,17 +12905,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V3
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 12: 飞机窗外冰淇淋梦境 变体3
+### No. 10: Uçak Penceresi Dondurma Rüyası V3
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v3
 - **Dil:** `tr`
@@ -12965,17 +12925,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V3
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 13: 间谍悬疑跟踪 变体3
+### No. 11: Casus Gerilim Takibi V3
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v3
 - **Dil:** `tr`
@@ -12985,17 +12945,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V3
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 14: 温馨小屋品茶时光 变体3
+### No. 12: Sıcacık Kulübede Çay Saati V3
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v3
 - **Dil:** `tr`
@@ -13005,17 +12965,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V3
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 15: 过山车第一人称视角 变体3
+### No. 13: Roller Coaster Birinci Şahıs POV V3
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v3
 - **Dil:** `tr`
@@ -13025,17 +12985,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V3
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 16: 跑酷追逐长镜头 变体4
+### No. 14: Sıcacık Kulübede Çay Saati
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
+- **Kaynak:** `official`
+- **Yazar:** ot_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
+```
+
+### No. 15: Parkur Kovalamaca Sekansı V4
+
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v4
 - **Dil:** `tr`
@@ -13045,17 +13025,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V4
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 17: 飞机窗外冰淇淋梦境 变体4
+### No. 16: Uçak Penceresi Dondurma Rüyası V4
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v4
 - **Dil:** `tr`
@@ -13065,17 +13045,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V4
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 18: 间谍悬疑跟踪 变体4
+### No. 17: Casus Gerilim Takibi V4
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v4
 - **Dil:** `tr`
@@ -13085,17 +13065,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V4
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 19: 温馨小屋品茶时光 变体4
+### No. 18: Sıcacık Kulübede Çay Saati V4
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v4
 - **Dil:** `tr`
@@ -13105,17 +13085,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V4
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 20: 过山车第一人称视角 变体4
+### No. 19: Roller Coaster Birinci Şahıs POV V4
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v4
 - **Dil:** `tr`
@@ -13125,17 +13105,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V4
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 21: 跑酷追逐长镜头 变体5
+### No. 20: Roller Coaster Birinci Şahıs POV
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
+- **Kaynak:** `official`
+- **Yazar:** ot_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Hızı giderek artan, birinci şahıs roller coaster deneyimi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
+```
+
+### No. 21: Parkur Kovalamaca Sekansı V5
+
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v5
 - **Dil:** `tr`
@@ -13145,17 +13145,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V5
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 22: 飞机窗外冰淇淋梦境 变体5
+### No. 22: Uçak Penceresi Dondurma Rüyası V5
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v5
 - **Dil:** `tr`
@@ -13165,17 +13165,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V5
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 23: 间谍悬疑跟踪 变体5
+### No. 23: Casus Gerilim Takibi V5
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v5
 - **Dil:** `tr`
@@ -13185,17 +13185,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V5
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 24: 温馨小屋品茶时光 变体5
+### No. 24: Sıcacık Kulübede Çay Saati V5
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v5
 - **Dil:** `tr`
@@ -13205,17 +13205,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V5
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 25: 过山车第一人称视角 变体5
+### No. 25: Roller Coaster Birinci Şahıs POV V5
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v5
 - **Dil:** `tr`
@@ -13225,17 +13225,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V5
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 26: 跑酷追逐长镜头 变体6
+### No. 26: Parkur Kovalamaca Sekansı V6
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v6
 - **Dil:** `tr`
@@ -13245,17 +13245,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V6
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 27: 飞机窗外冰淇淋梦境 变体6
+### No. 27: Uçak Penceresi Dondurma Rüyası V6
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v6
 - **Dil:** `tr`
@@ -13265,17 +13265,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V6
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 28: 间谍悬疑跟踪 变体6
+### No. 28: Casus Gerilim Takibi V6
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v6
 - **Dil:** `tr`
@@ -13285,17 +13285,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V6
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 29: 温馨小屋品茶时光 变体6
+### No. 29: Sıcacık Kulübede Çay Saati V6
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v6
 - **Dil:** `tr`
@@ -13305,17 +13305,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V6
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 30: 过山车第一人称视角 变体6
+### No. 30: Roller Coaster Birinci Şahıs POV V6
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v6
 - **Dil:** `tr`
@@ -13325,17 +13325,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V6
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 31: 跑酷追逐长镜头 变体7
+### No. 31: Parkur Kovalamaca Sekansı V7
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v7
 - **Dil:** `tr`
@@ -13345,17 +13345,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V7
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 32: 飞机窗外冰淇淋梦境 变体7
+### No. 32: Uçak Penceresi Dondurma Rüyası V7
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v7
 - **Dil:** `tr`
@@ -13365,17 +13365,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V7
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 33: 间谍悬疑跟踪 变体7
+### No. 33: Casus Gerilim Takibi V7
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v7
 - **Dil:** `tr`
@@ -13385,17 +13385,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V7
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 34: 温馨小屋品茶时光 变体7
+### No. 34: Sıcacık Kulübede Çay Saati V7
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v7
 - **Dil:** `tr`
@@ -13405,17 +13405,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V7
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 35: 过山车第一人称视角 变体7
+### No. 35: Roller Coaster Birinci Şahıs POV V7
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v7
 - **Dil:** `tr`
@@ -13425,17 +13425,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V7
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-### No. 36: 跑酷追逐长镜头 变体8
+### No. 36: Parkur Kovalamaca Sekansı V8
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_001_v8
 - **Dil:** `tr`
@@ -13445,17 +13445,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Koşucuyu farklı ortamlarda takip eden dinamik tek çekim. V8
 
 #### Prompt
 
 ```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Koşucuyu farklı ortamlarda takip eden dinamik tek çekim.
 ```
 
-### No. 37: 飞机窗外冰淇淋梦境 变体8
+### No. 37: Uçak Penceresi Dondurma Rüyası V8
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_002_v8
 - **Dil:** `tr`
@@ -13465,17 +13465,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim. V8
 
 #### Prompt
 
 ```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Uçak penceresinden büyülü etkileşime geçen sürreal tek çekim.
 ```
 
-### No. 38: 间谍悬疑跟踪 变体8
+### No. 38: Casus Gerilim Takibi V8
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_003_v8
 - **Dil:** `tr`
@@ -13485,17 +13485,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim. V8
 
 #### Prompt
 
 ```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Kentsel ortamda gizli ajanı izleyen gerilimli tek çekim.
 ```
 
-### No. 39: 温馨小屋品茶时光 变体8
+### No. 39: Sıcacık Kulübede Çay Saati V8
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_004_v8
 - **Dil:** `tr`
@@ -13505,17 +13505,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi. V8
 
 #### Prompt
 
 ```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Sıcak iç mekâna giren birinci şahıs tek çekim sahnesi.
 ```
 
-### No. 40: 过山车第一人称视角 变体8
+### No. 40: Roller Coaster Birinci Şahıs POV V8
 
-- **Kategori:** `一镜到底`
+- **Kategori:** `Tek Çekim Sinematografisi`
 - **Kaynak:** `official`
 - **Yazar:** ot_005_v8
 - **Dil:** `tr`
@@ -13525,21 +13525,21 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Hızı giderek artan, birinci şahıs roller coaster deneyimi. V8
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
 <a id="category-9"></a>
 
-### 视频编辑与混剪 (40)
+### Video Düzenleme ve Remiks (40)
 
-### No. 1: 泰坦尼克号暗黑反转
+### No. 1: Titanic Karanlık Ters Köşe
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001
 - **Dil:** `tr`
@@ -13549,17 +13549,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 2: 严肃商务变零食交易
+### No. 2: Ciddi İş Toplantısından Atıştırmalık Reklamına
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002
 - **Dil:** `tr`
@@ -13569,77 +13569,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~"
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~"
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 3: 乐队歌手性别互换
+### No. 3: Titanic Karanlık Ters Köşe V2
 
-- **Kategori:** `视频编辑与混剪`
-- **Kaynak:** `official`
-- **Yazar:** ve_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。
-
-#### Prompt
-
-```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。
-```
-
-### No. 4: 鲨鱼乱入
-
-- **Kategori:** `视频编辑与混剪`
-- **Kaynak:** `official`
-- **Yazar:** ve_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。
-
-#### Prompt
-
-```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。
-```
-
-### No. 5: 炸鸡品牌植入
-
-- **Kategori:** `视频编辑与混剪`
-- **Kaynak:** `official`
-- **Yazar:** ve_005
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。
-
-#### Prompt
-
-```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。
-```
-
-### No. 6: 泰坦尼克号暗黑反转 变体2
-
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v2
 - **Dil:** `tr`
@@ -13649,17 +13589,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V2
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 7: 严肃商务变零食交易 变体2
+### No. 4: Ciddi İş Toplantısından Atıştırmalık Reklamına V2
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v2
 - **Dil:** `tr`
@@ -13669,17 +13609,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V2
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 8: 乐队歌手性别互换 变体2
+### No. 5: Grup Solisti Cinsiyet Değişimi V2
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v2
 - **Dil:** `tr`
@@ -13689,17 +13629,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V2
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 9: 鲨鱼乱入 变体2
+### No. 6: Köpekbalığı Fotobombu V2
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v2
 - **Dil:** `tr`
@@ -13709,17 +13649,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V2
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 10: 炸鸡品牌植入 变体2
+### No. 7: Kızarmış Tavuk Marka Entegrasyonu V2
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v2
 - **Dil:** `tr`
@@ -13729,17 +13669,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V2
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 11: 泰坦尼克号暗黑反转 变体3
+### No. 8: Grup Solisti Cinsiyet Değişimi
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
+- **Kaynak:** `official`
+- **Yazar:** ve_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
+```
+
+### No. 9: Titanic Karanlık Ters Köşe V3
+
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v3
 - **Dil:** `tr`
@@ -13749,17 +13709,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V3
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 12: 严肃商务变零食交易 变体3
+### No. 10: Ciddi İş Toplantısından Atıştırmalık Reklamına V3
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v3
 - **Dil:** `tr`
@@ -13769,17 +13729,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V3
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 13: 乐队歌手性别互换 变体3
+### No. 11: Grup Solisti Cinsiyet Değişimi V3
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v3
 - **Dil:** `tr`
@@ -13789,17 +13749,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V3
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 14: 鲨鱼乱入 变体3
+### No. 12: Köpekbalığı Fotobombu V3
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v3
 - **Dil:** `tr`
@@ -13809,17 +13769,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V3
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 15: 炸鸡品牌植入 变体3
+### No. 13: Kızarmış Tavuk Marka Entegrasyonu V3
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v3
 - **Dil:** `tr`
@@ -13829,17 +13789,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V3
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 16: 泰坦尼克号暗黑反转 变体4
+### No. 14: Köpekbalığı Fotobombu
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
+- **Kaynak:** `official`
+- **Yazar:** ve_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Sakin bir sahneye tehditkâr bir öğe ekleyin.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
+```
+
+### No. 15: Titanic Karanlık Ters Köşe V4
+
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v4
 - **Dil:** `tr`
@@ -13849,17 +13829,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V4
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 17: 严肃商务变零食交易 变体4
+### No. 16: Ciddi İş Toplantısından Atıştırmalık Reklamına V4
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v4
 - **Dil:** `tr`
@@ -13869,17 +13849,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V4
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 18: 乐队歌手性别互换 变体4
+### No. 17: Grup Solisti Cinsiyet Değişimi V4
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v4
 - **Dil:** `tr`
@@ -13889,17 +13869,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V4
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 19: 鲨鱼乱入 变体4
+### No. 18: Köpekbalığı Fotobombu V4
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v4
 - **Dil:** `tr`
@@ -13909,17 +13889,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V4
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 20: 炸鸡品牌植入 变体4
+### No. 19: Kızarmış Tavuk Marka Entegrasyonu V4
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v4
 - **Dil:** `tr`
@@ -13929,17 +13909,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V4
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 21: 泰坦尼克号暗黑反转 变体5
+### No. 20: Kızarmış Tavuk Marka Entegrasyonu
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
+- **Kaynak:** `official`
+- **Yazar:** ve_005
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Mevcut restoran sahnesine markalı ambalaj ekleyin.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
+```
+
+### No. 21: Titanic Karanlık Ters Köşe V5
+
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v5
 - **Dil:** `tr`
@@ -13949,17 +13949,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V5
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 22: 严肃商务变零食交易 变体5
+### No. 22: Ciddi İş Toplantısından Atıştırmalık Reklamına V5
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v5
 - **Dil:** `tr`
@@ -13969,17 +13969,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V5
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 23: 乐队歌手性别互换 变体5
+### No. 23: Grup Solisti Cinsiyet Değişimi V5
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v5
 - **Dil:** `tr`
@@ -13989,17 +13989,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V5
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 24: 鲨鱼乱入 变体5
+### No. 24: Köpekbalığı Fotobombu V5
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v5
 - **Dil:** `tr`
@@ -14009,17 +14009,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V5
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 25: 炸鸡品牌植入 变体5
+### No. 25: Kızarmış Tavuk Marka Entegrasyonu V5
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v5
 - **Dil:** `tr`
@@ -14029,17 +14029,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V5
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 26: 泰坦尼克号暗黑反转 变体6
+### No. 26: Titanic Karanlık Ters Köşe V6
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v6
 - **Dil:** `tr`
@@ -14049,17 +14049,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V6
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 27: 严肃商务变零食交易 变体6
+### No. 27: Ciddi İş Toplantısından Atıştırmalık Reklamına V6
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v6
 - **Dil:** `tr`
@@ -14069,17 +14069,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V6
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 28: 乐队歌手性别互换 变体6
+### No. 28: Grup Solisti Cinsiyet Değişimi V6
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v6
 - **Dil:** `tr`
@@ -14089,17 +14089,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V6
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 29: 鲨鱼乱入 变体6
+### No. 29: Köpekbalığı Fotobombu V6
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v6
 - **Dil:** `tr`
@@ -14109,17 +14109,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V6
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 30: 炸鸡品牌植入 变体6
+### No. 30: Kızarmış Tavuk Marka Entegrasyonu V6
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v6
 - **Dil:** `tr`
@@ -14129,17 +14129,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V6
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 31: 泰坦尼克号暗黑反转 变体7
+### No. 31: Titanic Karanlık Ters Köşe V7
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v7
 - **Dil:** `tr`
@@ -14149,17 +14149,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V7
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 32: 严肃商务变零食交易 变体7
+### No. 32: Ciddi İş Toplantısından Atıştırmalık Reklamına V7
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v7
 - **Dil:** `tr`
@@ -14169,17 +14169,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V7
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 33: 乐队歌手性别互换 变体7
+### No. 33: Grup Solisti Cinsiyet Değişimi V7
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v7
 - **Dil:** `tr`
@@ -14189,17 +14189,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V7
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 34: 鲨鱼乱入 变体7
+### No. 34: Köpekbalığı Fotobombu V7
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v7
 - **Dil:** `tr`
@@ -14209,17 +14209,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V7
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 35: 炸鸡品牌植入 变体7
+### No. 35: Kızarmış Tavuk Marka Entegrasyonu V7
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v7
 - **Dil:** `tr`
@@ -14229,17 +14229,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V7
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-### No. 36: 泰坦尼克号暗黑反转 变体8
+### No. 36: Titanic Karanlık Ters Köşe V8
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_001_v8
 - **Dil:** `tr`
@@ -14249,17 +14249,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Romantik sahneyi ihanet temalı bir gerilime ters çevirin. V8
 
 #### Prompt
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Romantik sahneyi ihanet temalı bir gerilime ters çevirin.
 ```
 
-### No. 37: 严肃商务变零食交易 变体8
+### No. 37: Ciddi İş Toplantısından Atıştırmalık Reklamına V8
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_002_v8
 - **Dil:** `tr`
@@ -14269,17 +14269,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün. V8
 
 #### Prompt
 
 ```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Gergin iş toplantısını komedik bir atıştırmalık reklamına dönüştürün.
 ```
 
-### No. 38: 乐队歌手性别互换 变体8
+### No. 38: Grup Solisti Cinsiyet Değişimi V8
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_003_v8
 - **Dil:** `tr`
@@ -14289,17 +14289,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Tüm hareketleri koruyarak kadın solisti erkekle değiştirin. V8
 
 #### Prompt
 
 ```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Tüm hareketleri koruyarak kadın solisti erkekle değiştirin.
 ```
 
-### No. 39: 鲨鱼乱入 变体8
+### No. 39: Köpekbalığı Fotobombu V8
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_004_v8
 - **Dil:** `tr`
@@ -14309,17 +14309,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sakin bir sahneye tehditkâr bir öğe ekleyin. V8
 
 #### Prompt
 
 ```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Sakin bir sahneye tehditkâr bir öğe ekleyin.
 ```
 
-### No. 40: 炸鸡品牌植入 变体8
+### No. 40: Kızarmış Tavuk Marka Entegrasyonu V8
 
-- **Kategori:** `视频编辑与混剪`
+- **Kategori:** `Video Düzenleme ve Remiks`
 - **Kaynak:** `official`
 - **Yazar:** ve_005_v8
 - **Dil:** `tr`
@@ -14329,665 +14329,21 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Mevcut restoran sahnesine markalı ambalaj ekleyin. V8
 
 #### Prompt
 
 ```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
 <a id="category-10"></a>
 
-### 超逼真视频生成 (32)
+### Müzik Senkronizasyonu (32)
 
-### No. 1: 优雅的洗衣场景
+### No. 1: Moda Beat Drop
 
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服
-```
-
-### No. 2: 互动绘画角色
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!"
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!"
-```
-
-### No. 3: 维多利亚时代街景
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等
-```
-
-### No. 4: 带有障碍物的追逐场景
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音
-```
-
-### No. 5: 优雅的洗衣场景 变体2
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 6: 互动绘画角色 变体2
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 7: 维多利亚时代街景 变体2
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 8: 带有障碍物的追逐场景 变体2
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v2
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
-```
-
-### No. 9: 优雅的洗衣场景 变体3
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 10: 互动绘画角色 变体3
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 11: 维多利亚时代街景 变体3
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 12: 带有障碍物的追逐场景 变体3
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v3
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
-```
-
-### No. 13: 优雅的洗衣场景 变体4
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 14: 互动绘画角色 变体4
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 15: 维多利亚时代街景 变体4
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 16: 带有障碍物的追逐场景 变体4
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v4
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
-```
-
-### No. 17: 优雅的洗衣场景 变体5
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 18: 互动绘画角色 变体5
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 19: 维多利亚时代街景 变体5
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 20: 带有障碍物的追逐场景 变体5
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v5
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
-```
-
-### No. 21: 优雅的洗衣场景 变体6
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 22: 互动绘画角色 变体6
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 23: 维多利亚时代街景 变体6
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 24: 带有障碍物的追逐场景 变体6
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v6
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
-```
-
-### No. 25: 优雅的洗衣场景 变体7
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 26: 互动绘画角色 变体7
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 27: 维多利亚时代街景 变体7
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 28: 带有障碍物的追逐场景 变体7
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v7
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
-```
-
-### No. 29: 优雅的洗衣场景 变体8
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_001_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 30: 互动绘画角色 变体8
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_002_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!" 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 31: 维多利亚时代街景 变体8
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_003_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-### No. 32: 带有障碍物的追逐场景 变体8
-
-- **Kategori:** `超逼真视频生成`
-- **Kaynak:** `official`
-- **Yazar:** ur_004_v8
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-
-#### Prompt
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
-```
-
-<a id="category-11"></a>
-
-### 音乐卡点同步 (32)
-
-### No. 1: 时尚节拍卡点
-
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001
 - **Dil:** `tr`
@@ -14997,17 +14353,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
+Müzik ritmine senkron moda dönüşümü.
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 2: 动态人像节拍同步
+### No. 2: Dinamik Portre Beat Senkronu
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002
 - **Dil:** `tr`
@@ -15017,57 +14373,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 3: 风景转场音乐视频
+### No. 3: Moda Beat Drop V2
 
-- **Kategori:** `音乐卡点同步`
-- **Kaynak:** `official`
-- **Yazar:** ms_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。
-
-#### Prompt
-
-```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。
-```
-
-### No. 4: 动漫棋局对战分镜
-
-- **Kategori:** `音乐卡点同步`
-- **Kaynak:** `official`
-- **Yazar:** ms_004
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。
-
-#### Prompt
-
-```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。
-```
-
-### No. 5: 时尚节拍卡点 变体2
-
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v2
 - **Dil:** `tr`
@@ -15077,17 +14393,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Müzik ritmine senkron moda dönüşümü. V2
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 6: 动态人像节拍同步 变体2
+### No. 4: Dinamik Portre Beat Senkronu V2
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v2
 - **Dil:** `tr`
@@ -15097,17 +14413,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V2
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 7: 风景转场音乐视频 变体2
+### No. 5: Manzara Geçişli Müzik Videosu V2
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v2
 - **Dil:** `tr`
@@ -15117,17 +14433,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V2
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 8: 动漫棋局对战分镜 变体2
+### No. 6: Anime Satranç Savaşı Storyboard V2
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v2
 - **Dil:** `tr`
@@ -15137,17 +14453,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V2
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 9: 时尚节拍卡点 变体3
+### No. 7: Manzara Geçişli Müzik Videosu
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
+- **Kaynak:** `official`
+- **Yazar:** ms_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Müzik ritmine kusursuz zamanlanan manzara geçişleri.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
+```
+
+### No. 8: Moda Beat Drop V3
+
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v3
 - **Dil:** `tr`
@@ -15157,17 +14493,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Müzik ritmine senkron moda dönüşümü. V3
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 10: 动态人像节拍同步 变体3
+### No. 9: Dinamik Portre Beat Senkronu V3
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v3
 - **Dil:** `tr`
@@ -15177,17 +14513,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V3
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 11: 风景转场音乐视频 变体3
+### No. 10: Manzara Geçişli Müzik Videosu V3
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v3
 - **Dil:** `tr`
@@ -15197,17 +14533,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V3
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 12: 动漫棋局对战分镜 变体3
+### No. 11: Anime Satranç Savaşı Storyboard V3
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v3
 - **Dil:** `tr`
@@ -15217,17 +14553,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V3
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 13: 时尚节拍卡点 变体4
+### No. 12: Anime Satranç Savaşı Storyboard
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
+- **Kaynak:** `official`
+- **Yazar:** ms_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Dramatik zamanlamalı storyboard tabanlı anime sekansı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
+```
+
+### No. 13: Moda Beat Drop V4
+
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v4
 - **Dil:** `tr`
@@ -15237,17 +14593,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Müzik ritmine senkron moda dönüşümü. V4
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 14: 动态人像节拍同步 变体4
+### No. 14: Dinamik Portre Beat Senkronu V4
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v4
 - **Dil:** `tr`
@@ -15257,17 +14613,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V4
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 15: 风景转场音乐视频 变体4
+### No. 15: Manzara Geçişli Müzik Videosu V4
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v4
 - **Dil:** `tr`
@@ -15277,17 +14633,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V4
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 16: 动漫棋局对战分镜 变体4
+### No. 16: Anime Satranç Savaşı Storyboard V4
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v4
 - **Dil:** `tr`
@@ -15297,17 +14653,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V4
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 17: 时尚节拍卡点 变体5
+### No. 17: Moda Beat Drop V5
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v5
 - **Dil:** `tr`
@@ -15317,17 +14673,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Müzik ritmine senkron moda dönüşümü. V5
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 18: 动态人像节拍同步 变体5
+### No. 18: Dinamik Portre Beat Senkronu V5
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v5
 - **Dil:** `tr`
@@ -15337,17 +14693,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V5
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 19: 风景转场音乐视频 变体5
+### No. 19: Manzara Geçişli Müzik Videosu V5
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v5
 - **Dil:** `tr`
@@ -15357,17 +14713,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V5
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 20: 动漫棋局对战分镜 变体5
+### No. 20: Anime Satranç Savaşı Storyboard V5
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v5
 - **Dil:** `tr`
@@ -15377,17 +14733,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V5
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 21: 时尚节拍卡点 变体6
+### No. 21: Moda Beat Drop V6
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v6
 - **Dil:** `tr`
@@ -15397,17 +14753,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Müzik ritmine senkron moda dönüşümü. V6
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 22: 动态人像节拍同步 变体6
+### No. 22: Dinamik Portre Beat Senkronu V6
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v6
 - **Dil:** `tr`
@@ -15417,17 +14773,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V6
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 23: 风景转场音乐视频 变体6
+### No. 23: Manzara Geçişli Müzik Videosu V6
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v6
 - **Dil:** `tr`
@@ -15437,17 +14793,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V6
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 24: 动漫棋局对战分镜 变体6
+### No. 24: Anime Satranç Savaşı Storyboard V6
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v6
 - **Dil:** `tr`
@@ -15457,17 +14813,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V6
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 25: 时尚节拍卡点 变体7
+### No. 25: Moda Beat Drop V7
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v7
 - **Dil:** `tr`
@@ -15477,17 +14833,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Müzik ritmine senkron moda dönüşümü. V7
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 26: 动态人像节拍同步 变体7
+### No. 26: Dinamik Portre Beat Senkronu V7
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v7
 - **Dil:** `tr`
@@ -15497,17 +14853,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V7
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 27: 风景转场音乐视频 变体7
+### No. 27: Manzara Geçişli Müzik Videosu V7
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v7
 - **Dil:** `tr`
@@ -15517,17 +14873,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V7
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 28: 动漫棋局对战分镜 变体7
+### No. 28: Anime Satranç Savaşı Storyboard V7
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v7
 - **Dil:** `tr`
@@ -15537,17 +14893,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V7
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-### No. 29: 时尚节拍卡点 变体8
+### No. 29: Moda Beat Drop V8
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_001_v8
 - **Dil:** `tr`
@@ -15557,17 +14913,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Müzik ritmine senkron moda dönüşümü. V8
 
 #### Prompt
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Müzik ritmine senkron moda dönüşümü.
 ```
 
-### No. 30: 动态人像节拍同步 变体8
+### No. 30: Dinamik Portre Beat Senkronu V8
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_002_v8
 - **Dil:** `tr`
@@ -15577,17 +14933,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Müzik ana karelerinde dinamik biçimde beliren karakter portreleri. V8
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Müzik ana karelerinde dinamik biçimde beliren karakter portreleri.
 ```
 
-### No. 31: 风景转场音乐视频 变体8
+### No. 31: Manzara Geçişli Müzik Videosu V8
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_003_v8
 - **Dil:** `tr`
@@ -15597,17 +14953,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Müzik ritmine kusursuz zamanlanan manzara geçişleri. V8
 
 #### Prompt
 
 ```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Müzik ritmine kusursuz zamanlanan manzara geçişleri.
 ```
 
-### No. 32: 动漫棋局对战分镜 变体8
+### No. 32: Anime Satranç Savaşı Storyboard V8
 
-- **Kategori:** `音乐卡点同步`
+- **Kategori:** `Müzik Senkronizasyonu`
 - **Kaynak:** `official`
 - **Yazar:** ms_004_v8
 - **Dil:** `tr`
@@ -15617,21 +14973,665 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Dramatik zamanlamalı storyboard tabanlı anime sekansı. V8
 
 #### Prompt
 
 ```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
+```
+
+<a id="category-11"></a>
+
+### Ultra Gerçekçi Video Üretimi (32)
+
+### No. 1: Zarif Çamaşır Asma Sahnesi
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 2: Etkileşimli Tablo Karakteri
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 3: Zarif Çamaşır Asma Sahnesi V2
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 4: Etkileşimli Tablo Karakteri V2
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 5: Viktorya Dönemi Sokak Sahnesi V2
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 6: Engelli Kovalamaca Sahnesi V2
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v2
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V2
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 7: Viktorya Dönemi Sokak Sahnesi
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 8: Zarif Çamaşır Asma Sahnesi V3
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 9: Etkileşimli Tablo Karakteri V3
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 10: Viktorya Dönemi Sokak Sahnesi V3
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 11: Engelli Kovalamaca Sahnesi V3
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v3
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V3
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 12: Engelli Kovalamaca Sahnesi
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 13: Zarif Çamaşır Asma Sahnesi V4
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 14: Etkileşimli Tablo Karakteri V4
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 15: Viktorya Dönemi Sokak Sahnesi V4
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 16: Engelli Kovalamaca Sahnesi V4
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v4
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V4
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 17: Zarif Çamaşır Asma Sahnesi V5
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 18: Etkileşimli Tablo Karakteri V5
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 19: Viktorya Dönemi Sokak Sahnesi V5
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 20: Engelli Kovalamaca Sahnesi V5
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v5
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V5
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 21: Zarif Çamaşır Asma Sahnesi V6
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 22: Etkileşimli Tablo Karakteri V6
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 23: Viktorya Dönemi Sokak Sahnesi V6
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 24: Engelli Kovalamaca Sahnesi V6
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v6
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V6
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 25: Zarif Çamaşır Asma Sahnesi V7
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 26: Etkileşimli Tablo Karakteri V7
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 27: Viktorya Dönemi Sokak Sahnesi V7
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 28: Engelli Kovalamaca Sahnesi V7
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v7
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V7
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
+```
+
+### No. 29: Zarif Çamaşır Asma Sahnesi V8
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_001_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Bir kadın zarifçe çamaşır asar, sepetteki bir parçayı çıkarıp doğal bir hareketle silkeler.
+```
+
+### No. 30: Etkileşimli Tablo Karakteri V8
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_002_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Tablodaki bir karakter canlanır ve kimse bakmazken gizlice kola içerek mizahi bir reklam sahnesi oluşturur.
+```
+
+### No. 31: Viktorya Dönemi Sokak Sahnesi V8
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_003_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: 19. yüzyıl Londra'sında geçen, çevresel detayları güçlü ve karakter tepkileri doğal bir dönem draması sahnesi.
+```
+
+### No. 32: Engelli Kovalamaca Sahnesi V8
+
+- **Kategori:** `Ultra Gerçekçi Video Üretimi`
+- **Kaynak:** `official`
+- **Yazar:** ur_004_v8
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı. V8
+
+#### Prompt
+
+```text
+Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
 ```
 
 <a id="category-12"></a>
 
-### 情绪演绎 (24)
+### Duygusal Performans (24)
 
-### No. 1: 镜前情绪崩溃
+### No. 1: Aynada Çöküş
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001
 - **Dil:** `tr`
@@ -15641,17 +15641,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。
+Duygusu giderek yükselen psikolojik çöküş sahnesi.
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 2: 烹饪反差喜剧
+### No. 2: Yemekte Kontrast Komedisi
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002
 - **Dil:** `tr`
@@ -15661,37 +15661,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 3: 戏剧性咆哮特写
+### No. 3: Aynada Çöküş V2
 
-- **Kategori:** `情绪演绎`
-- **Kaynak:** `official`
-- **Yazar:** ep_003
-- **Dil:** `tr`
-- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### Aciklama
-
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
-
-#### Prompt
-
-```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
-```
-
-### No. 4: 镜前情绪崩溃 变体2
-
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v2
 - **Dil:** `tr`
@@ -15701,17 +15681,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V2
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 5: 烹饪反差喜剧 变体2
+### No. 4: Yemekte Kontrast Komedisi V2
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v2
 - **Dil:** `tr`
@@ -15721,17 +15701,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V2
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 6: 戏剧性咆哮特写 变体2
+### No. 5: Dramatik Kükreme Yakın Plan V2
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v2
 - **Dil:** `tr`
@@ -15741,17 +15721,37 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Abartılı ifadelerle komedik dramatik performans. V2
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持主体和故事核心不变，改成更强的电影化镜头推进，加入低机位移动、快速节奏、清晨或傍晚的戏剧化光线，并强化环境细节与运动感。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 7: 镜前情绪崩溃 变体3
+### No. 6: Dramatik Kükreme Yakın Plan
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
+- **Kaynak:** `official`
+- **Yazar:** ep_003
+- **Dil:** `tr`
+- **Video:** https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### Aciklama
+
+Abartılı ifadelerle komedik dramatik performans.
+
+#### Prompt
+
+```text
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
+```
+
+### No. 7: Aynada Çöküş V3
+
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v3
 - **Dil:** `tr`
@@ -15761,17 +15761,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V3
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 8: 烹饪反差喜剧 变体3
+### No. 8: Yemekte Kontrast Komedisi V3
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v3
 - **Dil:** `tr`
@@ -15781,17 +15781,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V3
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 9: 戏剧性咆哮特写 变体3
+### No. 9: Dramatik Kükreme Yakın Plan V3
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v3
 - **Dil:** `tr`
@@ -15801,17 +15801,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Abartılı ifadelerle komedik dramatik performans. V3
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 10: 镜前情绪崩溃 变体4
+### No. 10: Aynada Çöküş V4
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v4
 - **Dil:** `tr`
@@ -15821,17 +15821,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V4
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 11: 烹饪反差喜剧 变体4
+### No. 11: Yemekte Kontrast Komedisi V4
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v4
 - **Dil:** `tr`
@@ -15841,17 +15841,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V4
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 12: 戏剧性咆哮特写 变体4
+### No. 12: Dramatik Kükreme Yakın Plan V4
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v4
 - **Dil:** `tr`
@@ -15861,17 +15861,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Abartılı ifadelerle komedik dramatik performans. V4
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持核心内容不变，改成更适合短视频传播的精炼版本，使用更直接的动作表现、清晰主体、强对比色彩和更快的镜头切换，整体更利落。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 13: 镜前情绪崩溃 变体5
+### No. 13: Aynada Çöküş V5
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v5
 - **Dil:** `tr`
@@ -15881,17 +15881,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V5
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 14: 烹饪反差喜剧 变体5
+### No. 14: Yemekte Kontrast Komedisi V5
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v5
 - **Dil:** `tr`
@@ -15901,17 +15901,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V5
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 15: 戏剧性咆哮特写 变体5
+### No. 15: Dramatik Kükreme Yakın Plan V5
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v5
 - **Dil:** `tr`
@@ -15921,17 +15921,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Abartılı ifadelerle komedik dramatik performans. V5
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持人物和场景一致，改成更具广告片质感的版本，加入干净构图、慢速推镜、细节特写、柔和高光和更强材质表现，整体更高级。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 16: 镜前情绪崩溃 变体6
+### No. 16: Aynada Çöküş V6
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v6
 - **Dil:** `tr`
@@ -15941,17 +15941,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V6
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 17: 烹饪反差喜剧 变体6
+### No. 17: Yemekte Kontrast Komedisi V6
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v6
 - **Dil:** `tr`
@@ -15961,17 +15961,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V6
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 18: 戏剧性咆哮特写 变体6
+### No. 18: Dramatik Kükreme Yakın Plan V6
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v6
 - **Dil:** `tr`
@@ -15981,17 +15981,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Abartılı ifadelerle komedik dramatik performans. V6
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持主体设定不变，改成更适合社交媒体传播的沉浸式第一视角版本，加入主观镜头、快速转场、强前景掠过和更明显的动作反馈。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 19: 镜前情绪崩溃 变体7
+### No. 19: Aynada Çöküş V7
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v7
 - **Dil:** `tr`
@@ -16001,17 +16001,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V7
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 20: 烹饪反差喜剧 变体7
+### No. 20: Yemekte Kontrast Komedisi V7
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v7
 - **Dil:** `tr`
@@ -16021,17 +16021,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V7
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 21: 戏剧性咆哮特写 变体7
+### No. 21: Dramatik Kükreme Yakın Plan V7
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v7
 - **Dil:** `tr`
@@ -16041,17 +16041,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Abartılı ifadelerle komedik dramatik performans. V7
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持故事与角色不变，改成更有史诗感的版本，加入大景别建立镜头、远近景切换、宏大空间尺度、云层和光束变化，整体更震撼。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-### No. 22: 镜前情绪崩溃 变体8
+### No. 22: Aynada Çöküş V8
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_001_v8
 - **Dil:** `tr`
@@ -16061,17 +16061,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Duygusu giderek yükselen psikolojik çöküş sahnesi. V8
 
 #### Prompt
 
 ```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Duygusu giderek yükselen psikolojik çöküş sahnesi.
 ```
 
-### No. 23: 烹饪反差喜剧 变体8
+### No. 23: Yemekte Kontrast Komedisi V8
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_002_v8
 - **Dil:** `tr`
@@ -16081,17 +16081,17 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Sakin ve kaotik yemek pişirme arasındaki komik kontrast. V8
 
 #### Prompt
 
 ```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Sakin ve kaotik yemek pişirme arasındaki komik kontrast.
 ```
 
-### No. 24: 戏剧性咆哮特写 变体8
+### No. 24: Dramatik Kükreme Yakın Plan V8
 
-- **Kategori:** `情绪演绎`
+- **Kategori:** `Duygusal Performans`
 - **Kaynak:** `official`
 - **Yazar:** ep_003_v8
 - **Dil:** `tr`
@@ -16101,12 +16101,12 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 #### Aciklama
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Abartılı ifadelerle komedik dramatik performans. V8
 
 #### Prompt
 
 ```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。 保持同样核心元素，改成更注重质感与细节展示的版本，加入材质特写、慢速镜头、镜面反射、水汽或尘粒细节，整体更细腻真实。
+Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
 ## Nasil Katki Saglanir
@@ -16126,4 +16126,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-04-28T03:27:09.553Z
+> Bu README otomatik uretilmistir. 2026-04-28T05:05:44.005Z

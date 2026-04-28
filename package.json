@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts",
-    "sync": "tsx scripts/sync-approved-to-cms.ts"
+    "sync": "tsx scripts/sync-approved-to-cms.ts",
+    "sync:prompts-hub": "node scripts/sync-prompts-hub-data.mjs"
   },
   "devDependencies": {
     "@octokit/rest": "^20.1.2",

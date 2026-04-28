@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 export interface PromptRecord {
-  id: number;
+  id: string | number;
   title: string;
   description: string;
   prompt: string;
@@ -37,23 +37,41 @@ const __dirname = path.dirname(__filename);
 const root = path.resolve(__dirname, "../..");
 const dataPath = path.join(root, "data", "prompts.json");
 
+export function getPromptSortKey(id: string | number): number {
+  if (typeof id === "number") {
+    return id;
+  }
+
+  const numeric = Number(id);
+  if (!Number.isNaN(numeric)) {
+    return numeric;
+  }
+
+  const match = String(id).match(/(\d+)(?!.*\d)/);
+  return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+}
+
 export async function loadPrompts(): Promise<PromptRecord[]> {
   const raw = await fs.readFile(dataPath, "utf8");
   const prompts = JSON.parse(raw) as PromptRecord[];
 
-  return prompts.sort((a, b) => a.id - b.id).map((prompt, index) => ({
+  return prompts.sort((a, b) => getPromptSortKey(a.id) - getPromptSortKey(b.id)).map((prompt, index) => ({
     ...prompt,
     featured: prompt.featured ?? index < 6,
   }));
 }
 
 export async function savePrompts(prompts: PromptRecord[]): Promise<void> {
-  const sorted = [...prompts].sort((a, b) => a.id - b.id);
+  const sorted = [...prompts].sort((a, b) => getPromptSortKey(a.id) - getPromptSortKey(b.id));
   await fs.writeFile(dataPath, JSON.stringify(sorted, null, 2) + "\n", "utf8");
 }
 
 export function getNextId(prompts: PromptRecord[]): number {
-  return prompts.reduce((max, prompt) => Math.max(max, prompt.id), 0) + 1;
+  return (
+    prompts.reduce((max, prompt) => {
+      return typeof prompt.id === "number" ? Math.max(max, prompt.id) : max;
+    }, 0) + 1
+  );
 }
 
 export function sortPrompts(prompts: PromptRecord[]): SortedPromptData {

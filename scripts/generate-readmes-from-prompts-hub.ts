@@ -2,7 +2,7 @@ import "dotenv/config";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { type PromptRecord, sortPrompts } from "./utils/cms-client.js";
+import { getPromptSortKey, type PromptRecord, sortPrompts } from "./utils/cms-client.js";
 import { generateMarkdown, SUPPORTED_LANGUAGES } from "./utils/markdown-generator.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -45,7 +45,7 @@ function normalizePrompt(
   const source = localizedPrompt ?? fallbackPrompt;
   return {
     ...fallbackPrompt,
-    id: Number(source.id ?? fallbackPrompt.id),
+    id: source.id ?? fallbackPrompt.id,
     title: String(source.title ?? fallbackPrompt.title),
     description: String(source.description ?? fallbackPrompt.description),
     prompt: String(source.prompt ?? fallbackPrompt.prompt),
@@ -70,7 +70,7 @@ function buildLocalizedPrompts(localePrompts: PromptRecord[], fallbackPrompts: P
   const localizedMap = new Map(localePrompts.map((prompt) => [promptKey(prompt), prompt]));
   return fallbackPrompts
     .map((fallbackPrompt) => normalizePrompt(localizedMap.get(promptKey(fallbackPrompt)), fallbackPrompt))
-    .sort((a, b) => a.id - b.id);
+    .sort((a, b) => getPromptSortKey(a.id) - getPromptSortKey(b.id));
 }
 
 async function main() {

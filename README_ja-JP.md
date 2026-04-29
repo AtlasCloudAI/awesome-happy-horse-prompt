@@ -40,7 +40,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | 総プロンプト数 | **800** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **800** |
-| 最終更新 | **2026-04-29T02:11:11.543Z** |
+| 最終更新 | **2026-04-29T13:28:01.091Z** |
 
 ## カテゴリ別に見る
 
@@ -16206,4 +16206,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-04-29T02:11:11.543Z
+> この README は自動生成です。 2026-04-29T13:28:01.091Z

@@ -40,7 +40,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | พรอมต์ทั้งหมด | **800** |
 | จำนวนหมวดหมู่ | **12** |
 | วิดีโอตัวอย่าง | **800** |
-| อัปเดตล่าสุด | **2026-05-07T02:08:20.001Z** |
+| อัปเดตล่าสุด | **2026-05-07T13:47:17.523Z** |
 
 ## เรียกดูตามหมวดหมู่
 
@@ -16126,4 +16126,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-05-07T02:08:20.001Z
+> README นี้สร้างอัตโนมัติ 2026-05-07T13:47:17.523Z

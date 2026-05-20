@@ -1,5 +1,5 @@
 # Awesome Happy Horse 1.0 Prompts
-
+https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/1#issue-4486443900
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

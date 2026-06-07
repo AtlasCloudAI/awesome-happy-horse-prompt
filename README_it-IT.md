@@ -40,7 +40,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Prompt Totali | **800** |
 | Categorie | **12** |
 | Video di Anteprima | **800** |
-| Ultimo Aggiornamento | **2026-06-07T02:47:32.493Z** |
+| Ultimo Aggiornamento | **2026-06-07T13:25:50.564Z** |
 
 ## Sfoglia per Categoria
 
@@ -16126,4 +16126,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-06-07T02:47:32.493Z
+> Questo README e generato automaticamente. 2026-06-07T13:25:50.564Z

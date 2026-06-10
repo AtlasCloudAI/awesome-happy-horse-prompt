@@ -1,9 +1,11 @@
 # Happy Horse 1.0 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -15,8 +17,8 @@
 
 ## 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/zh/happy-horse-1-prompt?locale=zh-CN)
-- 模型页: [查看](https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- 提示词库: [查看](https://www.atlascloud.ai/zh/happy-horse-1-prompt?locale=zh-CN&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- 模型页: [查看](https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 模型简介
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 | 提示词总数 | **800** |
 | 分类数 | **12** |
 | 预览视频数 | **800** |
-| 最后更新 | **2026-06-10T02:41:20.709Z** |
+| 最后更新 | **2026-06-10T03:51:11.988Z** |
 
 ## 按分类浏览
 
@@ -16113,7 +16115,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 通过 GitHub Issue 提交完整提示词、分类和预览视频链接，审核通过后会自动同步到数据集。
 
-- Issue 模板: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue 模板: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - 文档: [查看](docs/CONTRIBUTING.md)
 
 ## 本地使用
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-10T02:41:20.709Z
+> 此 README 为自动生成。 2026-06-10T03:51:11.988Z

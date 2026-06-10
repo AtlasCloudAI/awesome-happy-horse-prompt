@@ -1,9 +1,11 @@
 # Awesome Happy Horse 1.0 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -15,8 +17,8 @@
 
 ## AtlasCloud で見る
 
-- プロンプトライブラリ: [表示](https://www.atlascloud.ai/ja/happy-horse-1-prompt?locale=ja)
-- モデルページ: [表示](https://www.atlascloud.ai/ja/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- プロンプトライブラリ: [表示](https://www.atlascloud.ai/ja/happy-horse-1-prompt?locale=ja&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- モデルページ: [表示](https://www.atlascloud.ai/ja/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | 総プロンプト数 | **800** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **800** |
-| 最終更新 | **2026-06-10T02:41:20.748Z** |
+| 最終更新 | **2026-06-10T03:51:11.999Z** |
 
 ## カテゴリ別に見る
 
@@ -16193,7 +16195,7 @@ video1でカメラを右へパン。フライドチキン店主が忙しく注�
 
 完全なプロンプト、カテゴリ、プレビュー URL を GitHub issue で送信してください。承認後にデータセットへ同期されます。
 
-- Issue テンプレート: [表示](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue テンプレート: [表示](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - ガイド: [表示](docs/CONTRIBUTING.md)
 
 ## ローカル実行
@@ -16206,4 +16208,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-06-10T02:41:20.748Z
+> この README は自動生成です。 2026-06-10T03:51:11.999Z

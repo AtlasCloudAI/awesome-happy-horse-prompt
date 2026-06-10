@@ -1,9 +1,11 @@
 # Awesome Happy Horse 1.0 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -15,8 +17,8 @@
 
 ## AtlasCloud에서 보기
 
-- 프롬프트 라이브러리: [보기](https://www.atlascloud.ai/ko/happy-horse-1-prompt?locale=ko)
-- 모델 페이지: [보기](https://www.atlascloud.ai/ko/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- 프롬프트 라이브러리: [보기](https://www.atlascloud.ai/ko/happy-horse-1-prompt?locale=ko&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- 모델 페이지: [보기](https://www.atlascloud.ai/ko/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | 전체 프롬프트 | **800** |
 | 카테고리 수 | **12** |
 | 미리보기 비디오 | **800** |
-| 마지막 업데이트 | **2026-06-10T02:41:20.766Z** |
+| 마지막 업데이트 | **2026-06-10T03:51:12.004Z** |
 
 ## 카테고리별 보기
 
@@ -16193,7 +16195,7 @@ video1 카메라가 오른쪽으로 이동하며 치킨집 사장이 바쁘게 �
 
 완전한 프롬프트, 카테고리, 미리보기 URL을 GitHub issue로 제출하세요. 승인 후 데이터셋에 동기화됩니다.
 
-- Issue 템플릿: [보기](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue 템플릿: [보기](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - 가이드: [보기](docs/CONTRIBUTING.md)
 
 ## 로컬 사용
@@ -16206,4 +16208,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-06-10T02:41:20.766Z
+> 이 README는 자동 생성됩니다. 2026-06-10T03:51:12.004Z

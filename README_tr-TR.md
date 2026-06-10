@@ -1,9 +1,11 @@
 # Awesome Happy Horse 1.0 Promptlari
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -15,8 +17,8 @@
 
 ## AtlasCloud'da Gor
 
-- Prompt Kutuphanesi: [Goruntule](https://www.atlascloud.ai/tr/happy-horse-1-prompt?locale=tr)
-- Model Sayfasi: [Goruntule](https://www.atlascloud.ai/tr/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- Prompt Kutuphanesi: [Goruntule](https://www.atlascloud.ai/tr/happy-horse-1-prompt?locale=tr&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Model Sayfasi: [Goruntule](https://www.atlascloud.ai/tr/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Toplam Prompt | **800** |
 | Kategoriler | **12** |
 | Onizleme Videolari | **800** |
-| Son Guncelleme | **2026-06-10T02:41:20.959Z** |
+| Son Guncelleme | **2026-06-10T03:51:12.059Z** |
 
 ## Kategoriye Gore Gozat
 
@@ -16113,7 +16115,7 @@ Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 
 Tam prompt, kategori ve onizleme URL'si ile GitHub issue gonderin. Onaydan sonra workflow veri setine senkronize eder.
 
-- Issue Sablonu: [Goruntule](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue Sablonu: [Goruntule](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - Rehber: [Goruntule](docs/CONTRIBUTING.md)
 
 ## Yerel Kullanim
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-06-10T02:41:20.959Z
+> Bu README otomatik uretilmistir. 2026-06-10T03:51:12.059Z

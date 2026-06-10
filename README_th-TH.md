@@ -1,9 +1,11 @@
 # รวมพรอมต์ Awesome Happy Horse 1.0
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -15,8 +17,8 @@
 
 ## ดูบน AtlasCloud
 
-- คลังพรอมต์: [ดู](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en)
-- หน้ารุ่นโมเดล: [ดู](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- คลังพรอมต์: [ดู](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- หน้ารุ่นโมเดล: [ดู](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | พรอมต์ทั้งหมด | **800** |
 | จำนวนหมวดหมู่ | **12** |
 | วิดีโอตัวอย่าง | **800** |
-| อัปเดตล่าสุด | **2026-06-10T02:41:20.785Z** |
+| อัปเดตล่าสุด | **2026-06-10T03:51:12.011Z** |
 
 ## เรียกดูตามหมวดหมู่
 
@@ -16113,7 +16115,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ส่ง GitHub issue พร้อมพรอมต์ หมวดหมู่ และ URL ตัวอย่างที่ครบถ้วน หลังอนุมัติแล้วเวิร์กโฟลว์จะซิงก์เข้าชุดข้อมูล
 
-- เทมเพลต Issue: [ดู](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- เทมเพลต Issue: [ดู](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - คู่มือ: [ดู](docs/CONTRIBUTING.md)
 
 ## การใช้งานในเครื่อง
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-06-10T02:41:20.785Z
+> README นี้สร้างอัตโนมัติ 2026-06-10T03:51:12.011Z

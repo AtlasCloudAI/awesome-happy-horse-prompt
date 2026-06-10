@@ -1,9 +1,11 @@
 # Awesome Happy Horse 1.0 Prompts Sangrah
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -15,8 +17,8 @@
 
 ## AtlasCloud par dekhen
 
-- Prompt Library: [Dekhen](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en)
-- Model Page: [Dekhen](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- Prompt Library: [Dekhen](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Model Page: [Dekhen](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Kul Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Aakhri Update | **2026-06-10T02:41:20.826Z** |
+| Aakhri Update | **2026-06-10T03:51:12.021Z** |
 
 ## Category ke anusar dekhen
 
@@ -16113,7 +16115,7 @@ Comedic dramatic performance with exaggerated expression. V8
 
 Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Approval ke baad workflow ise dataset me sync karega.
 
-- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - Guide: [Dekhen](docs/CONTRIBUTING.md)
 
 ## Local Usage
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-06-10T02:41:20.826Z
+> Yeh README auto-generated hai. 2026-06-10T03:51:12.021Z

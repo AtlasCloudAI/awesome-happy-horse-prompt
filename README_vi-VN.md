@@ -1,9 +1,11 @@
 # Tuyen Tap Prompt Happy Horse 1.0
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -15,8 +17,8 @@
 
 ## Xem tren AtlasCloud
 
-- Thu vien Prompt: [Xem](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en)
-- Trang Model: [Xem](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- Thu vien Prompt: [Xem](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Trang Model: [Xem](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Tong so Prompt | **800** |
 | So danh muc | **12** |
 | Video xem truoc | **800** |
-| Cap nhat lan cuoi | **2026-06-10T02:41:20.803Z** |
+| Cap nhat lan cuoi | **2026-06-10T03:51:12.016Z** |
 
 ## Duyet theo danh muc
 
@@ -16113,7 +16115,7 @@ Comedic dramatic performance with exaggerated expression. V8
 
 Gui GitHub issue voi prompt, danh muc va URL xem truoc day du. Sau khi duoc duyet, workflow se dong bo vao bo du lieu.
 
-- Mau Issue: [Xem](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Mau Issue: [Xem](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - Huong dan: [Xem](docs/CONTRIBUTING.md)
 
 ## Su dung cuc bo
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-06-10T02:41:20.803Z
+> README nay duoc tao tu dong. 2026-06-10T03:51:12.016Z

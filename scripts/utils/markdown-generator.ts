@@ -1,6 +1,9 @@
 import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
 import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
+const REPO = "awesome-happy-horse-prompts";
+const UTM = `?utm_source=github&utm_campaign=${REPO}`;
+
 export { SUPPORTED_LANGUAGES };
 
 function buildCategoryAnchor(index: number): string {
@@ -36,12 +39,12 @@ function resolveAtlasLocale(locale: string): { prefix: string; localeParam: stri
 
 function buildPromptLibraryUrl(locale: string): string {
   const { prefix, localeParam } = resolveAtlasLocale(locale);
-  return `https://www.atlascloud.ai${prefix}/happy-horse-1-prompt?locale=${localeParam}`;
+  return `https://www.atlascloud.ai${prefix}/happy-horse-1-prompt?locale=${localeParam}&utm_source=github&utm_campaign=${REPO}`;
 }
 
 function buildModelUrl(locale: string): string {
   const { prefix } = resolveAtlasLocale(locale);
-  return `https://www.atlascloud.ai${prefix}/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683`;
+  return `https://www.atlascloud.ai${prefix}/models/alibaba/happyhorse-1.0/text-to-video${UTM}`;
 }
 
 function renderLanguageNavigation(currentLocale: string): string {
@@ -164,9 +167,11 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`# ${t("title", locale)}`);
   lines.push("");
   lines.push("[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)");
-  lines.push("[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)");
+  lines.push("[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)");
   lines.push("[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)");
-  lines.push("[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)");
+  lines.push("[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)");
+  lines.push(`[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)`);
+  lines.push(`[![Prompts](https://img.shields.io/badge/prompts-${data.stats.total}%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)`);
   lines.push("");
   lines.push(`> ${t("subtitle", locale)}`);
   lines.push("");
@@ -179,6 +184,24 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
   lines.push("");
   lines.push(renderModelIntro(locale));
+  if (locale === "en") {
+    lines.push("## Supported Models");
+    lines.push("");
+    lines.push("- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7");
+    lines.push("- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5");
+    lines.push("- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen");
+    lines.push("- 🔊 **Audio** — Grok TTS");
+    lines.push(`- 📚 **Explore more** — https://www.atlascloud.ai/models${UTM}`);
+    lines.push("");
+    lines.push("## ▶ Run any prompt via Atlas Cloud");
+    lines.push("");
+    lines.push("**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.");
+    lines.push("");
+    lines.push("**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.");
+    lines.push("");
+    lines.push(`Get an API key: https://www.atlascloud.ai/console/api-keys${UTM}`);
+    lines.push("");
+  }
   lines.push(`## ${t("stats", locale)}`);
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
@@ -221,7 +244,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(t("contributeDesc", locale));
   lines.push("");
-  lines.push(`- ${t("issueTemplate", locale)}: [${t("view", locale)}](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)`);
+  lines.push(`- ${t("issueTemplate", locale)}: [${t("view", locale)}](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)`);
   lines.push(`- ${t("guide", locale)}: [${t("view", locale)}](docs/CONTRIBUTING.md)`);
   lines.push("");
   lines.push(`## ${t("localUsage", locale)}`);
@@ -236,6 +259,18 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(`> ${t("autoGenerated", locale)} ${now}`);
   lines.push("");
+  if (locale === "en") {
+    lines.push("## More Atlas Cloud Tools");
+    lines.push("");
+    lines.push("- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.");
+    lines.push("- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.");
+    lines.push("- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.");
+    lines.push("- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.");
+    lines.push("- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.");
+    lines.push("- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.");
+    lines.push(`- 🌐 [Website](https://www.atlascloud.ai/${UTM}) — 300+ models, one API key.`);
+    lines.push("");
+  }
 
   return lines.join("\n");
 }

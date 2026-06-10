@@ -1,9 +1,11 @@
 # Awesome Happy Horse 1.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Eine kuratierte Sammlung von Happy Horse 1.0 Prompts aus dem AtlasCloud Prompt-Okosystem.
 
@@ -15,8 +17,8 @@
 
 ## In AtlasCloud ansehen
 
-- Prompt-Bibliothek: [Ansehen](https://www.atlascloud.ai/de/happy-horse-1-prompt?locale=de)
-- Modellseite: [Ansehen](https://www.atlascloud.ai/de/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- Prompt-Bibliothek: [Ansehen](https://www.atlascloud.ai/de/happy-horse-1-prompt?locale=de&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Modellseite: [Ansehen](https://www.atlascloud.ai/de/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 Overview
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Prompts Insgesamt | **800** |
 | Kategorien | **12** |
 | Vorschauvideos | **800** |
-| Zuletzt aktualisiert | **2026-06-10T02:41:20.875Z** |
+| Zuletzt aktualisiert | **2026-06-10T03:51:12.035Z** |
 
 ## Nach Kategorie durchsuchen
 
@@ -16169,7 +16171,7 @@ Komödiantisch-dramatische Performance mit übertriebener Ausdruckskraft im Clos
 
 Reiche ein GitHub-Issue mit vollstandigem Prompt, Kategorie und Vorschau-URL ein. Nach Freigabe wird es in den Datensatz synchronisiert.
 
-- Issue-Vorlage: [Ansehen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue-Vorlage: [Ansehen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - Leitfaden: [Ansehen](docs/CONTRIBUTING.md)
 
 ## Lokale Nutzung
@@ -16182,4 +16184,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-06-10T02:41:20.875Z
+> Diese README wird automatisch erzeugt. 2026-06-10T03:51:12.035Z

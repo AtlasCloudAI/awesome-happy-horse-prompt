@@ -1,9 +1,11 @@
 # Happy Horse 1.0 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -15,8 +17,8 @@
 
 ## 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/zh-TW/happy-horse-1-prompt?locale=zh-TW)
-- 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- 提示词库: [查看](https://www.atlascloud.ai/zh-TW/happy-horse-1-prompt?locale=zh-TW&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## Happy Horse 1.0 模型簡介
 
@@ -40,7 +42,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 | 提示詞總數 | **800** |
 | 分類數 | **12** |
 | 預覽影片數 | **800** |
-| 最後更新 | **2026-06-10T02:41:20.731Z** |
+| 最後更新 | **2026-06-10T03:51:11.993Z** |
 
 ## 按分類瀏覽
 
@@ -16113,7 +16115,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 
 透過 GitHub Issue 提交完整提示詞、分類和預覽影片連結，審核通過後會自動同步到資料集。
 
-- Issue 範本: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue 範本: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
 - 文件: [查看](docs/CONTRIBUTING.md)
 
 ## 本地使用
@@ -16126,4 +16128,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-06-10T02:41:20.731Z
+> 此 README 為自動生成。 2026-06-10T03:51:11.993Z

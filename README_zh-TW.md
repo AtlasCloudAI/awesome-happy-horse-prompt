@@ -35,6 +35,22 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 - 運鏡: 增加推拉搖移、環繞、跟拍、航拍、特寫等描述。
 - 風格: 補充電影光影、體積霧、雨雪、反射、材質與色彩對比。
 
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
 ## 📊 統計資料
 
 | 指標 | 數量 |
@@ -42,7 +58,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 | 提示詞總數 | **800** |
 | 分類數 | **12** |
 | 預覽影片數 | **800** |
-| 最後更新 | **2026-06-10T09:58:17.593Z** |
+| 最後更新 | **2026-06-10T10:13:47.229Z** |
 
 ## 🏷️ 按分類瀏覽
 
@@ -16115,7 +16131,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 
 透過 GitHub Issue 提交完整提示詞、分類和預覽影片連結，審核通過後會自動同步到資料集。
 
-- Issue 範本: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
+- Issue 範本: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - 文件: [查看](docs/CONTRIBUTING.md)
 
 ## 本地使用
@@ -16128,4 +16144,14 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-06-10T09:58:17.593Z
+> 此 README 為自動生成。 2026-06-10T10:13:47.229Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

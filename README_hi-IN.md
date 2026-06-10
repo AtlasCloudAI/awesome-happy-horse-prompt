@@ -35,6 +35,22 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
 ## 📊 Aankde
 
 | Suchak | Ginti |
@@ -42,7 +58,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Kul Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Aakhri Update | **2026-06-10T09:58:17.625Z** |
+| Aakhri Update | **2026-06-10T10:13:47.260Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
@@ -16115,7 +16131,7 @@ Comedic dramatic performance with exaggerated expression. V8
 
 Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Approval ke baad workflow ise dataset me sync karega.
 
-- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
+- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - Guide: [Dekhen](docs/CONTRIBUTING.md)
 
 ## Local Usage
@@ -16128,4 +16144,14 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-06-10T09:58:17.625Z
+> Yeh README auto-generated hai. 2026-06-10T10:13:47.260Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

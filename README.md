@@ -58,7 +58,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Total Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Last Updated | **2026-06-10T09:58:17.579Z** |
+| Last Updated | **2026-06-10T10:13:47.215Z** |
 
 ## 🏷️ Browse by Category
 
@@ -16131,7 +16131,7 @@ Comedic dramatic performance with exaggerated expression. V8
 
 Submit a GitHub issue with a complete prompt, category, and preview URL. After approval, the workflow syncs it into the dataset.
 
-- Issue template: [View](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=submit-prompt.yml)
+- Issue template: [View](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - Guide: [View](docs/CONTRIBUTING.md)
 
 ## Local Usage
@@ -16144,7 +16144,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-10T09:58:17.579Z
+> This README is auto-generated. 2026-06-10T10:13:47.215Z
 
 ## More Atlas Cloud Tools
 

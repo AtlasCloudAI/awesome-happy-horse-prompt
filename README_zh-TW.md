@@ -1,4 +1,4 @@
-# Happy Horse 1.0 提示詞大全
+# 🎬 Happy Horse 1.0 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## 在 AtlasCloud 查看
+## 🌐 在 AtlasCloud 查看
 
 - 提示词库: [查看](https://www.atlascloud.ai/zh-TW/happy-horse-1-prompt?locale=zh-TW&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 模型簡介
+## 🤔 Happy Horse 1.0 模型簡介
 
 Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生成。它對奇觀場景、幻想設定、廣告化視覺、動漫感畫面，以及帶有明確運鏡路徑的短影片提示詞表現更穩定。
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 - 運鏡: 增加推拉搖移、環繞、跟拍、航拍、特寫等描述。
 - 風格: 補充電影光影、體積霧、雨雪、反射、材質與色彩對比。
 
-## 統計資料
+## 📊 統計資料
 
 | 指標 | 數量 |
 |--------|-------|
 | 提示詞總數 | **800** |
 | 分類數 | **12** |
 | 預覽影片數 | **800** |
-| 最後更新 | **2026-06-10T09:41:43.515Z** |
+| 最後更新 | **2026-06-10T09:58:17.593Z** |
 
-## 按分類瀏覽
+## 🏷️ 按分類瀏覽
 
 - [`HappyHorse 創意批次`](#category-1): **240**
 - [`Twitter 社群`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 - [`音樂卡點同步`](#category-11): **32**
 - [`情緒演繹`](#category-12): **24**
 
-## 精選提示詞
+## 🔥 精選提示詞
 
-## 全部提示詞
+## 📋 全部提示詞
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 @圖片1作爲畫面首幀，鏡頭旋轉並推進，角色做出誇張的驚訝表情，喜劇效果，配合搞笑音效。
 ```
 
-## 如何貢獻
+## 🤝 如何貢獻
 
 透過 GitHub Issue 提交完整提示詞、分類和預覽影片連結，審核通過後會自動同步到資料集。
 
@@ -16124,8 +16124,8 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 npm run generate
 ```
 
-## 許可證
+## 📄 許可證
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-06-10T09:41:43.515Z
+> 此 README 為自動生成。 2026-06-10T09:58:17.593Z

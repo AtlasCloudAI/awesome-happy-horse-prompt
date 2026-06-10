@@ -1,4 +1,4 @@
-# Tuyen Tap Prompt Happy Horse 1.0
+# 🎬 Tuyen Tap Prompt Happy Horse 1.0
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## Xem tren AtlasCloud
+## 🌐 Xem tren AtlasCloud
 
 - Thu vien Prompt: [Xem](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - Trang Model: [Xem](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Thong ke
+## 📊 Thong ke
 
 | Muc | So luong |
 |--------|-------|
 | Tong so Prompt | **800** |
 | So danh muc | **12** |
 | Video xem truoc | **800** |
-| Cap nhat lan cuoi | **2026-06-10T09:41:43.537Z** |
+| Cap nhat lan cuoi | **2026-06-10T09:58:17.620Z** |
 
-## Duyet theo danh muc
+## 🏷️ Duyet theo danh muc
 
 - [`HappyHorse Creative Batch`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistic Video Generation`](#category-11): **32**
 - [`Emotional Performance`](#category-12): **24**
 
-## Prompt noi bat
+## 🔥 Prompt noi bat
 
-## Tat ca Prompt
+## 📋 Tat ca Prompt
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Comedic dramatic performance with exaggerated expression. V8
 @image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.
 ```
 
-## Cach dong gop
+## 🤝 Cach dong gop
 
 Gui GitHub issue voi prompt, danh muc va URL xem truoc day du. Sau khi duoc duyet, workflow se dong bo vao bo du lieu.
 
@@ -16124,8 +16124,8 @@ Gui GitHub issue voi prompt, danh muc va URL xem truoc day du. Sau khi duoc duye
 npm run generate
 ```
 
-## Giay phep
+## 📄 Giay phep
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-06-10T09:41:43.537Z
+> README nay duoc tao tu dong. 2026-06-10T09:58:17.620Z

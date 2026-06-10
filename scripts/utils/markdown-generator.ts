@@ -96,7 +96,7 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 function renderModelIntro(locale: string): string {
   if (locale === "zh") {
     return [
-      "## Happy Horse 1.0 模型简介",
+      "## 🤔 Happy Horse 1.0 模型简介",
       "",
       "Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生成。它对奇观场景、幻想设定、广告化视觉、动漫感画面以及带有明确运镜路径的短视频提示词表现更稳定。",
       "",
@@ -116,7 +116,7 @@ function renderModelIntro(locale: string): string {
 
   if (locale === "zh-TW") {
     return [
-      "## Happy Horse 1.0 模型簡介",
+      "## 🤔 Happy Horse 1.0 模型簡介",
       "",
       "Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生成。它對奇觀場景、幻想設定、廣告化視覺、動漫感畫面，以及帶有明確運鏡路徑的短影片提示詞表現更穩定。",
       "",
@@ -135,7 +135,7 @@ function renderModelIntro(locale: string): string {
   }
 
   return [
-    "## Happy Horse 1.0 Overview",
+    "## 🤔 Happy Horse 1.0 Overview",
     "",
     "Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.",
     "",
@@ -164,7 +164,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     promptsByCategory.set(prompt.category, categoryPrompts);
   }
 
-  lines.push(`# ${t("title", locale)}`);
+  lines.push(`# 🎬 ${t("title", locale)}`);
   lines.push("");
   lines.push("[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)");
   lines.push("[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)");
@@ -178,14 +178,14 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`> ${t("copyright", locale)}`);
   lines.push("");
   lines.push(renderLanguageNavigation(locale));
-  lines.push(`## ${t("viewInGallery", locale)}`);
+  lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
   lines.push("");
   lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
   lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
   lines.push("");
   lines.push(renderModelIntro(locale));
   if (locale === "en") {
-    lines.push("## Supported Models");
+    lines.push("## 🧩 Supported Models");
     lines.push("");
     lines.push("- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7");
     lines.push("- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5");
@@ -202,7 +202,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     lines.push(`**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`);
     lines.push("");
   }
-  lines.push(`## ${t("stats", locale)}`);
+  lines.push(`## 📊 ${t("stats", locale)}`);
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
   lines.push("|--------|-------|");
@@ -211,7 +211,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`| ${t("previewVideos", locale)} | **${data.stats.videos}** |`);
   lines.push(`| ${t("lastUpdated", locale)} | **${now}** |`);
   lines.push("");
-  lines.push(`## ${t("browseByCategory", locale)}`);
+  lines.push(`## 🏷️ ${t("browseByCategory", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -220,10 +220,10 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   });
 
   lines.push("");
-  lines.push(`## ${t("featuredPrompts", locale)}`);
+  lines.push(`## 🔥 ${t("featuredPrompts", locale)}`);
   lines.push("");
   data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
-  lines.push(`## ${t("allPrompts", locale)}`);
+  lines.push(`## 📋 ${t("allPrompts", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -240,7 +240,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     });
   });
 
-  lines.push(`## ${t("contribute", locale)}`);
+  lines.push(`## 🤝 ${t("contribute", locale)}`);
   lines.push("");
   lines.push(t("contributeDesc", locale));
   lines.push("");
@@ -253,7 +253,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("npm run generate");
   lines.push("```");
   lines.push("");
-  lines.push(`## ${t("license", locale)}`);
+  lines.push(`## 📄 ${t("license", locale)}`);
   lines.push("");
   lines.push("[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)");
   lines.push("");

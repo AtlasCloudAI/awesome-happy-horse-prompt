@@ -1,4 +1,4 @@
-# Awesome Happy Horse 1.0 プロンプト集
+# 🎬 Awesome Happy Horse 1.0 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## AtlasCloud で見る
+## 🌐 AtlasCloud で見る
 
 - プロンプトライブラリ: [表示](https://www.atlascloud.ai/ja/happy-horse-1-prompt?locale=ja&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - モデルページ: [表示](https://www.atlascloud.ai/ja/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## 統計
+## 📊 統計
 
 | 項目 | 数 |
 |--------|-------|
 | 総プロンプト数 | **800** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **800** |
-| 最終更新 | **2026-06-10T09:41:43.520Z** |
+| 最終更新 | **2026-06-10T09:58:17.599Z** |
 
-## カテゴリ別に見る
+## 🏷️ カテゴリ別に見る
 
 - [`HappyHorse クリエイティブバッチ`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`音楽シンク`](#category-11): **32**
 - [`感情表現`](#category-12): **24**
 
-## 注目プロンプト
+## 🔥 注目プロンプト
 
-## すべてのプロンプト
+## 📋 すべてのプロンプト
 
 <a id="category-1"></a>
 
@@ -16191,7 +16191,7 @@ video1でカメラを右へパン。フライドチキン店主が忙しく注�
 @image1を冒頭フレームにし、カメラを回転しながら前進。キャラクターが誇張された驚き表情を見せ、コミカルな効果音を合わせる。
 ```
 
-## コントリビュート方法
+## 🤝 コントリビュート方法
 
 完全なプロンプト、カテゴリ、プレビュー URL を GitHub issue で送信してください。承認後にデータセットへ同期されます。
 
@@ -16204,8 +16204,8 @@ video1でカメラを右へパン。フライドチキン店主が忙しく注�
 npm run generate
 ```
 
-## ライセンス
+## 📄 ライセンス
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-06-10T09:41:43.520Z
+> この README は自動生成です。 2026-06-10T09:58:17.599Z

@@ -1,4 +1,4 @@
-# Awesome Happy Horse 1.0 Prompts Sangrah
+# 🎬 Awesome Happy Horse 1.0 Prompts Sangrah
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## AtlasCloud par dekhen
+## 🌐 AtlasCloud par dekhen
 
 - Prompt Library: [Dekhen](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - Model Page: [Dekhen](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Aankde
+## 📊 Aankde
 
 | Suchak | Ginti |
 |--------|-------|
 | Kul Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Aakhri Update | **2026-06-10T09:41:43.541Z** |
+| Aakhri Update | **2026-06-10T09:58:17.625Z** |
 
-## Category ke anusar dekhen
+## 🏷️ Category ke anusar dekhen
 
 - [`HappyHorse Creative Batch`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistic Video Generation`](#category-11): **32**
 - [`Emotional Performance`](#category-12): **24**
 
-## Featured Prompts
+## 🔥 Featured Prompts
 
-## Sabhi Prompts
+## 📋 Sabhi Prompts
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Comedic dramatic performance with exaggerated expression. V8
 @image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.
 ```
 
-## Contribute kaise karein
+## 🤝 Contribute kaise karein
 
 Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Approval ke baad workflow ise dataset me sync karega.
 
@@ -16124,8 +16124,8 @@ Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Appro
 npm run generate
 ```
 
-## License
+## 📄 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-06-10T09:41:43.541Z
+> Yeh README auto-generated hai. 2026-06-10T09:58:17.625Z

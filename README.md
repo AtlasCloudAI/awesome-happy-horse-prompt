@@ -1,4 +1,4 @@
-# Awesome Happy Horse 1.0 Prompts
+# 🎬 Awesome Happy Horse 1.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## View in AtlasCloud
+## 🌐 View in AtlasCloud
 
 - Prompt Library: [View](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - Model Page: [View](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,7 +35,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Supported Models
+## 🧩 Supported Models
 
 - 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
@@ -51,16 +51,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
 
-## Statistics
+## 📊 Statistics
 
 | Metric | Count |
 |--------|-------|
 | Total Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Last Updated | **2026-06-10T09:41:43.502Z** |
+| Last Updated | **2026-06-10T09:58:17.579Z** |
 
-## Browse by Category
+## 🏷️ Browse by Category
 
 - [`HappyHorse Creative Batch`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -75,9 +75,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistic Video Generation`](#category-11): **32**
 - [`Emotional Performance`](#category-12): **24**
 
-## Featured Prompts
+## 🔥 Featured Prompts
 
-## All Prompts
+## 📋 All Prompts
 
 <a id="category-1"></a>
 
@@ -16127,7 +16127,7 @@ Comedic dramatic performance with exaggerated expression. V8
 @image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.
 ```
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Submit a GitHub issue with a complete prompt, category, and preview URL. After approval, the workflow syncs it into the dataset.
 
@@ -16140,11 +16140,11 @@ Submit a GitHub issue with a complete prompt, category, and preview URL. After a
 npm run generate
 ```
 
-## License
+## 📄 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-10T09:41:43.502Z
+> This README is auto-generated. 2026-06-10T09:58:17.579Z
 
 ## More Atlas Cloud Tools
 

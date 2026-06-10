@@ -1,4 +1,4 @@
-# Happy Horse 1.0 提示词大全
+# 🎬 Happy Horse 1.0 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## 在 AtlasCloud 查看
+## 🌐 在 AtlasCloud 查看
 
 - 提示词库: [查看](https://www.atlascloud.ai/zh/happy-horse-1-prompt?locale=zh-CN&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - 模型页: [查看](https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 模型简介
+## 🤔 Happy Horse 1.0 模型简介
 
 Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生成。它对奇观场景、幻想设定、广告化视觉、动漫感画面以及带有明确运镜路径的短视频提示词表现更稳定。
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 - 运镜: 增加推拉摇移、环绕、跟拍、航拍、特写等描述。
 - 风格: 补充电影光影、体积雾、雨雪、反射、材质和色彩对比。
 
-## 统计数据
+## 📊 统计数据
 
 | 指标 | 数量 |
 |--------|-------|
 | 提示词总数 | **800** |
 | 分类数 | **12** |
 | 预览视频数 | **800** |
-| 最后更新 | **2026-06-10T09:41:43.510Z** |
+| 最后更新 | **2026-06-10T09:58:17.588Z** |
 
-## 按分类浏览
+## 🏷️ 按分类浏览
 
 - [`HappyHorse 创意批次`](#category-1): **240**
 - [`Twitter 社区`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 - [`音乐卡点同步`](#category-11): **32**
 - [`情绪演绎`](#category-12): **24**
 
-## 精选提示词
+## 🔥 精选提示词
 
-## 全部提示词
+## 📋 全部提示词
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 @图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
 ```
 
-## 如何贡献
+## 🤝 如何贡献
 
 通过 GitHub Issue 提交完整提示词、分类和预览视频链接，审核通过后会自动同步到数据集。
 
@@ -16124,8 +16124,8 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 npm run generate
 ```
 
-## 许可证
+## 📄 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-10T09:41:43.510Z
+> 此 README 为自动生成。 2026-06-10T09:58:17.588Z

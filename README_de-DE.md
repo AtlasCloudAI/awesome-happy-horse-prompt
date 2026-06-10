@@ -1,4 +1,4 @@
-# Awesome Happy Horse 1.0 Prompts
+# 🎬 Awesome Happy Horse 1.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## In AtlasCloud ansehen
+## 🌐 In AtlasCloud ansehen
 
 - Prompt-Bibliothek: [Ansehen](https://www.atlascloud.ai/de/happy-horse-1-prompt?locale=de&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - Modellseite: [Ansehen](https://www.atlascloud.ai/de/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Statistiken
+## 📊 Statistiken
 
 | Metrik | Anzahl |
 |--------|-------|
 | Prompts Insgesamt | **800** |
 | Kategorien | **12** |
 | Vorschauvideos | **800** |
-| Zuletzt aktualisiert | **2026-06-10T09:41:43.554Z** |
+| Zuletzt aktualisiert | **2026-06-10T09:58:17.640Z** |
 
-## Nach Kategorie durchsuchen
+## 🏷️ Nach Kategorie durchsuchen
 
 - [`HappyHorse Kreativsammlung`](#category-1): **240**
 - [`Twitter-Community`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistische Videogenerierung`](#category-11): **32**
 - [`Emotionale Darstellung`](#category-12): **24**
 
-## Ausgewahlte Prompts
+## 🔥 Ausgewahlte Prompts
 
-## Alle Prompts
+## 📋 Alle Prompts
 
 <a id="category-1"></a>
 
@@ -16167,7 +16167,7 @@ Komödiantisch-dramatische Performance mit übertriebener Ausdruckskraft im Clos
 @image1 als erster Frame, Kamera rotiert und fährt vor; der Charakter zeigt eine übertriebene überraschte Mimik, ergänzt durch komische Soundeffekte.
 ```
 
-## So kannst du beitragen
+## 🤝 So kannst du beitragen
 
 Reiche ein GitHub-Issue mit vollstandigem Prompt, Kategorie und Vorschau-URL ein. Nach Freigabe wird es in den Datensatz synchronisiert.
 
@@ -16180,8 +16180,8 @@ Reiche ein GitHub-Issue mit vollstandigem Prompt, Kategorie und Vorschau-URL ein
 npm run generate
 ```
 
-## Lizenz
+## 📄 Lizenz
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-06-10T09:41:43.554Z
+> Diese README wird automatisch erzeugt. 2026-06-10T09:58:17.640Z

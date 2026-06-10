@@ -1,4 +1,4 @@
-# รวมพรอมต์ Awesome Happy Horse 1.0
+# 🎬 รวมพรอมต์ Awesome Happy Horse 1.0
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## ดูบน AtlasCloud
+## 🌐 ดูบน AtlasCloud
 
 - คลังพรอมต์: [ดู](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - หน้ารุ่นโมเดล: [ดู](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## สถิติ
+## 📊 สถิติ
 
 | รายการ | จำนวน |
 |--------|-------|
 | พรอมต์ทั้งหมด | **800** |
 | จำนวนหมวดหมู่ | **12** |
 | วิดีโอตัวอย่าง | **800** |
-| อัปเดตล่าสุด | **2026-06-10T09:41:43.531Z** |
+| อัปเดตล่าสุด | **2026-06-10T09:58:17.611Z** |
 
-## เรียกดูตามหมวดหมู่
+## 🏷️ เรียกดูตามหมวดหมู่
 
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-11): **32**
 - [`การแสดงอารมณ์`](#category-12): **24**
 
-## พรอมต์เด่น
+## 🔥 พรอมต์เด่น
 
-## พรอมต์ทั้งหมด
+## 📋 พรอมต์ทั้งหมด
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ดราม่าtic คำราม โคลสอัป
 ```
 
-## วิธีมีส่วนร่วม
+## 🤝 วิธีมีส่วนร่วม
 
 ส่ง GitHub issue พร้อมพรอมต์ หมวดหมู่ และ URL ตัวอย่างที่ครบถ้วน หลังอนุมัติแล้วเวิร์กโฟลว์จะซิงก์เข้าชุดข้อมูล
 
@@ -16124,8 +16124,8 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 npm run generate
 ```
 
-## สัญญาอนุญาต
+## 📄 สัญญาอนุญาต
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-06-10T09:41:43.531Z
+> README นี้สร้างอัตโนมัติ 2026-06-10T09:58:17.611Z

@@ -1,4 +1,4 @@
-# Awesome Happy Horse 1.0 Promptlari
+# 🎬 Awesome Happy Horse 1.0 Promptlari
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -15,12 +15,12 @@
 
 ---
 
-## AtlasCloud'da Gor
+## 🌐 AtlasCloud'da Gor
 
 - Prompt Kutuphanesi: [Goruntule](https://www.atlascloud.ai/tr/happy-horse-1-prompt?locale=tr&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 - Model Sayfasi: [Goruntule](https://www.atlascloud.ai/tr/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -35,16 +35,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Istatistikler
+## 📊 Istatistikler
 
 | Olcut | Sayi |
 |--------|-------|
 | Toplam Prompt | **800** |
 | Kategoriler | **12** |
 | Onizleme Videolari | **800** |
-| Son Guncelleme | **2026-06-10T09:41:43.574Z** |
+| Son Guncelleme | **2026-06-10T09:58:17.664Z** |
 
-## Kategoriye Gore Gozat
+## 🏷️ Kategoriye Gore Gozat
 
 - [`HappyHorse Yaratici Seri`](#category-1): **240**
 - [`Twitter Toplulugu`](#category-2): **88**
@@ -59,9 +59,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra Gerçekçi Video Üretimi`](#category-11): **32**
 - [`Duygusal Performans`](#category-12): **24**
 
-## One Cikan Promptlar
+## 🔥 One Cikan Promptlar
 
-## Tum Promptlar
+## 📋 Tum Promptlar
 
 <a id="category-1"></a>
 
@@ -16111,7 +16111,7 @@ Abartılı ifadelerle komedik dramatik performans. V8
 Video sahnesi üret: Abartılı ifadelerle komedik dramatik performans.
 ```
 
-## Nasil Katki Saglanir
+## 🤝 Nasil Katki Saglanir
 
 Tam prompt, kategori ve onizleme URL'si ile GitHub issue gonderin. Onaydan sonra workflow veri setine senkronize eder.
 
@@ -16124,8 +16124,8 @@ Tam prompt, kategori ve onizleme URL'si ile GitHub issue gonderin. Onaydan sonra
 npm run generate
 ```
 
-## Lisans
+## 📄 Lisans
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-06-10T09:41:43.574Z
+> Bu README otomatik uretilmistir. 2026-06-10T09:58:17.664Z

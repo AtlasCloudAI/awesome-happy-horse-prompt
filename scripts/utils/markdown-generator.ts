@@ -191,7 +191,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     lines.push("- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5");
     lines.push("- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen");
     lines.push("- 🔊 **Audio** — Grok TTS");
-    lines.push(`- 📚 **Explore more** — https://www.atlascloud.ai/models${UTM}`);
+    lines.push(`- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models${UTM})`);
     lines.push("");
     lines.push("## ▶ Run any prompt via Atlas Cloud");
     lines.push("");
@@ -199,7 +199,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     lines.push("");
     lines.push("**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.");
     lines.push("");
-    lines.push(`Get an API key: https://www.atlascloud.ai/console/api-keys${UTM}`);
+    lines.push(`**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`);
     lines.push("");
   }
   lines.push(`## ${t("stats", locale)}`);

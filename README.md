@@ -41,7 +41,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -49,7 +49,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
 
 ## Statistics
 
@@ -58,7 +58,7 @@ Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm
 | Total Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Last Updated | **2026-06-10T03:51:11.980Z** |
+| Last Updated | **2026-06-10T09:41:43.502Z** |
 
 ## Browse by Category
 
@@ -16144,7 +16144,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-10T03:51:11.980Z
+> This README is auto-generated. 2026-06-10T09:41:43.502Z
 
 ## More Atlas Cloud Tools
 

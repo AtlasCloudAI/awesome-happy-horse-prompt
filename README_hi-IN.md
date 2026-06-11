@@ -1,9 +1,11 @@
-# Awesome Happy Horse 1.0 Prompts Sangrah
+# 🎬 Awesome Happy Horse 1.0 Prompts Sangrah
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -13,12 +15,12 @@
 
 ---
 
-## AtlasCloud par dekhen
+## 🌐 AtlasCloud par dekhen
 
-- Prompt Library: [Dekhen](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en)
-- Model Page: [Dekhen](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- Prompt Library: [Dekhen](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Model Page: [Dekhen](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -33,16 +35,32 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## Aankde
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
+## 📊 Aankde
 
 | Suchak | Ginti |
 |--------|-------|
 | Kul Prompts | **800** |
 | Categories | **12** |
 | Preview Videos | **800** |
-| Aakhri Update | **2026-06-11T02:51:05.615Z** |
+| Aakhri Update | **2026-06-11T07:05:20.583Z** |
 
-## Category ke anusar dekhen
+## 🏷️ Category ke anusar dekhen
 
 - [`HappyHorse Creative Batch`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -57,9 +75,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistic Video Generation`](#category-11): **32**
 - [`Emotional Performance`](#category-12): **24**
 
-## Featured Prompts
+## 🔥 Featured Prompts
 
-## Sabhi Prompts
+## 📋 Sabhi Prompts
 
 <a id="category-1"></a>
 
@@ -16109,11 +16127,11 @@ Comedic dramatic performance with exaggerated expression. V8
 @image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.
 ```
 
-## Contribute kaise karein
+## 🤝 Contribute kaise karein
 
 Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Approval ke baad workflow ise dataset me sync karega.
 
-- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue Template: [Dekhen](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - Guide: [Dekhen](docs/CONTRIBUTING.md)
 
 ## Local Usage
@@ -16122,8 +16140,18 @@ Pura prompt, category aur preview URL ke saath GitHub issue submit karein. Appro
 npm run generate
 ```
 
-## License
+## 📄 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-06-11T02:51:05.615Z
+> Yeh README auto-generated hai. 2026-06-11T07:05:20.583Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

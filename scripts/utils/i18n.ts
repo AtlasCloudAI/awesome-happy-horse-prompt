@@ -61,7 +61,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 
 const en: Translation = {
   title: "Awesome Happy Horse 1.0 Prompts",
-  subtitle: "A curated collection of Happy Horse 1.0 prompts sourced from the AtlasCloud prompt ecosystem.",
+  subtitle: "A curated collection of Happy Horse 1.0 prompts with real previews generated via Atlas Cloud.",
   copyright: "All prompts are shared for educational and discovery purposes. Open an issue if anything should be removed.",
   current: "Current",
   view: "View",

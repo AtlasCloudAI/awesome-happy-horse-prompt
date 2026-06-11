@@ -1,9 +1,11 @@
-# Awesome Happy Horse 1.0 프롬프트 모음
+# 🎬 Awesome Happy Horse 1.0 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -13,12 +15,12 @@
 
 ---
 
-## AtlasCloud에서 보기
+## 🌐 AtlasCloud에서 보기
 
-- 프롬프트 라이브러리: [보기](https://www.atlascloud.ai/ko/happy-horse-1-prompt?locale=ko)
-- 모델 페이지: [보기](https://www.atlascloud.ai/ko/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- 프롬프트 라이브러리: [보기](https://www.atlascloud.ai/ko/happy-horse-1-prompt?locale=ko&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- 모델 페이지: [보기](https://www.atlascloud.ai/ko/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -33,16 +35,32 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## 통계
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
+## 📊 통계
 
 | 항목 | 수량 |
 |--------|-------|
 | 전체 프롬프트 | **800** |
 | 카테고리 수 | **12** |
 | 미리보기 비디오 | **800** |
-| 마지막 업데이트 | **2026-06-11T02:51:05.562Z** |
+| 마지막 업데이트 | **2026-06-11T07:05:20.566Z** |
 
-## 카테고리별 보기
+## 🏷️ 카테고리별 보기
 
 - [`HappyHorse 크리에이티브 배치`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -57,9 +75,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`초현실적 영상 생성`](#category-11): **32**
 - [`감정 연기`](#category-12): **24**
 
-## 추천 프롬프트
+## 🔥 추천 프롬프트
 
-## 전체 프롬프트
+## 📋 전체 프롬프트
 
 <a id="category-1"></a>
 
@@ -16189,11 +16207,11 @@ video1 카메라가 오른쪽으로 이동하며 치킨집 사장이 바쁘게 �
 @image1을 첫 프레임으로 카메라를 회전하며 전진. 캐릭터가 과장된 놀람 표정을 보여주고 코믹한 효과음을 더한다.
 ```
 
-## 기여 방법
+## 🤝 기여 방법
 
 완전한 프롬프트, 카테고리, 미리보기 URL을 GitHub issue로 제출하세요. 승인 후 데이터셋에 동기화됩니다.
 
-- Issue 템플릿: [보기](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue 템플릿: [보기](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - 가이드: [보기](docs/CONTRIBUTING.md)
 
 ## 로컬 사용
@@ -16202,8 +16220,18 @@ video1 카메라가 오른쪽으로 이동하며 치킨집 사장이 바쁘게 �
 npm run generate
 ```
 
-## 라이선스
+## 📄 라이선스
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-06-11T02:51:05.562Z
+> 이 README는 자동 생성됩니다. 2026-06-11T07:05:20.566Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

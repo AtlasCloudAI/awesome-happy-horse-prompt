@@ -1,9 +1,11 @@
-# Awesome Happy Horse 1.0 プロンプト集
+# 🎬 Awesome Happy Horse 1.0 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -13,12 +15,12 @@
 
 ---
 
-## AtlasCloud で見る
+## 🌐 AtlasCloud で見る
 
-- プロンプトライブラリ: [表示](https://www.atlascloud.ai/ja/happy-horse-1-prompt?locale=ja)
-- モデルページ: [表示](https://www.atlascloud.ai/ja/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- プロンプトライブラリ: [表示](https://www.atlascloud.ai/ja/happy-horse-1-prompt?locale=ja&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- モデルページ: [表示](https://www.atlascloud.ai/ja/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 Overview
+## 🤔 Happy Horse 1.0 Overview
 
 Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and visually dense short-form storytelling. It works especially well for fantasy worlds, anime-inspired visuals, ad-style shots, sci-fi concepts, and prompts with explicit camera language.
 
@@ -33,16 +35,32 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up instructions.
 - Style: include cinematic light, volumetric fog, rain, reflections, textures, and color contrast.
 
-## 統計
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
+## 📊 統計
 
 | 項目 | 数 |
 |--------|-------|
 | 総プロンプト数 | **800** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **800** |
-| 最終更新 | **2026-06-11T02:51:05.544Z** |
+| 最終更新 | **2026-06-11T07:05:20.560Z** |
 
-## カテゴリ別に見る
+## 🏷️ カテゴリ別に見る
 
 - [`HappyHorse クリエイティブバッチ`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -57,9 +75,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`音楽シンク`](#category-11): **32**
 - [`感情表現`](#category-12): **24**
 
-## 注目プロンプト
+## 🔥 注目プロンプト
 
-## すべてのプロンプト
+## 📋 すべてのプロンプト
 
 <a id="category-1"></a>
 
@@ -16189,11 +16207,11 @@ video1でカメラを右へパン。フライドチキン店主が忙しく注�
 @image1を冒頭フレームにし、カメラを回転しながら前進。キャラクターが誇張された驚き表情を見せ、コミカルな効果音を合わせる。
 ```
 
-## コントリビュート方法
+## 🤝 コントリビュート方法
 
 完全なプロンプト、カテゴリ、プレビュー URL を GitHub issue で送信してください。承認後にデータセットへ同期されます。
 
-- Issue テンプレート: [表示](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue テンプレート: [表示](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - ガイド: [表示](docs/CONTRIBUTING.md)
 
 ## ローカル実行
@@ -16202,8 +16220,18 @@ video1でカメラを右へパン。フライドチキン店主が忙しく注�
 npm run generate
 ```
 
-## ライセンス
+## 📄 ライセンス
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-06-11T02:51:05.544Z
+> この README は自動生成です。 2026-06-11T07:05:20.560Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

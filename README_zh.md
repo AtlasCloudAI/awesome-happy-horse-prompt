@@ -1,9 +1,11 @@
-# Happy Horse 1.0 提示词大全
+# 🎬 Happy Horse 1.0 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/actions/workflows/update-readme.yml)
+[![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -13,12 +15,12 @@
 
 ---
 
-## 在 AtlasCloud 查看
+## 🌐 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/zh/happy-horse-1-prompt?locale=zh-CN)
-- 模型页: [查看](https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?ref=JPM683)
+- 提示词库: [查看](https://www.atlascloud.ai/zh/happy-horse-1-prompt?locale=zh-CN&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- 模型页: [查看](https://www.atlascloud.ai/zh/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
-## Happy Horse 1.0 模型简介
+## 🤔 Happy Horse 1.0 模型简介
 
 Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生成。它对奇观场景、幻想设定、广告化视觉、动漫感画面以及带有明确运镜路径的短视频提示词表现更稳定。
 
@@ -33,16 +35,32 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 - 运镜: 增加推拉摇移、环绕、跟拍、航拍、特写等描述。
 - 风格: 补充电影光影、体积雾、雨雪、反射、材质和色彩对比。
 
-## 统计数据
+## 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
+
+## 📊 统计数据
 
 | 指标 | 数量 |
 |--------|-------|
 | 提示词总数 | **800** |
 | 分类数 | **12** |
 | 预览视频数 | **800** |
-| 最后更新 | **2026-06-11T02:51:05.501Z** |
+| 最后更新 | **2026-06-11T07:05:20.551Z** |
 
-## 按分类浏览
+## 🏷️ 按分类浏览
 
 - [`HappyHorse 创意批次`](#category-1): **240**
 - [`Twitter 社区`](#category-2): **88**
@@ -57,9 +75,9 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 - [`音乐卡点同步`](#category-11): **32**
 - [`情绪演绎`](#category-12): **24**
 
-## 精选提示词
+## 🔥 精选提示词
 
-## 全部提示词
+## 📋 全部提示词
 
 <a id="category-1"></a>
 
@@ -16109,11 +16127,11 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 @图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
 ```
 
-## 如何贡献
+## 🤝 如何贡献
 
 通过 GitHub Issue 提交完整提示词、分类和预览视频链接，审核通过后会自动同步到数据集。
 
-- Issue 模板: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompt/issues/new?template=submit-prompt.yml)
+- Issue 模板: [查看](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
 - 文档: [查看](docs/CONTRIBUTING.md)
 
 ## 本地使用
@@ -16122,8 +16140,18 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 npm run generate
 ```
 
-## 许可证
+## 📄 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-11T02:51:05.501Z
+> 此 README 为自动生成。 2026-06-11T07:05:20.551Z
+
+## More Atlas Cloud Tools
+
+- 💻 [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run any model from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- 🧠 [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- 💬 [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- 🌐 [Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-happy-horse-prompts) — 300+ models, one API key.

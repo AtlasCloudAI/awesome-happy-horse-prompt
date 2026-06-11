@@ -40,7 +40,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Tong so Prompt | **800** |
 | So danh muc | **12** |
 | Video xem truoc | **800** |
-| Cap nhat lan cuoi | **2026-06-10T14:58:01.153Z** |
+| Cap nhat lan cuoi | **2026-06-11T02:51:05.598Z** |
 
 ## Duyet theo danh muc
 
@@ -16126,4 +16126,4 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-06-10T14:58:01.153Z
+> README nay duoc tao tu dong. 2026-06-11T02:51:05.598Z

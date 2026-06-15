@@ -1,4 +1,4 @@
-# 🎬 Tuyen Tap Prompt Happy Horse 1.0
+# 🎬 Awesome Happy Horse 1.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-happy-horse-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
@@ -7,18 +7,18 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
-> Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
+> Una raccolta curata di prompt Happy Horse 1.0 provenienti dall'ecosistema di prompt AtlasCloud.
 
-> Tat ca prompt duoc chia se cho muc dich hoc tap va tra cuu. Neu can go bo noi dung, vui long mo issue.
+> Tutti i prompt sono condivisi per finalita educative e di scoperta. Apri una issue se qualcosa deve essere rimosso.
 
-[![English](https://img.shields.io/badge/English-Xem-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Xem-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Xem-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Xem-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Xem-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Xem-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Hien tai-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Xem-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Xem-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Xem-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Xem-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Xem-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Xem-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Xem-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Xem-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Xem-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-Vedi-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Vedi-lightgrey)](i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Vedi-lightgrey)](i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Vedi-lightgrey)](i18n/README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Vedi-lightgrey)](i18n/README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Vedi-lightgrey)](i18n/README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Vedi-lightgrey)](i18n/README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Vedi-lightgrey)](i18n/README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Vedi-lightgrey)](i18n/README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Vedi-lightgrey)](i18n/README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Vedi-lightgrey)](i18n/README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Vedi-lightgrey)](i18n/README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Corrente-brightgreen)](i18n/README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Vedi-lightgrey)](i18n/README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Vedi-lightgrey)](i18n/README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Vedi-lightgrey)](i18n/README_tr-TR.md)
 
 ---
 
-## 🌐 Xem tren AtlasCloud
+## 🌐 Vedi su AtlasCloud
 
-- Thu vien Prompt: [Xem](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
-- Trang Model: [Xem](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Libreria Prompt: [Vedi](https://www.atlascloud.ai/happy-horse-1-prompt?locale=en&utm_source=github&utm_campaign=awesome-happy-horse-prompts)
+- Pagina del Modello: [Vedi](https://www.atlascloud.ai/models/alibaba/happyhorse-1.0/text-to-video?utm_source=github&utm_campaign=awesome-happy-horse-prompts)
 
 ## 🤔 Happy Horse 1.0 Overview
 
@@ -52,16 +52,16 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-happy-horse-prompts)**
 
-## 📊 Thong ke
+## 📊 Statistiche
 
-| Muc | So luong |
+| Metrica | Conteggio |
 |--------|-------|
-| Tong so Prompt | **800** |
-| So danh muc | **12** |
-| Video xem truoc | **800** |
-| Cap nhat lan cuoi | **2026-06-15T10:32:58.186Z** |
+| Prompt Totali | **800** |
+| Categorie | **12** |
+| Video di Anteprima | **800** |
+| Ultimo Aggiornamento | **2026-06-15T11:15:00.296Z** |
 
-## 🏷️ Duyet theo danh muc
+## 🏷️ Sfoglia per Categoria
 
 - [`HappyHorse Creative Batch`](#category-1): **240**
 - [`Twitter Community`](#category-2): **88**
@@ -76,9 +76,9 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Ultra-Realistic Video Generation`](#category-11): **32**
 - [`Emotional Performance`](#category-12): **24**
 
-## 🔥 Prompt noi bat
+## 🔥 Prompt in Evidenza
 
-## 📋 Tat ca Prompt
+## 📋 Tutti i Prompt
 
 <a id="category-1"></a>
 
@@ -86,15 +86,15 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 ### No. 1: Neon Opera Cathedral
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal.
 
@@ -106,15 +106,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 2: Clockwork Tea House
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture.
 
@@ -126,15 +126,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 3: Neon Opera Cathedral V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/101_hh_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V2
 
@@ -146,15 +146,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 4: Clockwork Tea House V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/102_hh_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V2
 
@@ -166,15 +166,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 5: Whale Library Sky V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V2
 
@@ -186,15 +186,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 6: Volcano Ramen Night V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V2
 
@@ -206,15 +206,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 7: Mini Dragon Gardener V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V2
 
@@ -226,15 +226,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 8: Desert Mirror Train V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V2
 
@@ -246,15 +246,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 9: Moonlight Kite Market V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V2
 
@@ -266,15 +266,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 10: Arctic Glass Orchestra V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V2
 
@@ -286,15 +286,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 11: Robot Farm Harvest V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V2
 
@@ -306,15 +306,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 12: Candy Canyon Race V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V2
 
@@ -326,15 +326,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 13: Underwater Post Office V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V2
 
@@ -346,15 +346,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 14: Mountain Bamboo Drone V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V2
 
@@ -366,15 +366,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 15: Cyberpunk Paper Lanterns V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V2
 
@@ -386,15 +386,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 16: Giant Turtle Carnival V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V2
 
@@ -406,15 +406,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 17: Samurai Snow Duel V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V2
 
@@ -426,15 +426,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 18: Balloon City Sunrise V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V2
 
@@ -446,15 +446,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 19: Forest Piano Ruins V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V2
 
@@ -466,15 +466,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 20: Mars Street Food V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V2
 
@@ -486,15 +486,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 21: Rainy Tokyo Bicycle V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V2
 
@@ -506,15 +506,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 22: Ancient Astronomy Tower V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V2
 
@@ -526,15 +526,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 23: Jungle Mech Elephant V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V2
 
@@ -546,15 +546,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 24: Ice Cream Galaxy V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V2
 
@@ -566,15 +566,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 25: Shadow Puppet Metropolis V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V2
 
@@ -586,15 +586,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 26: Subway Jazz Morning V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V2
 
@@ -606,15 +606,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 27: Temple Of Wind Chimes V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V2
 
@@ -626,15 +626,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 28: Midnight Bookstore Portal V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V2
 
@@ -646,15 +646,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 29: Festival Of Fireflies V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V2
 
@@ -666,15 +666,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 30: Gravity Free Workshop V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V2
 
@@ -686,15 +686,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 31: Rainforest Glass Frog V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V2
 
@@ -706,15 +706,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 32: Solar Wind Surfers V2
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V2
 
@@ -726,15 +726,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 33: Whale Library Sky
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/103_hh_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking.
 
@@ -746,15 +746,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 34: Neon Opera Cathedral V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/201_hh_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V3
 
@@ -766,15 +766,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 35: Clockwork Tea House V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/202_hh_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V3
 
@@ -786,15 +786,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 36: Whale Library Sky V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/203_hh_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V3
 
@@ -806,15 +806,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 37: Volcano Ramen Night V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/204_hh_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V3
 
@@ -826,15 +826,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 38: Mini Dragon Gardener V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/205_hh_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V3
 
@@ -846,15 +846,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 39: Desert Mirror Train V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/206_hh_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V3
 
@@ -866,15 +866,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 40: Moonlight Kite Market V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/207_hh_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V3
 
@@ -886,15 +886,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 41: Arctic Glass Orchestra V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/208_hh_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V3
 
@@ -906,15 +906,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 42: Robot Farm Harvest V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/209_hh_009_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V3
 
@@ -926,15 +926,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 43: Candy Canyon Race V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/210_hh_010_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V3
 
@@ -946,15 +946,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 44: Underwater Post Office V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/211_hh_011_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V3
 
@@ -966,15 +966,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 45: Mountain Bamboo Drone V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/212_hh_012_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V3
 
@@ -986,15 +986,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 46: Cyberpunk Paper Lanterns V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/213_hh_013_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V3
 
@@ -1006,15 +1006,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 47: Giant Turtle Carnival V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/214_hh_014_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V3
 
@@ -1026,15 +1026,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 48: Samurai Snow Duel V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/215_hh_015_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V3
 
@@ -1046,15 +1046,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 49: Balloon City Sunrise V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/216_hh_016_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V3
 
@@ -1066,15 +1066,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 50: Forest Piano Ruins V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/217_hh_017_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V3
 
@@ -1086,15 +1086,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 51: Mars Street Food V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/218_hh_018_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V3
 
@@ -1106,15 +1106,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 52: Rainy Tokyo Bicycle V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/219_hh_019_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V3
 
@@ -1126,15 +1126,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 53: Ancient Astronomy Tower V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/220_hh_020_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V3
 
@@ -1146,15 +1146,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 54: Jungle Mech Elephant V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/221_hh_021_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V3
 
@@ -1166,15 +1166,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 55: Ice Cream Galaxy V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/222_hh_022_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V3
 
@@ -1186,15 +1186,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 56: Shadow Puppet Metropolis V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/223_hh_023_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V3
 
@@ -1206,15 +1206,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 57: Subway Jazz Morning V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/224_hh_024_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V3
 
@@ -1226,15 +1226,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 58: Temple Of Wind Chimes V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/225_hh_025_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V3
 
@@ -1246,15 +1246,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 59: Midnight Bookstore Portal V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/226_hh_026_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V3
 
@@ -1266,15 +1266,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 60: Festival Of Fireflies V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/227_hh_027_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V3
 
@@ -1286,15 +1286,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 61: Gravity Free Workshop V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/228_hh_028_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V3
 
@@ -1306,15 +1306,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 62: Rainforest Glass Frog V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/229_hh_029_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V3
 
@@ -1326,15 +1326,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 63: Solar Wind Surfers V3
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/230_hh_030_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V3
 
@@ -1346,15 +1346,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 64: Volcano Ramen Night
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/104_hh_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel.
 
@@ -1366,15 +1366,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 65: Neon Opera Cathedral V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/301_hh_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V4
 
@@ -1386,15 +1386,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 66: Clockwork Tea House V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/302_hh_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V4
 
@@ -1406,15 +1406,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 67: Whale Library Sky V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/303_hh_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V4
 
@@ -1426,15 +1426,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 68: Volcano Ramen Night V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/304_hh_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V4
 
@@ -1446,15 +1446,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 69: Mini Dragon Gardener V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/305_hh_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V4
 
@@ -1466,15 +1466,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 70: Desert Mirror Train V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/306_hh_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V4
 
@@ -1486,15 +1486,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 71: Moonlight Kite Market V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/307_hh_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V4
 
@@ -1506,15 +1506,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 72: Arctic Glass Orchestra V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/308_hh_008_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V4
 
@@ -1526,15 +1526,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 73: Robot Farm Harvest V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/309_hh_009_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V4
 
@@ -1546,15 +1546,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 74: Candy Canyon Race V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/310_hh_010_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V4
 
@@ -1566,15 +1566,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 75: Underwater Post Office V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/311_hh_011_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V4
 
@@ -1586,15 +1586,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 76: Mountain Bamboo Drone V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/312_hh_012_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V4
 
@@ -1606,15 +1606,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 77: Cyberpunk Paper Lanterns V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/313_hh_013_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V4
 
@@ -1626,15 +1626,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 78: Giant Turtle Carnival V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/314_hh_014_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V4
 
@@ -1646,15 +1646,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 79: Samurai Snow Duel V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/315_hh_015_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V4
 
@@ -1666,15 +1666,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 80: Balloon City Sunrise V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/316_hh_016_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V4
 
@@ -1686,15 +1686,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 81: Forest Piano Ruins V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/317_hh_017_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V4
 
@@ -1706,15 +1706,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 82: Mars Street Food V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/318_hh_018_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V4
 
@@ -1726,15 +1726,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 83: Rainy Tokyo Bicycle V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/319_hh_019_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V4
 
@@ -1746,15 +1746,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 84: Ancient Astronomy Tower V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/320_hh_020_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V4
 
@@ -1766,15 +1766,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 85: Jungle Mech Elephant V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/321_hh_021_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V4
 
@@ -1786,15 +1786,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 86: Ice Cream Galaxy V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/322_hh_022_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V4
 
@@ -1806,15 +1806,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 87: Shadow Puppet Metropolis V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/323_hh_023_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V4
 
@@ -1826,15 +1826,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 88: Subway Jazz Morning V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/324_hh_024_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V4
 
@@ -1846,15 +1846,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 89: Temple Of Wind Chimes V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/325_hh_025_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V4
 
@@ -1866,15 +1866,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 90: Midnight Bookstore Portal V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/326_hh_026_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V4
 
@@ -1886,15 +1886,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 91: Festival Of Fireflies V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/327_hh_027_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V4
 
@@ -1906,15 +1906,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 92: Gravity Free Workshop V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/328_hh_028_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V4
 
@@ -1926,15 +1926,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 93: Rainforest Glass Frog V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/329_hh_029_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V4
 
@@ -1946,15 +1946,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 94: Solar Wind Surfers V4
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/330_hh_030_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V4
 
@@ -1966,15 +1966,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 95: Mini Dragon Gardener
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/105_hh_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures.
 
@@ -1986,15 +1986,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 96: Neon Opera Cathedral V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/401_hh_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V5
 
@@ -2006,15 +2006,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 97: Clockwork Tea House V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/402_hh_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V5
 
@@ -2026,15 +2026,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 98: Whale Library Sky V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/403_hh_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V5
 
@@ -2046,15 +2046,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 99: Volcano Ramen Night V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/404_hh_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V5
 
@@ -2066,15 +2066,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 100: Mini Dragon Gardener V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/405_hh_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V5
 
@@ -2086,15 +2086,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 101: Desert Mirror Train V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/406_hh_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V5
 
@@ -2106,15 +2106,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 102: Moonlight Kite Market V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/407_hh_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V5
 
@@ -2126,15 +2126,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 103: Arctic Glass Orchestra V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/408_hh_008_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V5
 
@@ -2146,15 +2146,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 104: Robot Farm Harvest V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/409_hh_009_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V5
 
@@ -2166,15 +2166,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 105: Candy Canyon Race V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/410_hh_010_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V5
 
@@ -2186,15 +2186,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 106: Underwater Post Office V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/411_hh_011_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V5
 
@@ -2206,15 +2206,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 107: Mountain Bamboo Drone V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/412_hh_012_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V5
 
@@ -2226,15 +2226,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 108: Cyberpunk Paper Lanterns V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/413_hh_013_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V5
 
@@ -2246,15 +2246,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 109: Giant Turtle Carnival V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/414_hh_014_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V5
 
@@ -2266,15 +2266,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 110: Samurai Snow Duel V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/415_hh_015_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V5
 
@@ -2286,15 +2286,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 111: Balloon City Sunrise V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/416_hh_016_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V5
 
@@ -2306,15 +2306,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 112: Forest Piano Ruins V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/417_hh_017_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V5
 
@@ -2326,15 +2326,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 113: Mars Street Food V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/418_hh_018_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V5
 
@@ -2346,15 +2346,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 114: Rainy Tokyo Bicycle V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/419_hh_019_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V5
 
@@ -2366,15 +2366,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 115: Ancient Astronomy Tower V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/420_hh_020_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V5
 
@@ -2386,15 +2386,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 116: Jungle Mech Elephant V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/421_hh_021_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V5
 
@@ -2406,15 +2406,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 117: Ice Cream Galaxy V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/422_hh_022_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V5
 
@@ -2426,15 +2426,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 118: Shadow Puppet Metropolis V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/423_hh_023_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V5
 
@@ -2446,15 +2446,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 119: Subway Jazz Morning V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/424_hh_024_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V5
 
@@ -2466,15 +2466,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 120: Temple Of Wind Chimes V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/425_hh_025_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V5
 
@@ -2486,15 +2486,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 121: Midnight Bookstore Portal V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/426_hh_026_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V5
 
@@ -2506,15 +2506,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 122: Festival Of Fireflies V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/427_hh_027_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V5
 
@@ -2526,15 +2526,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 123: Gravity Free Workshop V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/428_hh_028_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V5
 
@@ -2546,15 +2546,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 124: Rainforest Glass Frog V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/429_hh_029_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V5
 
@@ -2566,15 +2566,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 125: Solar Wind Surfers V5
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/430_hh_030_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V5
 
@@ -2586,15 +2586,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 126: Desert Mirror Train
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/106_hh_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition.
 
@@ -2606,15 +2606,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 127: Neon Opera Cathedral V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/501_hh_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V6
 
@@ -2626,15 +2626,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 128: Clockwork Tea House V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/502_hh_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V6
 
@@ -2646,15 +2646,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 129: Whale Library Sky V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/503_hh_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V6
 
@@ -2666,15 +2666,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 130: Volcano Ramen Night V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/504_hh_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V6
 
@@ -2686,15 +2686,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 131: Mini Dragon Gardener V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/505_hh_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V6
 
@@ -2706,15 +2706,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 132: Desert Mirror Train V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/506_hh_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V6
 
@@ -2726,15 +2726,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 133: Moonlight Kite Market V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/507_hh_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V6
 
@@ -2746,15 +2746,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 134: Arctic Glass Orchestra V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/508_hh_008_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V6
 
@@ -2766,15 +2766,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 135: Robot Farm Harvest V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/509_hh_009_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V6
 
@@ -2786,15 +2786,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 136: Candy Canyon Race V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/510_hh_010_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V6
 
@@ -2806,15 +2806,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 137: Underwater Post Office V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/511_hh_011_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V6
 
@@ -2826,15 +2826,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 138: Mountain Bamboo Drone V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/512_hh_012_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V6
 
@@ -2846,15 +2846,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 139: Cyberpunk Paper Lanterns V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/513_hh_013_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V6
 
@@ -2866,15 +2866,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 140: Giant Turtle Carnival V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/514_hh_014_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V6
 
@@ -2886,15 +2886,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 141: Samurai Snow Duel V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/515_hh_015_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V6
 
@@ -2906,15 +2906,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 142: Balloon City Sunrise V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/516_hh_016_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V6
 
@@ -2926,15 +2926,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 143: Forest Piano Ruins V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/517_hh_017_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V6
 
@@ -2946,15 +2946,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 144: Mars Street Food V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/518_hh_018_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V6
 
@@ -2966,15 +2966,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 145: Rainy Tokyo Bicycle V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/519_hh_019_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V6
 
@@ -2986,15 +2986,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 146: Ancient Astronomy Tower V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/520_hh_020_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V6
 
@@ -3006,15 +3006,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 147: Jungle Mech Elephant V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/521_hh_021_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V6
 
@@ -3026,15 +3026,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 148: Ice Cream Galaxy V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/522_hh_022_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V6
 
@@ -3046,15 +3046,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 149: Shadow Puppet Metropolis V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/523_hh_023_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V6
 
@@ -3066,15 +3066,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 150: Subway Jazz Morning V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/524_hh_024_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V6
 
@@ -3086,15 +3086,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 151: Temple Of Wind Chimes V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/525_hh_025_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V6
 
@@ -3106,15 +3106,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 152: Midnight Bookstore Portal V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/526_hh_026_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V6
 
@@ -3126,15 +3126,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 153: Festival Of Fireflies V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/527_hh_027_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V6
 
@@ -3146,15 +3146,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 154: Gravity Free Workshop V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/528_hh_028_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V6
 
@@ -3166,15 +3166,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 155: Rainforest Glass Frog V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/529_hh_029_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V6
 
@@ -3186,15 +3186,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 156: Solar Wind Surfers V6
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/530_hh_030_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V6
 
@@ -3206,15 +3206,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 157: Moonlight Kite Market
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/107_hh_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers.
 
@@ -3226,15 +3226,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 158: Neon Opera Cathedral V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/601_hh_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V7
 
@@ -3246,15 +3246,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 159: Clockwork Tea House V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/602_hh_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V7
 
@@ -3266,15 +3266,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 160: Whale Library Sky V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/603_hh_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V7
 
@@ -3286,15 +3286,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 161: Volcano Ramen Night V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/604_hh_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V7
 
@@ -3306,15 +3306,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 162: Mini Dragon Gardener V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/605_hh_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V7
 
@@ -3326,15 +3326,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 163: Desert Mirror Train V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/606_hh_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V7
 
@@ -3346,15 +3346,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 164: Moonlight Kite Market V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/607_hh_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V7
 
@@ -3366,15 +3366,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 165: Arctic Glass Orchestra V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/608_hh_008_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V7
 
@@ -3386,15 +3386,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 166: Robot Farm Harvest V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/609_hh_009_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V7
 
@@ -3406,15 +3406,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 167: Candy Canyon Race V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/610_hh_010_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V7
 
@@ -3426,15 +3426,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 168: Underwater Post Office V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/611_hh_011_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V7
 
@@ -3446,15 +3446,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 169: Mountain Bamboo Drone V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/612_hh_012_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V7
 
@@ -3466,15 +3466,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 170: Cyberpunk Paper Lanterns V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/613_hh_013_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V7
 
@@ -3486,15 +3486,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 171: Giant Turtle Carnival V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/614_hh_014_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V7
 
@@ -3506,15 +3506,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 172: Samurai Snow Duel V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/615_hh_015_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V7
 
@@ -3526,15 +3526,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 173: Balloon City Sunrise V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/616_hh_016_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V7
 
@@ -3546,15 +3546,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 174: Forest Piano Ruins V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/617_hh_017_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V7
 
@@ -3566,15 +3566,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 175: Mars Street Food V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/618_hh_018_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V7
 
@@ -3586,15 +3586,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 176: Rainy Tokyo Bicycle V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/619_hh_019_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V7
 
@@ -3606,15 +3606,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 177: Ancient Astronomy Tower V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/620_hh_020_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V7
 
@@ -3626,15 +3626,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 178: Jungle Mech Elephant V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/621_hh_021_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V7
 
@@ -3646,15 +3646,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 179: Ice Cream Galaxy V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/622_hh_022_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V7
 
@@ -3666,15 +3666,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 180: Shadow Puppet Metropolis V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/623_hh_023_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V7
 
@@ -3686,15 +3686,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 181: Subway Jazz Morning V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/624_hh_024_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V7
 
@@ -3706,15 +3706,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 182: Temple Of Wind Chimes V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/625_hh_025_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V7
 
@@ -3726,15 +3726,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 183: Midnight Bookstore Portal V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/626_hh_026_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V7
 
@@ -3746,15 +3746,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 184: Festival Of Fireflies V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/627_hh_027_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V7
 
@@ -3766,15 +3766,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 185: Gravity Free Workshop V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/628_hh_028_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V7
 
@@ -3786,15 +3786,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 186: Rainforest Glass Frog V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/629_hh_029_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V7
 
@@ -3806,15 +3806,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 187: Solar Wind Surfers V7
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/630_hh_030_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V7
 
@@ -3826,15 +3826,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 188: Arctic Glass Orchestra
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/108_hh_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking.
 
@@ -3846,15 +3846,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 189: Neon Opera Cathedral V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/701_hh_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the middle of Midnight Rain City, a Gothic opera house is made of neon glass. Hundreds of illuminated umbrellas spin in the air, and actors in color-changing gowns sing along at the edge of the roof. The camera rises from the reflection of the water through the colored windows, and finally takes a bird's-eye view of the entire city breathing in the beat. Cinematic light and shadow, volumetric fog, surreal. V8
 
@@ -3866,15 +3866,15 @@ In the middle of Midnight Rain City, a Gothic opera house is made of neon glass.
 
 ### No. 190: Clockwork Tea House V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/702_hh_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and closing like petals. The tea master is a mechanical giraffe who gracefully pours glowing tea for travelers. The camera circles around the tea cup, and miniature cities and spaceships emerge from the tea mist. Rich details, soft and warm light, dreamy texture. V8
 
@@ -3886,15 +3886,15 @@ A steampunk teahouse floats on a sea of ​​clouds, brass gears opening and cl
 
 ### No. 191: Whale Library Sky V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/703_hh_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant whale carries an ancient library on its back and swims slowly through the morning clouds, its pages turning like a flock of birds. Students run and chase paper airplanes on the whaleback wooden bridge. The lens zooms out from a close-up of the whale's eye to a panoramic view, showing the vastness of the sky and ocean. Epic, tranquil and shocking. V8
 
@@ -3906,15 +3906,15 @@ A giant whale carries an ancient library on its back and swims slowly through th
 
 ### No. 192: Volcano Ramen Night V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/704_hh_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A late-night ramen stand opened on the rim of the crater, and lava flows snaked like golden rivers beneath our feet. The chef skillfully tossed the noodles, creating a trail of sparks in the air. The camera follows a bowl of hot soup from a low angle on the table, the steam blending with the starry sky. High contrast, cinematic feel. V8
 
@@ -3926,15 +3926,15 @@ A late-night ramen stand opened on the rim of the crater, and lava flows snaked 
 
 ### No. 193: Mini Dragon Gardener V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/705_hh_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Miniature dragons work as gardeners in the bonsai forest, pruning leaves with tiny flames and kicking up the morning mist with their wings. The camera zooms in between the moss, and the dragon's figure is reflected in the dew. Fairy tale style but realistic materials, warm sunlight and delicate textures. V8
 
@@ -3946,15 +3946,15 @@ Miniature dragons work as gardeners in the bonsai forest, pruning leaves with ti
 
 ### No. 194: Desert Mirror Train V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/706_hh_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The mirror train passes through the white salt lake desert, and the car body reflects the clouds in the sky like a flowing illusion. Passengers dance in the transparent carriage, with endless reflections at their feet. The lens rushes from close-ups of wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. V8
 
@@ -3966,15 +3966,15 @@ The mirror train passes through the white salt lake desert, and the car body ref
 
 ### No. 195: Moonlight Kite Market V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/707_hh_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The ancient town night market hosts a festival of kites, which are mythical creatures that glow, under a full moon. Hawker stalls are filled with silver candies and sound-making lanterns. The camera moves through the crowd and then rises into the sky, following a phoenix kite over the roof. Oriental fantasy, rich in layers. V8
 
@@ -3986,15 +3986,15 @@ The ancient town night market hosts a festival of kites, which are mythical crea
 
 ### No. 196: Arctic Glass Orchestra V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_008_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_008_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/708_hh_008_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. Each note turns into colored ice crystals floating in the air. The camera slowly zooms out from the frosted details of the violin bow to a wide angle, and the music dances in sync with the aurora. Cool colors, pure and shocking. V8
 
@@ -4006,15 +4006,15 @@ On the Arctic ice sheet, a transparent glass orchestra plays under the aurora. E
 
 ### No. 197: Robot Farm Harvest V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/709_hh_009_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality. V8
 
@@ -4026,15 +4026,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 198: Candy Canyon Race V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/710_hh_010_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting. V8
 
@@ -4046,15 +4046,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 199: Underwater Post Office V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/711_hh_011_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling. V8
 
@@ -4066,15 +4066,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 200: Mountain Bamboo Drone V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/712_hh_012_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details. V8
 
@@ -4086,15 +4086,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 201: Cyberpunk Paper Lanterns V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/713_hh_013_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel. V8
 
@@ -4106,15 +4106,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 202: Giant Turtle Carnival V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/714_hh_014_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated. V8
 
@@ -4126,15 +4126,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 203: Samurai Snow Duel V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/715_hh_015_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design. V8
 
@@ -4146,15 +4146,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 204: Balloon City Sunrise V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/716_hh_016_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details. V8
 
@@ -4166,15 +4166,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 205: Forest Piano Ruins V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/717_hh_017_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel. V8
 
@@ -4186,15 +4186,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 206: Mars Street Food V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/718_hh_018_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks. V8
 
@@ -4206,15 +4206,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 207: Rainy Tokyo Bicycle V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/719_hh_019_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere. V8
 
@@ -4226,15 +4226,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 208: Ancient Astronomy Tower V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/720_hh_020_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative. V8
 
@@ -4246,15 +4246,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 209: Jungle Mech Elephant V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/721_hh_021_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details. V8
 
@@ -4266,15 +4266,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 210: Ice Cream Galaxy V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/722_hh_022_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors. V8
 
@@ -4286,15 +4286,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 211: Shadow Puppet Metropolis V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/723_hh_023_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact. V8
 
@@ -4306,15 +4306,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 212: Subway Jazz Morning V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/724_hh_024_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm. V8
 
@@ -4326,15 +4326,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 213: Temple Of Wind Chimes V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/725_hh_025_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light. V8
 
@@ -4346,15 +4346,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 214: Midnight Bookstore Portal V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/726_hh_026_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details. V8
 
@@ -4366,15 +4366,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 215: Festival Of Fireflies V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/727_hh_027_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere. V8
 
@@ -4386,15 +4386,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 216: Gravity Free Workshop V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/728_hh_028_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp. V8
 
@@ -4406,15 +4406,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 217: Rainforest Glass Frog V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/729_hh_029_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography. V8
 
@@ -4426,15 +4426,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 218: Solar Wind Surfers V8
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/730_hh_030_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic. V8
 
@@ -4446,15 +4446,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 219: Robot Farm Harvest
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_009
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_009
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/109_hh_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rice fields in autumn, a group of chubby robots harvested golden ears of rice, their movements clumsy but in perfect harmony. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to see a giant smiling wheat field pattern. Healing warmth, documentary quality.
 
@@ -4466,15 +4466,15 @@ In the rice fields in autumn, a group of chubby robots harvested golden ears of 
 
 ### No. 220: Candy Canyon Race
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_010
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_010
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/110_hh_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge. The audience is a rabbit in a top hat and a mechanical squirrel. The camera is glued to the ground as the car chases, and jam splashes forming a slow-motion colorful rain. Exaggerated cartoons combined with real lighting.
 
@@ -4486,15 +4486,15 @@ Snail racing is held in Candy Canyon, and the track is the Rainbow Gummi Bridge.
 
 ### No. 221: Underwater Post Office
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_011
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_011
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/111_hh_011_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The underwater post office is made of coral, and a seahorse postman walks through it carrying a letter bag. Jellyfish lanterns flickered and glowed in the doorway. The camera enters the hall through the bubble channel, and the envelope turns into a small fish swimming away into the distance. Beautiful dreamland, blue and green tones, soft floating feeling.
 
@@ -4506,15 +4506,15 @@ The underwater post office is made of coral, and a seahorse postman walks throug
 
 ### No. 222: Mountain Bamboo Drone
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_012
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_012
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/112_hh_012_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the cloudy valley, a formation of bamboo drones cruises over the tea terraces to sow seeds. The old tea farmer raised his head and smiled, the morning light penetrated the mist. The camera first takes a macro shot of dewdrops on tea leaves, and then takes off at high speed to show geometric terraces. A fusion of nature and technology, with authentic details.
 
@@ -4526,15 +4526,15 @@ In the cloudy valley, a formation of bamboo drones cruises over the tea terraces
 
 ### No. 223: Cyberpunk Paper Lanterns
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_013
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_013
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/113_hh_013_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 After the power outage in Cyber ​​Street, residents lit thousands of paper lanterns at the same time, creating a mixture of neon lights and candlelight. The tram passing slowly reflected orange-blue light. The camera pushes in from the alley, passes through the sea of ​​lights and reaches the rooftop for a bird's eye view. Emotional narrative, long-shot cinematic feel.
 
@@ -4546,15 +4546,15 @@ After the power outage in Cyber ​​Street, residents lit thousands of paper l
 
 ### No. 224: Giant Turtle Carnival
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_014
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_014
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/114_hh_014_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A moving carnival rides through the forest on the back of a giant turtle, with a carousel and Ferris wheel spinning on the turtle's shell. Children cheered on the vine bridge. The camera circles around the giant turtle, showing the forest animals joining the parade. A sense of wonder, bright and highly saturated.
 
@@ -4566,15 +4566,15 @@ A moving carnival rides through the forest on the back of a giant turtle, with a
 
 ### No. 225: Samurai Snow Duel
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_015
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_015
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/115_hh_015_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the bamboo forest on a snowy night, two warriors dueled in the falling snow, the light of their swords piercing the snow and mist. The details of footsteps breaking thin ice are clearly visible. The camera slowly zooms in closer, and then suddenly switches to high-speed surround to capture the key blow. Restraint, chilling, and movie-level action design.
 
@@ -4586,15 +4586,15 @@ In the bamboo forest on a snowy night, two warriors dueled in the falling snow, 
 
 ### No. 226: Balloon City Sunrise
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_016
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_016
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/116_hh_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At sunrise, the entire cliff city is slowly lifted up by thousands of hot air balloons, with streets and bridges floating in mid-air. Citizens hold breakfast and look at the sea of ​​clouds. The camera travels down Main Street and then jumps through a group of balloons. Grand and romantic, golden morning light, ultra-high details.
 
@@ -4606,15 +4606,15 @@ At sunrise, the entire cliff city is slowly lifted up by thousands of hot air ba
 
 ### No. 227: Forest Piano Ruins
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_017
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_017
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/117_hh_017_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ruins of an ancient piano hall covered by vines, the piano plays automatically and the notes turn into glowing butterflies. The camera zooms in from the broken piano keys into the hall, and the beam passes through the broken dome. Nostalgic and mysterious, with visible dust particles and a soft-focus cinematic feel.
 
@@ -4626,15 +4626,15 @@ In the ruins of an ancient piano hall covered by vines, the piano plays automati
 
 ### No. 228: Mars Street Food
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_018
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_018
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/118_hh_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The Mars Colony night market is bustling with activity. The stall owners use plasma stoves to grill skewers, and red dust billows under the neon lights. Spacesuit tourists line up to order food. The camera zooms in from a close-up of the skewers to a panoramic view, showing the dome's alien horizon. Science fiction life flow, fireworks.
 
@@ -4646,15 +4646,15 @@ The Mars Colony night market is bustling with activity. The stall owners use pla
 
 ### No. 229: Rainy Tokyo Bicycle
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_019
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_019
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/119_hh_019_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys, and the light of the sign is reflected on the road. The camera is close to the wheel splashing water, and then cuts to the helmet perspective as it rushes through the intersection. Strong sense of speed, neon reflection, and real urban atmosphere.
 
@@ -4666,15 +4666,15 @@ On a rainy night in Tokyo, a courier rides a retro bicycle through narrow alleys
 
 ### No. 230: Ancient Astronomy Tower
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_020
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_020
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/120_hh_020_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the ancient astronomical tower, the copper celestial globe rotated slowly, and scholars used quills to record star paths. A meteor shower streaked across the night sky outside the window. The camera rotates around the celestial globe and rises level by level to the top of the tower. Historical texture, candlelight shadow, immersive narrative.
 
@@ -4686,15 +4686,15 @@ In the ancient astronomical tower, the copper celestial globe rotated slowly, an
 
 ### No. 231: Jungle Mech Elephant
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_021
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_021
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/121_hh_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the tropical rain forest, a giant mechanical elephant carries wood and herbs to the village, its body covered with moss. Children run around its legs. The camera vibrates with the footsteps from a low position, and then rises to the canopy perspective. Heavy machinery and nature coexist, full of details.
 
@@ -4706,15 +4706,15 @@ In the tropical rain forest, a giant mechanical elephant carries wood and herbs 
 
 ### No. 232: Ice Cream Galaxy
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_022
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_022
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/122_hh_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cosmic pastry chef makes giant ice cream on the star ring, and the stardust is sprinkled like powdered sugar. Planets are made into colorful toppings that spin and fall into the sundae cup. The camera rotates around the spoon action and finally freezes on the Milky Way dessert panorama. Whimsical ideas, bright colors.
 
@@ -4726,15 +4726,15 @@ The cosmic pastry chef makes giant ice cream on the star ring, and the stardust 
 
 ### No. 233: Shadow Puppet Metropolis
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_023
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_023
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/123_hh_023_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A giant shadow puppet show is staged on the outer wall of the future city, with projections spanning the entire building. Spectators on the ground wore glowing masks and drum beats vibrated the air. The camera zooms in from a close-up of the shadow puppet's hands to the city square. The collision between traditional art and future architecture creates a strong visual impact.
 
@@ -4746,15 +4746,15 @@ A giant shadow puppet show is staged on the outer wall of the future city, with 
 
 ### No. 234: Subway Jazz Morning
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_024
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_024
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/124_hh_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 At the subway station in the early morning, a jazz band played on the platform, and the commuters gradually stopped to join in the dance. The train pulls into the station and the wind stirs the score. The camera pans across the crowd, capturing smiling faces and impromptu interactions. Life movie feeling, warm rhythm.
 
@@ -4766,15 +4766,15 @@ At the subway station in the early morning, a jazz band played on the platform, 
 
 ### No. 235: Temple Of Wind Chimes
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_025
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_025
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/125_hh_025_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The cliff temple is hung with millions of wind chimes, and the sea breeze blows through it, creating layers of sound waves. The monk walked slowly, his robes flowing with the clouds and mist. The camera is close to the vibration of the wind chimes and then flies over the cliff and the sea. Ethereal and solemn, slow motion, transparent natural light.
 
@@ -4786,15 +4786,15 @@ The cliff temple is hung with millions of wind chimes, and the sea breeze blows 
 
 ### No. 236: Midnight Bookstore Portal
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_026
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_026
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/126_hh_026_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 The used bookstore suddenly opened the door to time and space at midnight, the pages rolled up like a vortex, and customers were taken into the street scenes of different eras. The camera rotates around an open book at high speed, switching between scenes from multiple eras. Fantasy narrative, smooth transitions and rich details.
 
@@ -4806,15 +4806,15 @@ The used bookstore suddenly opened the door to time and space at midnight, the p
 
 ### No. 237: Festival Of Fireflies
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_027
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_027
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/127_hh_027_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 On a summer night, a firefly festival is held by the lake. Thousands of fireflies circle around the wooden boat, like the Milky Way falling into the world. People put out drifting lanterns to pray. The camera follows the lantern in hand to take a bird's-eye view of the lake. Romantic and tranquil, warm and cold contrast, movie-level atmosphere.
 
@@ -4826,15 +4826,15 @@ On a summer night, a firefly festival is held by the lake. Thousands of fireflie
 
 ### No. 238: Gravity Free Workshop
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_028
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_028
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/128_hh_028_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the zero-gravity workshop, craftsmen assemble transparent movements in mid-air, and the parts slowly float and rotate. The laser ruler draws a blue line in the air. The camera surrounds the craftsmen 360 degrees, showing the detailed assembly process. Future industrial aesthetics, clean and sharp.
 
@@ -4846,15 +4846,15 @@ In the zero-gravity workshop, craftsmen assemble transparent movements in mid-ai
 
 ### No. 239: Rainforest Glass Frog
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_029
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_029
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/129_hh_029_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the rainforest night, a glass frog jumps between glowing mushrooms, with faint pulsating light visible within its body. The macro lens follows the frog through the raindrops on the leaves, and finally stops at the reflection on the lake. Vitality and mystery coexist, hyper-realistic microscopic photography.
 
@@ -4866,15 +4866,15 @@ In the rainforest night, a glass frog jumps between glowing mushrooms, with fain
 
 ### No. 240: Solar Wind Surfers
 
-- **Danh muc:** `HappyHorse Creative Batch`
-- **Nguon:** `custom`
-- **Tac gia:** hh_030
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
+- **Categoria:** `HappyHorse Creative Batch`
+- **Fonte:** `custom`
+- **Autore:** hh_030
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/130_hh_030_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 In the high-altitude stratosphere, extreme athletes drive solar panels to glide with the help of solar wind, and their wakes draw golden arcs. The sea of ​​clouds and horizon gradually change in the distance. The camera follows the sprint and then switches to the drone perspective to dive. A future sports blockbuster, exciting and dynamic.
 
@@ -4890,15 +4890,15 @@ In the high-altitude stratosphere, extreme athletes drive solar panels to glide 
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
 
@@ -4910,15 +4910,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 2: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V2
 
@@ -4930,15 +4930,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V2
 
@@ -4950,15 +4950,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 4: Will Smith Eating Spaghetti V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V2
 
@@ -4970,15 +4970,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 5: Quick Test of Female Controlling Plane in Complex Action Scene V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V2
 
@@ -4990,15 +4990,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 6: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V2
 
@@ -5010,15 +5010,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 7: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V2
 
@@ -5030,15 +5030,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 8: One Punch Man Animation Surpassing Original Quality V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V2
 
@@ -5050,15 +5050,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 9: Will Smith Eating Spaghetti V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V2
 
@@ -5070,15 +5070,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 10: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V2
 
@@ -5090,15 +5090,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 11: South Indian Cinema Alien Scene Generated from Single Prompt V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V2
 
@@ -5110,15 +5110,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain V2
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V2
 
@@ -5130,15 +5130,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 13: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
 
@@ -5150,15 +5150,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 14: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V3
 
@@ -5170,15 +5170,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 15: Aerial Shot of Burning Military Vehicle in Urban Warfare V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V3
 
@@ -5190,15 +5190,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 16: Will Smith Eating Spaghetti V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V3
 
@@ -5210,15 +5210,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 17: Quick Test of Female Controlling Plane in Complex Action Scene V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V3
 
@@ -5230,15 +5230,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 18: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V3
 
@@ -5250,15 +5250,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 19: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V3
 
@@ -5270,15 +5270,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 20: One Punch Man Animation Surpassing Original Quality V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V3
 
@@ -5290,15 +5290,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 21: Will Smith Eating Spaghetti V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V3
 
@@ -5310,15 +5310,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 22: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V3
 
@@ -5330,15 +5330,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 23: South Indian Cinema Alien Scene Generated from Single Prompt V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V3
 
@@ -5350,15 +5350,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 24: Ground Combat Shot of Soldiers Traversing Desert Terrain V3
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V3
 
@@ -5370,15 +5370,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 25: Will Smith Eating Spaghetti
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen.
 
@@ -5390,15 +5390,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 26: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V4
 
@@ -5410,15 +5410,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 27: Aerial Shot of Burning Military Vehicle in Urban Warfare V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V4
 
@@ -5430,15 +5430,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 28: Will Smith Eating Spaghetti V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V4
 
@@ -5450,15 +5450,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 29: Quick Test of Female Controlling Plane in Complex Action Scene V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V4
 
@@ -5470,15 +5470,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 30: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V4
 
@@ -5490,15 +5490,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 31: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V4
 
@@ -5510,15 +5510,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 32: One Punch Man Animation Surpassing Original Quality V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V4
 
@@ -5530,15 +5530,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 33: Will Smith Eating Spaghetti V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V4
 
@@ -5550,15 +5550,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 34: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V4
 
@@ -5570,15 +5570,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 35: South Indian Cinema Alien Scene Generated from Single Prompt V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V4
 
@@ -5590,15 +5590,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 36: Ground Combat Shot of Soldiers Traversing Desert Terrain V4
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V4
 
@@ -5610,15 +5610,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 37: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V5
 
@@ -5630,15 +5630,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 38: Aerial Shot of Burning Military Vehicle in Urban Warfare V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V5
 
@@ -5650,15 +5650,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 39: Will Smith Eating Spaghetti V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V5
 
@@ -5670,15 +5670,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 40: Quick Test of Female Controlling Plane in Complex Action Scene V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V5
 
@@ -5690,15 +5690,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 41: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V5
 
@@ -5710,15 +5710,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 42: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V5
 
@@ -5730,15 +5730,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 43: One Punch Man Animation Surpassing Original Quality V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V5
 
@@ -5750,15 +5750,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 44: Will Smith Eating Spaghetti V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V5
 
@@ -5770,15 +5770,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 45: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V5
 
@@ -5790,15 +5790,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 46: South Indian Cinema Alien Scene Generated from Single Prompt V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V5
 
@@ -5810,15 +5810,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 47: Ground Combat Shot of Soldiers Traversing Desert Terrain V5
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V5
 
@@ -5830,15 +5830,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 48: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V6
 
@@ -5850,15 +5850,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 49: Aerial Shot of Burning Military Vehicle in Urban Warfare V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V6
 
@@ -5870,15 +5870,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 50: Will Smith Eating Spaghetti V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V6
 
@@ -5890,15 +5890,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 51: Quick Test of Female Controlling Plane in Complex Action Scene V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V6
 
@@ -5910,15 +5910,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 52: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V6
 
@@ -5930,15 +5930,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 53: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V6
 
@@ -5950,15 +5950,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 54: One Punch Man Animation Surpassing Original Quality V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V6
 
@@ -5970,15 +5970,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 55: Will Smith Eating Spaghetti V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V6
 
@@ -5990,15 +5990,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 56: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V6
 
@@ -6010,15 +6010,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 57: South Indian Cinema Alien Scene Generated from Single Prompt V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V6
 
@@ -6030,15 +6030,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 58: Ground Combat Shot of Soldiers Traversing Desert Terrain V6
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V6
 
@@ -6050,15 +6050,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 59: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
 
@@ -6070,15 +6070,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 60: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V7
 
@@ -6090,15 +6090,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 61: Aerial Shot of Burning Military Vehicle in Urban Warfare V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V7
 
@@ -6110,15 +6110,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 62: Will Smith Eating Spaghetti V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V7
 
@@ -6130,15 +6130,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 63: Quick Test of Female Controlling Plane in Complex Action Scene V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V7
 
@@ -6150,15 +6150,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 64: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V7
 
@@ -6170,15 +6170,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 65: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V7
 
@@ -6190,15 +6190,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 66: One Punch Man Animation Surpassing Original Quality V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V7
 
@@ -6210,15 +6210,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 67: Will Smith Eating Spaghetti V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V7
 
@@ -6230,15 +6230,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 68: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V7
 
@@ -6250,15 +6250,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 69: South Indian Cinema Alien Scene Generated from Single Prompt V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V7
 
@@ -6270,15 +6270,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 70: Ground Combat Shot of Soldiers Traversing Desert Terrain V7
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V7
 
@@ -6290,15 +6290,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 71: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
 
@@ -6310,15 +6310,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 72: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V8
 
@@ -6330,15 +6330,15 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 73: Aerial Shot of Burning Military Vehicle in Urban Warfare V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V8
 
@@ -6350,15 +6350,15 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 74: Will Smith Eating Spaghetti V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V8
 
@@ -6370,15 +6370,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 75: Quick Test of Female Controlling Plane in Complex Action Scene V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V8
 
@@ -6390,15 +6390,15 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 ### No. 76: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_008_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_008_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V8
 
@@ -6410,15 +6410,15 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 77: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment. V8
 
@@ -6430,15 +6430,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 78: One Punch Man Animation Surpassing Original Quality V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V8
 
@@ -6450,15 +6450,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 79: Will Smith Eating Spaghetti V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen. V8
 
@@ -6470,15 +6470,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 80: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V8
 
@@ -6490,15 +6490,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 81: South Indian Cinema Alien Scene Generated from Single Prompt V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V8
 
@@ -6510,15 +6510,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 82: Ground Combat Shot of Soldiers Traversing Desert Terrain V8
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V8
 
@@ -6530,15 +6530,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 83: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_009
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_009
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intense martial arts fight between two women in modern urban environment.
 
@@ -6550,15 +6550,15 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 84: One Punch Man Animation Surpassing Original Quality
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_016
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_016
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
 
@@ -6570,15 +6570,15 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 85: Will Smith Eating Spaghetti
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_018
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_018
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Will Smith eating spaghetti in a modern home kitchen.
 
@@ -6590,15 +6590,15 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 86: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_021
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_021
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
 
@@ -6610,15 +6610,15 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 ### No. 87: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_022
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_022
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
 
@@ -6630,15 +6630,15 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 88: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `twitter`
-- **Tac gia:** tw_024
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+- **Categoria:** `Twitter Community`
+- **Fonte:** `twitter`
+- **Autore:** tw_024
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
 
@@ -6654,15 +6654,15 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 ### No. 1: Fisheye Horse Comedy
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens.
 
@@ -6674,15 +6674,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 2: Office Building Documentary
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration.
 
@@ -6694,15 +6694,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 3: Fisheye Horse Comedy V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/163_av_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V2
 
@@ -6714,15 +6714,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 4: Office Building Documentary V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/164_av_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V2
 
@@ -6734,15 +6734,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 5: Cat & Dog Roast Battle V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V2
 
@@ -6754,15 +6754,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 6: Chinese Opera Performance V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V2
 
@@ -6774,15 +6774,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 7: Cinematic Road Trip MV V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V2
 
@@ -6794,15 +6794,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 8: Multicultural Family Celebration V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V2
 
@@ -6814,15 +6814,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 9: Tactical Team Spanish Briefing V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V2
 
@@ -6834,15 +6834,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 10: Morning Wake-Up Dialogue V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V2
 
@@ -6854,15 +6854,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V2
 
 ### No. 11: Sichuan Dialect Bubble Tea V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V2
 
@@ -6874,15 +6874,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V2
 
 ### No. 12: Journey to the West Storytelling V2
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V2
 
@@ -6894,15 +6894,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 13: Cat & Dog Roast Battle
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/165_av_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue.
 
@@ -6914,15 +6914,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 14: Fisheye Horse Comedy V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/263_av_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V3
 
@@ -6934,15 +6934,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 15: Office Building Documentary V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/264_av_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V3
 
@@ -6954,15 +6954,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 16: Cat & Dog Roast Battle V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/265_av_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V3
 
@@ -6974,15 +6974,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 17: Chinese Opera Performance V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/266_av_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V3
 
@@ -6994,15 +6994,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 18: Cinematic Road Trip MV V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/267_av_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V3
 
@@ -7014,15 +7014,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 19: Multicultural Family Celebration V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/268_av_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V3
 
@@ -7034,15 +7034,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 20: Tactical Team Spanish Briefing V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/269_av_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V3
 
@@ -7054,15 +7054,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 21: Morning Wake-Up Dialogue V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/270_av_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V3
 
@@ -7074,15 +7074,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V3
 
 ### No. 22: Sichuan Dialect Bubble Tea V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/271_av_009_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V3
 
@@ -7094,15 +7094,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V3
 
 ### No. 23: Journey to the West Storytelling V3
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/272_av_010_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V3
 
@@ -7114,15 +7114,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 24: Chinese Opera Performance
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/166_av_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension.
 
@@ -7134,15 +7134,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 25: Fisheye Horse Comedy V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/363_av_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V4
 
@@ -7154,15 +7154,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 26: Office Building Documentary V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/364_av_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V4
 
@@ -7174,15 +7174,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 27: Cat & Dog Roast Battle V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/365_av_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V4
 
@@ -7194,15 +7194,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 28: Chinese Opera Performance V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/366_av_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V4
 
@@ -7214,15 +7214,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 29: Cinematic Road Trip MV V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/367_av_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V4
 
@@ -7234,15 +7234,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 30: Multicultural Family Celebration V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/368_av_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V4
 
@@ -7254,15 +7254,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 31: Tactical Team Spanish Briefing V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/369_av_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V4
 
@@ -7274,15 +7274,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 32: Morning Wake-Up Dialogue V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/370_av_008_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V4
 
@@ -7294,15 +7294,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V4
 
 ### No. 33: Sichuan Dialect Bubble Tea V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/371_av_009_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V4
 
@@ -7314,15 +7314,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V4
 
 ### No. 34: Journey to the West Storytelling V4
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/372_av_010_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V4
 
@@ -7334,15 +7334,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 35: Cinematic Road Trip MV
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/167_av_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio.
 
@@ -7354,15 +7354,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 36: Fisheye Horse Comedy V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/463_av_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V5
 
@@ -7374,15 +7374,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 37: Office Building Documentary V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/464_av_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V5
 
@@ -7394,15 +7394,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 38: Cat & Dog Roast Battle V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/465_av_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V5
 
@@ -7414,15 +7414,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 39: Chinese Opera Performance V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/466_av_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V5
 
@@ -7434,15 +7434,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 40: Cinematic Road Trip MV V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/467_av_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V5
 
@@ -7454,15 +7454,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 41: Multicultural Family Celebration V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/468_av_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V5
 
@@ -7474,15 +7474,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 42: Tactical Team Spanish Briefing V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/469_av_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V5
 
@@ -7494,15 +7494,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 43: Morning Wake-Up Dialogue V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/470_av_008_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V5
 
@@ -7514,15 +7514,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V5
 
 ### No. 44: Sichuan Dialect Bubble Tea V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/471_av_009_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V5
 
@@ -7534,15 +7534,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V5
 
 ### No. 45: Journey to the West Storytelling V5
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/472_av_010_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V5
 
@@ -7554,15 +7554,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 46: Multicultural Family Celebration
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/168_av_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music.
 
@@ -7574,15 +7574,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 47: Fisheye Horse Comedy V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/563_av_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V6
 
@@ -7594,15 +7594,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 48: Office Building Documentary V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/564_av_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V6
 
@@ -7614,15 +7614,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 49: Cat & Dog Roast Battle V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/565_av_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V6
 
@@ -7634,15 +7634,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 50: Chinese Opera Performance V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/566_av_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V6
 
@@ -7654,15 +7654,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 51: Cinematic Road Trip MV V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/567_av_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V6
 
@@ -7674,15 +7674,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 52: Multicultural Family Celebration V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/568_av_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V6
 
@@ -7694,15 +7694,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 53: Tactical Team Spanish Briefing V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/569_av_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V6
 
@@ -7714,15 +7714,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 54: Morning Wake-Up Dialogue V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/570_av_008_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V6
 
@@ -7734,15 +7734,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V6
 
 ### No. 55: Sichuan Dialect Bubble Tea V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/571_av_009_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V6
 
@@ -7754,15 +7754,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V6
 
 ### No. 56: Journey to the West Storytelling V6
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/572_av_010_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V6
 
@@ -7774,15 +7774,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 57: Tactical Team Spanish Briefing
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/169_av_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds.
 
@@ -7794,15 +7794,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 58: Fisheye Horse Comedy V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/663_av_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V7
 
@@ -7814,15 +7814,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 59: Office Building Documentary V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/664_av_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V7
 
@@ -7834,15 +7834,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 60: Cat & Dog Roast Battle V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/665_av_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V7
 
@@ -7854,15 +7854,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 61: Chinese Opera Performance V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/666_av_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V7
 
@@ -7874,15 +7874,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 62: Cinematic Road Trip MV V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/667_av_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V7
 
@@ -7894,15 +7894,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 63: Multicultural Family Celebration V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/668_av_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V7
 
@@ -7914,15 +7914,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 64: Tactical Team Spanish Briefing V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/669_av_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V7
 
@@ -7934,15 +7934,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 65: Morning Wake-Up Dialogue V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/670_av_008_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V7
 
@@ -7954,15 +7954,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V7
 
 ### No. 66: Sichuan Dialect Bubble Tea V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/671_av_009_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V7
 
@@ -7974,15 +7974,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V7
 
 ### No. 67: Journey to the West Storytelling V7
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/672_av_010_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V7
 
@@ -7994,15 +7994,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 68: Morning Wake-Up Dialogue
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/170_av_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance.
 
@@ -8014,15 +8014,15 @@ Intimate couple scene with natural voice acting and emotional nuance.
 
 ### No. 69: Fisheye Horse Comedy V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/763_av_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Animal character with synchronized dialogue and sound effects through fisheye lens. V8
 
@@ -8034,15 +8034,15 @@ Fixed camera, central fisheye lens looking down through circular hole, reference
 
 ### No. 70: Office Building Documentary V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/764_av_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic real estate documentary with professional narration. V8
 
@@ -8054,15 +8054,15 @@ Based on the provided office building promotional photos, generate a 15-second c
 
 ### No. 71: Cat & Dog Roast Battle V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/765_av_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy talk show with expressive animal characters and witty dialogue. V8
 
@@ -8074,15 +8074,15 @@ A roast dialogue in 'Cat and Dog Roast Room', requiring rich emotions, conformin
 
 ### No. 72: Chinese Opera Performance V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/766_av_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Henan opera scene with authentic singing and dramatic tension. V8
 
@@ -8094,15 +8094,15 @@ The accompaniment of the Henan opera classic 'Zha Mei An' plays. Black-clothed B
 
 ### No. 73: Cinematic Road Trip MV V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/767_av_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Music video with specific cinematography keywords and atmospheric audio. V8
 
@@ -8114,15 +8114,15 @@ Generate a 15-second MV video. Keywords: stable composition / light push-pull / 
 
 ### No. 74: Multicultural Family Celebration V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/768_av_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Heartwarming family scene with English dialogue and Latin music. V8
 
@@ -8134,15 +8134,15 @@ The girl with a hat in the middle gently sings 'I'm so proud of my family!', the
 
 ### No. 75: Tactical Team Spanish Briefing V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/769_av_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Military tactical scene with Spanish dialogue and equipment sounds. V8
 
@@ -8154,15 +8154,15 @@ Fixed camera. The standing burly man (captain) clenches his fist and waves his a
 
 ### No. 76: Morning Wake-Up Dialogue V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_008_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_008_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/770_av_008_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Intimate couple scene with natural voice acting and emotional nuance. V8
 
@@ -8174,15 +8174,15 @@ Intimate couple scene with natural voice acting and emotional nuance. V8
 
 ### No. 77: Sichuan Dialect Bubble Tea V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/771_av_009_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction. V8
 
@@ -8194,15 +8194,15 @@ Comedy scene with authentic Sichuan dialect and character interaction. V8
 
 ### No. 78: Journey to the West Storytelling V8
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/772_av_010_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature. V8
 
@@ -8214,15 +8214,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 79: Sichuan Dialect Bubble Tea
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_009
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_009
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/171_av_009_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedy scene with authentic Sichuan dialect and character interaction.
 
@@ -8234,15 +8234,15 @@ Comedy scene with authentic Sichuan dialect and character interaction.
 
 ### No. 80: Journey to the West Storytelling
 
-- **Danh muc:** `Audio & Voice Synthesis`
-- **Nguon:** `official`
-- **Tac gia:** av_010
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
+- **Categoria:** `Audio & Voice Synthesis`
+- **Fonte:** `official`
+- **Autore:** av_010
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/172_av_010_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Educational content with documentary-style narration explaining classic Chinese literature.
 
@@ -8258,15 +8258,15 @@ Using documentary style and voice, present the content from image 1, including t
 
 ### No. 1: VR Glasses Universe Journey
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms.
 
@@ -8278,15 +8278,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 2: Fashion Quick-Change Commercial
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions.
 
@@ -8298,15 +8298,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 3: VR Glasses Universe Journey V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/148_ce_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V2
 
@@ -8318,15 +8318,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 4: Fashion Quick-Change Commercial V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/149_ce_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V2
 
@@ -8338,15 +8338,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 5: Down Jacket Swan Metaphor V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V2
 
@@ -8358,15 +8358,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 6: Ink Wash Tai Chi V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V2
 
@@ -8378,15 +8378,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 7: Magical Transformation Sequence V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V2
 
@@ -8398,15 +8398,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 8: Puzzle Piece Transition Logo V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V2
 
@@ -8418,15 +8418,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 9: Golden Particle Title Reveal V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V2
 
@@ -8438,15 +8438,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 10: Abstract Instant Noodles V2
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V2
 
@@ -8458,15 +8458,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 11: Down Jacket Swan Metaphor
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/150_ce_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover.
 
@@ -8478,15 +8478,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 12: VR Glasses Universe Journey V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/248_ce_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V3
 
@@ -8498,15 +8498,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 13: Fashion Quick-Change Commercial V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/249_ce_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V3
 
@@ -8518,15 +8518,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 14: Down Jacket Swan Metaphor V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/250_ce_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V3
 
@@ -8538,15 +8538,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 15: Ink Wash Tai Chi V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/251_ce_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V3
 
@@ -8558,15 +8558,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 16: Magical Transformation Sequence V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/252_ce_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V3
 
@@ -8578,15 +8578,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 17: Puzzle Piece Transition Logo V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/253_ce_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V3
 
@@ -8598,15 +8598,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 18: Golden Particle Title Reveal V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/254_ce_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V3
 
@@ -8618,15 +8618,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 19: Abstract Instant Noodles V3
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/255_ce_008_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V3
 
@@ -8638,15 +8638,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 20: Ink Wash Tai Chi
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/151_ce_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance.
 
@@ -8658,15 +8658,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 21: VR Glasses Universe Journey V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/348_ce_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V4
 
@@ -8678,15 +8678,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 22: Fashion Quick-Change Commercial V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/349_ce_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V4
 
@@ -8698,15 +8698,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 23: Down Jacket Swan Metaphor V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/350_ce_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V4
 
@@ -8718,15 +8718,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 24: Ink Wash Tai Chi V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/351_ce_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V4
 
@@ -8738,15 +8738,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 25: Magical Transformation Sequence V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/352_ce_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V4
 
@@ -8758,15 +8758,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 26: Puzzle Piece Transition Logo V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/353_ce_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V4
 
@@ -8778,15 +8778,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 27: Golden Particle Title Reveal V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/354_ce_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V4
 
@@ -8798,15 +8798,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 28: Abstract Instant Noodles V4
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/355_ce_008_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V4
 
@@ -8818,15 +8818,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 29: Magical Transformation Sequence
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/152_ce_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects.
 
@@ -8838,15 +8838,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 30: VR Glasses Universe Journey V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/448_ce_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V5
 
@@ -8858,15 +8858,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 31: Fashion Quick-Change Commercial V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/449_ce_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V5
 
@@ -8878,15 +8878,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 32: Down Jacket Swan Metaphor V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/450_ce_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V5
 
@@ -8898,15 +8898,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 33: Ink Wash Tai Chi V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/451_ce_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V5
 
@@ -8918,15 +8918,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 34: Magical Transformation Sequence V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/452_ce_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V5
 
@@ -8938,15 +8938,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 35: Puzzle Piece Transition Logo V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/453_ce_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V5
 
@@ -8958,15 +8958,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 36: Golden Particle Title Reveal V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/454_ce_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V5
 
@@ -8978,15 +8978,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 37: Abstract Instant Noodles V5
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/455_ce_008_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V5
 
@@ -8998,15 +8998,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 38: Puzzle Piece Transition Logo
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/153_ce_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect.
 
@@ -9018,15 +9018,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 39: VR Glasses Universe Journey V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/548_ce_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V6
 
@@ -9038,15 +9038,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 40: Fashion Quick-Change Commercial V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/549_ce_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V6
 
@@ -9058,15 +9058,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 41: Down Jacket Swan Metaphor V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/550_ce_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V6
 
@@ -9078,15 +9078,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 42: Ink Wash Tai Chi V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/551_ce_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V6
 
@@ -9098,15 +9098,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 43: Magical Transformation Sequence V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/552_ce_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V6
 
@@ -9118,15 +9118,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 44: Puzzle Piece Transition Logo V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/553_ce_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V6
 
@@ -9138,15 +9138,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 45: Golden Particle Title Reveal V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/554_ce_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V6
 
@@ -9158,15 +9158,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 46: Abstract Instant Noodles V6
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/555_ce_008_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V6
 
@@ -9178,15 +9178,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 47: Golden Particle Title Reveal
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/154_ce_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles.
 
@@ -9198,15 +9198,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 48: VR Glasses Universe Journey V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/648_ce_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V7
 
@@ -9218,15 +9218,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 49: Fashion Quick-Change Commercial V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/649_ce_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V7
 
@@ -9238,15 +9238,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 50: Down Jacket Swan Metaphor V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/650_ce_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V7
 
@@ -9258,15 +9258,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 51: Ink Wash Tai Chi V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/651_ce_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V7
 
@@ -9278,15 +9278,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 52: Magical Transformation Sequence V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/652_ce_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V7
 
@@ -9298,15 +9298,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 53: Puzzle Piece Transition Logo V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/653_ce_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V7
 
@@ -9318,15 +9318,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 54: Golden Particle Title Reveal V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/654_ce_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V7
 
@@ -9338,15 +9338,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 55: Abstract Instant Noodles V7
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/655_ce_008_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V7
 
@@ -9358,15 +9358,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 56: Abstract Instant Noodles
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/155_ce_008_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions.
 
@@ -9378,15 +9378,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 57: VR Glasses Universe Journey V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/748_ce_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Immersive POV transition from real world through VR interface to multiple digital realms. V8
 
@@ -9398,15 +9398,15 @@ Replace the character in @video1 with @image1, @image1 as the first frame. The c
 
 ### No. 58: Fashion Quick-Change Commercial V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/749_ce_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fast-paced fashion video with fisheye effects and glitch transitions. V8
 
@@ -9418,15 +9418,15 @@ Reference the facial features of the model in the first image. The model wears t
 
 ### No. 59: Down Jacket Swan Metaphor V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/750_ce_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Creative commercial blending product with natural imagery and Chinese voiceover. V8
 
@@ -9438,15 +9438,15 @@ Reference the advertising creativity of the video, use the provided down jacket 
 
 ### No. 60: Ink Wash Tai Chi V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/751_ce_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Traditional Chinese ink painting style martial arts performance. V8
 
@@ -9458,15 +9458,15 @@ Black and white ink wash style, the character from @image1 references the effect
 
 ### No. 61: Magical Transformation Sequence V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/752_ce_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character transformation with organic growth and particle dissolution effects. V8
 
@@ -9478,15 +9478,15 @@ Replace the first frame character of @video1 with @image1, completely reference 
 
 ### No. 62: Puzzle Piece Transition Logo V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/753_ce_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic logo reveal with puzzle fragmentation effect. V8
 
@@ -9498,15 +9498,15 @@ Starting from the ceiling of @image1, reference the puzzle shattering effect of 
 
 ### No. 63: Golden Particle Title Reveal V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/754_ce_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic title sequence with flowing golden particles. V8
 
@@ -9518,15 +9518,15 @@ Opening with black screen, reference the particle effects and materials of video
 
 ### No. 64: Abstract Instant Noodles V8
 
-- **Danh muc:** `Creative Visual Effects`
-- **Nguon:** `official`
-- **Tac gia:** ce_008_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4)
+- **Categoria:** `Creative Visual Effects`
+- **Fonte:** `official`
+- **Autore:** ce_008_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/755_ce_008_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal interpretation of everyday action with exaggerated expressions. V8
 
@@ -9542,15 +9542,15 @@ The character from @image1 references the movements and facial expression change
 
 ### No. 1: Hitchcock Zoom in Elevator
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/11_ac_001.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space.
 
@@ -9562,15 +9562,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 2: Complex Corridor Chase
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/12_ac_002.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes.
 
@@ -9582,15 +9582,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 3: Hitchcock Zoom in Elevator V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/141_ac_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V2
 
@@ -9602,15 +9602,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 4: Complex Corridor Chase V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/142_ac_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V2
 
@@ -9622,15 +9622,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 5: Rotating Tablet Showcase V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/143_ac_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V2
 
@@ -9642,15 +9642,15 @@ Product showcase with rotating camera and environment transformation. V2
 
 ### No. 6: Rhythmic Dance Push-Pull V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V2
 
@@ -9662,15 +9662,15 @@ Synchronized camera push-pull movements matching dance choreography. V2
 
 ### No. 7: Martial Arts Combat Scene V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V2
 
@@ -9682,15 +9682,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 8: Epic Fantasy Battle V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V2
 
@@ -9702,15 +9702,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 9: Car Commercial Cinematography V2
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V2
 
@@ -9722,15 +9722,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 10: Rotating Tablet Showcase
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/13_ac_003.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation.
 
@@ -9742,15 +9742,15 @@ Product showcase with rotating camera and environment transformation.
 
 ### No. 11: Hitchcock Zoom in Elevator V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/241_ac_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V3
 
@@ -9762,15 +9762,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 12: Complex Corridor Chase V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/242_ac_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V3
 
@@ -9782,15 +9782,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 13: Rotating Tablet Showcase V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/243_ac_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V3
 
@@ -9802,15 +9802,15 @@ Product showcase with rotating camera and environment transformation. V3
 
 ### No. 14: Rhythmic Dance Push-Pull V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/244_ac_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V3
 
@@ -9822,15 +9822,15 @@ Synchronized camera push-pull movements matching dance choreography. V3
 
 ### No. 15: Martial Arts Combat Scene V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/245_ac_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V3
 
@@ -9842,15 +9842,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 16: Epic Fantasy Battle V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/246_ac_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V3
 
@@ -9862,15 +9862,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 17: Car Commercial Cinematography V3
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/247_ac_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V3
 
@@ -9882,15 +9882,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 18: Rhythmic Dance Push-Pull
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/144_ac_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography.
 
@@ -9902,15 +9902,15 @@ Synchronized camera push-pull movements matching dance choreography.
 
 ### No. 19: Hitchcock Zoom in Elevator V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/341_ac_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V4
 
@@ -9922,15 +9922,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 20: Complex Corridor Chase V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/342_ac_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V4
 
@@ -9942,15 +9942,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 21: Rotating Tablet Showcase V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/343_ac_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V4
 
@@ -9962,15 +9962,15 @@ Product showcase with rotating camera and environment transformation. V4
 
 ### No. 22: Rhythmic Dance Push-Pull V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/344_ac_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V4
 
@@ -9982,15 +9982,15 @@ Synchronized camera push-pull movements matching dance choreography. V4
 
 ### No. 23: Martial Arts Combat Scene V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/345_ac_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V4
 
@@ -10002,15 +10002,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 24: Epic Fantasy Battle V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/346_ac_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V4
 
@@ -10022,15 +10022,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 25: Car Commercial Cinematography V4
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/347_ac_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V4
 
@@ -10042,15 +10042,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 26: Martial Arts Combat Scene
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/145_ac_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment.
 
@@ -10062,15 +10062,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 27: Hitchcock Zoom in Elevator V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/441_ac_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V5
 
@@ -10082,15 +10082,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 28: Complex Corridor Chase V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/442_ac_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V5
 
@@ -10102,15 +10102,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 29: Rotating Tablet Showcase V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/443_ac_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V5
 
@@ -10122,15 +10122,15 @@ Product showcase with rotating camera and environment transformation. V5
 
 ### No. 30: Rhythmic Dance Push-Pull V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/444_ac_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V5
 
@@ -10142,15 +10142,15 @@ Synchronized camera push-pull movements matching dance choreography. V5
 
 ### No. 31: Martial Arts Combat Scene V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/445_ac_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V5
 
@@ -10162,15 +10162,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 32: Epic Fantasy Battle V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/446_ac_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V5
 
@@ -10182,15 +10182,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 33: Car Commercial Cinematography V5
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/447_ac_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V5
 
@@ -10202,15 +10202,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 34: Epic Fantasy Battle
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/146_ac_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects.
 
@@ -10222,15 +10222,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 35: Hitchcock Zoom in Elevator V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/541_ac_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V6
 
@@ -10242,15 +10242,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 36: Complex Corridor Chase V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/542_ac_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V6
 
@@ -10262,15 +10262,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 37: Rotating Tablet Showcase V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/543_ac_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V6
 
@@ -10282,15 +10282,15 @@ Product showcase with rotating camera and environment transformation. V6
 
 ### No. 38: Rhythmic Dance Push-Pull V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/544_ac_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V6
 
@@ -10302,15 +10302,15 @@ Synchronized camera push-pull movements matching dance choreography. V6
 
 ### No. 39: Martial Arts Combat Scene V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/545_ac_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V6
 
@@ -10322,15 +10322,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 40: Epic Fantasy Battle V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/546_ac_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V6
 
@@ -10342,15 +10342,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 41: Car Commercial Cinematography V6
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/547_ac_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V6
 
@@ -10362,15 +10362,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 42: Car Commercial Cinematography
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/147_ac_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions.
 
@@ -10382,15 +10382,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 43: Hitchcock Zoom in Elevator V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/641_ac_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V7
 
@@ -10402,15 +10402,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 44: Complex Corridor Chase V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/642_ac_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V7
 
@@ -10422,15 +10422,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 45: Rotating Tablet Showcase V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/643_ac_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V7
 
@@ -10442,15 +10442,15 @@ Product showcase with rotating camera and environment transformation. V7
 
 ### No. 46: Rhythmic Dance Push-Pull V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/644_ac_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V7
 
@@ -10462,15 +10462,15 @@ Synchronized camera push-pull movements matching dance choreography. V7
 
 ### No. 47: Martial Arts Combat Scene V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/645_ac_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V7
 
@@ -10482,15 +10482,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 48: Epic Fantasy Battle V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/646_ac_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V7
 
@@ -10502,15 +10502,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 49: Car Commercial Cinematography V7
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/647_ac_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V7
 
@@ -10522,15 +10522,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 50: Hitchcock Zoom in Elevator V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/741_ac_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Classic Hitchcock vertigo effect combined with complex camera movements in confined space. V8
 
@@ -10542,15 +10542,15 @@ Reference the man's image from @image1, he is in the elevator of @image2, comple
 
 ### No. 51: Complex Corridor Chase V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/742_ac_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Multi-angle tracking shot with rapid camera movements and perspective changes. V8
 
@@ -10562,15 +10562,15 @@ Reference the man's image from @image1, he is in the corridor of @image2, comple
 
 ### No. 52: Rotating Tablet Showcase V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/743_ac_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase with rotating camera and environment transformation. V8
 
@@ -10582,15 +10582,15 @@ Product showcase with rotating camera and environment transformation. V8
 
 ### No. 53: Rhythmic Dance Push-Pull V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/744_ac_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Synchronized camera push-pull movements matching dance choreography. V8
 
@@ -10602,15 +10602,15 @@ Synchronized camera push-pull movements matching dance choreography. V8
 
 ### No. 54: Martial Arts Combat Scene V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/745_ac_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Action choreography with multiple characters and weapons in dynamic environment. V8
 
@@ -10622,15 +10622,15 @@ Reference @image1 @image2 long spear character, @image3 @image4 dual sword chara
 
 ### No. 55: Epic Fantasy Battle V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/746_ac_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Cinematic combat scene with orbital camera and particle effects. V8
 
@@ -10642,15 +10642,15 @@ Reference the character movements from video 1, reference the orbital camera cin
 
 ### No. 56: Car Commercial Cinematography V8
 
-- **Danh muc:** `Advanced Camera Movements`
-- **Nguon:** `official`
-- **Tac gia:** ac_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4)
+- **Categoria:** `Advanced Camera Movements`
+- **Fonte:** `official`
+- **Autore:** ac_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/747_ac_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Professional automotive videography with dynamic camera movements and scene transitions. V8
 
@@ -10666,15 +10666,15 @@ Reference the camera movements and scene transition rhythm of video 1, replicate
 
 ### No. 1: Comic Panel Animation
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects.
 
@@ -10686,15 +10686,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 2: Childhood Seasons Documentary
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard.
 
@@ -10706,15 +10706,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 3: Comic Panel Animation V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/156_ne_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V2
 
@@ -10726,15 +10726,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 4: Childhood Seasons Documentary V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/157_ne_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V2
 
@@ -10746,15 +10746,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 5: Emotional Journey Video V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V2
 
@@ -10766,15 +10766,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 6: Donkey Motorcycle Stunt Ad V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V2
 
@@ -10786,15 +10786,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 7: Fitness Motivation Ad V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V2
 
@@ -10806,15 +10806,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 8: Coffee Morning Campaign V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V2
 
@@ -10826,15 +10826,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 9: Sunflower Skateboard Story V2
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V2
 
@@ -10846,15 +10846,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 10: Emotional Journey Video
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/158_ne_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio.
 
@@ -10866,15 +10866,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 11: Comic Panel Animation V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/256_ne_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V3
 
@@ -10886,15 +10886,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 12: Childhood Seasons Documentary V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/257_ne_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V3
 
@@ -10906,15 +10906,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 13: Emotional Journey Video V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/258_ne_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V3
 
@@ -10926,15 +10926,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 14: Donkey Motorcycle Stunt Ad V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/259_ne_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V3
 
@@ -10946,15 +10946,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 15: Fitness Motivation Ad V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/260_ne_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V3
 
@@ -10966,15 +10966,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 16: Coffee Morning Campaign V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/261_ne_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V3
 
@@ -10986,15 +10986,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 17: Sunflower Skateboard Story V3
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/262_ne_007_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V3
 
@@ -11006,15 +11006,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 18: Donkey Motorcycle Stunt Ad
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/159_ne_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character.
 
@@ -11026,15 +11026,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 19: Comic Panel Animation V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/356_ne_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V4
 
@@ -11046,15 +11046,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 20: Childhood Seasons Documentary V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/357_ne_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V4
 
@@ -11066,15 +11066,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 21: Emotional Journey Video V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/358_ne_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V4
 
@@ -11086,15 +11086,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 22: Donkey Motorcycle Stunt Ad V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/359_ne_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V4
 
@@ -11106,15 +11106,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 23: Fitness Motivation Ad V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/360_ne_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V4
 
@@ -11126,15 +11126,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 24: Coffee Morning Campaign V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/361_ne_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V4
 
@@ -11146,15 +11146,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 25: Sunflower Skateboard Story V4
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/362_ne_007_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V4
 
@@ -11166,15 +11166,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 26: Fitness Motivation Ad
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/160_ne_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging.
 
@@ -11186,15 +11186,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 27: Comic Panel Animation V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/456_ne_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V5
 
@@ -11206,15 +11206,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 28: Childhood Seasons Documentary V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/457_ne_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V5
 
@@ -11226,15 +11226,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 29: Emotional Journey Video V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/458_ne_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V5
 
@@ -11246,15 +11246,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 30: Donkey Motorcycle Stunt Ad V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/459_ne_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V5
 
@@ -11266,15 +11266,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 31: Fitness Motivation Ad V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/460_ne_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V5
 
@@ -11286,15 +11286,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 32: Coffee Morning Campaign V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/461_ne_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V5
 
@@ -11306,15 +11306,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 33: Sunflower Skateboard Story V5
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/462_ne_007_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V5
 
@@ -11326,15 +11326,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 34: Coffee Morning Campaign
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/161_ne_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal.
 
@@ -11346,15 +11346,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 35: Comic Panel Animation V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/556_ne_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V6
 
@@ -11366,15 +11366,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 36: Childhood Seasons Documentary V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/557_ne_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V6
 
@@ -11386,15 +11386,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 37: Emotional Journey Video V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/558_ne_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V6
 
@@ -11406,15 +11406,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 38: Donkey Motorcycle Stunt Ad V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/559_ne_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V6
 
@@ -11426,15 +11426,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 39: Fitness Motivation Ad V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/560_ne_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V6
 
@@ -11446,15 +11446,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 40: Coffee Morning Campaign V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/561_ne_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V6
 
@@ -11466,15 +11466,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 41: Sunflower Skateboard Story V6
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/562_ne_007_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V6
 
@@ -11486,15 +11486,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 42: Sunflower Skateboard Story
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/162_ne_007_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative.
 
@@ -11506,15 +11506,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 43: Comic Panel Animation V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/656_ne_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V7
 
@@ -11526,15 +11526,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 44: Childhood Seasons Documentary V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/657_ne_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V7
 
@@ -11546,15 +11546,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 45: Emotional Journey Video V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/658_ne_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V7
 
@@ -11566,15 +11566,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 46: Donkey Motorcycle Stunt Ad V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/659_ne_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V7
 
@@ -11586,15 +11586,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 47: Fitness Motivation Ad V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/660_ne_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V7
 
@@ -11606,15 +11606,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 48: Coffee Morning Campaign V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/661_ne_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V7
 
@@ -11626,15 +11626,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 49: Sunflower Skateboard Story V7
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/662_ne_007_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V7
 
@@ -11646,15 +11646,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 50: Comic Panel Animation V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/756_ne_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform static comic panels into animated sequence with sound effects. V8
 
@@ -11666,15 +11666,15 @@ Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the
 
 ### No. 51: Childhood Seasons Documentary V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/757_ne_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create healing documentary opening based on storyboard. V8
 
@@ -11686,15 +11686,15 @@ Reference the storyboard script of the documentary from @image1, reference the s
 
 ### No. 52: Emotional Journey Video V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/758_ne_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Create mood-driven video inspired by multiple images and audio. V8
 
@@ -11706,15 +11706,15 @@ Reference the audio from video 1, based on images 1, 2, 3, 4, 5 as inspiration, 
 
 ### No. 53: Donkey Motorcycle Stunt Ad V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/759_ne_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with surreal product advertisement featuring animal character. V8
 
@@ -11726,15 +11726,15 @@ Extend 15s video, reference the donkey riding motorcycle image from @image1 and 
 
 ### No. 54: Fitness Motivation Ad V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/760_ne_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with dynamic fitness sequence and motivational messaging. V8
 
@@ -11746,15 +11746,15 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 
 ### No. 55: Coffee Morning Campaign V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/761_ne_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend coffee commercial with atmospheric lighting and text reveal. V8
 
@@ -11766,15 +11766,15 @@ Extend @video1 by 15 seconds. 1-5 seconds: Light and shadow slowly slide through
 
 ### No. 56: Sunflower Skateboard Story V8
 
-- **Danh muc:** `Story Development & Extension`
-- **Nguon:** `official`
-- **Tac gia:** ne_007_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4)
+- **Categoria:** `Story Development & Extension`
+- **Fonte:** `official`
+- **Autore:** ne_007_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/762_ne_007_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Extend video with warm afternoon slice-of-life narrative. V8
 
@@ -11790,15 +11790,15 @@ Extend forward by 10s. In warm afternoon light, camera starts from the row of aw
 
 ### No. 1: After-Work Homecoming
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/05_cs_001.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction.
 
@@ -11810,15 +11810,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 2: Opera Stage Transformation
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/06_cs_002.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video.
 
@@ -11830,15 +11830,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 3: After-Work Homecoming V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/135_cs_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V2
 
@@ -11850,15 +11850,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 4: Opera Stage Transformation V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/136_cs_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V2
 
@@ -11870,15 +11870,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 5: One-Take Seamless Transition V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/137_cs_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V2
 
@@ -11890,15 +11890,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 6: Magnetic Bow Product Showcase V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/138_cs_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V2
 
@@ -11910,15 +11910,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 7: Luxury Handbag Commercial V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/139_cs_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V2
 
@@ -11930,15 +11930,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 8: Horror First-Person Exploration V2
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/140_cs_006_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V2
 
@@ -11950,15 +11950,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 9: One-Take Seamless Transition
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/07_cs_003.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout.
 
@@ -11970,15 +11970,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 10: After-Work Homecoming V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/235_cs_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V3
 
@@ -11990,15 +11990,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 11: Opera Stage Transformation V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/236_cs_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V3
 
@@ -12010,15 +12010,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 12: One-Take Seamless Transition V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/237_cs_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V3
 
@@ -12030,15 +12030,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 13: Magnetic Bow Product Showcase V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/238_cs_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V3
 
@@ -12050,15 +12050,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 14: Luxury Handbag Commercial V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/239_cs_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V3
 
@@ -12070,15 +12070,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 15: Horror First-Person Exploration V3
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/240_cs_006_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V3
 
@@ -12090,15 +12090,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 16: Magnetic Bow Product Showcase
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/08_cs_004.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration.
 
@@ -12110,15 +12110,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 17: After-Work Homecoming V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/335_cs_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V4
 
@@ -12130,15 +12130,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 18: Opera Stage Transformation V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/336_cs_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V4
 
@@ -12150,15 +12150,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 19: One-Take Seamless Transition V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/337_cs_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V4
 
@@ -12170,15 +12170,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 20: Magnetic Bow Product Showcase V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/338_cs_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V4
 
@@ -12190,15 +12190,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 21: Luxury Handbag Commercial V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/339_cs_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V4
 
@@ -12210,15 +12210,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 22: Horror First-Person Exploration V4
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/340_cs_006_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V4
 
@@ -12230,15 +12230,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 23: Luxury Handbag Commercial
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/09_cs_005.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images.
 
@@ -12250,15 +12250,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 24: After-Work Homecoming V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/435_cs_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V5
 
@@ -12270,15 +12270,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 25: Opera Stage Transformation V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/436_cs_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V5
 
@@ -12290,15 +12290,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 26: One-Take Seamless Transition V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/437_cs_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V5
 
@@ -12310,15 +12310,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 27: Magnetic Bow Product Showcase V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/438_cs_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V5
 
@@ -12330,15 +12330,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 28: Luxury Handbag Commercial V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/439_cs_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V5
 
@@ -12350,15 +12350,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 29: Horror First-Person Exploration V5
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/440_cs_006_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V5
 
@@ -12370,15 +12370,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 30: Horror First-Person Exploration
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/10_cs_006.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments.
 
@@ -12390,15 +12390,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 31: After-Work Homecoming V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/535_cs_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V6
 
@@ -12410,15 +12410,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 32: Opera Stage Transformation V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/536_cs_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V6
 
@@ -12430,15 +12430,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 33: One-Take Seamless Transition V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/537_cs_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V6
 
@@ -12450,15 +12450,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 34: Magnetic Bow Product Showcase V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/538_cs_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V6
 
@@ -12470,15 +12470,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 35: Luxury Handbag Commercial V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/539_cs_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V6
 
@@ -12490,15 +12490,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 36: Horror First-Person Exploration V6
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/540_cs_006_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V6
 
@@ -12510,15 +12510,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 37: After-Work Homecoming V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/635_cs_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V7
 
@@ -12530,15 +12530,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 38: Opera Stage Transformation V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/636_cs_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V7
 
@@ -12550,15 +12550,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 39: One-Take Seamless Transition V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/637_cs_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V7
 
@@ -12570,15 +12570,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 40: Magnetic Bow Product Showcase V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/638_cs_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V7
 
@@ -12590,15 +12590,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 41: Luxury Handbag Commercial V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/639_cs_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V7
 
@@ -12610,15 +12610,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 42: Horror First-Person Exploration V7
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/640_cs_006_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V7
 
@@ -12630,15 +12630,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 43: After-Work Homecoming V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/735_cs_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction. V8
 
@@ -12650,15 +12650,15 @@ Man @image1 walks wearily in the corridor after work, his steps slow down, final
 
 ### No. 44: Opera Stage Transformation V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/736_cs_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character replacement while maintaining camera movement and transition effects from reference video. V8
 
@@ -12670,15 +12670,15 @@ Replace the girl in @video1 with a Chinese opera actress (Huadan), set the scene
 
 ### No. 45: One-Take Seamless Transition V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/737_cs_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Complex one-take shot with multiple scene transitions, maintaining visual coherence throughout. V8
 
@@ -12690,15 +12690,15 @@ Reference all transitions and camera movements from @video1, one continuous take
 
 ### No. 46: Magnetic Bow Product Showcase V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/738_cs_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Korean product advertisement with brand consistency and multi-scene demonstration. V8
 
@@ -12710,15 +12710,15 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 
 ### No. 47: Luxury Handbag Commercial V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/739_cs_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Product showcase maintaining detail consistency across multiple reference images. V8
 
@@ -12730,15 +12730,15 @@ Conduct a commercial video showcase of the handbag in @image2. The side of the b
 
 ### No. 48: Horror First-Person Exploration V8
 
-- **Danh muc:** `Character & Scene Consistency`
-- **Nguon:** `official`
-- **Tac gia:** cs_006_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4)
+- **Categoria:** `Character & Scene Consistency`
+- **Fonte:** `official`
+- **Autore:** cs_006_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/740_cs_006_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person perspective maintaining scene consistency across multiple environments. V8
 
@@ -12754,15 +12754,15 @@ Use @image1 as the first frame of the screen, first-person perspective, referenc
 
 ### No. 1: Parkour Chase Sequence
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments.
 
@@ -12774,15 +12774,15 @@ Dynamic one-take following runner through multiple environments.
 
 ### No. 2: Airplane Window Ice Cream Dream
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction.
 
@@ -12794,15 +12794,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 3: Parkour Chase Sequence V2
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/173_ot_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V2
 
@@ -12814,15 +12814,15 @@ Dynamic one-take following runner through multiple environments. V2
 
 ### No. 4: Airplane Window Ice Cream Dream V2
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/174_ot_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V2
 
@@ -12834,15 +12834,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 5: Spy Thriller Tail V2
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V2
 
@@ -12854,15 +12854,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 6: Cozy Cabin Tea Time V2
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V2
 
@@ -12874,15 +12874,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 7: Roller Coaster POV V2
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V2
 
@@ -12894,15 +12894,15 @@ Thrilling first-person roller coaster experience with increasing speed. V2
 
 ### No. 8: Spy Thriller Tail
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/175_ot_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment.
 
@@ -12914,15 +12914,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 9: Parkour Chase Sequence V3
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/273_ot_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V3
 
@@ -12934,15 +12934,15 @@ Dynamic one-take following runner through multiple environments. V3
 
 ### No. 10: Airplane Window Ice Cream Dream V3
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/274_ot_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V3
 
@@ -12954,15 +12954,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 11: Spy Thriller Tail V3
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/275_ot_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V3
 
@@ -12974,15 +12974,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 12: Cozy Cabin Tea Time V3
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/276_ot_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V3
 
@@ -12994,15 +12994,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 13: Roller Coaster POV V3
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/277_ot_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V3
 
@@ -13014,15 +13014,15 @@ Thrilling first-person roller coaster experience with increasing speed. V3
 
 ### No. 14: Cozy Cabin Tea Time
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/176_ot_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene.
 
@@ -13034,15 +13034,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 15: Parkour Chase Sequence V4
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/373_ot_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V4
 
@@ -13054,15 +13054,15 @@ Dynamic one-take following runner through multiple environments. V4
 
 ### No. 16: Airplane Window Ice Cream Dream V4
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/374_ot_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V4
 
@@ -13074,15 +13074,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 17: Spy Thriller Tail V4
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/375_ot_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V4
 
@@ -13094,15 +13094,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 18: Cozy Cabin Tea Time V4
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/376_ot_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V4
 
@@ -13114,15 +13114,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 19: Roller Coaster POV V4
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/377_ot_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V4
 
@@ -13134,15 +13134,15 @@ Thrilling first-person roller coaster experience with increasing speed. V4
 
 ### No. 20: Roller Coaster POV
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/177_ot_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed.
 
@@ -13154,15 +13154,15 @@ Thrilling first-person roller coaster experience with increasing speed.
 
 ### No. 21: Parkour Chase Sequence V5
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/473_ot_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V5
 
@@ -13174,15 +13174,15 @@ Dynamic one-take following runner through multiple environments. V5
 
 ### No. 22: Airplane Window Ice Cream Dream V5
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/474_ot_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V5
 
@@ -13194,15 +13194,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 23: Spy Thriller Tail V5
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/475_ot_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V5
 
@@ -13214,15 +13214,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 24: Cozy Cabin Tea Time V5
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/476_ot_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V5
 
@@ -13234,15 +13234,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 25: Roller Coaster POV V5
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/477_ot_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V5
 
@@ -13254,15 +13254,15 @@ Thrilling first-person roller coaster experience with increasing speed. V5
 
 ### No. 26: Parkour Chase Sequence V6
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/573_ot_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V6
 
@@ -13274,15 +13274,15 @@ Dynamic one-take following runner through multiple environments. V6
 
 ### No. 27: Airplane Window Ice Cream Dream V6
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/574_ot_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V6
 
@@ -13294,15 +13294,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 28: Spy Thriller Tail V6
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/575_ot_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V6
 
@@ -13314,15 +13314,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 29: Cozy Cabin Tea Time V6
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/576_ot_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V6
 
@@ -13334,15 +13334,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 30: Roller Coaster POV V6
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/577_ot_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V6
 
@@ -13354,15 +13354,15 @@ Thrilling first-person roller coaster experience with increasing speed. V6
 
 ### No. 31: Parkour Chase Sequence V7
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/673_ot_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V7
 
@@ -13374,15 +13374,15 @@ Dynamic one-take following runner through multiple environments. V7
 
 ### No. 32: Airplane Window Ice Cream Dream V7
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/674_ot_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V7
 
@@ -13394,15 +13394,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 33: Spy Thriller Tail V7
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/675_ot_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V7
 
@@ -13414,15 +13414,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 34: Cozy Cabin Tea Time V7
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/676_ot_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V7
 
@@ -13434,15 +13434,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 35: Roller Coaster POV V7
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/677_ot_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V7
 
@@ -13454,15 +13454,15 @@ Thrilling first-person roller coaster experience with increasing speed. V7
 
 ### No. 36: Parkour Chase Sequence V8
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/773_ot_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Dynamic one-take following runner through multiple environments. V8
 
@@ -13474,15 +13474,15 @@ Dynamic one-take following runner through multiple environments. V8
 
 ### No. 37: Airplane Window Ice Cream Dream V8
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/774_ot_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Surreal one-take transitioning from airplane window to magical interaction. V8
 
@@ -13494,15 +13494,15 @@ Using @image1 as the first frame, screen zooms into airplane window exterior, cl
 
 ### No. 38: Spy Thriller Tail V8
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/775_ot_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Suspenseful one-take following secret agent through urban environment. V8
 
@@ -13514,15 +13514,15 @@ Spy thriller style, @image1 as the first frame, camera front tracking shot of fe
 
 ### No. 39: Cozy Cabin Tea Time V8
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/776_ot_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 First-person one-take entering warm interior scene. V8
 
@@ -13534,15 +13534,15 @@ Based on the exterior shot of @image1, first-person subjective perspective quick
 
 ### No. 40: Roller Coaster POV V8
 
-- **Danh muc:** `One-Take Cinematography`
-- **Nguon:** `official`
-- **Tac gia:** ot_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4)
+- **Categoria:** `One-Take Cinematography`
+- **Fonte:** `official`
+- **Autore:** ot_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/777_ot_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Thrilling first-person roller coaster experience with increasing speed. V8
 
@@ -13558,15 +13558,15 @@ Thrilling first-person roller coaster experience with increasing speed. V8
 
 ### No. 1: Titanic Dark Twist
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller.
 
@@ -13578,15 +13578,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 2: Serious Business to Snack Deal
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement.
 
@@ -13598,15 +13598,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 3: Titanic Dark Twist V2
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/178_ve_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V2
 
@@ -13618,15 +13618,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 4: Serious Business to Snack Deal V2
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/179_ve_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V2
 
@@ -13638,15 +13638,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 5: Band Singer Gender Swap V2
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V2
 
@@ -13658,15 +13658,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 6: Shark Photobomb V2
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V2
 
@@ -13678,15 +13678,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 7: Fried Chicken Brand Integration V2
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V2
 
@@ -13698,15 +13698,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 8: Band Singer Gender Swap
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/180_ve_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements.
 
@@ -13718,15 +13718,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 9: Titanic Dark Twist V3
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/278_ve_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V3
 
@@ -13738,15 +13738,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 10: Serious Business to Snack Deal V3
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/279_ve_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V3
 
@@ -13758,15 +13758,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 11: Band Singer Gender Swap V3
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/280_ve_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V3
 
@@ -13778,15 +13778,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 12: Shark Photobomb V3
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/281_ve_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V3
 
@@ -13798,15 +13798,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 13: Fried Chicken Brand Integration V3
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/282_ve_005_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V3
 
@@ -13818,15 +13818,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 14: Shark Photobomb
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/181_ve_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene.
 
@@ -13838,15 +13838,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 15: Titanic Dark Twist V4
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/378_ve_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V4
 
@@ -13858,15 +13858,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 16: Serious Business to Snack Deal V4
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/379_ve_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V4
 
@@ -13878,15 +13878,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 17: Band Singer Gender Swap V4
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/380_ve_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V4
 
@@ -13898,15 +13898,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 18: Shark Photobomb V4
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/381_ve_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V4
 
@@ -13918,15 +13918,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 19: Fried Chicken Brand Integration V4
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/382_ve_005_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V4
 
@@ -13938,15 +13938,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 20: Fried Chicken Brand Integration
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/182_ve_005_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene.
 
@@ -13958,15 +13958,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 21: Titanic Dark Twist V5
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/478_ve_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V5
 
@@ -13978,15 +13978,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 22: Serious Business to Snack Deal V5
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/479_ve_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V5
 
@@ -13998,15 +13998,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 23: Band Singer Gender Swap V5
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/480_ve_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V5
 
@@ -14018,15 +14018,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 24: Shark Photobomb V5
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/481_ve_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V5
 
@@ -14038,15 +14038,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 25: Fried Chicken Brand Integration V5
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/482_ve_005_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V5
 
@@ -14058,15 +14058,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 26: Titanic Dark Twist V6
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/578_ve_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V6
 
@@ -14078,15 +14078,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 27: Serious Business to Snack Deal V6
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/579_ve_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V6
 
@@ -14098,15 +14098,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 28: Band Singer Gender Swap V6
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/580_ve_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V6
 
@@ -14118,15 +14118,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 29: Shark Photobomb V6
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/581_ve_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V6
 
@@ -14138,15 +14138,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 30: Fried Chicken Brand Integration V6
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/582_ve_005_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V6
 
@@ -14158,15 +14158,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 31: Titanic Dark Twist V7
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/678_ve_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V7
 
@@ -14178,15 +14178,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 32: Serious Business to Snack Deal V7
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/679_ve_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V7
 
@@ -14198,15 +14198,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 33: Band Singer Gender Swap V7
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/680_ve_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V7
 
@@ -14218,15 +14218,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 34: Shark Photobomb V7
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/681_ve_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V7
 
@@ -14238,15 +14238,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 35: Fried Chicken Brand Integration V7
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/682_ve_005_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V7
 
@@ -14258,15 +14258,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 36: Titanic Dark Twist V8
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/778_ve_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Reverse romantic scene into betrayal thriller. V8
 
@@ -14278,15 +14278,15 @@ Subvert the plot in @video1. The man's eyes instantly change from gentle to cold
 
 ### No. 37: Serious Business to Snack Deal V8
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/779_ve_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Transform tense business meeting into comedy snack advertisement. V8
 
@@ -14298,15 +14298,15 @@ Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expr
 
 ### No. 38: Band Singer Gender Swap V8
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/780_ve_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Replace female lead singer with male while maintaining all movements. V8
 
@@ -14318,15 +14318,15 @@ Replace the female lead singer in video 1 with the male lead singer from image 1
 
 ### No. 39: Shark Photobomb V8
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/781_ve_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add threatening element to peaceful scene. V8
 
@@ -14338,15 +14338,15 @@ Change the woman's hairstyle in video 1 to red long hair, the great white shark 
 
 ### No. 40: Fried Chicken Brand Integration V8
 
-- **Danh muc:** `Video Editing & Remixing`
-- **Nguon:** `official`
-- **Tac gia:** ve_005_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4)
+- **Categoria:** `Video Editing & Remixing`
+- **Fonte:** `official`
+- **Autore:** ve_005_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/782_ve_005_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Add branded packaging to existing restaurant scene. V8
 
@@ -14362,15 +14362,15 @@ Video 1 camera pans right, fried chicken shop owner busily hands fried chicken t
 
 ### No. 1: Fashion Beat Drop
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats.
 
@@ -14382,15 +14382,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 2: Dynamic Portrait Beat Sync
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics.
 
@@ -14402,15 +14402,15 @@ Character portraits appearing on music keyframes with enhanced dynamics.
 
 ### No. 3: Fashion Beat Drop V2
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/183_ms_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V2
 
@@ -14422,15 +14422,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 4: Dynamic Portrait Beat Sync V2
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/184_ms_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V2
 
@@ -14442,15 +14442,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V2
 
 ### No. 5: Landscape Transition Music Video V2
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V2
 
@@ -14462,15 +14462,15 @@ Scenic transitions perfectly timed to music rhythm. V2
 
 ### No. 6: Anime Chess Battle Storyboard V2
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V2
 
@@ -14482,15 +14482,15 @@ Storyboarded anime sequence with dramatic timing. V2
 
 ### No. 7: Landscape Transition Music Video
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/185_ms_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm.
 
@@ -14502,15 +14502,15 @@ Scenic transitions perfectly timed to music rhythm.
 
 ### No. 8: Fashion Beat Drop V3
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/283_ms_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V3
 
@@ -14522,15 +14522,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 9: Dynamic Portrait Beat Sync V3
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/284_ms_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V3
 
@@ -14542,15 +14542,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V3
 
 ### No. 10: Landscape Transition Music Video V3
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/285_ms_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V3
 
@@ -14562,15 +14562,15 @@ Scenic transitions perfectly timed to music rhythm. V3
 
 ### No. 11: Anime Chess Battle Storyboard V3
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/286_ms_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V3
 
@@ -14582,15 +14582,15 @@ Storyboarded anime sequence with dramatic timing. V3
 
 ### No. 12: Anime Chess Battle Storyboard
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/186_ms_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing.
 
@@ -14602,15 +14602,15 @@ Storyboarded anime sequence with dramatic timing.
 
 ### No. 13: Fashion Beat Drop V4
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/383_ms_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V4
 
@@ -14622,15 +14622,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 14: Dynamic Portrait Beat Sync V4
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/384_ms_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V4
 
@@ -14642,15 +14642,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V4
 
 ### No. 15: Landscape Transition Music Video V4
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/385_ms_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V4
 
@@ -14662,15 +14662,15 @@ Scenic transitions perfectly timed to music rhythm. V4
 
 ### No. 16: Anime Chess Battle Storyboard V4
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/386_ms_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V4
 
@@ -14682,15 +14682,15 @@ Storyboarded anime sequence with dramatic timing. V4
 
 ### No. 17: Fashion Beat Drop V5
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/483_ms_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V5
 
@@ -14702,15 +14702,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 18: Dynamic Portrait Beat Sync V5
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/484_ms_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V5
 
@@ -14722,15 +14722,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V5
 
 ### No. 19: Landscape Transition Music Video V5
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/485_ms_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V5
 
@@ -14742,15 +14742,15 @@ Scenic transitions perfectly timed to music rhythm. V5
 
 ### No. 20: Anime Chess Battle Storyboard V5
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/486_ms_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V5
 
@@ -14762,15 +14762,15 @@ Storyboarded anime sequence with dramatic timing. V5
 
 ### No. 21: Fashion Beat Drop V6
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/583_ms_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V6
 
@@ -14782,15 +14782,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 22: Dynamic Portrait Beat Sync V6
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/584_ms_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V6
 
@@ -14802,15 +14802,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V6
 
 ### No. 23: Landscape Transition Music Video V6
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/585_ms_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V6
 
@@ -14822,15 +14822,15 @@ Scenic transitions perfectly timed to music rhythm. V6
 
 ### No. 24: Anime Chess Battle Storyboard V6
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/586_ms_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V6
 
@@ -14842,15 +14842,15 @@ Storyboarded anime sequence with dramatic timing. V6
 
 ### No. 25: Fashion Beat Drop V7
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/683_ms_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V7
 
@@ -14862,15 +14862,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 26: Dynamic Portrait Beat Sync V7
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/684_ms_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V7
 
@@ -14882,15 +14882,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V7
 
 ### No. 27: Landscape Transition Music Video V7
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/685_ms_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V7
 
@@ -14902,15 +14902,15 @@ Scenic transitions perfectly timed to music rhythm. V7
 
 ### No. 28: Anime Chess Battle Storyboard V7
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/686_ms_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V7
 
@@ -14922,15 +14922,15 @@ Storyboarded anime sequence with dramatic timing. V7
 
 ### No. 29: Fashion Beat Drop V8
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/783_ms_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Fashion transformation synced to music beats. V8
 
@@ -14942,15 +14942,15 @@ The girl in the poster keeps changing outfits, clothing references the styles of
 
 ### No. 30: Dynamic Portrait Beat Sync V8
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/784_ms_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Character portraits appearing on music keyframes with enhanced dynamics. V8
 
@@ -14962,15 +14962,15 @@ Character portraits appearing on music keyframes with enhanced dynamics. V8
 
 ### No. 31: Landscape Transition Music Video V8
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/785_ms_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Scenic transitions perfectly timed to music rhythm. V8
 
@@ -14982,15 +14982,15 @@ Scenic transitions perfectly timed to music rhythm. V8
 
 ### No. 32: Anime Chess Battle Storyboard V8
 
-- **Danh muc:** `Music Synchronization`
-- **Nguon:** `official`
-- **Tac gia:** ms_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4)
+- **Categoria:** `Music Synchronization`
+- **Fonte:** `official`
+- **Autore:** ms_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/786_ms_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Storyboarded anime sequence with dramatic timing. V8
 
@@ -15006,15 +15006,15 @@ Storyboarded anime sequence with dramatic timing. V8
 
 ### No. 1: Elegant Laundry Scene
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/01_ur_001.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion.
 
@@ -15026,15 +15026,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 2: Interactive Painting Character
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/02_ur_002.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene.
 
@@ -15046,15 +15046,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 3: Elegant Laundry Scene V2
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/131_ur_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V2
 
@@ -15066,15 +15066,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 4: Interactive Painting Character V2
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/132_ur_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V2
 
@@ -15086,15 +15086,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 5: Victorian Street Scene V2
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/133_ur_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V2
 
@@ -15106,15 +15106,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 6: Chase Scene with Obstacles V2
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/134_ur_004_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V2
 
@@ -15126,15 +15126,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 7: Victorian Street Scene
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/03_ur_003.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions.
 
@@ -15146,15 +15146,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 8: Elegant Laundry Scene V3
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/231_ur_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V3
 
@@ -15166,15 +15166,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 9: Interactive Painting Character V3
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/232_ur_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V3
 
@@ -15186,15 +15186,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 10: Victorian Street Scene V3
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/233_ur_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V3
 
@@ -15206,15 +15206,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 11: Chase Scene with Obstacles V3
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/234_ur_004_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V3
 
@@ -15226,15 +15226,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 12: Chase Scene with Obstacles
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/04_ur_004.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic.
 
@@ -15246,15 +15246,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 13: Elegant Laundry Scene V4
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/331_ur_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V4
 
@@ -15266,15 +15266,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 14: Interactive Painting Character V4
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/332_ur_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V4
 
@@ -15286,15 +15286,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 15: Victorian Street Scene V4
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/333_ur_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V4
 
@@ -15306,15 +15306,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 16: Chase Scene with Obstacles V4
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/334_ur_004_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V4
 
@@ -15326,15 +15326,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 17: Elegant Laundry Scene V5
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/431_ur_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V5
 
@@ -15346,15 +15346,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 18: Interactive Painting Character V5
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/432_ur_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V5
 
@@ -15366,15 +15366,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 19: Victorian Street Scene V5
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/433_ur_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V5
 
@@ -15386,15 +15386,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 20: Chase Scene with Obstacles V5
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/434_ur_004_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V5
 
@@ -15406,15 +15406,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 21: Elegant Laundry Scene V6
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/531_ur_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V6
 
@@ -15426,15 +15426,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 22: Interactive Painting Character V6
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/532_ur_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V6
 
@@ -15446,15 +15446,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 23: Victorian Street Scene V6
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/533_ur_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V6
 
@@ -15466,15 +15466,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 24: Chase Scene with Obstacles V6
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/534_ur_004_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V6
 
@@ -15486,15 +15486,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 25: Elegant Laundry Scene V7
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/631_ur_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V7
 
@@ -15506,15 +15506,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 26: Interactive Painting Character V7
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/632_ur_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V7
 
@@ -15526,15 +15526,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 27: Victorian Street Scene V7
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/633_ur_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V7
 
@@ -15546,15 +15546,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 28: Chase Scene with Obstacles V7
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/634_ur_004_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V7
 
@@ -15566,15 +15566,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 29: Elegant Laundry Scene V8
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/731_ur_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion. V8
 
@@ -15586,15 +15586,15 @@ Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she 
 
 ### No. 30: Interactive Painting Character V8
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/732_ur_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A character in a painting comes to life, secretly drinking cola when no one is watching, creating a humorous commercial scene. V8
 
@@ -15606,15 +15606,15 @@ The character in the painting has a guilty expression, eyes looking left and rig
 
 ### No. 31: Victorian Street Scene V8
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/733_ur_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 A period drama scene set in 19th century London with authentic environmental details and character reactions. V8
 
@@ -15626,15 +15626,15 @@ Camera slightly pulls back (revealing the full street view) and follows the fema
 
 ### No. 32: Chase Scene with Obstacles V8
 
-- **Danh muc:** `Ultra-Realistic Video Generation`
-- **Nguon:** `official`
-- **Tac gia:** ur_004_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4)
+- **Categoria:** `Ultra-Realistic Video Generation`
+- **Fonte:** `official`
+- **Autore:** ur_004_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/734_ur_004_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 An intense chase sequence with realistic collision physics and crowd panic. V8
 
@@ -15650,15 +15650,15 @@ Camera follows a man in black clothes fleeing quickly, with a group of people ch
 
 ### No. 1: Mirror Breakdown
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion.
 
@@ -15670,15 +15670,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 2: Cooking Contrast Comedy
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking.
 
@@ -15690,15 +15690,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 3: Mirror Breakdown V2
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/187_ep_001_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V2
 
@@ -15710,15 +15710,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 4: Cooking Contrast Comedy V2
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/188_ep_002_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V2
 
@@ -15730,15 +15730,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 5: Dramatic Roar Close-up V2
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v2
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v2
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V2
 
@@ -15750,15 +15750,15 @@ Comedic dramatic performance with exaggerated expression. V2
 
 ### No. 6: Dramatic Roar Close-up
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/189_ep_003_v2.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression.
 
@@ -15770,15 +15770,15 @@ Comedic dramatic performance with exaggerated expression.
 
 ### No. 7: Mirror Breakdown V3
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/287_ep_001_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V3
 
@@ -15790,15 +15790,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 8: Cooking Contrast Comedy V3
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/288_ep_002_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V3
 
@@ -15810,15 +15810,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 9: Dramatic Roar Close-up V3
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v3
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v3
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/289_ep_003_v3.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V3
 
@@ -15830,15 +15830,15 @@ Comedic dramatic performance with exaggerated expression. V3
 
 ### No. 10: Mirror Breakdown V4
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/387_ep_001_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V4
 
@@ -15850,15 +15850,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 11: Cooking Contrast Comedy V4
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/388_ep_002_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V4
 
@@ -15870,15 +15870,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 12: Dramatic Roar Close-up V4
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v4
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v4
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/389_ep_003_v4.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V4
 
@@ -15890,15 +15890,15 @@ Comedic dramatic performance with exaggerated expression. V4
 
 ### No. 13: Mirror Breakdown V5
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/487_ep_001_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V5
 
@@ -15910,15 +15910,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 14: Cooking Contrast Comedy V5
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/488_ep_002_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V5
 
@@ -15930,15 +15930,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 15: Dramatic Roar Close-up V5
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v5
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v5
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/489_ep_003_v5.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V5
 
@@ -15950,15 +15950,15 @@ Comedic dramatic performance with exaggerated expression. V5
 
 ### No. 16: Mirror Breakdown V6
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/587_ep_001_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V6
 
@@ -15970,15 +15970,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 17: Cooking Contrast Comedy V6
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/588_ep_002_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V6
 
@@ -15990,15 +15990,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 18: Dramatic Roar Close-up V6
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v6
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v6
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/589_ep_003_v6.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V6
 
@@ -16010,15 +16010,15 @@ Comedic dramatic performance with exaggerated expression. V6
 
 ### No. 19: Mirror Breakdown V7
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/687_ep_001_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V7
 
@@ -16030,15 +16030,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 20: Cooking Contrast Comedy V7
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/688_ep_002_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V7
 
@@ -16050,15 +16050,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 21: Dramatic Roar Close-up V7
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v7
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v7
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/689_ep_003_v7.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V7
 
@@ -16070,15 +16070,15 @@ Comedic dramatic performance with exaggerated expression. V7
 
 ### No. 22: Mirror Breakdown V8
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_001_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_001_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/787_ep_001_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Psychological breakdown scene with escalating emotion. V8
 
@@ -16090,15 +16090,15 @@ The woman from @image1 walks to the mirror, looking at herself in the mirror, po
 
 ### No. 23: Cooking Contrast Comedy V8
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_002_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_002_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/788_ep_002_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic contrast between calm and chaotic cooking. V8
 
@@ -16110,15 +16110,15 @@ This is a range hood advertisement. @image1 as the first frame, woman elegantly 
 
 ### No. 24: Dramatic Roar Close-up V8
 
-- **Danh muc:** `Emotional Performance`
-- **Nguon:** `official`
-- **Tac gia:** ep_003_v8
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4)
+- **Categoria:** `Emotional Performance`
+- **Fonte:** `official`
+- **Autore:** ep_003_v8
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4)
 
 <video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/789_ep_003_v8.mp4" controls muted playsinline width="720"></video>
 
-#### Mo ta
+#### Descrizione
 
 Comedic dramatic performance with exaggerated expression. V8
 
@@ -16128,24 +16128,24 @@ Comedic dramatic performance with exaggerated expression. V8
 @image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.
 ```
 
-## 🤝 Cach dong gop
+## 🤝 Come Contribuire
 
-Gui GitHub issue voi prompt, danh muc va URL xem truoc day du. Sau khi duoc duyet, workflow se dong bo vao bo du lieu.
+Invia una issue GitHub con prompt completo, categoria e URL di anteprima. Dopo l'approvazione, il workflow lo sincronizzera nel dataset.
 
-- Mau Issue: [Xem](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
-- Huong dan: [Xem](docs/CONTRIBUTING.md)
+- Template Issue: [Vedi](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/issues/new?template=prompt.yml)
+- Guida: [Vedi](docs/CONTRIBUTING.md)
 
-## Su dung cuc bo
+## Uso Locale
 
 ```bash
 npm run generate
 ```
 
-## 📄 Giay phep
+## 📄 Licenza
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-06-15T10:32:58.186Z
+> Questo README e generato automaticamente. 2026-06-15T11:15:00.296Z
 
 ## More Atlas Cloud Tools
 

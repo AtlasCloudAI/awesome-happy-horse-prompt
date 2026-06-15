@@ -11,7 +11,7 @@
 
 > すべてのプロンプトは学習と検索目的で共有されています。削除が必要な内容があれば issue を作成してください。
 
-[![English](https://img.shields.io/badge/English-表示-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-表示-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-表示-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-現在-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-表示-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-表示-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-表示-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-表示-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-表示-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-表示-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-表示-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-表示-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-表示-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-表示-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-表示-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-表示-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-表示-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-表示-lightgrey)](i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-表示-lightgrey)](i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-現在-brightgreen)](i18n/README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-表示-lightgrey)](i18n/README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-表示-lightgrey)](i18n/README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-表示-lightgrey)](i18n/README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-表示-lightgrey)](i18n/README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-表示-lightgrey)](i18n/README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-表示-lightgrey)](i18n/README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-表示-lightgrey)](i18n/README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-表示-lightgrey)](i18n/README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-表示-lightgrey)](i18n/README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-表示-lightgrey)](i18n/README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-表示-lightgrey)](i18n/README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-表示-lightgrey)](i18n/README_tr-TR.md)
 
 ---
 
@@ -59,7 +59,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | 総プロンプト数 | **800** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **800** |
-| 最終更新 | **2026-06-15T10:32:58.135Z** |
+| 最終更新 | **2026-06-15T11:15:00.249Z** |
 
 ## 🏷️ カテゴリ別に見る
 
@@ -16225,7 +16225,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-06-15T10:32:58.135Z
+> この README は自動生成です。 2026-06-15T11:15:00.249Z
 
 ## More Atlas Cloud Tools
 

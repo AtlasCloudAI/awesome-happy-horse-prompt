@@ -81,7 +81,9 @@ async function main() {
     const localePrompts = await loadLocalePrompts(localeFile);
     const localizedPrompts = buildLocalizedPrompts(localePrompts, fallbackPrompts);
     const output = generateMarkdown(sortPrompts(localizedPrompts), lang.code);
-    await fs.writeFile(path.join(root, lang.readmeFileName), output, "utf8");
+    const outPath = path.join(root, lang.readmeFileName);
+    await fs.mkdir(path.dirname(outPath), { recursive: true });
+    await fs.writeFile(outPath, output, "utf8");
     console.log(`Generated ${lang.readmeFileName}`);
   }
 }

@@ -37,7 +37,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 ## 🧩 Supported Models
 
-- 🎬 **Video** — Seedance 2.1 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
@@ -59,7 +59,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Nombre Total de Prompts | **800** |
 | Categories | **12** |
 | Videos d'Apercu | **800** |
-| Derniere Mise a Jour | **2026-06-15T11:15:00.291Z** |
+| Derniere Mise a Jour | **2026-06-23T12:02:11.393Z** |
 
 ## 🏷️ Parcourir par Categorie
 
@@ -16201,7 +16201,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-06-15T11:15:00.291Z
+> Ce README est genere automatiquement. 2026-06-23T12:02:11.393Z
 
 ## More Atlas Cloud Tools
 

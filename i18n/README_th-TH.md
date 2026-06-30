@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,15 +56,15 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **800** |
+| พรอมต์ทั้งหมด | **848** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **800** |
-| อัปเดตล่าสุด | **2026-06-29T08:04:16.820Z** |
+| วิดีโอตัวอย่าง | **843** |
+| อัปเดตล่าสุด | **2026-06-30T03:13:04.586Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-1): **240**
-- [`Twitter Community`](#category-2): **88**
+- [`Twitter Community`](#category-2): **136**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
 - [`การเคลื่อนไหวกล้องขั้นสูง`](#category-5): **56**
@@ -4886,7 +4886,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-2"></a>
 
-### Twitter Community (88)
+### Twitter Community (136)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -6646,6 +6646,999 @@ Tense first-person perspective of military squad advancing. Showcases realistic 
 
 ```text
 Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 89: Neon-lit city street at night
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Megan Li
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### คำอธิบาย
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### พรอมต์
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 90: Office Argument with Panoramic Window View
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Al-Shamus
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### คำอธิบาย
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### พรอมต์
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 91: Romantic Beach Sunset
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Md Riyazuddin
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### คำอธิบาย
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### พรอมต์
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 92: GlobalGPT AI Tools
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hania Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### คำอธิบาย
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### พรอมต์
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 93: Woman Boxing on Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Paul Sims
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### คำอธิบาย
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### พรอมต์
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 94: dark text on black
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### คำอธิบาย
+
+a dark image with faint white text barely visible on a black background.
+
+#### พรอมต์
+
+```text
+black background with faint white text in the center
+```
+
+### No. 95: Cheerleaders on the field
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Fakhr
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### คำอธิบาย
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### พรอมต์
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 96: Cheerleaders on the field
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Fakhr
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### คำอธิบาย
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### พรอมต์
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 97: G-Shock World Cup Ad
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### คำอธิบาย
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### พรอมต์
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 98: AI image transformation
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** El IAS - Esteban Diba
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/estebandiba/status/2065345391550156906)
+
+#### คำอธิบาย
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### พรอมต์
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 99: Video Editing AI Comparison
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rehen
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/rehensina/status/2065366437594825014)
+
+#### คำอธิบาย
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### พรอมต์
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 100: Navos AI Content Tool
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Tec-Do 2.0
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### คำอธิบาย
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### พรอมต์
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 101: Flowing Blue Waves
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rony
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### คำอธิบาย
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### พรอมต์
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 102: Blurred Light Glow
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aditii
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### คำอธิบาย
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### พรอมต์
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 103: Blurred Light Glow
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aditii
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### คำอธิบาย
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### พรอมต์
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 104: Galactic Light Bulb
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jerrod Lew
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### คำอธิบาย
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### พรอมต์
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 105: Abandoned Alleyway
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2065412890363105672)
+
+#### คำอธิบาย
+
+A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
+
+#### พรอมต์
+
+```text
+a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
+```
+
+### No. 106: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** RAVI KUMAR SAHU
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### คำอธิบาย
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### พรอมต์
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 107: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2065450922944442374)
+
+#### คำอธิบาย
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### พรอมต์
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 108: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2065450922944442374)
+
+#### คำอธิบาย
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### พรอมต์
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 109: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIMATRIX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIScout22/status/2065487263803527349)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 110: Blurred motion abstract
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Theinfralab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### คำอธิบาย
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### พรอมต์
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 111: Blurred motion abstract
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Theinfralab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### คำอธิบาย
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### พรอมต์
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 112: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Riya Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### พรอมต์
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 113: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Riya Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### พรอมต์
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 114: Blurred abstract background
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kalsoom (ghotai )
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### คำอธิบาย
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### พรอมต์
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 115: Blurred abstract background
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kalsoom (ghotai )
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### คำอธิบาย
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### พรอมต์
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 116: Couple at Sunset Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Your Tech Girl
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### คำอธิบาย
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### พรอมต์
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 117: Woman Boxing on Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jihad
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### คำอธิบาย
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### พรอมต์
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 118: Celebrities at World Cup
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** marium
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### คำอธิบาย
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### พรอมต์
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 119: Global AI Hackathon
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Qwen Cloud
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### คำอธิบาย
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### พรอมต์
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 120: Microscopic Detail Photography Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Samuel Ferrero.
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### คำอธิบาย
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### พรอมต์
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 121: cowboy on horseback
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** MrDejie
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/mrdejie/status/2065758578150134097)
+
+#### คำอธิบาย
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### พรอมต์
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 122: AI transformation comparison
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Smith铜匠・十点睡觉
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/smithandai/status/2065763440019579120)
+
+#### คำอธิบาย
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### พรอมต์
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 123: SousakuAI Campaign
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** チビクロ🧩AI錬金術士
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### คำอธิบาย
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### พรอมต์
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 124: Blue motion blur
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Abdul Șhakoor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/abxxai/status/2065781636105658438)
+
+#### คำอธิบาย
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### พรอมต์
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 125: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### คำอธิบาย
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### พรอมต์
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 126: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### คำอธิบาย
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### พรอมต์
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 127: Woman and Robot Encounter
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pezy Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PezyAi/status/2065837166593249420)
+
+#### คำอธิบาย
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### พรอมต์
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 128: GlobalGPT Website Screenshot
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Md. Robius Sany
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/tec_sany/status/2065865285442392152)
+
+#### คำอธิบาย
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### พรอมต์
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 129: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nayeem Sheikh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### คำอธิบาย
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 130: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nayeem Sheikh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### คำอธิบาย
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 131: Helicopter Over Ocean
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Anish Jaitwar
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### คำอธิบาย
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### พรอมต์
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 132: Woman Running from Train
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Brent Lynch
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### คำอธิบาย
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### พรอมต์
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 133: The Realtor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Djaja Yerry
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### คำอธิบาย
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### พรอมต์
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 134: Futuristic smartphone design
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nakajima Sumiyo｜生成AI × Creative
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### คำอธิบาย
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### พรอมต์
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 135: GlobalGPT AI Tools Website UI Showcase
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mimu | AI Tools & News
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### คำอธิบาย
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### พรอมต์
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 136: Shirtless man playing guitar by campfire
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Billy Balls
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### คำอธิบาย
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### พรอมต์
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
 ```
 
 <a id="category-3"></a>
@@ -16145,7 +17138,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-06-29T08:04:16.820Z
+> README นี้สร้างอัตโนมัติ 2026-06-30T03:13:04.586Z
 
 ## More Atlas Cloud Tools
 

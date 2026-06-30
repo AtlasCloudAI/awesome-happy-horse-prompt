@@ -8798,5 +8798,845 @@
     "author_name": "tw_024_v8",
     "source_platform": "twitter",
     "language": "ko"
+  },
+  {
+    "id": "x_2064998724837994912",
+    "title": "Neon-lit city street at night",
+    "description": "A person walks through a rainy, neon-lit city street at night with cinematic reflections.",
+    "prompt": "A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4",
+    "author_name": "Megan Li",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/MeganLee_0318/status/2064998724837994912",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2064998724837994912.mp4"
+    }
+  },
+  {
+    "id": "x_2065204797871989198",
+    "title": "dark text on black",
+    "description": "a dark image with faint white text barely visible on a black background.",
+    "prompt": "black background with faint white text in the center",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4",
+    "author_name": "CINEMADRIEN 🎬🔥 AI FILM STUDIO",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Cinemadrien/status/2065204797871989198",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065204797871989198.mp4"
+    }
+  },
+  {
+    "id": "x_2065101741314695580",
+    "title": "Woman Boxing on Beach",
+    "description": "A woman in athletic wear punches a heavy bag on a sandy beach during sunset.",
+    "prompt": "a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4",
+    "author_name": "Paul Sims",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/SimslearnAi/status/2065101741314695580",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065101741314695580.mp4"
+    }
+  },
+  {
+    "id": "x_2065046682526790054",
+    "title": "GlobalGPT AI Tools",
+    "description": "A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.",
+    "prompt": "A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4",
+    "author_name": "Hania Ai",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/HaniaAi12/status/2065046682526790054",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065046682526790054.mp4"
+    }
+  },
+  {
+    "id": "x_2065035722965606902",
+    "title": "Romantic Beach Sunset",
+    "description": "A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.",
+    "prompt": "a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4",
+    "author_name": "Md Riyazuddin",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/riyazmd774/status/2065035722965606902",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065035722965606902.mp4"
+    }
+  },
+  {
+    "id": "x_2065030699938431285",
+    "title": "Office Argument with Panoramic Window View",
+    "description": "A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.",
+    "prompt": "Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4",
+    "author_name": "Al-Shamus",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/im_shahid7/status/2065030699938431285",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065030699938431285.mp4"
+    }
+  },
+  {
+    "id": "x_2065582038183186504",
+    "title": "GlobalGPT Website Navigation and AI Tool Demo",
+    "description": "This video demonstrates the user interface and functionalities of the GlobalGPT website, showcasing its various AI models and tools for image, video, and audio generation, through a series of clicks and scrolls.",
+    "prompt": "A detailed screen recording capturing the GlobalGPT website interface on a desktop computer. The mouse cursor smoothly navigates, clicking through 'Home', 'Models & Tools', 'Image', 'Video', and 'Audio' sections in the sidebar, scrolling down each page to reveal various AI models and tools. The video concludes with a click on 'Wen 2.7' to display its video generator interface with multiple visual templates and a prompt input field. Clean, digital, UI/UX focus.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065582038183186504.mp4",
+    "author_name": "Riya Ai",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Riya96Ai/status/2065582038183186504",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065582038183186504.mp4"
+    }
+  },
+  {
+    "id": "x_2065581960810930318",
+    "title": "Big Ben views",
+    "description": "Two images of Big Ben from different perspectives under a cloudy sky.",
+    "prompt": "a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4",
+    "author_name": "Riya Ai",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Riya96Ai/status/2065581960810930318",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065581960810930318.mp4"
+    }
+  },
+  {
+    "id": "x_2065506797608464624",
+    "title": "GlobalGPT AI Platform",
+    "description": "A screenshot of the GlobalGPT website showcasing its AI tools and models with a vibrant, colorful background.",
+    "prompt": "A vibrant, colorful background with a computer screen displaying the GlobalGPT website, featuring AI tools and models, with a focus on image, chat, video, agents, and search options. The page highlights 'Access 100+ Powerful AI Models - All in One Place' and shows various AI model selections like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast. There are navigation menus for Home, Models & Tools, Image, Video, Audio, My Tools, and other AI tools. The interface includes a 'Compare plans' button, 'Upgrade Plan' option, and a promotional banner celebrating 2 years with GlobalGPT and offering up to 50% off. The bottom section showcases cutting-edge video and image models with thumbnail previews of different content types. The overall design is modern and sleek, with a mix of white, blue, and orange hues, and a dynamic, flowing background pattern in purple, orange, and pink.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065506797608464624.mp4",
+    "author_name": "Theinfralab",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Logical_Girll/status/2065506797608464624",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065506797608464624.mp4"
+    }
+  },
+  {
+    "id": "x_2065506119603331509",
+    "title": "Blurred motion abstract",
+    "description": "A dynamic abstract image featuring warm blurred motion in orange and brown tones.",
+    "prompt": "abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4",
+    "author_name": "Theinfralab",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Logical_Girll/status/2065506119603331509",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065506119603331509.mp4"
+    }
+  },
+  {
+    "id": "x_2065487263803527349",
+    "title": "Big Ben views",
+    "description": "Two images of Big Ben from different angles under a cloudy sky.",
+    "prompt": "A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4",
+    "author_name": "AIMATRIX",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AIScout22/status/2065487263803527349",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065487263803527349.mp4"
+    }
+  },
+  {
+    "id": "x_2065450967873851708",
+    "title": "GlobalGPT website homepage",
+    "description": "A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065450967873851708.mp4",
+    "author_name": "Z-Coder",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/codedailyML/status/2065450967873851708",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065450967873851708.mp4"
+    }
+  },
+  {
+    "id": "x_2065450922944442374",
+    "title": "Blurred indoor scene",
+    "description": "A softly focused image of an indoor setting with glowing lights and vague human forms.",
+    "prompt": "blurry indoor scene with indistinct figures and bright light, soft focus, warm tones",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4",
+    "author_name": "Z-Coder",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/codedailyML/status/2065450922944442374",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065450922944442374.mp4"
+    }
+  },
+  {
+    "id": "x_2065429300069933520",
+    "title": "Blurred indoor scene",
+    "description": "A softly focused image of a person in a brightly lit indoor environment with warm tones.",
+    "prompt": "blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4",
+    "author_name": "RAVI KUMAR SAHU",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/RAVIKUMARSAHU78/status/2065429300069933520",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065429300069933520.mp4"
+    }
+  },
+  {
+    "id": "x_2065412890363105672",
+    "title": "Abandoned Alleyway",
+    "description": "A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.",
+    "prompt": "a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4",
+    "author_name": "HappyHorse",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/HappyHorseATH/status/2065412890363105672",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065412890363105672.mp4"
+    }
+  },
+  {
+    "id": "x_2065404113563816023",
+    "title": "Galactic Light Bulb",
+    "description": "A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.",
+    "prompt": "a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4",
+    "author_name": "Jerrod Lew",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/jerrod_lew/status/2065404113563816023",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065404113563816023.mp4"
+    }
+  },
+  {
+    "id": "x_2065399711683563983",
+    "title": "GlobalGPT AI Tools",
+    "description": "A promotional screenshot of the GlobalGPT website featuring AI models and a discount offer.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering 50% off, displayed on a computer screen.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065399711683563983.mp4",
+    "author_name": "aditii",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/aditiitwt/status/2065399711683563983",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065399711683563983.mp4"
+    }
+  },
+  {
+    "id": "x_2065399674375471267",
+    "title": "Blurred Light Glow",
+    "description": "A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.",
+    "prompt": "abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4",
+    "author_name": "aditii",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/aditiitwt/status/2065399674375471267",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065399674375471267.mp4"
+    }
+  },
+  {
+    "id": "x_2065381123619013035",
+    "title": "Flowing Blue Waves",
+    "description": "A dynamic abstract image of flowing blue and white waves with motion blur effect.",
+    "prompt": "abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4",
+    "author_name": "Rony",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Ronycoder/status/2065381123619013035",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065381123619013035.mp4"
+    }
+  },
+  {
+    "id": "x_2065373853363421518",
+    "title": "Navos AI Content Tool",
+    "description": "A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.",
+    "prompt": "A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Tec-Do 2.0",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Tec_do2/status/2065373853363421518",
+    "needs_preview": true,
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2065366437594825014",
+    "title": "Video Editing AI Comparison",
+    "description": "A bar chart comparing ELO scores of various video editing AI tools across two categories.",
+    "prompt": "A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Rehen",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/rehensina/status/2065366437594825014",
+    "needs_preview": true,
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2065345391550156906",
+    "title": "AI image transformation",
+    "description": "A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.",
+    "prompt": "A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4",
+    "author_name": "El IAS - Esteban Diba",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/estebandiba/status/2065345391550156906",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065345391550156906.mp4"
+    }
+  },
+  {
+    "id": "x_2065302933860966457",
+    "title": "G-Shock World Cup Ad",
+    "description": "A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.",
+    "prompt": "a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4",
+    "author_name": "ᴍᴜʀᴘʜʏ",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Diplomeme/status/2065302933860966457",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065302933860966457.mp4"
+    }
+  },
+  {
+    "id": "x_2065289482467958881",
+    "title": "GlobalGPT Website Screenshot",
+    "description": "A vibrant screenshot of the GlobalGPT website showcasing AI models and tools.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, featuring a navigation menu, promotional banner, and model selection interface.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065289482467958881.mp4",
+    "author_name": "Fakhr",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/iamfakhrealam/status/2065289482467958881",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065289482467958881.mp4"
+    }
+  },
+  {
+    "id": "x_2065288826147516471",
+    "title": "Cheerleaders on the field",
+    "description": "Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.",
+    "prompt": "two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4",
+    "author_name": "Fakhr",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/iamfakhrealam/status/2065288826147516471",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065288826147516471.mp4"
+    }
+  },
+  {
+    "id": "x_2065888648491680202",
+    "title": "GlobalGPT Website Screenshot",
+    "description": "A vibrant screenshot of the GlobalGPT website showcasing AI models and promotional offers.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools like GPT-5.5, Claude Opus, and Gemini 3.1 Pro, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065888648491680202.mp4",
+    "author_name": "Nayeem Sheikh",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/HeyNayeem/status/2065888648491680202",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065888648491680202.mp4"
+    }
+  },
+  {
+    "id": "x_2065887930179358757",
+    "title": "Big Ben views",
+    "description": "Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.",
+    "prompt": "A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4",
+    "author_name": "Nayeem Sheikh",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/HeyNayeem/status/2065887930179358757",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065887930179358757.mp4"
+    }
+  },
+  {
+    "id": "x_2065865285442392152",
+    "title": "GlobalGPT Website Screenshot",
+    "description": "A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4",
+    "author_name": "Md. Robius Sany",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/tec_sany/status/2065865285442392152",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065865285442392152.mp4"
+    }
+  },
+  {
+    "id": "x_2065837166593249420",
+    "title": "Woman and Robot Encounter",
+    "description": "A woman and a robot share a tender moment in a sunlit cityscape.",
+    "prompt": "a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4",
+    "author_name": "Pezy Ai",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/PezyAi/status/2065837166593249420",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065837166593249420.mp4"
+    }
+  },
+  {
+    "id": "x_2065836020755837109",
+    "title": "GlobalGPT Website Screenshot",
+    "description": "A screenshot of the GlobalGPT website showcasing AI tools and models with a vibrant colorful background.",
+    "prompt": "screenshot of GlobalGPT website homepage with AI tools and models, vibrant colorful background, modern UI design",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065836020755837109.mp4",
+    "author_name": "KATE",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/kate_osita_/status/2065836020755837109",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065836020755837109.mp4"
+    }
+  },
+  {
+    "id": "x_2065835361390280704",
+    "title": "Blurred indoor scene",
+    "description": "A softly focused image of a person in a bright room with indistinct surroundings.",
+    "prompt": "blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4",
+    "author_name": "KATE",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/kate_osita_/status/2065835361390280704",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065835361390280704.mp4"
+    }
+  },
+  {
+    "id": "x_2065781636105658438",
+    "title": "Blue motion blur",
+    "description": "A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.",
+    "prompt": "abstract blue motion blur with gradient and light streaks, digital art style",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4",
+    "author_name": "Abdul Șhakoor",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/abxxai/status/2065781636105658438",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065781636105658438.mp4"
+    }
+  },
+  {
+    "id": "x_2065767382266843468",
+    "title": "SousakuAI Campaign",
+    "description": "A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.",
+    "prompt": "anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "チビクロ🧩AI錬金術士",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/CHIBIKURO_QnQ/status/2065767382266843468",
+    "needs_preview": true,
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2065763440019579120",
+    "title": "AI transformation comparison",
+    "description": "A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.",
+    "prompt": "A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4",
+    "author_name": "Smith铜匠・十点睡觉",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/smithandai/status/2065763440019579120",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065763440019579120.mp4"
+    }
+  },
+  {
+    "id": "x_2065758578150134097",
+    "title": "cowboy on horseback",
+    "description": "A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.",
+    "prompt": "a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4",
+    "author_name": "MrDejie",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/mrdejie/status/2065758578150134097",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065758578150134097.mp4"
+    }
+  },
+  {
+    "id": "x_2065736730221891761",
+    "title": "Microscopic Detail Photography Prompt",
+    "description": "A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.",
+    "prompt": "insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Samuel Ferrero.",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/samuel_ferrero/status/2065736730221891761",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2065703215858139363",
+    "title": "Global AI Hackathon",
+    "description": "A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.",
+    "prompt": "A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Qwen Cloud",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/qwen_cloud/status/2065703215858139363",
+    "needs_preview": true,
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2065686685556646001",
+    "title": "Celebrities at World Cup",
+    "description": "A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.",
+    "prompt": "a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4",
+    "author_name": "marium",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/code_bykuti/status/2065686685556646001",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065686685556646001.mp4"
+    }
+  },
+  {
+    "id": "x_2065677496402723235",
+    "title": "Woman Boxing on Beach",
+    "description": "A woman in athletic gear punches a sand-filled bag on a beach during sunset.",
+    "prompt": "a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4",
+    "author_name": "Jihad",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/jihad_sameul/status/2065677496402723235",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065677496402723235.mp4"
+    }
+  },
+  {
+    "id": "x_2065656461792043173",
+    "title": "Couple at Sunset Beach",
+    "description": "A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.",
+    "prompt": "a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4",
+    "author_name": "Your Tech Girl",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/yourtechgirl24/status/2065656461792043173",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065656461792043173.mp4"
+    }
+  },
+  {
+    "id": "x_2065653144097599886",
+    "title": "GlobalGPT AI Tools",
+    "description": "A vibrant screenshot of the GlobalGPT website showcasing AI model access and upgrade options.",
+    "prompt": "A screenshot of the GlobalGPT website homepage with a colorful gradient background, showing AI models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, featuring a navigation menu, a search bar, and promotional banners for AI tools and upgrades.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065653144097599886.mp4",
+    "author_name": "Kalsoom (ghotai )",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AIwithGhotai/status/2065653144097599886",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065653144097599886.mp4"
+    }
+  },
+  {
+    "id": "x_2065652453467644197",
+    "title": "Blurred abstract background",
+    "description": "A softly blurred image with warm tones and a logo in the corner.",
+    "prompt": "abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4",
+    "author_name": "Kalsoom (ghotai )",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AIwithGhotai/status/2065652453467644197",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065652453467644197.mp4"
+    }
+  },
+  {
+    "id": "x_2066279897274736747",
+    "title": "Shirtless man playing guitar by campfire",
+    "description": "A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.",
+    "prompt": "A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4",
+    "author_name": "Billy Balls",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/BillyBalls25138/status/2066279897274736747",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2066279897274736747.mp4"
+    }
+  },
+  {
+    "id": "x_2066215997116502435",
+    "title": "GlobalGPT AI Tools Website UI Showcase",
+    "description": "The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.",
+    "prompt": "A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4",
+    "author_name": "Mimu | AI Tools & News",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/mimu_ai1/status/2066215997116502435",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2066215997116502435.mp4"
+    }
+  },
+  {
+    "id": "x_2066121373341389295",
+    "title": "Futuristic smartphone design",
+    "description": "A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.",
+    "prompt": "close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4",
+    "author_name": "Nakajima Sumiyo｜生成AI × Creative",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/Nakajima_sumiyo/status/2066121373341389295",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2066121373341389295.mp4"
+    }
+  },
+  {
+    "id": "x_2066074651923726830",
+    "title": "The Realtor",
+    "description": "A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.",
+    "prompt": "a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4",
+    "author_name": "Djaja Yerry",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/DjajaYerry75/status/2066074651923726830",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2066074651923726830.mp4"
+    }
+  },
+  {
+    "id": "x_2066014432543883673",
+    "title": "Woman Running from Train",
+    "description": "A woman with red hair runs through a dusty desert as sparks fly from a nearby train.",
+    "prompt": "a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4",
+    "author_name": "Brent Lynch",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/BrentLynch/status/2066014432543883673",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2066014432543883673.mp4"
+    }
+  },
+  {
+    "id": "x_2065999609613418511",
+    "title": "Helicopter Over Ocean",
+    "description": "A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.",
+    "prompt": "a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4",
+    "author_name": "Anish Jaitwar",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AnishJaitwar/status/2065999609613418511",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2065999609613418511.mp4"
+    }
   }
 ]

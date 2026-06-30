@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,10 +56,10 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **800** |
-| Categorias | **12** |
-| Videos de Previa | **800** |
-| Ultima Atualizacao | **2026-06-29T08:04:16.991Z** |
+| Total de Prompts | **848** |
+| Categorias | **13** |
+| Videos de Previa | **843** |
+| Ultima Atualizacao | **2026-06-30T03:13:04.709Z** |
 
 ## 🏷️ Navegar por Categoria
 
@@ -70,11 +70,12 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Advanced Camera Movements`](#category-5): **56**
 - [`Story Development & Extension`](#category-6): **56**
 - [`Character & Scene Consistency`](#category-7): **48**
-- [`One-Take Cinematography`](#category-8): **40**
-- [`Video Editing & Remixing`](#category-9): **40**
-- [`Music Synchronization`](#category-10): **32**
-- [`Ultra-Realistic Video Generation`](#category-11): **32**
-- [`Emotional Performance`](#category-12): **24**
+- [`Twitter Community`](#category-8): **48**
+- [`One-Take Cinematography`](#category-9): **40**
+- [`Video Editing & Remixing`](#category-10): **40**
+- [`Music Synchronization`](#category-11): **32**
+- [`Ultra-Realistic Video Generation`](#category-12): **32**
+- [`Emotional Performance`](#category-13): **24**
 
 ## 🔥 Prompts em Destaque
 
@@ -12774,6 +12775,1003 @@ Use @image1 como primeiro frame. Em primeira pessoa, a câmera avança lentament
 
 <a id="category-8"></a>
 
+### Twitter Community (48)
+
+### No. 1: Neon-lit city street at night
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Megan Li
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### Descricao
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### Prompt
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 2: Office Argument with Panoramic Window View
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Al-Shamus
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### Descricao
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### Prompt
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 3: Romantic Beach Sunset
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Md Riyazuddin
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### Descricao
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### Prompt
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 4: GlobalGPT AI Tools
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Hania Ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### Descricao
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### Prompt
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 5: Woman Boxing on Beach
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Paul Sims
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### Descricao
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### Prompt
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 6: dark text on black
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### Descricao
+
+a dark image with faint white text barely visible on a black background.
+
+#### Prompt
+
+```text
+black background with faint white text in the center
+```
+
+### No. 7: Cheerleaders on the field
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Fakhr
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### Descricao
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### Prompt
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 8: Cheerleaders on the field
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Fakhr
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### Descricao
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### Prompt
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 9: G-Shock World Cup Ad
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** ᴍᴜʀᴘʜʏ
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### Descricao
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### Prompt
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 10: AI image transformation
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** El IAS - Esteban Diba
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/estebandiba/status/2065345391550156906)
+
+#### Descricao
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### Prompt
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 11: Video Editing AI Comparison
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Rehen
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/rehensina/status/2065366437594825014)
+
+#### Descricao
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### Prompt
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 12: Navos AI Content Tool
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Tec-Do 2.0
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### Descricao
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### Prompt
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 13: Flowing Blue Waves
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Rony
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### Descricao
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### Prompt
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 14: Blurred Light Glow
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** aditii
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### Descricao
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### Prompt
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 15: Blurred Light Glow
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** aditii
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### Descricao
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### Prompt
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 16: Galactic Light Bulb
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Jerrod Lew
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### Descricao
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### Prompt
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 17: Abandoned Alleyway
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2065412890363105672)
+
+#### Descricao
+
+A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
+
+#### Prompt
+
+```text
+a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
+```
+
+### No. 18: Blurred indoor scene
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** RAVI KUMAR SAHU
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### Descricao
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### Prompt
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 19: Blurred indoor scene
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Z-Coder
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/codedailyML/status/2065450922944442374)
+
+#### Descricao
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### Prompt
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 20: Blurred indoor scene
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Z-Coder
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/codedailyML/status/2065450922944442374)
+
+#### Descricao
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### Prompt
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 21: Big Ben views
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AIMATRIX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/AIScout22/status/2065487263803527349)
+
+#### Descricao
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 22: Blurred motion abstract
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Theinfralab
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### Descricao
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### Prompt
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 23: Blurred motion abstract
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Theinfralab
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### Descricao
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### Prompt
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 24: Big Ben views
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Riya Ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### Descricao
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### Prompt
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 25: Big Ben views
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Riya Ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### Descricao
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### Prompt
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 26: Blurred abstract background
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kalsoom (ghotai )
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### Descricao
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### Prompt
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 27: Blurred abstract background
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kalsoom (ghotai )
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### Descricao
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### Prompt
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 28: Couple at Sunset Beach
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Your Tech Girl
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### Descricao
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### Prompt
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 29: Woman Boxing on Beach
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Jihad
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### Descricao
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### Prompt
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 30: Celebrities at World Cup
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** marium
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### Descricao
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### Prompt
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 31: Global AI Hackathon
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Qwen Cloud
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### Descricao
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### Prompt
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 32: Microscopic Detail Photography Prompt
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Samuel Ferrero.
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### Descricao
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### Prompt
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 33: cowboy on horseback
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** MrDejie
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/mrdejie/status/2065758578150134097)
+
+#### Descricao
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### Prompt
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 34: AI transformation comparison
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Smith铜匠・十点睡觉
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/smithandai/status/2065763440019579120)
+
+#### Descricao
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### Prompt
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 35: SousakuAI Campaign
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** チビクロ🧩AI錬金術士
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### Descricao
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### Prompt
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 36: Blue motion blur
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Abdul Șhakoor
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/abxxai/status/2065781636105658438)
+
+#### Descricao
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### Prompt
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 37: Blurred indoor scene
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KATE
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### Descricao
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### Prompt
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 38: Blurred indoor scene
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** KATE
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### Descricao
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### Prompt
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 39: Woman and Robot Encounter
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Pezy Ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/PezyAi/status/2065837166593249420)
+
+#### Descricao
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### Prompt
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 40: GlobalGPT Website Screenshot
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Md. Robius Sany
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/tec_sany/status/2065865285442392152)
+
+#### Descricao
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### Prompt
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 41: Big Ben views
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Nayeem Sheikh
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### Descricao
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 42: Big Ben views
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Nayeem Sheikh
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### Descricao
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 43: Helicopter Over Ocean
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Anish Jaitwar
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### Descricao
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### Prompt
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 44: Woman Running from Train
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Brent Lynch
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### Descricao
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### Prompt
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 45: The Realtor
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Djaja Yerry
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### Descricao
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### Prompt
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 46: Futuristic smartphone design
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Nakajima Sumiyo｜生成AI × Creative
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### Descricao
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### Prompt
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 47: GlobalGPT AI Tools Website UI Showcase
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Mimu | AI Tools & News
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### Descricao
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### Prompt
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 48: Shirtless man playing guitar by campfire
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Billy Balls
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### Descricao
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### Prompt
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
+```
+
+<a id="category-9"></a>
+
 ### One-Take Cinematography (40)
 
 ### No. 1: Sequência parkour de perseguição
@@ -13576,7 +14574,7 @@ Experiência emocionante de montanha-russa em primeira pessoa com velocidade cre
 @image1 @image2 @image3 @image4 @image5, perspectiva subjetiva: a câmera simula experiência de montanha-russa com mergulhos, curvas e subidas rápidas.
 ```
 
-<a id="category-9"></a>
+<a id="category-10"></a>
 
 ### Video Editing & Remixing (40)
 
@@ -14412,7 +15410,7 @@ Integra embalagem de marca em cena de restaurante existente. V8
 A câmera de video1 se move para a direita: o dono da loja de frango frito atende pedidos rapidamente e, de repente, o logo de @image1 aparece naturalmente na embalagem.
 ```
 
-<a id="category-10"></a>
+<a id="category-11"></a>
 
 ### Music Synchronization (32)
 
@@ -15056,7 +16054,7 @@ Sequência anime storyboard com timing dramático. V8
 Trecho anime de combate estratégico de 8 s, com música tensa, ações rápidas e mudanças de enquadramento para alto impacto visual.
 ```
 
-<a id="category-11"></a>
+<a id="category-12"></a>
 
 ### Ultra-Realistic Video Generation (32)
 
@@ -15700,7 +16698,7 @@ Sequência intensa de perseguição com colisões realistas e pânico da multid�
 A câmera segue um homem de preto fugindo, com um grupo o perseguindo. Muda para tracking lateral: ele derruba uma barraca de frutas, levanta e continua correndo. Inclua som de pânico da multidão.
 ```
 
-<a id="category-12"></a>
+<a id="category-13"></a>
 
 ### Emotional Performance (24)
 
@@ -16201,7 +17199,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-06-29T08:04:16.991Z
+> Este README e gerado automaticamente. 2026-06-30T03:13:04.709Z
 
 ## More Atlas Cloud Tools
 

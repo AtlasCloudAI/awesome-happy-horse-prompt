@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,10 +56,10 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **800** |
-| Kategoriler | **12** |
-| Onizleme Videolari | **800** |
-| Son Guncelleme | **2026-06-29T08:04:17.010Z** |
+| Toplam Prompt | **848** |
+| Kategoriler | **13** |
+| Onizleme Videolari | **843** |
+| Son Guncelleme | **2026-06-30T03:13:04.722Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
@@ -70,11 +70,12 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 - [`Gelişmiş Kamera Hareketleri`](#category-5): **56**
 - [`Hikâye Geliştirme ve Uzatma`](#category-6): **56**
 - [`Karakter ve Sahne Tutarlılığı`](#category-7): **48**
-- [`Tek Çekim Sinematografisi`](#category-8): **40**
-- [`Video Düzenleme ve Remiks`](#category-9): **40**
-- [`Müzik Senkronizasyonu`](#category-10): **32**
-- [`Ultra Gerçekçi Video Üretimi`](#category-11): **32**
-- [`Duygusal Performans`](#category-12): **24**
+- [`Twitter Community`](#category-8): **48**
+- [`Tek Çekim Sinematografisi`](#category-9): **40**
+- [`Video Düzenleme ve Remiks`](#category-10): **40**
+- [`Müzik Senkronizasyonu`](#category-11): **32**
+- [`Ultra Gerçekçi Video Üretimi`](#category-12): **32**
+- [`Duygusal Performans`](#category-13): **24**
 
 ## 🔥 One Cikan Promptlar
 
@@ -12750,6 +12751,1003 @@ Video sahnesi üret: Birinci şahıs perspektifte, farklı ortamlarda sahne tuta
 
 <a id="category-8"></a>
 
+### Twitter Community (48)
+
+### No. 1: Neon-lit city street at night
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Megan Li
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### Aciklama
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### Prompt
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 2: Office Argument with Panoramic Window View
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Al-Shamus
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### Aciklama
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### Prompt
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 3: Romantic Beach Sunset
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Md Riyazuddin
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### Aciklama
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### Prompt
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 4: GlobalGPT AI Tools
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hania Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### Aciklama
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### Prompt
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 5: Woman Boxing on Beach
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Paul Sims
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### Aciklama
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### Prompt
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 6: dark text on black
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### Aciklama
+
+a dark image with faint white text barely visible on a black background.
+
+#### Prompt
+
+```text
+black background with faint white text in the center
+```
+
+### No. 7: Cheerleaders on the field
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Fakhr
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### Aciklama
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### Prompt
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 8: Cheerleaders on the field
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Fakhr
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### Aciklama
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### Prompt
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 9: G-Shock World Cup Ad
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ᴍᴜʀᴘʜʏ
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### Aciklama
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### Prompt
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 10: AI image transformation
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** El IAS - Esteban Diba
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/estebandiba/status/2065345391550156906)
+
+#### Aciklama
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### Prompt
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 11: Video Editing AI Comparison
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Rehen
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/rehensina/status/2065366437594825014)
+
+#### Aciklama
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### Prompt
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 12: Navos AI Content Tool
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Tec-Do 2.0
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### Aciklama
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### Prompt
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 13: Flowing Blue Waves
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Rony
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### Aciklama
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### Prompt
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 14: Blurred Light Glow
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** aditii
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### Aciklama
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### Prompt
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 15: Blurred Light Glow
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** aditii
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### Aciklama
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### Prompt
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 16: Galactic Light Bulb
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jerrod Lew
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### Aciklama
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### Prompt
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 17: Abandoned Alleyway
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** HappyHorse
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/HappyHorseATH/status/2065412890363105672)
+
+#### Aciklama
+
+A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
+
+#### Prompt
+
+```text
+a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
+```
+
+### No. 18: Blurred indoor scene
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** RAVI KUMAR SAHU
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### Aciklama
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### Prompt
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 19: Blurred indoor scene
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Z-Coder
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/codedailyML/status/2065450922944442374)
+
+#### Aciklama
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### Prompt
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 20: Blurred indoor scene
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Z-Coder
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/codedailyML/status/2065450922944442374)
+
+#### Aciklama
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### Prompt
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 21: Big Ben views
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AIMATRIX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIScout22/status/2065487263803527349)
+
+#### Aciklama
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 22: Blurred motion abstract
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Theinfralab
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### Aciklama
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### Prompt
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 23: Blurred motion abstract
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Theinfralab
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### Aciklama
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### Prompt
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 24: Big Ben views
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Riya Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### Aciklama
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### Prompt
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 25: Big Ben views
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Riya Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### Aciklama
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### Prompt
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 26: Blurred abstract background
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kalsoom (ghotai )
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### Aciklama
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### Prompt
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 27: Blurred abstract background
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Kalsoom (ghotai )
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### Aciklama
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### Prompt
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 28: Couple at Sunset Beach
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Your Tech Girl
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### Aciklama
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### Prompt
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 29: Woman Boxing on Beach
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Jihad
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### Aciklama
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### Prompt
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 30: Celebrities at World Cup
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** marium
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### Aciklama
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### Prompt
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 31: Global AI Hackathon
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Qwen Cloud
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### Aciklama
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### Prompt
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 32: Microscopic Detail Photography Prompt
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Samuel Ferrero.
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### Aciklama
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### Prompt
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 33: cowboy on horseback
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** MrDejie
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/mrdejie/status/2065758578150134097)
+
+#### Aciklama
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### Prompt
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 34: AI transformation comparison
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Smith铜匠・十点睡觉
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/smithandai/status/2065763440019579120)
+
+#### Aciklama
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### Prompt
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 35: SousakuAI Campaign
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** チビクロ🧩AI錬金術士
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### Aciklama
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### Prompt
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 36: Blue motion blur
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Abdul Șhakoor
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/abxxai/status/2065781636105658438)
+
+#### Aciklama
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### Prompt
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 37: Blurred indoor scene
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KATE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### Aciklama
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### Prompt
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 38: Blurred indoor scene
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** KATE
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### Aciklama
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### Prompt
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 39: Woman and Robot Encounter
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Pezy Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PezyAi/status/2065837166593249420)
+
+#### Aciklama
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### Prompt
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 40: GlobalGPT Website Screenshot
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Md. Robius Sany
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/tec_sany/status/2065865285442392152)
+
+#### Aciklama
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### Prompt
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 41: Big Ben views
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nayeem Sheikh
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### Aciklama
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 42: Big Ben views
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nayeem Sheikh
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### Aciklama
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 43: Helicopter Over Ocean
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Anish Jaitwar
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### Aciklama
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### Prompt
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 44: Woman Running from Train
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Brent Lynch
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### Aciklama
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### Prompt
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 45: The Realtor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Djaja Yerry
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### Aciklama
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### Prompt
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 46: Futuristic smartphone design
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Nakajima Sumiyo｜生成AI × Creative
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### Aciklama
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### Prompt
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 47: GlobalGPT AI Tools Website UI Showcase
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mimu | AI Tools & News
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### Aciklama
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### Prompt
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 48: Shirtless man playing guitar by campfire
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Billy Balls
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### Aciklama
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### Prompt
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
+```
+
+<a id="category-9"></a>
+
 ### Tek Çekim Sinematografisi (40)
 
 ### No. 1: Parkur Kovalamaca Sekansı
@@ -13552,7 +14550,7 @@ Hızı giderek artan, birinci şahıs roller coaster deneyimi. V8
 Video sahnesi üret: Hızı giderek artan, birinci şahıs roller coaster deneyimi.
 ```
 
-<a id="category-9"></a>
+<a id="category-10"></a>
 
 ### Video Düzenleme ve Remiks (40)
 
@@ -14356,7 +15354,7 @@ Mevcut restoran sahnesine markalı ambalaj ekleyin. V8
 Video sahnesi üret: Mevcut restoran sahnesine markalı ambalaj ekleyin.
 ```
 
-<a id="category-10"></a>
+<a id="category-11"></a>
 
 ### Müzik Senkronizasyonu (32)
 
@@ -15000,7 +15998,7 @@ Dramatik zamanlamalı storyboard tabanlı anime sekansı. V8
 Video sahnesi üret: Dramatik zamanlamalı storyboard tabanlı anime sekansı.
 ```
 
-<a id="category-11"></a>
+<a id="category-12"></a>
 
 ### Ultra Gerçekçi Video Üretimi (32)
 
@@ -15644,7 +16642,7 @@ Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekan
 Video sahnesi üret: Gerçekçi çarpışma fiziği ve panik kalabalıkla yoğun bir kovalamaca sekansı.
 ```
 
-<a id="category-12"></a>
+<a id="category-13"></a>
 
 ### Duygusal Performans (24)
 
@@ -16145,7 +17143,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-06-29T08:04:17.010Z
+> Bu README otomatik uretilmistir. 2026-06-30T03:13:04.722Z
 
 ## More Atlas Cloud Tools
 

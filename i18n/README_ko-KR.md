@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-800%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,15 +56,15 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **800** |
+| 전체 프롬프트 | **848** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **800** |
-| 마지막 업데이트 | **2026-06-29T08:04:16.798Z** |
+| 미리보기 비디오 | **843** |
+| 마지막 업데이트 | **2026-06-30T03:13:04.568Z** |
 
 ## 🏷️ 카테고리별 보기
 
 - [`HappyHorse 크리에이티브 배치`](#category-1): **240**
-- [`Twitter Community`](#category-2): **88**
+- [`Twitter Community`](#category-2): **136**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
 - [`고급 카메라워크`](#category-5): **56**
@@ -4886,7 +4886,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-2"></a>
 
-### Twitter Community (88)
+### Twitter Community (136)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -6646,6 +6646,999 @@ IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합
 
 ```text
 지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 89: Neon-lit city street at night
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Megan Li
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### 설명
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### 프롬프트
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 90: Office Argument with Panoramic Window View
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Al-Shamus
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### 설명
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### 프롬프트
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 91: Romantic Beach Sunset
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Md Riyazuddin
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### 설명
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### 프롬프트
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 92: GlobalGPT AI Tools
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hania Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### 설명
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### 프롬프트
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 93: Woman Boxing on Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Paul Sims
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### 설명
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### 프롬프트
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 94: dark text on black
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### 설명
+
+a dark image with faint white text barely visible on a black background.
+
+#### 프롬프트
+
+```text
+black background with faint white text in the center
+```
+
+### No. 95: Cheerleaders on the field
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Fakhr
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### 설명
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### 프롬프트
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 96: Cheerleaders on the field
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Fakhr
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### 설명
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### 프롬프트
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 97: G-Shock World Cup Ad
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ᴍᴜʀᴘʜʏ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### 설명
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### 프롬프트
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 98: AI image transformation
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** El IAS - Esteban Diba
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/estebandiba/status/2065345391550156906)
+
+#### 설명
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### 프롬프트
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 99: Video Editing AI Comparison
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rehen
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/rehensina/status/2065366437594825014)
+
+#### 설명
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### 프롬프트
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 100: Navos AI Content Tool
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tec-Do 2.0
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### 설명
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### 프롬프트
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 101: Flowing Blue Waves
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rony
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### 설명
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### 프롬프트
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 102: Blurred Light Glow
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aditii
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### 설명
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### 프롬프트
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 103: Blurred Light Glow
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aditii
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aditiitwt/status/2065399674375471267)
+
+#### 설명
+
+A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
+
+#### 프롬프트
+
+```text
+abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
+```
+
+### No. 104: Galactic Light Bulb
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jerrod Lew
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### 설명
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### 프롬프트
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 105: Abandoned Alleyway
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2065412890363105672)
+
+#### 설명
+
+A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
+
+#### 프롬프트
+
+```text
+a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
+```
+
+### No. 106: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** RAVI KUMAR SAHU
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### 설명
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### 프롬프트
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 107: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2065450922944442374)
+
+#### 설명
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### 프롬프트
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 108: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2065450922944442374)
+
+#### 설명
+
+A softly focused image of an indoor setting with glowing lights and vague human forms.
+
+#### 프롬프트
+
+```text
+blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
+```
+
+### No. 109: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIMATRIX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIScout22/status/2065487263803527349)
+
+#### 설명
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 110: Blurred motion abstract
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Theinfralab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### 설명
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### 프롬프트
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 111: Blurred motion abstract
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Theinfralab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2065506119603331509)
+
+#### 설명
+
+A dynamic abstract image featuring warm blurred motion in orange and brown tones.
+
+#### 프롬프트
+
+```text
+abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
+```
+
+### No. 112: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Riya Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### 설명
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### 프롬프트
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 113: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Riya Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### 설명
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### 프롬프트
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 114: Blurred abstract background
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kalsoom (ghotai )
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### 설명
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### 프롬프트
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 115: Blurred abstract background
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kalsoom (ghotai )
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### 설명
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### 프롬프트
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 116: Couple at Sunset Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Your Tech Girl
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### 설명
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### 프롬프트
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 117: Woman Boxing on Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jihad
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### 설명
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### 프롬프트
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 118: Celebrities at World Cup
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** marium
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### 설명
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### 프롬프트
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 119: Global AI Hackathon
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Qwen Cloud
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### 설명
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### 프롬프트
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 120: Microscopic Detail Photography Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Samuel Ferrero.
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### 설명
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### 프롬프트
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 121: cowboy on horseback
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MrDejie
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/mrdejie/status/2065758578150134097)
+
+#### 설명
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### 프롬프트
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 122: AI transformation comparison
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Smith铜匠・十点睡觉
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/smithandai/status/2065763440019579120)
+
+#### 설명
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### 프롬프트
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 123: SousakuAI Campaign
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** チビクロ🧩AI錬金術士
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### 설명
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### 프롬프트
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 124: Blue motion blur
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Abdul Șhakoor
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/abxxai/status/2065781636105658438)
+
+#### 설명
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### 프롬프트
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 125: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### 설명
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### 프롬프트
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 126: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2065835361390280704)
+
+#### 설명
+
+A softly focused image of a person in a bright room with indistinct surroundings.
+
+#### 프롬프트
+
+```text
+blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
+```
+
+### No. 127: Woman and Robot Encounter
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pezy Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PezyAi/status/2065837166593249420)
+
+#### 설명
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### 프롬프트
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 128: GlobalGPT Website Screenshot
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Md. Robius Sany
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/tec_sany/status/2065865285442392152)
+
+#### 설명
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### 프롬프트
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 129: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nayeem Sheikh
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### 설명
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 130: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nayeem Sheikh
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### 설명
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 131: Helicopter Over Ocean
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Anish Jaitwar
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### 설명
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### 프롬프트
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 132: Woman Running from Train
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Brent Lynch
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### 설명
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### 프롬프트
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 133: The Realtor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Djaja Yerry
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### 설명
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### 프롬프트
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 134: Futuristic smartphone design
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nakajima Sumiyo｜生成AI × Creative
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### 설명
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### 프롬프트
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 135: GlobalGPT AI Tools Website UI Showcase
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mimu | AI Tools & News
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### 설명
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### 프롬프트
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 136: Shirtless man playing guitar by campfire
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Billy Balls
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### 설명
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### 프롬프트
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
 ```
 
 <a id="category-3"></a>
@@ -16225,7 +17218,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-06-29T08:04:16.798Z
+> 이 README는 자동 생성됩니다. 2026-06-30T03:13:04.568Z
 
 ## More Atlas Cloud Tools
 

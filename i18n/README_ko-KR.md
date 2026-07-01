@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-969%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,15 +56,15 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **848** |
+| 전체 프롬프트 | **969** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **843** |
-| 마지막 업데이트 | **2026-06-30T09:35:29.683Z** |
+| 미리보기 비디오 | **907** |
+| 마지막 업데이트 | **2026-07-01T03:29:42.911Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`HappyHorse 크리에이티브 배치`](#category-1): **240**
-- [`Twitter Community`](#category-2): **136**
+- [`Twitter Community`](#category-1): **257**
+- [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
 - [`고급 카메라워크`](#category-5): **56**
@@ -81,6 +81,5714 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 ## 📋 전체 프롬프트
 
 <a id="category-1"></a>
+
+### Twitter Community (257)
+
+### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다.
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 2: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V2
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 3: 도시전 속 불타는 장갑차 항공 샷 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V2
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 4: 윌 스미스가 스파게티를 먹는 장면 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V2
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 5: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V2
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 6: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V2
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 7: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V2
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 8: 원작을 뛰어넘는 원펀맨 애니메이션 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V2
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 9: 윌 스미스가 스파게티를 먹는 장면 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V2
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 10: 수달이 거대 메카에 탑승하는 애니 장면 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V2
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 11: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V2
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 12: 사막 지형을 전진하는 병사 지상 전투 샷 V2
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v2
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V2
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 13: 도시전 속 불타는 장갑차 항공 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다.
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 14: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V3
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 15: 도시전 속 불타는 장갑차 항공 샷 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V3
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 16: 윌 스미스가 스파게티를 먹는 장면 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V3
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 17: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V3
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 18: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V3
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 19: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V3
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 20: 원작을 뛰어넘는 원펀맨 애니메이션 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V3
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 21: 윌 스미스가 스파게티를 먹는 장면 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V3
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 22: 수달이 거대 메카에 탑승하는 애니 장면 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V3
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 23: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V3
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 24: 사막 지형을 전진하는 병사 지상 전투 샷 V3
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v3
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V3
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 25: 윌 스미스가 스파게티를 먹는 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 26: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V4
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 27: 도시전 속 불타는 장갑차 항공 샷 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V4
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 28: 윌 스미스가 스파게티를 먹는 장면 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V4
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 29: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V4
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 30: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V4
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 31: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V4
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 32: 원작을 뛰어넘는 원펀맨 애니메이션 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V4
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 33: 윌 스미스가 스파게티를 먹는 장면 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V4
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 34: 수달이 거대 메카에 탑승하는 애니 장면 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V4
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 35: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V4
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 36: 사막 지형을 전진하는 병사 지상 전투 샷 V4
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v4
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V4
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 37: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V5
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 38: 도시전 속 불타는 장갑차 항공 샷 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V5
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 39: 윌 스미스가 스파게티를 먹는 장면 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V5
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 40: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V5
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 41: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V5
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 42: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V5
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 43: 원작을 뛰어넘는 원펀맨 애니메이션 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V5
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 44: 윌 스미스가 스파게티를 먹는 장면 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V5
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 45: 수달이 거대 메카에 탑승하는 애니 장면 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V5
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 46: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V5
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 47: 사막 지형을 전진하는 병사 지상 전투 샷 V5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v5
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V5
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 48: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V6
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 49: 도시전 속 불타는 장갑차 항공 샷 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V6
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 50: 윌 스미스가 스파게티를 먹는 장면 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V6
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 51: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V6
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 52: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V6
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 53: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V6
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 54: 원작을 뛰어넘는 원펀맨 애니메이션 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V6
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 55: 윌 스미스가 스파게티를 먹는 장면 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V6
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 56: 수달이 거대 메카에 탑승하는 애니 장면 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V6
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 57: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V6
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 58: 사막 지형을 전진하는 병사 지상 전투 샷 V6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v6
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V6
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 59: 여성이 비행기를 조종하는 복합 액션 장면 테스트
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다.
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 60: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V7
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 61: 도시전 속 불타는 장갑차 항공 샷 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V7
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 62: 윌 스미스가 스파게티를 먹는 장면 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V7
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 63: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V7
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 64: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V7
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 65: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V7
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 66: 원작을 뛰어넘는 원펀맨 애니메이션 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V7
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 67: 윌 스미스가 스파게티를 먹는 장면 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V7
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 68: 수달이 거대 메카에 탑승하는 애니 장면 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V7
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 69: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V7
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 70: 사막 지형을 전진하는 병사 지상 전투 샷 V7
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v7
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V7
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 71: IMAX 사막 모래폭풍, 드니 빌뇌브 미학
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다.
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 72: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_001_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V8
+
+#### 프롬프트
+
+```text
+전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
+```
+
+### No. 73: 도시전 속 불타는 장갑차 항공 샷 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_003_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V8
+
+#### 프롬프트
+
+```text
+전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
+```
+
+### No. 74: 윌 스미스가 스파게티를 먹는 장면 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_004_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V8
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 75: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_007_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V8
+
+#### 프롬프트
+
+```text
+재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
+```
+
+### No. 76: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_008_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V8
+
+#### 프롬프트
+
+```text
+스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
+```
+
+### No. 77: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V8
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 78: 원작을 뛰어넘는 원펀맨 애니메이션 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V8
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 79: 윌 스미스가 스파게티를 먹는 장면 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V8
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 80: 수달이 거대 메카에 탑승하는 애니 장면 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V8
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 81: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V8
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 82: 사막 지형을 전진하는 병사 지상 전투 샷 V8
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024_v8
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V8
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 83: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_009
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다.
+
+#### 프롬프트
+
+```text
+현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
+```
+
+### No. 84: 원작을 뛰어넘는 원펀맨 애니메이션
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_016
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다.
+
+#### 프롬프트
+
+```text
+극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
+```
+
+### No. 85: 윌 스미스가 스파게티를 먹는 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_018
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
+
+#### 프롬프트
+
+```text
+포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
+```
+
+### No. 86: 수달이 거대 메카에 탑승하는 애니 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_021
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다.
+
+#### 프롬프트
+
+```text
+메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
+```
+
+### No. 87: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_022
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+남인도 상업영화 감성의 외계인 액션 장면을 생성합니다.
+
+#### 프롬프트
+
+```text
+남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
+```
+
+### No. 88: 사막 지형을 전진하는 병사 지상 전투 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `twitter`
+- **작성자:** tw_024
+- **언어:** `ko`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### 설명
+
+긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다.
+
+#### 프롬프트
+
+```text
+지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
+```
+
+### No. 89: Neon-lit city street at night
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Megan Li
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### 설명
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### 프롬프트
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 90: Office Argument with Panoramic Window View
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Al-Shamus
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### 설명
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### 프롬프트
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 91: Romantic Beach Sunset
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Md Riyazuddin
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### 설명
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### 프롬프트
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 92: GlobalGPT AI Tools
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Hania Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### 설명
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### 프롬프트
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 93: Woman Boxing on Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Paul Sims
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### 설명
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### 프롬프트
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 94: dark text on black
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### 설명
+
+a dark image with faint white text barely visible on a black background.
+
+#### 프롬프트
+
+```text
+black background with faint white text in the center
+```
+
+### No. 95: Cheerleaders on the field
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Fakhr
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### 설명
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### 프롬프트
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 96: Cheerleaders on the field
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Fakhr
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### 설명
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### 프롬프트
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 97: G-Shock World Cup Ad
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ᴍᴜʀᴘʜʏ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### 설명
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### 프롬프트
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 98: AI image transformation
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** El IAS - Esteban Diba
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/estebandiba/status/2065345391550156906)
+
+#### 설명
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### 프롬프트
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 99: Video Editing AI Comparison
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rehen
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/rehensina/status/2065366437594825014)
+
+#### 설명
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### 프롬프트
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 100: Navos AI Content Tool
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Tec-Do 2.0
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### 설명
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### 프롬프트
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 101: Flowing Blue Waves
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Rony
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### 설명
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### 프롬프트
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 102: Galactic Light Bulb
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jerrod Lew
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### 설명
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### 프롬프트
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 103: Blurred indoor scene
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** RAVI KUMAR SAHU
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### 설명
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### 프롬프트
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 104: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIMATRIX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIScout22/status/2065487263803527349)
+
+#### 설명
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 105: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Riya Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### 설명
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### 프롬프트
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 106: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Riya Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### 설명
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### 프롬프트
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 107: Blurred abstract background
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kalsoom (ghotai )
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### 설명
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### 프롬프트
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 108: Blurred abstract background
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kalsoom (ghotai )
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### 설명
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### 프롬프트
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 109: Couple at Sunset Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Your Tech Girl
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### 설명
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### 프롬프트
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 110: Woman Boxing on Beach
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jihad
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### 설명
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### 프롬프트
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 111: Celebrities at World Cup
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** marium
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### 설명
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### 프롬프트
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 112: Global AI Hackathon
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Qwen Cloud
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### 설명
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### 프롬프트
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 113: Microscopic Detail Photography Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Samuel Ferrero.
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### 설명
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### 프롬프트
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 114: cowboy on horseback
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MrDejie
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/mrdejie/status/2065758578150134097)
+
+#### 설명
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### 프롬프트
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 115: AI transformation comparison
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Smith铜匠・十点睡觉
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/smithandai/status/2065763440019579120)
+
+#### 설명
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### 프롬프트
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 116: SousakuAI Campaign
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** チビクロ🧩AI錬金術士
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### 설명
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### 프롬프트
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 117: Blue motion blur
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Abdul Șhakoor
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/abxxai/status/2065781636105658438)
+
+#### 설명
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### 프롬프트
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 118: Woman and Robot Encounter
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Pezy Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PezyAi/status/2065837166593249420)
+
+#### 설명
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### 프롬프트
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 119: GlobalGPT Website Screenshot
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Md. Robius Sany
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/tec_sany/status/2065865285442392152)
+
+#### 설명
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### 프롬프트
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 120: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nayeem Sheikh
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### 설명
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 121: Big Ben views
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nayeem Sheikh
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### 설명
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### 프롬프트
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 122: Helicopter Over Ocean
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Anish Jaitwar
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### 설명
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### 프롬프트
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 123: Woman Running from Train
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Brent Lynch
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### 설명
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### 프롬프트
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 124: The Realtor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Djaja Yerry
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### 설명
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### 프롬프트
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 125: Futuristic smartphone design
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nakajima Sumiyo｜生成AI × Creative
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### 설명
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### 프롬프트
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 126: GlobalGPT AI Tools Website UI Showcase
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mimu | AI Tools & News
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### 설명
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### 프롬프트
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 127: Shirtless man playing guitar by campfire
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Billy Balls
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### 설명
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### 프롬프트
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
+```
+
+### No. 128: 【最速比較】Ai動画の新王者！Seedance 2.0 Mini Vs Grok 1.5 Vs Happy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** lume_itigo15
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/itigo_uu15/status/2070441968040386721)
+
+#### 설명
+
+【最速比較】AI動画の新王者！Seedance 2.0 Mini vs Grok 1.5 vs Happy Horse 1.1 徹底比較
+
+同じプロンプト条件で3つのモデルを比較した動画ですが、今回の結果はかなり印象的でした。
+
+#### 프롬프트
+
+```text
+【最速比較】AI動画の新王者！Seedance 2.0 Mini vs Grok 1.5 vs Happy Horse 1.1 徹底比較
+
+同じプロンプト条件で3つのモデルを比較した動画ですが、今回の結果はかなり印象的でした。
+
+優勝モデルはほぼ文句なしの完成度で、映像の一貫性や表現力の差が非常に分かりやすいです。
+
+一方で Seedance
+```
+
+### No. 129: Artificial Analysis Just Released A Category-Level Breakdown Of
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** DeFAI Scope
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/defaiscope/status/2070442757022171207)
+
+#### 설명
+
+Artificial Analysis just released a category-level breakdown of video editing performance, and the field splits cleanly by capability.
+
+#### 프롬프트
+
+```text
+Artificial Analysis just released a category-level breakdown of video editing performance, and the field splits cleanly by capability.
+
+Models strong on Sound &amp; Physics tend to be weak on Visual Effects, and vice versa.
+Wan 2.7 ranks #2 in Sound and Complex Edits but #6 in VFX.
+```
+
+### No. 130: Happyhorse 1.1 &Amp; Kling 3.0 Are Now On
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CometAPI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cometapi_ai/status/2070451300429643958)
+
+#### 설명
+
+HappyHorse 1.1 &amp; Kling 3.0 are now on CometAPI!
+
+#### 프롬프트
+
+```text
+HappyHorse 1.1 &amp; Kling 3.0 are now on CometAPI!
+
+
+
+#CometAPI #HappyHorse #Kling #VideoAI #AI #API
+```
+
+### No. 131: 不自然な動きが減ってAiだけで実用動画が作りやすくなった Happyhorse 1.1が物理法則に沿った自然な動きを実現。広告やUgc向けの動画生成が変わった。
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/outsourcePM/status/2070463621352833165)
+
+#### 설명
+
+不自然な動きが減ってAIだけで実用動画が作りやすくなった
+HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
+
+#### 프롬프트
+
+```text
+不自然な動きが減ってAIだけで実用動画が作りやすくなった
+HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
+
+✅ HappyHorse 1.1の動きが自然
+
+✅ 自分で高品質動画を量産しやすくなる
+
+✅ 今まで手直しが必要だった部分が最初から直る
+```
+
+### No. 132: The Next Generation Of Ai Video Is Here
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Omixa Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070470575995183104/vid/avc1/1920x1080/t26NUQcdE9Djd0uH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070470575995183104/vid/avc1/1920x1080/t26NUQcdE9Djd0uH.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Omixacloud/status/2070471113868476811)
+
+#### 설명
+
+The next generation of AI video is here.
+
+#### 프롬프트
+
+```text
+The next generation of AI video is here.
+
+HappyHorse 1.1 is now available through Omixa API — built for creators, developers, agencies, and AI platforms that need cinematic video generation at scale.
+
+Generate powerful AI videos from text, images, or visual references with
+```
+
+### No. 133: In Builderstudio 2.0.1 You Can Generate Videos Like
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** WunderCorp, Inc.
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070481011524165632/vid/avc1/762x762/4nZB-9ngPvdkQZTn.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070481011524165632/vid/avc1/762x762/4nZB-9ngPvdkQZTn.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/wundercorp/status/2070481067673280581)
+
+#### 설명
+
+In BuilderStudio 2.0.1 you can generate videos like this to promote your own apps 🎥📱🍿
+
+Try out our new workflows feature today ⬇️
+
+#### 프롬프트
+
+```text
+In BuilderStudio 2.0.1 you can generate videos like this to promote your own apps 🎥📱🍿
+
+Try out our new workflows feature today ⬇️
+
+
+
+#ai #videogen #happyhorse #nanobanana #aivideo #ios #videomaker #aivideomaker
+```
+
+### No. 134: Ai Is Getting Scary Good... 🤯🐜 This Animated
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Marry claire
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070489678248304640/vid/avc1/1280x720/-YsqopRNM8TYg4iN.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070489678248304640/vid/avc1/1280x720/-YsqopRNM8TYg4iN.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Marryclaire_AI/status/2070489735425122396)
+
+#### 설명
+
+AI is getting scary good...
+
+#### 프롬프트
+
+```text
+AI is getting scary good... 🤯🐜
+
+This animated ant comedy was brought to life with HappyHorse 1.1 -where tiny ants deliver big laughs.
+
+ HappyHorse 1.1 is now available! The HORSEPOWER AI Cinema Awards are officially open!!!!
+Super excited to create my next AI film!
+```
+
+### No. 135: In 2025, I Had 6 Ai Provider Accounts
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Parul Gautam
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070494455158001665/vid/avc1/1314x720/WHk2AUv4gS9FEKkL.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070494455158001665/vid/avc1/1314x720/WHk2AUv4gS9FEKkL.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Parul_Gautam7/status/2070494543104155865)
+
+#### 설명
+
+In 2025, I had 6 AI provider accounts.
+
+#### 프롬프트
+
+```text
+In 2025, I had 6 AI provider accounts.
+
+6 API keys. 6 billing dashboards. 6 different integration formats to manage.
+Every time I wanted to test a new model, I had to sign up somewhere new, add a card, figure out a new API format, and then actually do the work I came to do.
+
+It
+```
+
+### No. 136: 5. 🎥 Alibaba Becomes Ai Video'S Unexpected Challenger
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Trew Knowledge
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/trewknowledge/status/2070496923060957413)
+
+#### 설명
+
+5.
+
+#### 프롬프트
+
+```text
+5. 🎥 Alibaba Becomes AI Video's Unexpected Challenger
+
+Alibaba's HappyHorse 1.1 moved into second place on AI video rankings after a surprising series of competitor setbacks. OpenAI's Sora is being discontinued, while ByteDance's Seedance faces copyright-related challenges.
+```
+
+### No. 137: The Biggest Improvement For Jupiter Was Instruction Following
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Amir D
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/starks_arq/status/2070511837733400806)
+
+#### 설명
+
+The biggest improvement for Jupiter was instruction following.
+
+#### 프롬프트
+
+```text
+The biggest improvement for Jupiter was instruction following.
+
+The film jumps between generations, ideas, and symbolic moments. Keeping those connected is where many video models struggle.
+
+Happy Horse 1.1 does a much better job maintaining context and understanding the intent
+```
+
+### No. 138: 7 New Models Just Dropped On Atlas Cloud.🏄‍♀️
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Atlas Cloud
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/atlas_cloud_ai/status/2070514331431887066)
+
+#### 설명
+
+7 new models just dropped on Atlas Cloud.🏄‍♀️
+Video, coding, reasoning, avatar generation—all live now with the lowest prices anywhere.
+
+#### 프롬프트
+
+```text
+7 new models just dropped on Atlas Cloud.🏄‍♀️
+Video, coding, reasoning, avatar generation—all live now with the lowest prices anywhere.
+Kling 3.0 Turbo (4K for3.0 &amp; Omni 3 ), Seedance 2.0 4K&amp; Mini, HappyHorse 1.1, OWL (yes, FREE).
+One API key. 300+ models. 
+
+🧵 Details &amp; direct
+```
+
+### No. 139: June In Ai Art. A Lot Happened. →
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** FloyoAI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### 설명
+
+June in AI art.
+
+#### 프롬프트
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 140: June In Ai Art. A Lot Happened. →
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** FloyoAI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### 설명
+
+June in AI art.
+
+#### 프롬프트
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 141: June In Ai Art. A Lot Happened. →
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** FloyoAI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### 설명
+
+June in AI art.
+
+#### 프롬프트
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 142: Happyhorse 1.0 And 1.1 Are Now Available On
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** InfronAI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070445620083769344/vid/avc1/1920x1080/g0CQ-9nNzD55kdNx.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070445620083769344/vid/avc1/1920x1080/g0CQ-9nNzD55kdNx.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/InfronAI/status/2070522476862574677)
+
+#### 설명
+
+HappyHorse 1.0 and 1.1 are now available on Infron.
+
+#### 프롬프트
+
+```text
+HappyHorse 1.0 and 1.1 are now available on Infron.
+@HappyHorseATH's video model that ranked #1 on Artificial Analysis Video Arena in both text-to-video and image-to-video.
+
+Try them now 👇
+→1.1 Text to Video: 
+→1.1 Image to Video:
+```
+
+### No. 143: Managing Different Api Accounts Just To Build One
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** LinkModel
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/link_model_ai/status/2070522481492787669)
+
+#### 설명
+
+Managing different API accounts just to build one product?
+
+#### 프롬프트
+
+```text
+Managing different API accounts just to build one product? 🥲
+
+In LinkModel AI, one key handles it all. 😎
+And even with up to 30% cheaper than going direct. 🔥
+
+What’s inside 🙌
+→ Claude Opus 4.8 (15% off)
+→ Kling-V3 (30% off)
+→ GPT Image 2 (25% off)
+→ Nano Banana 2 (25%
+```
+
+### No. 144: Thanks Mate! Used The Happy Horse 1.1 Reference
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Stephan
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Stephan_Kop/status/2070528705458209224)
+
+#### 설명
+
+Thanks mate!
+
+#### 프롬프트
+
+```text
+@idrisscodes Thanks mate! Used the happy horse 1.1 reference to video model, seems pretty decent for the price!
+```
+
+### No. 145: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice The Ai Expert
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### 설명
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### 프롬프트
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 146: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice The Ai Expert
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### 설명
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### 프롬프트
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 147: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice The Ai Expert
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### 설명
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### 프롬프트
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 148: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Theinfralab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### 설명
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### 프롬프트
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 149: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Theinfralab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### 설명
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### 프롬프트
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 150: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Theinfralab
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### 설명
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### 프롬프트
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 151: Felted Style Short Film Is Gorgeous And Deeply
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2070562184833159662)
+
+#### 설명
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### 프롬프트
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 152: Felted Style Short Film Is Gorgeous And Deeply
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2070562184833159662)
+
+#### 설명
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### 프롬프트
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 153: Felted Style Short Film Is Gorgeous And Deeply
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2070562184833159662)
+
+#### 설명
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### 프롬프트
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 154: Felted Style Short Film Is Gorgeous And Deeply
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2070562184833159662)
+
+#### 설명
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### 프롬프트
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 155: Gerei O Mesmo Prompt Em 2 Modelos Diferentes
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** O que fazer com IA
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2070584223291895808/pu/vid/avc1/1280x720/-NmLB2ozeX71w7AS.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2070584223291895808/pu/vid/avc1/1280x720/-NmLB2ozeX71w7AS.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/oquefazercomia/status/2070584632874025067)
+
+#### 설명
+
+Gerei o MESMO prompt em 2 modelos diferentes de IA pra vídeo e olha a diferença 👇
+
+Prompt usado:
+"Um astronauta caminhando lentamente sobre uma montanha nevada à noite.
+
+#### 프롬프트
+
+```text
+Gerei o MESMO prompt em 2 modelos diferentes de IA pra vídeo e olha a diferença 👇
+
+Prompt usado:
+"Um astronauta caminhando lentamente sobre uma montanha nevada à noite. Uma placa de neon azul brilha ao fundo com a frase 'O FUTURO É AGORA'. Um planeta com anéis enormes nasce no
+```
+
+### No. 156: I Recently Got Accepted As One Of The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** B.A.S.H 🔺⚔️
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2070600344103440384/pu/vid/avc1/1280x720/FPYjyB5huQONypSP.mp4)
+
+<video src="https://video.twimg.com/ext_tw_video/2070600344103440384/pu/vid/avc1/1280x720/FPYjyB5huQONypSP.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Bente_pro/status/2070600466283774317)
+
+#### 설명
+
+I recently got accepted as one of the CPPs at  and luckily for me, it coincided with the release of HappyHorse 1.1, so I decided to check it out and work with it.
+
+#### 프롬프트
+
+```text
+I recently got accepted as one of the CPPs at @HappyHorseATH, and luckily for me, it coincided with the release of HappyHorse 1.1, so I decided to check it out and work with it.
+
+I created a vintage cartoon inspired by my favorite childhood cartoon, Tom and Jerry, and I must say
+```
+
+### No. 157: The Best Of Both Worlds: Access The Latest
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mark Ledford
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070599396757291008/vid/avc1/1280x720/zcphIX2e90YbEk-4.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070599396757291008/vid/avc1/1280x720/zcphIX2e90YbEk-4.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/fishmongr/status/2070600762217161004)
+
+#### 설명
+
+The best of both worlds: Access the latest frontier partner video models like Seedance 2.0 and Happy Horse 1.1 at discounted pay-as-you-go rates.
+
+#### 프롬프트
+
+```text
+@Sogni_Protocol The best of both worlds: Access the latest frontier partner video models like Seedance 2.0 and Happy Horse 1.1 at discounted pay-as-you-go rates. Without an additional subscription.
+```
+
+### No. 158: Happy Horse 1.1 By Alibaba Is Live On
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝚉𝚊𝚎𝚜𝚊𝚛
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070625761883537408/vid/avc1/1440x1440/bFUkp2ZYV3qEP7-D.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070625761883537408/vid/avc1/1440x1440/bFUkp2ZYV3qEP7-D.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/zaesarius/status/2070626056990552242)
+
+#### 설명
+
+Happy Horse 1.1 by  Alibaba is live on AI FILMS Studio.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 by  Alibaba is live on AI FILMS Studio. One change from version 1.0 of  1080px costs drop by a third. A 5 second 1080px clip goes from 1,400  credits to 945 and it has the same quality and the same capabilities.
+
+Like most of the video models it comes with text to
+```
+
+### No. 159: 🜲 Happyhorse 1.1 Prompt Share 🜲 Ugc Style
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Feyber | AI Creator
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/woleswoosh/status/2070637304557998517)
+
+#### 설명
+
+🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
+
+UGC STYLE:
+Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing.
+
+#### 프롬프트
+
+```text
+🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
+
+UGC STYLE:
+Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing. More Dynamic Motion, Stronger Consistency, and Higher Visual Fidelity. The
+```
+
+### No. 160: Day 6: Ai Video Contests Can Easily Get
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** MB
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/twMoonBoy/status/2070640286368235897)
+
+#### 설명
+
+Day 6: AI video contests can easily get you 5figs
+
+made a list of all contests ongoing atm
+
+take action!👇
+
+1/ Rednoise challenge ($10k)
+&gt; Deadline: June 30th
+&gt; Link: 
+
+2/ Kinovi FIFA Challenge (
+
+#### 프롬프트
+
+```text
+Day 6: AI video contests can easily get you 5figs
+
+made a list of all contests ongoing atm
+
+take action!👇
+
+1/ Rednoise challenge ($10k)
+&gt; Deadline: June 30th
+&gt; Link: 
+
+2/ Kinovi FIFA Challenge ($800)
+&gt; Deadline: June 30th
+&gt; Link:
+```
+
+### No. 161: What If The Greatest Escape Wasn'T From The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ai Arainz
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070751675728400384/vid/avc1/1920x1080/fioEe8x72xach-XH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070751675728400384/vid/avc1/1920x1080/fioEe8x72xach-XH.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iam_mian7/status/2070751763888771109)
+
+#### 설명
+
+What if the greatest escape wasn't from the police...
+
+#### 프롬프트
+
+```text
+Title: The Last Escape
+Duration: 15 Seconds
+Style: Ultra-realistic cinematic action, post-apocalyptic https://t.co/JpQeiolr1v
+```
+
+### No. 162: The Goal That Belonged To Everyone Created With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ai Doctor
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2070769622664556544/pu/vid/avc1/1920x1072/t8DkZEXu27ImifyL.mp4)
+
+<video src="https://video.twimg.com/ext_tw_video/2070769622664556544/pu/vid/avc1/1920x1072/t8DkZEXu27ImifyL.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/DoctorAmna11/status/2070769785567166612)
+
+#### 설명
+
+The Goal That Belonged to Everyone
+
+Created with HappyHorse 1.1 on  
+
+Prompt:
+15-second ultra-realistic cinematic football commercial, 4K HDR, 60fps, natural human motion, realistic football physics, 
+
+#### 프롬프트
+
+```text
+15-second ultra-realistic cinematic football commercial, 4K HDR, 60fps, natural human motion, realistic football physics, golden-hour lighting, packed stadium atmosphere, smooth gimbal https://t.co/q0KUReJrEF
+```
+
+### No. 163: Benchmarking Video Models In A Public Arena Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ethan Walker
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ethan_walker_ai/status/2070776674590069185)
+
+#### 설명
+
+Benchmarking video models in a public arena is one of the best ways to push the space forward.
+
+#### 프롬프트
+
+```text
+@arena @HappyHorseATH Benchmarking video models in a public arena is one of the best ways to push the space forward. Curious to see how HappyHorse 1.1 performs against the current leaders.
+```
+
+### No. 164: Venice Doing Interesting Things In Decentralized Ai Space
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aixbt
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/aixbt_agent/status/2070844128561381704)
+
+#### 설명
+
+venice doing interesting things in decentralized ai space
+
+1.5M daily chats through warden protocol, processing nearly 1T tokens.
+
+#### 프롬프트
+
+```text
+@Robircz_ venice doing interesting things in decentralized ai space
+
+1.5M daily chats through warden protocol, processing nearly 1T tokens. user base projections show 4M by end of june, 10M by end of 2026. hit $2B fdv 8 days ago
+
+product velocity is real—just added seedance 2.0 4K video
+```
+
+### No. 165: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2070857551667740950)
+
+#### 설명
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### 프롬프트
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 166: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2070857551667740950)
+
+#### 설명
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### 프롬프트
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 167: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2070857551667740950)
+
+#### 설명
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### 프롬프트
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 168: The Track Is Powered By Happyhorse 1.1 —
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alamin
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iam_chonchol/status/2070889123221745897)
+
+#### 설명
+
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+
+#### 프롬프트
+
+```text
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+Released June 22, 2026.
+
+Not to be confused with the original HappyHorse — this is a major upgrade, already adopted across short drama, e-commerce, marketing, and CG production.
+
+Here's what
+```
+
+### No. 169: The Track Is Powered By Happyhorse 1.1 —
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alamin
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/iam_chonchol/status/2070889123221745897)
+
+#### 설명
+
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+
+#### 프롬프트
+
+```text
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+Released June 22, 2026.
+
+Not to be confused with the original HappyHorse — this is a major upgrade, already adopted across short drama, e-commerce, marketing, and CG production.
+
+Here's what
+```
+
+### No. 170: So Many Ships: Here'S Another Demo Of The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Christopher Gwinn | Grindhouse Glitch
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ChrisGwinnLA/status/2071035565441708129)
+
+#### 설명
+
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p.
+
+#### 프롬프트
+
+```text
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p. 
+
+AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
+```
+
+### No. 171: So Many Ships: Here'S Another Demo Of The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Christopher Gwinn | Grindhouse Glitch
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ChrisGwinnLA/status/2071035565441708129)
+
+#### 설명
+
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p.
+
+#### 프롬프트
+
+```text
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p. 
+
+AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
+```
+
+### No. 172: What A Crazy Week In Ai! 🚀 Wan
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ⚡AI Search⚡
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071075327921803264/vid/avc1/1080x1080/bXCAAoaE39am-09U.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071075327921803264/vid/avc1/1080x1080/bXCAAoaE39am-09U.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aisearchio/status/2071075787223322684)
+
+#### 설명
+
+What a crazy week in AI!
+
+#### 프롬프트
+
+```text
+What a crazy week in AI! 🚀
+
+Wan Streamer
+Domain Shuttle
+Ornith
+Arbor
+DanceOPD
+Seedance 2.5
+HappyHorse 1.1
+Krea 2
+GPT-5.6
+Autodata
+&amp; more!
+
+Watch the full recap:
+```
+
+### No. 173: From Holding Onto A Golden Pole On Carousel
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Soulful Ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071154787308158976/vid/avc1/1080x1080/GciMBlCZXUNP2wKv.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071154787308158976/vid/avc1/1080x1080/GciMBlCZXUNP2wKv.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/soulful__ai/status/2071154931697119436)
+
+#### 설명
+
+From holding onto a golden pole on Carousel to holding a polo mallet on a championship field.🎠
+
+The things we loved as kids often shape who we become.
+
+#### 프롬프트
+
+```text
+SECTION 1 https://t.co/weyCcHGFrb
+```
+
+### No. 174: Happy Horse 1.1 Is Now Available On It
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PZF
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071162575383920640/vid/avc1/1280x720/Mt5kj7sN6mZ-rNqw.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071162575383920640/vid/avc1/1280x720/Mt5kj7sN6mZ-rNqw.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/pzf_ai/status/2071162859078271112)
+
+#### 설명
+
+Happy Horse 1.1 is now available on  
+
+It has smoother motion and more expressive character performances than v1.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 is now available on @LeonardoAi 
+
+It has smoother motion and more expressive character performances than v1.
+
+It also handles artistic styles well. This clip was done using text to video and it has rendered the painterly style I requested very well.
+```
+
+### No. 175: Quick Hits Alibaba Released Happy Horse 1.1, An
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ToZx
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Tozxart/status/2071214115360547061)
+
+#### 설명
+
+Quick Hits
+
+Alibaba released Happy Horse 1.1, an upgrade to their video model with improved motion realism, character consistency, and native audio lip sync.
+
+#### 프롬프트
+
+```text
+Quick Hits
+
+Alibaba released Happy Horse 1.1, an upgrade to their video model with improved motion realism, character consistency, and native audio lip sync. Still behind Seed Dance but noticeably better than version one.
+
+Krea 2 is now open weights and one of the most uncensored
+```
+
+### No. 176: まいどです。 本日の生成Aiニュース+テクノロジー情報です。 『Gpt-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Stre
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** fujito
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/fujito_AI_note/status/2071229127940886949)
+
+#### 설명
+
+まいどです。
+
+#### 프롬프트
+
+```text
+まいどです。
+本日の生成AIニュース+テクノロジー情報です。
+
+『GPT-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Streamer v0.1』『Krea 2 Conditioning Control』『LanPaint』『EditAnything』『3DREAL』『KER』『Step Into Set™ Motion
+```
+
+### No. 177: That’S A Beautiful Full-Circle Arc — From Carousel
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ÀBDŪLLÂH
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/itxabdullaa/status/2071246429465555349)
+
+#### 설명
+
+That’s a beautiful full-circle arc — from carousel pole to polo mallet, childhood wonder becoming adult mastery 🎠🏆 
+
+Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
+
+#### 프롬프트
+
+```text
+@soulful__ai @itsPolloAI @HappyHorseATH That’s a beautiful full-circle arc — from carousel pole to polo mallet, childhood wonder becoming adult mastery 🎠🏆 
+
+Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
+```
+
+### No. 178: 🚀 This Week At Vanikya: 🎬 Happy Horse
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Vanikya
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/vanikyaai/status/2071254683424080159)
+
+#### 설명
+
+🚀 This week at Vanikya:
+
+🎬 Happy Horse 1.1 video model is live
+🎞️ Video end frame control
+🎨 Rebuilt image editor, sharper + faster
+🖌️ Vector SVG generation
+🧊 Interactive 3D creations
+📱 Android adaptiv
+
+#### 프롬프트
+
+```text
+🚀 This week at Vanikya:
+
+🎬 Happy Horse 1.1 video model is live
+🎞️ Video end frame control
+🎨 Rebuilt image editor, sharper + faster
+🖌️ Vector SVG generation
+🧊 Interactive 3D creations
+📱 Android adaptive icon export
+⚡ Faster across the board
+
+Create at Vanikya AI
+
+#AI
+```
+
+### No. 179: An Idea That I Can'T Get To Work
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ty
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071287592587345922/vid/avc1/864x496/_otCAdgwZQw0iS-D.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071287592587345922/vid/avc1/864x496/_otCAdgwZQw0iS-D.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/EstrangedThots/status/2071289656420040960)
+
+#### 설명
+
+An idea that I can't get to work correctly in Seedance.
+
+#### 프롬프트
+
+```text
+An idea that I can't get to work correctly in Seedance.  
+Concept: A woman drinks an energy drink that makes her grow in size rapidly.  The growth causes her clothing to shear off as she expands in size. 
+
+Part of what I don't get is the behavior of changing size causes it to
+```
+
+### No. 180: Been Using Happyhorse Since But 1.1 Is Crazy!!!
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** said
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071295398887456768/vid/avc1/3840x2160/H381JN9HSud2CT1-.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071295398887456768/vid/avc1/3840x2160/H381JN9HSud2CT1-.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/saidstetic/status/2071295556928917998)
+
+#### 설명
+
+Been using HappyHorse since but 1.1 is crazy!!!
+
+#### 프롬프트
+
+```text
+Been using HappyHorse since but 1.1 is crazy!!! The Visual Quality is just suuper!!!  
+
+I made a Sakuga-level Battle scene for my HORSEPOWER AI Cinema Awards entry - entirely with HappyHorse 1.1.
+        
+The character, the  hit, the frames: locked in. That's the R2V upgrade
+```
+
+### No. 181: Happyhorse 1.1 Everyone 🙌🐎 Prompt: Poke Bowl Building
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** arc.
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071297810121576448/vid/avc1/3840x2160/1CHB1Deu_zQfNPO_.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071297810121576448/vid/avc1/3840x2160/1CHB1Deu_zQfNPO_.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/arceyul/status/2071297911208513612)
+
+#### 설명
+
+HAPPYHORSE 1.1 EVERYONE 🙌🐎
+  
+
+prompt:
+POKE BOWL BUILDING 
+
+Create a crisp, clean infographic / storyboard style poster for VIBRANT POKE BOWL BUILDING.
+
+#### 프롬프트
+
+```text
+POKE BOWL BUILDING 
+
+Create a crisp, clean infographic / storyboard style poster for VIBRANT POKE BOWL BUILDING. Wide 16:9 layout, white background, black borders, bold black typography, premium 3D stylized rendering, bright https://t.co/DJJxkCY3Vc
+```
+
+### No. 182: Models Include , , , Wan, Veo
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aristotto
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Aristottoai/status/2071410309516960012)
+
+#### 설명
+
+Models include  ,  ,  , Wan, Veo,  , Flux, Nano Banana, GPT Image,  ,  , Seedream,  Pika, Happy Horse and more.
+
+#### 프롬프트
+
+```text
+Models include @Kling_ai , #SeeDance , @PixVerse_ , Wan, Veo, @imagine , Flux, Nano Banana, GPT Image, @ideogram_ai , @Alibaba_Qwen , Seedream, @hailuoai, Pika, Happy Horse and more.
+
+We’re looking for early users who actually create with AI and can give honest feedback.
+```
+
+### No. 183: 🐱国内海外228个Ai大模型一站式体验！ “我一开始以为Ucloud国际站只是又一个云厂商，结果点进去差点没出来。” Astraflow星图这个Ai平台，有点超
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 国外VPS测评
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/gwvpsceping/status/2071415081922158611)
+
+#### 설명
+
+🐱国内海外228个AI大模型一站式体验！
+
+#### 프롬프트
+
+```text
+🐱国内海外228个AI大模型一站式体验！
+
+“我一开始以为UCloud国际站只是又一个云厂商，结果点进去差点没出来。”
+
+AstraFlow星图这个AI平台，有点超出预期👇
+
+🧠 Modelverse模型市场 + Sandbox安全开发环境
+🔒 金融级数据隔离（数据不出域）
+⚙️ 企业级AI开发工作台
+📊 模型日志 / API /
+```
+
+### No. 184: $Avo Weekly Recap 🥑 A Strong Week For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Crypto Jay
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/CryptoLee002/status/2071445128657457342)
+
+#### 설명
+
+$AVO Weekly Recap 🥑
+
+A strong week for $Avocado ai and the ecosystem overall 
+
+Stay with me 👇 
+
+This week may have been quieter on the surface, but progress continued behind the scenes.
+
+#### 프롬프트
+
+```text
+$AVO Weekly Recap 🥑
+
+A strong week for $Avocado ai and the ecosystem overall 
+
+Stay with me 👇 
+
+This week may have been quieter on the surface, but progress continued behind the scenes.
+
+• Happy Horse 1.1 officially launched, bringing better motion, improved consistency, and
+```
+
+### No. 185: A Simple Carousel Ride Became A Journey Beyond
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Stonic AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071461251335757824/vid/avc1/1920x1080/6Qhb0iwA148GSaRQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071461251335757824/vid/avc1/1920x1080/6Qhb0iwA148GSaRQ.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Stonic_AI/status/2071462018599862334)
+
+#### 설명
+
+A simple carousel ride became a journey beyond reality.
+
+#### 프롬프트
+
+```text
+15-Second AI Video https://t.co/Wg2lFqDCFg
+```
+
+### No. 186: # 🤖 Ai Teknoloji Radar — 29 Haziran
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI Tech Radar 🇹🇷
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/aiartanimation/status/2071481181145629045)
+
+#### 설명
+
+# 🤖 AI Teknoloji Radar — 29 Haziran 2026
+
+ ⚡ BUGÜNÜN EN ÖNEMLİ GELİŞMESİ
+
+OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti isteğiyle yalnızca "güvenilir ortaklara" açtı —
+
+#### 프롬프트
+
+```text
+# 🤖 AI Teknoloji Radar — 29 Haziran 2026
+
+## ⚡ BUGÜNÜN EN ÖNEMLİ GELİŞMESİ
+
+OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti isteğiyle yalnızca "güvenilir ortaklara" açtı — bu, AI'ın artık bir savunma ve jeopolitik konu olduğunun en net işareti.
+```
+
+### No. 187: Animation Filmmakers Worried About Ai Taking Their Jobs
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** OneCloud Technology Solutions Official
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/onecloudtech/status/2071500588857368939)
+
+#### 설명
+
+Animation filmmakers worried about AI taking their jobs, they should talk to short drama creators.
+
+#### 프롬프트
+
+```text
+@Polymarket Animation filmmakers worried about AI taking their jobs, they should talk to short drama creators. With tools like SeedDance and HappyHorse, 30-sec episodes are already dominated by AI. Hollywood is next.
+```
+
+### No. 188: Been Testing A Bunch Of Ai Models, And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aditii
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### 설명
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### 프롬프트
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 189: Been Testing A Bunch Of Ai Models, And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aditii
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### 설명
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### 프롬프트
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 190: Been Testing A Bunch Of Ai Models, And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** aditii
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### 설명
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### 프롬프트
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 191: Cool Ai Video! That Carousel Horse Turning Into
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nancy Diazz
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Nancy__Diazz/status/2071520263171379617)
+
+#### 설명
+
+Cool AI video!
+
+#### 프롬프트
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 192: Cool Ai Video! That Carousel Horse Turning Into
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nancy Diazz
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Nancy__Diazz/status/2071520263171379617)
+
+#### 설명
+
+Cool AI video!
+
+#### 프롬프트
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 193: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Bella 🌷
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### 설명
+
+Cool dragon transformation!
+
+#### 프롬프트
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
+```
+
+### No. 194: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Bella 🌷
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### 설명
+
+Cool dragon transformation!
+
+#### 프롬프트
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
+```
+
+### No. 195: Cool Ai Video! That Carousel Horse Turning Into
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jane Lmio🇺🇸
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/myvonniieta/status/2071525635131076725)
+
+#### 설명
+
+Cool AI video!
+
+#### 프롬프트
+
+```text
+@zahray_ai @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 196: Ai Lip-Sync Never Looked This Good! Happy Horse
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Segmind
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071529956753256448/vid/avc1/1920x1080/EApqiY3mUbT99gUE.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071529956753256448/vid/avc1/1920x1080/EApqiY3mUbT99gUE.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Segmind_ai/status/2071531030796972513)
+
+#### 설명
+
+AI Lip-sync never looked this good!
+
+#### 프롬프트
+
+```text
+AI Lip-sync never looked this good!
+
+Happy Horse 1.1 is now on Segmind
+
+prompt 👇🏻
+```
+
+### No. 197: Ran My Old Video Script Through Happyhorse 1.1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Jackos K
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071533105010397184/vid/avc1/1280x720/XMogTGIk2RzMJ_Fn.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071533105010397184/vid/avc1/1280x720/XMogTGIk2RzMJ_Fn.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/looneyren/status/2071533524428214659)
+
+#### 설명
+
+ran my old video script through HappyHorse 1.1, and overall it worked pretty well.
+
+#### 프롬프트
+
+```text
+ran my old video script through HappyHorse 1.1, and overall it worked pretty well.
+```
+
+### No. 198: From A Tiny Carousel Pony To An Unstoppable
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Bairan
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071562948976504832/vid/avc1/1176x784/ancCstqqFenONL-k.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071562948976504832/vid/avc1/1176x784/ancCstqqFenONL-k.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/OxBairan/status/2071563097404473368)
+
+#### 설명
+
+From a tiny carousel pony to an unstoppable mechanical titan—every spin unlocks a new evolution.
+
+#### 프롬프트
+
+```text
+From a tiny carousel pony to an unstoppable mechanical titan—every spin unlocks a new evolution. ⚙️🐴✨
+Where imagination meets cinematic AI, every transformation tells a bigger story.
+
+Created with HappyHorse on 
+@itsPolloAI
+
+@HappyHorseATH
+
+#PolloHappyHorseChallenge
+```
+
+### No. 199: Most People Think Ai Video Is Just For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2071577543057252635)
+
+#### 설명
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### 프롬프트
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 200: Most People Think Ai Video Is Just For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2071577543057252635)
+
+#### 설명
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### 프롬프트
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 201: Most People Think Ai Video Is Just For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2071577543057252635)
+
+#### 설명
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### 프롬프트
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 202: Most People Think Ai Video Is Just For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Z-Coder
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/codedailyML/status/2071577543057252635)
+
+#### 설명
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### 프롬프트
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 203: Yo , Can You Lowkey Spill Your Secret
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Merman Gian
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071579980589641728/vid/avc1/960x720/gm4cjZXN5noVnakm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071579980589641728/vid/avc1/960x720/gm4cjZXN5noVnakm.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/xMermanGian/status/2071580175272419408)
+
+#### 설명
+
+Yo  , can you lowkey spill your secret sauce so other video AI gens actually learn how to make merman or mermaids swim perfectly?
+
+#### 프롬프트
+
+```text
+Yo @grok , can you lowkey spill your secret sauce so other video AI gens actually learn how to make merman or mermaids swim perfectly? It needs to look like a dolphin, not a shark. They need to get the context right between a real merman with scales vs a cosplay fabric tail.
+```
+
+### No. 204: 制作フロー： 1. Chatgptでテーマと構成を整理 2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成 3. 
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Runo.Luminia
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/runoluminia/status/2071613397628837974)
+
+#### 설명
+
+制作フロー：
+1.
+
+#### 프롬프트
+
+```text
+制作フロー：
+1. ChatGPTでテーマと構成を整理
+2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成
+3. Pollo AIのHappyHorse 1.1に画像をアップロードして動画生成
+4. 生成した複数カットを編集ソフトで編集、BGM追加
+BGM:Suno
+```
+
+### No. 205: Love That Shift 👏 $10K To Build With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Reena Tech & Tool
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/reizzlla/status/2071615678600327583)
+
+#### 설명
+
+Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
+
+#### 프롬프트
+
+```text
+@codedailyML Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
+```
+
+### No. 206: What A Crazy Week In Ai! Wan Streamer
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** pikashuk
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/jsharma326/status/2071618105533702306)
+
+#### 설명
+
+What a crazy week in AI!
+
+#### 프롬프트
+
+```text
+What a crazy week in AI! Wan Streamer Domain Shuttle Ornith Arbor DanceOPD Seedance 2.5 HappyHorse 1.1 Krea 2 GPT-5.6 Autodata &amp; more! Watch the full recap:  Real progress needs reproducible results, not buzzword bingo. #AI #Tech
+```
+
+### No. 207: Can We Start Calling Ai Film To Just
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** GARLOTIC
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071623308299137024/vid/avc1/1920x1080/cim9GqK2zlDxfy_r.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071623308299137024/vid/avc1/1920x1080/cim9GqK2zlDxfy_r.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/garlotic/status/2071623425659945093)
+
+#### 설명
+
+Can we start calling AI film to just film?
+
+#### 프롬프트
+
+```text
+Can we start calling AI film to just film? 
+
+HappyHorse 1.1 just launched today and its Insane!
+
+#happyhorse #happyhorse1.1 #AIfilm  #ai
+```
+
+### No. 208: Fear The Dark. Fear The Shadow. Fear The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** angel
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071623361369669632/vid/avc1/1920x1080/eSkKU-wApS8a7w9A.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071623361369669632/vid/avc1/1920x1080/eSkKU-wApS8a7w9A.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/angeldot_/status/2071623462037172672)
+
+#### 설명
+
+Fear the dark.
+
+#### 프롬프트
+
+```text
+Fear the dark. Fear the shadow. Fear the librarian at midnight. 😆
+
+HappyHorse 1.1 is live - and you can't tell it's AI.
+
+Smoother motion. More power. Every frame feels real!!
+
+The Midnight Library was made with HappyHorse 1.1
+@HappyHorseATH 
+
+#happyhorse #happyhorse1.1  #ai
+```
+
+### No. 209: Yes, I Still Make Sure I Try The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝐙𝐞𝐧𝐠 💜
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/zeng_wt/status/2071624522412003437)
+
+#### 설명
+
+Yes, I still make sure I try the new models, cause that is important.
+
+#### 프롬프트
+
+```text
+@HBCoop_ @dreamina_ai Yes, I still make sure I try the new models, cause that is important. What I mean was I just don't care about new platforms. LoL. Most of them are the same.😉
+I think Happy Horse 1.1 is great with animation, but not with realism. Which other new video models you are exploring
+```
+
+### No. 210: A Still Moment On An Old Stone Jetty
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alper
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/xtunc29/status/2071646239775412702)
+
+#### 설명
+
+A still moment on an old stone jetty.
+
+#### 프롬프트
+
+```text
+A still moment on an old stone jetty. The breeze, the turquoise water, and one soft wistful look out to sea.
+
+Reference to Video HappyHorse 1.1
+
+#happyhorse @HappyHorseATH
+```
+
+### No. 211: Happy Horse 1.1 Is Available To All Gmi
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** GMI Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071651504960966656/vid/avc1/1920x1080/u4C5XebO8fKteDIm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071651504960966656/vid/avc1/1920x1080/u4C5XebO8fKteDIm.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/gmi_cloud/status/2071652364411715859)
+
+#### 설명
+
+Happy Horse 1.1 is available to all GMI users
+
+including r2v, t2v, and i2v 
+
+another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 is available to all GMI users
+
+including r2v, t2v, and i2v 
+
+another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
+```
+
+### No. 212: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Qiita（キータ）公式
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Qiita/status/2071777607562219613)
+
+#### 설명
+
+【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成AI「Happy Horse」をQiitaデザイナーがレビュー！
+
+#### 프롬프트
+
+```text
+【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成AI「Happy Horse」をQiitaデザイナーがレビュー！
+
+劇的な進化を遂げる動画生成AI。今回はQiitaのデザイナーが、マルチモーダル動画生成AI「Happy
+```
+
+### No. 213: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 藤川裕一🤖アリババAIエンジニア
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/fujiyuu75e/status/2071835876141719871)
+
+#### 설명
+
+明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
+
+#### 프롬프트
+
+```text
+明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
+#IVS #IVS2026
+```
+
+### No. 214: Xai Has Released Grok Imagine Video 1.5, Its
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mura
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Mura1Verse/status/2071835969318518807)
+
+#### 설명
+
+xAI has released Grok Imagine Video 1.5, its new AI video generation model, and it quickly climbed to the  spot on the Image-to-Video Arena leaderboard, surpassing Seedance 2.0, HappyHorse 1.0, and ev
+
+#### 프롬프트
+
+```text
+xAI has released Grok Imagine Video 1.5, its new AI video generation model, and it quickly climbed to the #1 spot on the Image-to-Video Arena leaderboard, surpassing Seedance 2.0, HappyHorse 1.0, and even Google Veo.
+
+It fixes many common AI video problems, such as unrealistic
+```
+
+### No. 215: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** EyeingAI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071837628660609024/vid/avc1/1280x720/BnDOhqgdtVuhfljV.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071837628660609024/vid/avc1/1280x720/BnDOhqgdtVuhfljV.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/EyeingAI/status/2071837683320516663)
+
+#### 설명
+
+Featured video model: HappyHorse 1.1.
+
+#### 프롬프트
+
+```text
+Featured video model: HappyHorse 1.1.
+
+
+
+Alibaba's latest video generation model with support for Text-to-Video, Image-to-Video, Reference-to-Video, multi-image references and 720p/1080p outputs.
+
+The latest update also brings smoother motion, stronger
+```
+
+### No. 216: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Leo Zhou
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PengZhou0394/status/2071860714697080903)
+
+#### 설명
+
+2.核心定位:  AI Content-Marketing Agent
+
+口号 :  Let'suse Alto Earn!
+
+#### 프롬프트
+
+```text
+2.核心定位: #1 AI Content-Marketing Agent
+
+口号 :  Let'suse Alto Earn!
+四大核心Agent能力 (Monetize . Publish · Engage . Create)：
+
+Create一内容创作Agent
+· 调用顶级视频生成模型(Grok、Veo、Seedance、HappyHorse、Nano Banana等
+· 自动翻译、编辑、批量生成视频/图文
+·
+```
+
+### No. 217: "A Young Man Enters A Tea Shop, Sits
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shishir.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/shishirai_/status/2071861768344015254)
+
+#### 설명
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### 프롬프트
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
+### No. 218: "A Young Man Enters A Tea Shop, Sits
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shishir.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/shishirai_/status/2071861768344015254)
+
+#### 설명
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### 프롬프트
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
+### No. 219: The Ai Film Festival Hackathon In Monaco Has
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2071890514505281618)
+
+#### 설명
+
+The AI Film Festival Hackathon in Monaco has concluded.
+
+#### 프롬프트
+
+```text
+The AI Film Festival Hackathon in Monaco has concluded.
+We'll be revealing the top 10 winners over the next couple of days—keep an eye out!
+🏆 GRAND PRIZE WINNER
+🎬 《If I Forget》 by Li Jingying — the emotionally resonant short film that took 1st place among global creators,
+```
+
+### No. 220: The Ai Film Festival Hackathon In Monaco Has
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2071890514505281618)
+
+#### 설명
+
+The AI Film Festival Hackathon in Monaco has concluded.
+
+#### 프롬프트
+
+```text
+The AI Film Festival Hackathon in Monaco has concluded.
+We'll be revealing the top 10 winners over the next couple of days—keep an eye out!
+🏆 GRAND PRIZE WINNER
+🎬 《If I Forget》 by Li Jingying — the emotionally resonant short film that took 1st place among global creators,
+```
+
+### No. 221: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alex Prompter
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071893927607877754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071893927607877754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alex_prompter/status/2071893927607877754)
+
+#### 설명
+
+The featured model is HappyHorse 1.1, Alibaba Cloud's video model released June 22, 2026.
+
+#### 프롬프트
+
+```text
+The featured model is HappyHorse 1.1, Alibaba Cloud's video model released June 22, 2026.
+
+This is the 1.1 release, a major upgrade over the original, not the legacy version.
+
+Alibaba reports gains in motion, subject consistency across references, instruction following, and audio
+```
+
+### No. 222: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** えぴ@AIイッヌえぴ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071897121083757040.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071897121083757040.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/aiinuepi/status/2071897121083757040)
+
+#### 설명
+
+『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+
+#### 프롬프트
+
+```text
+『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+```
+
+### No. 223: Generate The Video 1. Open Gmi Cloud Playground
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** DΞV
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/junwatu/status/2071906562244071725)
+
+#### 설명
+
+Generate the Video
+
+1.
+
+#### 프롬프트
+
+```text
+Generate the Video
+
+1. Open GMI Cloud Playground &amp; select Happy Horse 1.1 r2v as the model.
+2. Upload the storyboard as the reference image.
+3. Set the video duration to 15 seconds.
+4. Use the following prompt to generate the video:
+
+Create a cinematic live-action video about
+```
+
+### No. 224: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 贾洛德森pro_🦞💎
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071932382194929883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071932382194929883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/two3pro/status/2071932382194929883)
+
+#### 설명
+
+AI 視頻創作者来活了 
+
+阿里巴巴 Qwen Cloud 全球 AI 黑客松的 AI Showrunner 賽道，要求參賽者使用 HappyHorse 1.1 視頻模型建構端到端生產管線，包含腳本、故事板、合成與後製，而非僅生成片段。
+
+#### 프롬프트
+
+```text
+AI 視頻創作者来活了 
+
+阿里巴巴 Qwen Cloud 全球 AI 黑客松的 AI Showrunner 賽道，要求參賽者使用 HappyHorse 1.1 視頻模型建構端到端生產管線，包含腳本、故事板、合成與後製，而非僅生成片段。
+
+賽道評分聚焦創新與 AI 創意 30%、技術深度 30%、問題價值 25% 及呈現
+```
+
+### No. 225: Intriguing End To End Pipeline With Happyhorse 1.1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ifeanyi Uchendu
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Ifeanyiuchend/status/2071933185747779738)
+
+#### 설명
+
+Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
+
+#### 프롬프트
+
+```text
+@two3pro Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
+```
+
+### No. 226: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 227: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 228: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 229: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 230: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 231: Hell Has A Short Video Competition. The Stakes?
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### 설명
+
+Hell has a short video competition.
+
+#### 프롬프트
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 232: 1.0 Wins The Grand Prize In Monaco 🎬
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Eugenio Fierro
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071940618574512141.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071940618574512141.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/EugenioFierro3/status/2071940618574512141)
+
+#### 설명
+
+1.0 wins the Grand Prize in Monaco
+
+🎬  has announced the Grand Prize winner of the AI Film Festival Hackathon in Monaco: If I Forget, a short film by Li Jingying created entirely with Alibaba Cloud Mo
+
+#### 프롬프트
+
+```text
+@HappyHorseATH 1.0 wins the Grand Prize in Monaco
+
+🎬 @alibaba_cloud has announced the Grand Prize winner of the AI Film Festival Hackathon in Monaco: If I Forget, a short film by Li Jingying created entirely with Alibaba Cloud Model Studio and HappyHorse 1.0.
+
+The story is set
+```
+
+### No. 233: I Created Three Versions Using The Same Prompt
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** CUPANG
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071956423987380365.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071956423987380365.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Cupang1997/status/2071956423987380365)
+
+#### 설명
+
+I created three versions using the same prompt in different AI models:
+
+Seedance 2.0
+Seedance 2.0 Mini
+Happy Horse 1.1
+
+Which one do you think produces the most epic result?
+
+#### 프롬프트
+
+```text
+I created three versions using the same prompt in different AI models:
+
+Seedance 2.0
+Seedance 2.0 Mini
+Happy Horse 1.1
+
+Which one do you think produces the most epic result?
+```
+
+### No. 234: Tried Happyhorse 1.1 By For A Luxury Supercar
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KaiEnzo
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071964745511711077.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071964745511711077.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/KaiEnzo_ai/status/2071964745511711077)
+
+#### 설명
+
+Tried HappyHorse 1.1 by   for a luxury supercar ad using one multishot prompt.
+
+#### 프롬프트
+
+```text
+Tried HappyHorse 1.1 by @HappyHorseATH  for a luxury supercar ad using one multishot prompt.
+
+Not gonna lie… this is getting pretty close.
+
+Luxury mood, moving shots, cinematic car energy — all from one prompt.
+
+What do you guys think, pass or still needs work? #happyhorse
+```
+
+### No. 235: Every Spin Tells A New Story. 🎠✨ Created
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** TheAigenify
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071966937098453225.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071966937098453225.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/theaigenify/status/2071966937098453225)
+
+#### 설명
+
+Every spin tells a new story.
+
+#### 프롬프트
+
+```text
+Every spin tells a new story. 🎠✨
+
+Created with the Happy Horse model in Pollo AI. Planned with a Master Sheet to keep every transformation smooth, connected, and visually consistent.
+
+#PolloHappyHorseChallenge @itsPolloAI @HappyHorseATH
+```
+
+### No. 236: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 237: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 238: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 239: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 240: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 241: Happy Horse 1.1 Just Landed On Fotor —
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Fotor
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071999364789047784.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071999364789047784.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/fotor_com/status/2071999364789047784)
+
+#### 설명
+
+Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
+
+Smoother motion. More expressive characters. Real dynamic energy that makes scenes feel alive, not animated. Plus built-in foley &amp; ambient sound, so your clip arrives already scored — no extra dubbing
+```
+
+### No. 242: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artificial Analysis
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### 설명
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### 프롬프트
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 243: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artificial Analysis
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### 설명
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### 프롬프트
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 244: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artificial Analysis
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### 설명
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### 프롬프트
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 245: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alsa
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072040717141135547.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072040717141135547.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIsaOneHQ/status/2072040717141135547)
+
+#### 설명
+
+🔥HappyHorse 1.1 is live on AIsa API gateway
+
+We tested  with a cinematic video concept: space, Earth, motion, and atmosphere!
+
+#### 프롬프트
+
+```text
+🔥HappyHorse 1.1 is live on AIsa API gateway
+
+We tested @HappyHorseATH with a cinematic video concept: space, Earth, motion, and atmosphere!
+
+The result shows why image/video generation models are becoming a serious creative layer for builders.
+
+Now ready for use on AIsa.
+```
+
+### No. 246: Gemini Omni Flash Ranks For Video Edit In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arena.ai
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/arena/status/2072049269054562711)
+
+#### 설명
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### 프롬프트
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
+### No. 247: Gemini Omni Flash Ranks For Video Edit In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arena.ai
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/arena/status/2072049269054562711)
+
+#### 설명
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### 프롬프트
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
+### No. 248: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ❝𝐒𝐚𝐢𝐭𝐚𝐦𝐚❞
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Siatma0x/status/2072050058049077489)
+
+#### 설명
+
+🐎HappyHorse 1.1 is officially live on the AIsa gateway
+
+It creates high-quality video and native sound effects together in a single pass, making it way easier to scale video apps.
+
+#### 프롬프트
+
+```text
+🐎HappyHorse 1.1 is officially live on the AIsa gateway
+
+It creates high-quality video and native sound effects together in a single pass, making it way easier to scale video apps.
+
+You should give it a try
+```
+
+### No. 249: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Shira Wiggles
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072051889449931133.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072051889449931133.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/shirawiggles/status/2072051889449931133)
+
+#### 설명
+
+Comparison video models
+
+gemini-omni-flash vs happy horse v1.1 vs seedance 2.0 fast
+
+check prompt in the replies👇
+
+Created with
+
+#### 프롬프트
+
+```text
+Comparison video models
+
+gemini-omni-flash vs happy horse v1.1 vs seedance 2.0 fast
+
+check prompt in the replies👇
+
+Created with @gmi_cloud
+```
+
+### No. 250: Half The Coin Cost. Same Powerful Model 💥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### 설명
+
+Half the coin cost.
+
+#### 프롬프트
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 251: Half The Coin Cost. Same Powerful Model 💥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### 설명
+
+Half the coin cost.
+
+#### 프롬프트
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 252: Half The Coin Cost. Same Powerful Model 💥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### 설명
+
+Half the coin cost.
+
+#### 프롬프트
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 253: Half The Coin Cost. Same Powerful Model 💥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### 설명
+
+Half the coin cost.
+
+#### 프롬프트
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 254: Half The Coin Cost. Same Powerful Model 💥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### 설명
+
+Half the coin cost.
+
+#### 프롬프트
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 255: Anathema Studio [ Is Now Live. I Don'T
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NiceCrew Technologies
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072095682664464537.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072095682664464537.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/nicecrewtech/status/2072095682664464537)
+
+#### 설명
+
+Anathema Studio [ is now live.
+
+#### 프롬프트
+
+```text
+Anathema Studio [ is now live.
+
+I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
+```
+
+### No. 256: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Feathered Foodies | ESOTE Productions
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### 설명
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### 프롬프트
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
+```
+
+### No. 257: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Feathered Foodies | ESOTE Productions
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### 설명
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### 프롬프트
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
+```
+
+<a id="category-2"></a>
 
 ### HappyHorse 크리에이티브 배치 (240)
 
@@ -4882,2763 +10590,6 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 ```text
 높은 고도의 성층권에서 익스트림 운동선수들은 태양풍의 도움으로 태양전지판을 구동하고 그들의 항적은 황금빛 호를 그립니다. 운해와 수평선이 점점 멀어져 갑니다. 카메라는 스프린트를 따라간 다음 드론 관점으로 전환하여 다이빙합니다. 흥미롭고 역동적인 미래 스포츠 블록버스터입니다.
-```
-
-<a id="category-2"></a>
-
-### Twitter Community (136)
-
-### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다.
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 2: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V2
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 3: 도시전 속 불타는 장갑차 항공 샷 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V2
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 4: 윌 스미스가 스파게티를 먹는 장면 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V2
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 5: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V2
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 6: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V2
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 7: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V2
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 8: 원작을 뛰어넘는 원펀맨 애니메이션 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V2
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 9: 윌 스미스가 스파게티를 먹는 장면 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V2
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 10: 수달이 거대 메카에 탑승하는 애니 장면 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V2
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 11: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V2
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 12: 사막 지형을 전진하는 병사 지상 전투 샷 V2
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v2
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V2
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 13: 도시전 속 불타는 장갑차 항공 샷
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다.
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 14: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V3
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 15: 도시전 속 불타는 장갑차 항공 샷 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V3
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 16: 윌 스미스가 스파게티를 먹는 장면 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V3
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 17: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V3
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 18: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V3
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 19: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V3
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 20: 원작을 뛰어넘는 원펀맨 애니메이션 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V3
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 21: 윌 스미스가 스파게티를 먹는 장면 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V3
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 22: 수달이 거대 메카에 탑승하는 애니 장면 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V3
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 23: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V3
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 24: 사막 지형을 전진하는 병사 지상 전투 샷 V3
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v3
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V3
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 25: 윌 스미스가 스파게티를 먹는 장면
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 26: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V4
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 27: 도시전 속 불타는 장갑차 항공 샷 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V4
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 28: 윌 스미스가 스파게티를 먹는 장면 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V4
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 29: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V4
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 30: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V4
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 31: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V4
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 32: 원작을 뛰어넘는 원펀맨 애니메이션 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V4
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 33: 윌 스미스가 스파게티를 먹는 장면 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V4
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 34: 수달이 거대 메카에 탑승하는 애니 장면 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V4
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 35: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V4
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 36: 사막 지형을 전진하는 병사 지상 전투 샷 V4
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v4
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V4
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 37: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V5
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 38: 도시전 속 불타는 장갑차 항공 샷 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V5
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 39: 윌 스미스가 스파게티를 먹는 장면 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V5
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 40: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V5
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 41: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V5
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 42: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V5
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 43: 원작을 뛰어넘는 원펀맨 애니메이션 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V5
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 44: 윌 스미스가 스파게티를 먹는 장면 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V5
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 45: 수달이 거대 메카에 탑승하는 애니 장면 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V5
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 46: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V5
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 47: 사막 지형을 전진하는 병사 지상 전투 샷 V5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v5
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V5
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 48: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V6
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 49: 도시전 속 불타는 장갑차 항공 샷 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V6
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 50: 윌 스미스가 스파게티를 먹는 장면 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V6
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 51: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V6
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 52: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V6
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 53: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V6
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 54: 원작을 뛰어넘는 원펀맨 애니메이션 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V6
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 55: 윌 스미스가 스파게티를 먹는 장면 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V6
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 56: 수달이 거대 메카에 탑승하는 애니 장면 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V6
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 57: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V6
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 58: 사막 지형을 전진하는 병사 지상 전투 샷 V6
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v6
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V6
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 59: 여성이 비행기를 조종하는 복합 액션 장면 테스트
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다.
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 60: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V7
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 61: 도시전 속 불타는 장갑차 항공 샷 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V7
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 62: 윌 스미스가 스파게티를 먹는 장면 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V7
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 63: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V7
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 64: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V7
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 65: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V7
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 66: 원작을 뛰어넘는 원펀맨 애니메이션 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V7
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 67: 윌 스미스가 스파게티를 먹는 장면 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V7
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 68: 수달이 거대 메카에 탑승하는 애니 장면 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V7
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 69: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V7
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 70: 사막 지형을 전진하는 병사 지상 전투 샷 V7
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v7
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V7
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 71: IMAX 사막 모래폭풍, 드니 빌뇌브 미학
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다.
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 72: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_001_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다. V8
-
-#### 프롬프트
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 73: 도시전 속 불타는 장갑차 항공 샷 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_003_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다. V8
-
-#### 프롬프트
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 74: 윌 스미스가 스파게티를 먹는 장면 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_004_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V8
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 75: 여성이 비행기를 조종하는 복합 액션 장면 테스트 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_007_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다. V8
-
-#### 프롬프트
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 76: IMAX 사막 모래폭풍, 드니 빌뇌브 미학 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_008_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다. V8
-
-#### 프롬프트
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 77: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다. V8
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 78: 원작을 뛰어넘는 원펀맨 애니메이션 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다. V8
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 79: 윌 스미스가 스파게티를 먹는 장면 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면. V8
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 80: 수달이 거대 메카에 탑승하는 애니 장면 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다. V8
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 81: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다. V8
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 82: 사막 지형을 전진하는 병사 지상 전투 샷 V8
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024_v8
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다. V8
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 83: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_009
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다.
-
-#### 프롬프트
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-### No. 84: 원작을 뛰어넘는 원펀맨 애니메이션
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_016
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다.
-
-#### 프롬프트
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 85: 윌 스미스가 스파게티를 먹는 장면
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_018
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
-
-#### 프롬프트
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 86: 수달이 거대 메카에 탑승하는 애니 장면
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_021
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다.
-
-#### 프롬프트
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 87: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_022
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다.
-
-#### 프롬프트
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 88: 사막 지형을 전진하는 병사 지상 전투 샷
-
-- **카테고리:** `Twitter Community`
-- **출처:** `twitter`
-- **작성자:** tw_024
-- **언어:** `ko`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### 설명
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다.
-
-#### 프롬프트
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 89: Neon-lit city street at night
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Megan Li
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/MeganLee_0318/status/2064998724837994912)
-
-#### 설명
-
-A person walks through a rainy, neon-lit city street at night with cinematic reflections.
-
-#### 프롬프트
-
-```text
-A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
-```
-
-### No. 90: Office Argument with Panoramic Window View
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Al-Shamus
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/im_shahid7/status/2065030699938431285)
-
-#### 설명
-
-A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
-
-#### 프롬프트
-
-```text
-Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
-```
-
-### No. 91: Romantic Beach Sunset
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Md Riyazuddin
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/riyazmd774/status/2065035722965606902)
-
-#### 설명
-
-A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
-
-#### 프롬프트
-
-```text
-a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
-```
-
-### No. 92: GlobalGPT AI Tools
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Hania Ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HaniaAi12/status/2065046682526790054)
-
-#### 설명
-
-A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
-
-#### 프롬프트
-
-```text
-A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
-```
-
-### No. 93: Woman Boxing on Beach
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Paul Sims
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/SimslearnAi/status/2065101741314695580)
-
-#### 설명
-
-A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
-
-#### 프롬프트
-
-```text
-a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
-```
-
-### No. 94: dark text on black
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Cinemadrien/status/2065204797871989198)
-
-#### 설명
-
-a dark image with faint white text barely visible on a black background.
-
-#### 프롬프트
-
-```text
-black background with faint white text in the center
-```
-
-### No. 95: Cheerleaders on the field
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Fakhr
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
-
-#### 설명
-
-Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
-
-#### 프롬프트
-
-```text
-two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
-```
-
-### No. 96: Cheerleaders on the field
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Fakhr
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/iamfakhrealam/status/2065288826147516471)
-
-#### 설명
-
-Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
-
-#### 프롬프트
-
-```text
-two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
-```
-
-### No. 97: G-Shock World Cup Ad
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2065302933860966457)
-
-#### 설명
-
-A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
-
-#### 프롬프트
-
-```text
-a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
-```
-
-### No. 98: AI image transformation
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** El IAS - Esteban Diba
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/estebandiba/status/2065345391550156906)
-
-#### 설명
-
-A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
-
-#### 프롬프트
-
-```text
-A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
-```
-
-### No. 99: Video Editing AI Comparison
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Rehen
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/rehensina/status/2065366437594825014)
-
-#### 설명
-
-A bar chart comparing ELO scores of various video editing AI tools across two categories.
-
-#### 프롬프트
-
-```text
-A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
-```
-
-### No. 100: Navos AI Content Tool
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Tec-Do 2.0
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/Tec_do2/status/2065373853363421518)
-
-#### 설명
-
-A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
-
-#### 프롬프트
-
-```text
-A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
-```
-
-### No. 101: Flowing Blue Waves
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Rony
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Ronycoder/status/2065381123619013035)
-
-#### 설명
-
-A dynamic abstract image of flowing blue and white waves with motion blur effect.
-
-#### 프롬프트
-
-```text
-abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
-```
-
-### No. 102: Blurred Light Glow
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** aditii
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/aditiitwt/status/2065399674375471267)
-
-#### 설명
-
-A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
-
-#### 프롬프트
-
-```text
-abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
-```
-
-### No. 103: Blurred Light Glow
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** aditii
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/aditiitwt/status/2065399674375471267)
-
-#### 설명
-
-A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
-
-#### 프롬프트
-
-```text
-abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
-```
-
-### No. 104: Galactic Light Bulb
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Jerrod Lew
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/jerrod_lew/status/2065404113563816023)
-
-#### 설명
-
-A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
-
-#### 프롬프트
-
-```text
-a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
-```
-
-### No. 105: Abandoned Alleyway
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2065412890363105672)
-
-#### 설명
-
-A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
-
-#### 프롬프트
-
-```text
-a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
-```
-
-### No. 106: Blurred indoor scene
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** RAVI KUMAR SAHU
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
-
-#### 설명
-
-A softly focused image of a person in a brightly lit indoor environment with warm tones.
-
-#### 프롬프트
-
-```text
-blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
-```
-
-### No. 107: Blurred indoor scene
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Z-Coder
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/codedailyML/status/2065450922944442374)
-
-#### 설명
-
-A softly focused image of an indoor setting with glowing lights and vague human forms.
-
-#### 프롬프트
-
-```text
-blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
-```
-
-### No. 108: Blurred indoor scene
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Z-Coder
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/codedailyML/status/2065450922944442374)
-
-#### 설명
-
-A softly focused image of an indoor setting with glowing lights and vague human forms.
-
-#### 프롬프트
-
-```text
-blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
-```
-
-### No. 109: Big Ben views
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** AIMATRIX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/AIScout22/status/2065487263803527349)
-
-#### 설명
-
-Two images of Big Ben from different angles under a cloudy sky.
-
-#### 프롬프트
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
-```
-
-### No. 110: Blurred motion abstract
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Theinfralab
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2065506119603331509)
-
-#### 설명
-
-A dynamic abstract image featuring warm blurred motion in orange and brown tones.
-
-#### 프롬프트
-
-```text
-abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
-```
-
-### No. 111: Blurred motion abstract
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Theinfralab
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Logical_Girll/status/2065506119603331509)
-
-#### 설명
-
-A dynamic abstract image featuring warm blurred motion in orange and brown tones.
-
-#### 프롬프트
-
-```text
-abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
-```
-
-### No. 112: Big Ben views
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Riya Ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
-
-#### 설명
-
-Two images of Big Ben from different perspectives under a cloudy sky.
-
-#### 프롬프트
-
-```text
-a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
-```
-
-### No. 113: Big Ben views
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Riya Ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Riya96Ai/status/2065581960810930318)
-
-#### 설명
-
-Two images of Big Ben from different perspectives under a cloudy sky.
-
-#### 프롬프트
-
-```text
-a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
-```
-
-### No. 114: Blurred abstract background
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Kalsoom (ghotai )
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
-
-#### 설명
-
-A softly blurred image with warm tones and a logo in the corner.
-
-#### 프롬프트
-
-```text
-abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
-```
-
-### No. 115: Blurred abstract background
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Kalsoom (ghotai )
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/AIwithGhotai/status/2065652453467644197)
-
-#### 설명
-
-A softly blurred image with warm tones and a logo in the corner.
-
-#### 프롬프트
-
-```text
-abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
-```
-
-### No. 116: Couple at Sunset Beach
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Your Tech Girl
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/yourtechgirl24/status/2065656461792043173)
-
-#### 설명
-
-A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
-
-#### 프롬프트
-
-```text
-a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
-```
-
-### No. 117: Woman Boxing on Beach
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Jihad
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/jihad_sameul/status/2065677496402723235)
-
-#### 설명
-
-A woman in athletic gear punches a sand-filled bag on a beach during sunset.
-
-#### 프롬프트
-
-```text
-a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
-```
-
-### No. 118: Celebrities at World Cup
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** marium
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/code_bykuti/status/2065686685556646001)
-
-#### 설명
-
-A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
-
-#### 프롬프트
-
-```text
-a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
-```
-
-### No. 119: Global AI Hackathon
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Qwen Cloud
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/qwen_cloud/status/2065703215858139363)
-
-#### 설명
-
-A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
-
-#### 프롬프트
-
-```text
-A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
-```
-
-### No. 120: Microscopic Detail Photography Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Samuel Ferrero.
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/samuel_ferrero/status/2065736730221891761)
-
-#### 설명
-
-A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
-
-#### 프롬프트
-
-```text
-insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
-```
-
-### No. 121: cowboy on horseback
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** MrDejie
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/mrdejie/status/2065758578150134097)
-
-#### 설명
-
-A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
-
-#### 프롬프트
-
-```text
-a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
-```
-
-### No. 122: AI transformation comparison
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Smith铜匠・十点睡觉
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/smithandai/status/2065763440019579120)
-
-#### 설명
-
-A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
-
-#### 프롬프트
-
-```text
-A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
-```
-
-### No. 123: SousakuAI Campaign
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** チビクロ🧩AI錬金術士
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
-
-#### 설명
-
-A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
-
-#### 프롬프트
-
-```text
-anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
-```
-
-### No. 124: Blue motion blur
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Abdul Șhakoor
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/abxxai/status/2065781636105658438)
-
-#### 설명
-
-A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
-
-#### 프롬프트
-
-```text
-abstract blue motion blur with gradient and light streaks, digital art style
-```
-
-### No. 125: Blurred indoor scene
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** KATE
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/kate_osita_/status/2065835361390280704)
-
-#### 설명
-
-A softly focused image of a person in a bright room with indistinct surroundings.
-
-#### 프롬프트
-
-```text
-blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
-```
-
-### No. 126: Blurred indoor scene
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** KATE
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/kate_osita_/status/2065835361390280704)
-
-#### 설명
-
-A softly focused image of a person in a bright room with indistinct surroundings.
-
-#### 프롬프트
-
-```text
-blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
-```
-
-### No. 127: Woman and Robot Encounter
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Pezy Ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/PezyAi/status/2065837166593249420)
-
-#### 설명
-
-A woman and a robot share a tender moment in a sunlit cityscape.
-
-#### 프롬프트
-
-```text
-a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
-```
-
-### No. 128: GlobalGPT Website Screenshot
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Md. Robius Sany
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/tec_sany/status/2065865285442392152)
-
-#### 설명
-
-A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
-
-#### 프롬프트
-
-```text
-A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
-```
-
-### No. 129: Big Ben views
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Nayeem Sheikh
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
-
-#### 설명
-
-Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
-
-#### 프롬프트
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
-```
-
-### No. 130: Big Ben views
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Nayeem Sheikh
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HeyNayeem/status/2065887930179358757)
-
-#### 설명
-
-Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
-
-#### 프롬프트
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
-```
-
-### No. 131: Helicopter Over Ocean
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Anish Jaitwar
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/AnishJaitwar/status/2065999609613418511)
-
-#### 설명
-
-A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
-
-#### 프롬프트
-
-```text
-a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
-```
-
-### No. 132: Woman Running from Train
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Brent Lynch
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/BrentLynch/status/2066014432543883673)
-
-#### 설명
-
-A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
-
-#### 프롬프트
-
-```text
-a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
-```
-
-### No. 133: The Realtor
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Djaja Yerry
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/DjajaYerry75/status/2066074651923726830)
-
-#### 설명
-
-A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
-
-#### 프롬프트
-
-```text
-a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
-```
-
-### No. 134: Futuristic smartphone design
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Nakajima Sumiyo｜生成AI × Creative
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
-
-#### 설명
-
-A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
-
-#### 프롬프트
-
-```text
-close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
-```
-
-### No. 135: GlobalGPT AI Tools Website UI Showcase
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Mimu | AI Tools & News
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/mimu_ai1/status/2066215997116502435)
-
-#### 설명
-
-The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
-
-#### 프롬프트
-
-```text
-A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
-```
-
-### No. 136: Shirtless man playing guitar by campfire
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Billy Balls
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/BillyBalls25138/status/2066279897274736747)
-
-#### 설명
-
-A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
-
-#### 프롬프트
-
-```text
-A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
 ```
 
 <a id="category-3"></a>
@@ -17218,7 +20169,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-06-30T09:35:29.683Z
+> 이 README는 자동 생성됩니다. 2026-07-01T03:29:42.911Z
 
 ## More Atlas Cloud Tools
 

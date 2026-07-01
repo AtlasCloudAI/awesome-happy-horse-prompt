@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-848%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-969%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,15 +56,15 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **848** |
+| พรอมต์ทั้งหมด | **969** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **843** |
-| อัปเดตล่าสุด | **2026-06-30T09:35:29.703Z** |
+| วิดีโอตัวอย่าง | **907** |
+| อัปเดตล่าสุด | **2026-07-01T03:29:42.932Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`ชุดสร้างสรรค์ HappyHorse`](#category-1): **240**
-- [`Twitter Community`](#category-2): **136**
+- [`Twitter Community`](#category-1): **257**
+- [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
 - [`การเคลื่อนไหวกล้องขั้นสูง`](#category-5): **56**
@@ -81,6 +81,5714 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 ## 📋 พรอมต์ทั้งหมด
 
 <a id="category-1"></a>
+
+### Twitter Community (257)
+
+### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 2: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V2
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V2
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 4: Will Smith Eating Spaghetti V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V2
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 5: Quick Test of Female Controlling Plane in Complex Action Scene V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V2
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 6: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V2
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 7: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V2
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 8: One Punch Man Animation Surpassing Original Quality V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V2
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 9: Will Smith Eating Spaghetti V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V2
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 10: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V2
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 11: South Indian Cinema Alien Scene Generated from Single Prompt V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V2
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain V2
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v2
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V2
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 13: Aerial Shot of Burning Military Vehicle in Urban Warfare
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 14: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V3
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 15: Aerial Shot of Burning Military Vehicle in Urban Warfare V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V3
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 16: Will Smith Eating Spaghetti V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V3
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 17: Quick Test of Female Controlling Plane in Complex Action Scene V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V3
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 18: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V3
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 19: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V3
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 20: One Punch Man Animation Surpassing Original Quality V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V3
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 21: Will Smith Eating Spaghetti V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V3
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 22: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V3
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 23: South Indian Cinema Alien Scene Generated from Single Prompt V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V3
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 24: Ground Combat Shot of Soldiers Traversing Desert Terrain V3
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v3
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V3
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 25: Will Smith Eating Spaghetti
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen.
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 26: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V4
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 27: Aerial Shot of Burning Military Vehicle in Urban Warfare V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V4
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 28: Will Smith Eating Spaghetti V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V4
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 29: Quick Test of Female Controlling Plane in Complex Action Scene V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V4
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 30: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V4
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 31: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V4
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 32: One Punch Man Animation Surpassing Original Quality V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V4
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 33: Will Smith Eating Spaghetti V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V4
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 34: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V4
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 35: South Indian Cinema Alien Scene Generated from Single Prompt V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V4
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 36: Ground Combat Shot of Soldiers Traversing Desert Terrain V4
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v4
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V4
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 37: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V5
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 38: Aerial Shot of Burning Military Vehicle in Urban Warfare V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V5
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 39: Will Smith Eating Spaghetti V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V5
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 40: Quick Test of Female Controlling Plane in Complex Action Scene V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V5
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 41: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V5
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 42: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V5
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 43: One Punch Man Animation Surpassing Original Quality V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V5
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 44: Will Smith Eating Spaghetti V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V5
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 45: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V5
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 46: South Indian Cinema Alien Scene Generated from Single Prompt V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V5
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 47: Ground Combat Shot of Soldiers Traversing Desert Terrain V5
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v5
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V5
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 48: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V6
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 49: Aerial Shot of Burning Military Vehicle in Urban Warfare V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V6
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 50: Will Smith Eating Spaghetti V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V6
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 51: Quick Test of Female Controlling Plane in Complex Action Scene V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V6
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 52: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V6
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 53: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V6
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 54: One Punch Man Animation Surpassing Original Quality V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V6
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 55: Will Smith Eating Spaghetti V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V6
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 56: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V6
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 57: South Indian Cinema Alien Scene Generated from Single Prompt V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V6
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 58: Ground Combat Shot of Soldiers Traversing Desert Terrain V6
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v6
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V6
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 59: Quick Test of Female Controlling Plane in Complex Action Scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 60: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V7
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 61: Aerial Shot of Burning Military Vehicle in Urban Warfare V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V7
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 62: Will Smith Eating Spaghetti V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V7
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 63: Quick Test of Female Controlling Plane in Complex Action Scene V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V7
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 64: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V7
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 65: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V7
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 66: One Punch Man Animation Surpassing Original Quality V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V7
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 67: Will Smith Eating Spaghetti V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V7
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 68: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V7
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 69: South Indian Cinema Alien Scene Generated from Single Prompt V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V7
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 70: Ground Combat Shot of Soldiers Traversing Desert Terrain V7
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v7
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V7
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 71: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 72: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_001_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V8
+
+#### พรอมต์
+
+```text
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
+```
+
+### No. 73: Aerial Shot of Burning Military Vehicle in Urban Warfare V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_003_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V8
+
+#### พรอมต์
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 74: Will Smith Eating Spaghetti V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_004_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V8
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 75: Quick Test of Female Controlling Plane in Complex Action Scene V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_007_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V8
+
+#### พรอมต์
+
+```text
+Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
+```
+
+### No. 76: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_008_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V8
+
+#### พรอมต์
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 77: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment. V8
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 78: One Punch Man Animation Surpassing Original Quality V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V8
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 79: Will Smith Eating Spaghetti V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen. V8
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 80: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V8
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 81: South Indian Cinema Alien Scene Generated from Single Prompt V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V8
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 82: Ground Combat Shot of Soldiers Traversing Desert Terrain V8
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024_v8
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V8
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 83: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_009
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Intense martial arts fight between two women in modern urban environment.
+
+#### พรอมต์
+
+```text
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
+```
+
+### No. 84: One Punch Man Animation Surpassing Original Quality
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_016
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
+
+#### พรอมต์
+
+```text
+Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
+```
+
+### No. 85: Will Smith Eating Spaghetti
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_018
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Will Smith eating spaghetti in a modern home kitchen.
+
+#### พรอมต์
+
+```text
+Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
+```
+
+### No. 86: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_021
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
+
+#### พรอมต์
+
+```text
+Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
+```
+
+### No. 87: South Indian Cinema Alien Scene Generated from Single Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_022
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
+
+#### พรอมต์
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 88: Ground Combat Shot of Soldiers Traversing Desert Terrain
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `twitter`
+- **ผู้เขียน:** tw_024
+- **ภาษา:** `th`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
+
+#### คำอธิบาย
+
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
+
+#### พรอมต์
+
+```text
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
+```
+
+### No. 89: Neon-lit city street at night
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Megan Li
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/MeganLee_0318/status/2064998724837994912)
+
+#### คำอธิบาย
+
+A person walks through a rainy, neon-lit city street at night with cinematic reflections.
+
+#### พรอมต์
+
+```text
+A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
+```
+
+### No. 90: Office Argument with Panoramic Window View
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Al-Shamus
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/im_shahid7/status/2065030699938431285)
+
+#### คำอธิบาย
+
+A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
+
+#### พรอมต์
+
+```text
+Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
+```
+
+### No. 91: Romantic Beach Sunset
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Md Riyazuddin
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/riyazmd774/status/2065035722965606902)
+
+#### คำอธิบาย
+
+A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
+
+#### พรอมต์
+
+```text
+a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
+```
+
+### No. 92: GlobalGPT AI Tools
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hania Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HaniaAi12/status/2065046682526790054)
+
+#### คำอธิบาย
+
+A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
+
+#### พรอมต์
+
+```text
+A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
+```
+
+### No. 93: Woman Boxing on Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Paul Sims
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/SimslearnAi/status/2065101741314695580)
+
+#### คำอธิบาย
+
+A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
+
+#### พรอมต์
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 94: dark text on black
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Cinemadrien/status/2065204797871989198)
+
+#### คำอธิบาย
+
+a dark image with faint white text barely visible on a black background.
+
+#### พรอมต์
+
+```text
+black background with faint white text in the center
+```
+
+### No. 95: Cheerleaders on the field
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Fakhr
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### คำอธิบาย
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### พรอมต์
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 96: Cheerleaders on the field
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Fakhr
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
+
+#### คำอธิบาย
+
+Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
+
+#### พรอมต์
+
+```text
+two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
+```
+
+### No. 97: G-Shock World Cup Ad
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2065302933860966457)
+
+#### คำอธิบาย
+
+A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
+
+#### พรอมต์
+
+```text
+a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
+```
+
+### No. 98: AI image transformation
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** El IAS - Esteban Diba
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/estebandiba/status/2065345391550156906)
+
+#### คำอธิบาย
+
+A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
+
+#### พรอมต์
+
+```text
+A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
+```
+
+### No. 99: Video Editing AI Comparison
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rehen
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/rehensina/status/2065366437594825014)
+
+#### คำอธิบาย
+
+A bar chart comparing ELO scores of various video editing AI tools across two categories.
+
+#### พรอมต์
+
+```text
+A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
+```
+
+### No. 100: Navos AI Content Tool
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Tec-Do 2.0
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Tec_do2/status/2065373853363421518)
+
+#### คำอธิบาย
+
+A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
+
+#### พรอมต์
+
+```text
+A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
+```
+
+### No. 101: Flowing Blue Waves
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Rony
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Ronycoder/status/2065381123619013035)
+
+#### คำอธิบาย
+
+A dynamic abstract image of flowing blue and white waves with motion blur effect.
+
+#### พรอมต์
+
+```text
+abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
+```
+
+### No. 102: Galactic Light Bulb
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jerrod Lew
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/jerrod_lew/status/2065404113563816023)
+
+#### คำอธิบาย
+
+A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
+
+#### พรอมต์
+
+```text
+a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
+```
+
+### No. 103: Blurred indoor scene
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** RAVI KUMAR SAHU
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
+
+#### คำอธิบาย
+
+A softly focused image of a person in a brightly lit indoor environment with warm tones.
+
+#### พรอมต์
+
+```text
+blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
+```
+
+### No. 104: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIMATRIX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIScout22/status/2065487263803527349)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different angles under a cloudy sky.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 105: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Riya Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### พรอมต์
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 106: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Riya Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### คำอธิบาย
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### พรอมต์
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+```
+
+### No. 107: Blurred abstract background
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kalsoom (ghotai )
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### คำอธิบาย
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### พรอมต์
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 108: Blurred abstract background
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Kalsoom (ghotai )
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
+
+#### คำอธิบาย
+
+A softly blurred image with warm tones and a logo in the corner.
+
+#### พรอมต์
+
+```text
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
+```
+
+### No. 109: Couple at Sunset Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Your Tech Girl
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/yourtechgirl24/status/2065656461792043173)
+
+#### คำอธิบาย
+
+A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
+
+#### พรอมต์
+
+```text
+a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
+```
+
+### No. 110: Woman Boxing on Beach
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jihad
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/jihad_sameul/status/2065677496402723235)
+
+#### คำอธิบาย
+
+A woman in athletic gear punches a sand-filled bag on a beach during sunset.
+
+#### พรอมต์
+
+```text
+a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
+```
+
+### No. 111: Celebrities at World Cup
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** marium
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/code_bykuti/status/2065686685556646001)
+
+#### คำอธิบาย
+
+A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
+
+#### พรอมต์
+
+```text
+a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
+```
+
+### No. 112: Global AI Hackathon
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Qwen Cloud
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/qwen_cloud/status/2065703215858139363)
+
+#### คำอธิบาย
+
+A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
+
+#### พรอมต์
+
+```text
+A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
+```
+
+### No. 113: Microscopic Detail Photography Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Samuel Ferrero.
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/samuel_ferrero/status/2065736730221891761)
+
+#### คำอธิบาย
+
+A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
+
+#### พรอมต์
+
+```text
+insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
+```
+
+### No. 114: cowboy on horseback
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** MrDejie
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/mrdejie/status/2065758578150134097)
+
+#### คำอธิบาย
+
+A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
+
+#### พรอมต์
+
+```text
+a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
+```
+
+### No. 115: AI transformation comparison
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Smith铜匠・十点睡觉
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/smithandai/status/2065763440019579120)
+
+#### คำอธิบาย
+
+A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
+
+#### พรอมต์
+
+```text
+A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
+```
+
+### No. 116: SousakuAI Campaign
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** チビクロ🧩AI錬金術士
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
+
+#### คำอธิบาย
+
+A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
+
+#### พรอมต์
+
+```text
+anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
+```
+
+### No. 117: Blue motion blur
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Abdul Șhakoor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/abxxai/status/2065781636105658438)
+
+#### คำอธิบาย
+
+A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
+
+#### พรอมต์
+
+```text
+abstract blue motion blur with gradient and light streaks, digital art style
+```
+
+### No. 118: Woman and Robot Encounter
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Pezy Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PezyAi/status/2065837166593249420)
+
+#### คำอธิบาย
+
+A woman and a robot share a tender moment in a sunlit cityscape.
+
+#### พรอมต์
+
+```text
+a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
+```
+
+### No. 119: GlobalGPT Website Screenshot
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Md. Robius Sany
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/tec_sany/status/2065865285442392152)
+
+#### คำอธิบาย
+
+A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
+
+#### พรอมต์
+
+```text
+A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 120: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nayeem Sheikh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### คำอธิบาย
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 121: Big Ben views
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nayeem Sheikh
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### คำอธิบาย
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### พรอมต์
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
+```
+
+### No. 122: Helicopter Over Ocean
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Anish Jaitwar
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AnishJaitwar/status/2065999609613418511)
+
+#### คำอธิบาย
+
+A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
+
+#### พรอมต์
+
+```text
+a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
+```
+
+### No. 123: Woman Running from Train
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Brent Lynch
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/BrentLynch/status/2066014432543883673)
+
+#### คำอธิบาย
+
+A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
+
+#### พรอมต์
+
+```text
+a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
+```
+
+### No. 124: The Realtor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Djaja Yerry
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/DjajaYerry75/status/2066074651923726830)
+
+#### คำอธิบาย
+
+A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
+
+#### พรอมต์
+
+```text
+a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
+```
+
+### No. 125: Futuristic smartphone design
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nakajima Sumiyo｜生成AI × Creative
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
+
+#### คำอธิบาย
+
+A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
+
+#### พรอมต์
+
+```text
+close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
+```
+
+### No. 126: GlobalGPT AI Tools Website UI Showcase
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mimu | AI Tools & News
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/mimu_ai1/status/2066215997116502435)
+
+#### คำอธิบาย
+
+The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
+
+#### พรอมต์
+
+```text
+A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
+```
+
+### No. 127: Shirtless man playing guitar by campfire
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Billy Balls
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/BillyBalls25138/status/2066279897274736747)
+
+#### คำอธิบาย
+
+A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
+
+#### พรอมต์
+
+```text
+A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
+```
+
+### No. 128: 【最速比較】Ai動画の新王者！Seedance 2.0 Mini Vs Grok 1.5 Vs Happy
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** lume_itigo15
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/itigo_uu15/status/2070441968040386721)
+
+#### คำอธิบาย
+
+【最速比較】AI動画の新王者！Seedance 2.0 Mini vs Grok 1.5 vs Happy Horse 1.1 徹底比較
+
+同じプロンプト条件で3つのモデルを比較した動画ですが、今回の結果はかなり印象的でした。
+
+#### พรอมต์
+
+```text
+【最速比較】AI動画の新王者！Seedance 2.0 Mini vs Grok 1.5 vs Happy Horse 1.1 徹底比較
+
+同じプロンプト条件で3つのモデルを比較した動画ですが、今回の結果はかなり印象的でした。
+
+優勝モデルはほぼ文句なしの完成度で、映像の一貫性や表現力の差が非常に分かりやすいです。
+
+一方で Seedance
+```
+
+### No. 129: Artificial Analysis Just Released A Category-Level Breakdown Of
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** DeFAI Scope
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/defaiscope/status/2070442757022171207)
+
+#### คำอธิบาย
+
+Artificial Analysis just released a category-level breakdown of video editing performance, and the field splits cleanly by capability.
+
+#### พรอมต์
+
+```text
+Artificial Analysis just released a category-level breakdown of video editing performance, and the field splits cleanly by capability.
+
+Models strong on Sound &amp; Physics tend to be weak on Visual Effects, and vice versa.
+Wan 2.7 ranks #2 in Sound and Complex Edits but #6 in VFX.
+```
+
+### No. 130: Happyhorse 1.1 &Amp; Kling 3.0 Are Now On
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CometAPI
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cometapi_ai/status/2070451300429643958)
+
+#### คำอธิบาย
+
+HappyHorse 1.1 &amp; Kling 3.0 are now on CometAPI!
+
+#### พรอมต์
+
+```text
+HappyHorse 1.1 &amp; Kling 3.0 are now on CometAPI!
+
+
+
+#CometAPI #HappyHorse #Kling #VideoAI #AI #API
+```
+
+### No. 131: 不自然な動きが減ってAiだけで実用動画が作りやすくなった Happyhorse 1.1が物理法則に沿った自然な動きを実現。広告やUgc向けの動画生成が変わった。
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/outsourcePM/status/2070463621352833165)
+
+#### คำอธิบาย
+
+不自然な動きが減ってAIだけで実用動画が作りやすくなった
+HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
+
+#### พรอมต์
+
+```text
+不自然な動きが減ってAIだけで実用動画が作りやすくなった
+HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
+
+✅ HappyHorse 1.1の動きが自然
+
+✅ 自分で高品質動画を量産しやすくなる
+
+✅ 今まで手直しが必要だった部分が最初から直る
+```
+
+### No. 132: The Next Generation Of Ai Video Is Here
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Omixa Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070470575995183104/vid/avc1/1920x1080/t26NUQcdE9Djd0uH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070470575995183104/vid/avc1/1920x1080/t26NUQcdE9Djd0uH.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Omixacloud/status/2070471113868476811)
+
+#### คำอธิบาย
+
+The next generation of AI video is here.
+
+#### พรอมต์
+
+```text
+The next generation of AI video is here.
+
+HappyHorse 1.1 is now available through Omixa API — built for creators, developers, agencies, and AI platforms that need cinematic video generation at scale.
+
+Generate powerful AI videos from text, images, or visual references with
+```
+
+### No. 133: In Builderstudio 2.0.1 You Can Generate Videos Like
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** WunderCorp, Inc.
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070481011524165632/vid/avc1/762x762/4nZB-9ngPvdkQZTn.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070481011524165632/vid/avc1/762x762/4nZB-9ngPvdkQZTn.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/wundercorp/status/2070481067673280581)
+
+#### คำอธิบาย
+
+In BuilderStudio 2.0.1 you can generate videos like this to promote your own apps 🎥📱🍿
+
+Try out our new workflows feature today ⬇️
+
+#### พรอมต์
+
+```text
+In BuilderStudio 2.0.1 you can generate videos like this to promote your own apps 🎥📱🍿
+
+Try out our new workflows feature today ⬇️
+
+
+
+#ai #videogen #happyhorse #nanobanana #aivideo #ios #videomaker #aivideomaker
+```
+
+### No. 134: Ai Is Getting Scary Good... 🤯🐜 This Animated
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Marry claire
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070489678248304640/vid/avc1/1280x720/-YsqopRNM8TYg4iN.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070489678248304640/vid/avc1/1280x720/-YsqopRNM8TYg4iN.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Marryclaire_AI/status/2070489735425122396)
+
+#### คำอธิบาย
+
+AI is getting scary good...
+
+#### พรอมต์
+
+```text
+AI is getting scary good... 🤯🐜
+
+This animated ant comedy was brought to life with HappyHorse 1.1 -where tiny ants deliver big laughs.
+
+ HappyHorse 1.1 is now available! The HORSEPOWER AI Cinema Awards are officially open!!!!
+Super excited to create my next AI film!
+```
+
+### No. 135: In 2025, I Had 6 Ai Provider Accounts
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Parul Gautam
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070494455158001665/vid/avc1/1314x720/WHk2AUv4gS9FEKkL.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070494455158001665/vid/avc1/1314x720/WHk2AUv4gS9FEKkL.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Parul_Gautam7/status/2070494543104155865)
+
+#### คำอธิบาย
+
+In 2025, I had 6 AI provider accounts.
+
+#### พรอมต์
+
+```text
+In 2025, I had 6 AI provider accounts.
+
+6 API keys. 6 billing dashboards. 6 different integration formats to manage.
+Every time I wanted to test a new model, I had to sign up somewhere new, add a card, figure out a new API format, and then actually do the work I came to do.
+
+It
+```
+
+### No. 136: 5. 🎥 Alibaba Becomes Ai Video'S Unexpected Challenger
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Trew Knowledge
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/trewknowledge/status/2070496923060957413)
+
+#### คำอธิบาย
+
+5.
+
+#### พรอมต์
+
+```text
+5. 🎥 Alibaba Becomes AI Video's Unexpected Challenger
+
+Alibaba's HappyHorse 1.1 moved into second place on AI video rankings after a surprising series of competitor setbacks. OpenAI's Sora is being discontinued, while ByteDance's Seedance faces copyright-related challenges.
+```
+
+### No. 137: The Biggest Improvement For Jupiter Was Instruction Following
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Amir D
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/starks_arq/status/2070511837733400806)
+
+#### คำอธิบาย
+
+The biggest improvement for Jupiter was instruction following.
+
+#### พรอมต์
+
+```text
+The biggest improvement for Jupiter was instruction following.
+
+The film jumps between generations, ideas, and symbolic moments. Keeping those connected is where many video models struggle.
+
+Happy Horse 1.1 does a much better job maintaining context and understanding the intent
+```
+
+### No. 138: 7 New Models Just Dropped On Atlas Cloud.🏄‍♀️
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Atlas Cloud
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/atlas_cloud_ai/status/2070514331431887066)
+
+#### คำอธิบาย
+
+7 new models just dropped on Atlas Cloud.🏄‍♀️
+Video, coding, reasoning, avatar generation—all live now with the lowest prices anywhere.
+
+#### พรอมต์
+
+```text
+7 new models just dropped on Atlas Cloud.🏄‍♀️
+Video, coding, reasoning, avatar generation—all live now with the lowest prices anywhere.
+Kling 3.0 Turbo (4K for3.0 &amp; Omni 3 ), Seedance 2.0 4K&amp; Mini, HappyHorse 1.1, OWL (yes, FREE).
+One API key. 300+ models. 
+
+🧵 Details &amp; direct
+```
+
+### No. 139: June In Ai Art. A Lot Happened. →
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** FloyoAI
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### คำอธิบาย
+
+June in AI art.
+
+#### พรอมต์
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 140: June In Ai Art. A Lot Happened. →
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** FloyoAI
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### คำอธิบาย
+
+June in AI art.
+
+#### พรอมต์
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 141: June In Ai Art. A Lot Happened. →
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** FloyoAI
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### คำอธิบาย
+
+June in AI art.
+
+#### พรอมต์
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 142: Happyhorse 1.0 And 1.1 Are Now Available On
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** InfronAI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070445620083769344/vid/avc1/1920x1080/g0CQ-9nNzD55kdNx.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070445620083769344/vid/avc1/1920x1080/g0CQ-9nNzD55kdNx.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/InfronAI/status/2070522476862574677)
+
+#### คำอธิบาย
+
+HappyHorse 1.0 and 1.1 are now available on Infron.
+
+#### พรอมต์
+
+```text
+HappyHorse 1.0 and 1.1 are now available on Infron.
+@HappyHorseATH's video model that ranked #1 on Artificial Analysis Video Arena in both text-to-video and image-to-video.
+
+Try them now 👇
+→1.1 Text to Video: 
+→1.1 Image to Video:
+```
+
+### No. 143: Managing Different Api Accounts Just To Build One
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** LinkModel
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/link_model_ai/status/2070522481492787669)
+
+#### คำอธิบาย
+
+Managing different API accounts just to build one product?
+
+#### พรอมต์
+
+```text
+Managing different API accounts just to build one product? 🥲
+
+In LinkModel AI, one key handles it all. 😎
+And even with up to 30% cheaper than going direct. 🔥
+
+What’s inside 🙌
+→ Claude Opus 4.8 (15% off)
+→ Kling-V3 (30% off)
+→ GPT Image 2 (25% off)
+→ Nano Banana 2 (25%
+```
+
+### No. 144: Thanks Mate! Used The Happy Horse 1.1 Reference
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Stephan
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Stephan_Kop/status/2070528705458209224)
+
+#### คำอธิบาย
+
+Thanks mate!
+
+#### พรอมต์
+
+```text
+@idrisscodes Thanks mate! Used the happy horse 1.1 reference to video model, seems pretty decent for the price!
+```
+
+### No. 145: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice The Ai Expert
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### คำอธิบาย
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### พรอมต์
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 146: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice The Ai Expert
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### คำอธิบาย
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### พรอมต์
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 147: That'S Cool Happyhorse 1.1 Is Live On Happycapy
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alice The Ai Expert
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AliceInfoAi/status/2070535263252808012)
+
+#### คำอธิบาย
+
+That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+
+#### พรอมต์
+
+```text
+@happycapyai That's cool 
+HappyHorse 1.1 is live on Happycapy  one prompt and your video idea comes to life
+```
+
+### No. 148: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Theinfralab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### คำอธิบาย
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### พรอมต์
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 149: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Theinfralab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### คำอธิบาย
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### พรอมต์
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 150: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Theinfralab
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### คำอธิบาย
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### พรอมต์
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 151: Felted Style Short Film Is Gorgeous And Deeply
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2070562184833159662)
+
+#### คำอธิบาย
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### พรอมต์
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 152: Felted Style Short Film Is Gorgeous And Deeply
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2070562184833159662)
+
+#### คำอธิบาย
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### พรอมต์
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 153: Felted Style Short Film Is Gorgeous And Deeply
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2070562184833159662)
+
+#### คำอธิบาย
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### พรอมต์
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 154: Felted Style Short Film Is Gorgeous And Deeply
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2070562184833159662)
+
+#### คำอธิบาย
+
+Felted style short film is gorgeous and deeply reflective!
+
+#### พรอมต์
+
+```text
+@HappyHorseATH @starks_arq Felted style short film is gorgeous and deeply reflective! HappyHorse 1.1 really shines here. 
+Appreciate Amir sharing the creative process stunning AI filmmaking! ✨
+```
+
+### No. 155: Gerei O Mesmo Prompt Em 2 Modelos Diferentes
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** O que fazer com IA
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/ext_tw_video/2070584223291895808/pu/vid/avc1/1280x720/-NmLB2ozeX71w7AS.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2070584223291895808/pu/vid/avc1/1280x720/-NmLB2ozeX71w7AS.mp4?tag=12" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/oquefazercomia/status/2070584632874025067)
+
+#### คำอธิบาย
+
+Gerei o MESMO prompt em 2 modelos diferentes de IA pra vídeo e olha a diferença 👇
+
+Prompt usado:
+"Um astronauta caminhando lentamente sobre uma montanha nevada à noite.
+
+#### พรอมต์
+
+```text
+Gerei o MESMO prompt em 2 modelos diferentes de IA pra vídeo e olha a diferença 👇
+
+Prompt usado:
+"Um astronauta caminhando lentamente sobre uma montanha nevada à noite. Uma placa de neon azul brilha ao fundo com a frase 'O FUTURO É AGORA'. Um planeta com anéis enormes nasce no
+```
+
+### No. 156: I Recently Got Accepted As One Of The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** B.A.S.H 🔺⚔️
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/ext_tw_video/2070600344103440384/pu/vid/avc1/1280x720/FPYjyB5huQONypSP.mp4)
+
+<video src="https://video.twimg.com/ext_tw_video/2070600344103440384/pu/vid/avc1/1280x720/FPYjyB5huQONypSP.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Bente_pro/status/2070600466283774317)
+
+#### คำอธิบาย
+
+I recently got accepted as one of the CPPs at  and luckily for me, it coincided with the release of HappyHorse 1.1, so I decided to check it out and work with it.
+
+#### พรอมต์
+
+```text
+I recently got accepted as one of the CPPs at @HappyHorseATH, and luckily for me, it coincided with the release of HappyHorse 1.1, so I decided to check it out and work with it.
+
+I created a vintage cartoon inspired by my favorite childhood cartoon, Tom and Jerry, and I must say
+```
+
+### No. 157: The Best Of Both Worlds: Access The Latest
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mark Ledford
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070599396757291008/vid/avc1/1280x720/zcphIX2e90YbEk-4.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070599396757291008/vid/avc1/1280x720/zcphIX2e90YbEk-4.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/fishmongr/status/2070600762217161004)
+
+#### คำอธิบาย
+
+The best of both worlds: Access the latest frontier partner video models like Seedance 2.0 and Happy Horse 1.1 at discounted pay-as-you-go rates.
+
+#### พรอมต์
+
+```text
+@Sogni_Protocol The best of both worlds: Access the latest frontier partner video models like Seedance 2.0 and Happy Horse 1.1 at discounted pay-as-you-go rates. Without an additional subscription.
+```
+
+### No. 158: Happy Horse 1.1 By Alibaba Is Live On
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝚉𝚊𝚎𝚜𝚊𝚛
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070625761883537408/vid/avc1/1440x1440/bFUkp2ZYV3qEP7-D.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070625761883537408/vid/avc1/1440x1440/bFUkp2ZYV3qEP7-D.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/zaesarius/status/2070626056990552242)
+
+#### คำอธิบาย
+
+Happy Horse 1.1 by  Alibaba is live on AI FILMS Studio.
+
+#### พรอมต์
+
+```text
+Happy Horse 1.1 by  Alibaba is live on AI FILMS Studio. One change from version 1.0 of  1080px costs drop by a third. A 5 second 1080px clip goes from 1,400  credits to 945 and it has the same quality and the same capabilities.
+
+Like most of the video models it comes with text to
+```
+
+### No. 159: 🜲 Happyhorse 1.1 Prompt Share 🜲 Ugc Style
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Feyber | AI Creator
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/woleswoosh/status/2070637304557998517)
+
+#### คำอธิบาย
+
+🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
+
+UGC STYLE:
+Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing.
+
+#### พรอมต์
+
+```text
+🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
+
+UGC STYLE:
+Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing. More Dynamic Motion, Stronger Consistency, and Higher Visual Fidelity. The
+```
+
+### No. 160: Day 6: Ai Video Contests Can Easily Get
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** MB
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/twMoonBoy/status/2070640286368235897)
+
+#### คำอธิบาย
+
+Day 6: AI video contests can easily get you 5figs
+
+made a list of all contests ongoing atm
+
+take action!👇
+
+1/ Rednoise challenge ($10k)
+&gt; Deadline: June 30th
+&gt; Link: 
+
+2/ Kinovi FIFA Challenge (
+
+#### พรอมต์
+
+```text
+Day 6: AI video contests can easily get you 5figs
+
+made a list of all contests ongoing atm
+
+take action!👇
+
+1/ Rednoise challenge ($10k)
+&gt; Deadline: June 30th
+&gt; Link: 
+
+2/ Kinovi FIFA Challenge ($800)
+&gt; Deadline: June 30th
+&gt; Link:
+```
+
+### No. 161: What If The Greatest Escape Wasn'T From The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ai Arainz
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070751675728400384/vid/avc1/1920x1080/fioEe8x72xach-XH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2070751675728400384/vid/avc1/1920x1080/fioEe8x72xach-XH.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iam_mian7/status/2070751763888771109)
+
+#### คำอธิบาย
+
+What if the greatest escape wasn't from the police...
+
+#### พรอมต์
+
+```text
+Title: The Last Escape
+Duration: 15 Seconds
+Style: Ultra-realistic cinematic action, post-apocalyptic https://t.co/JpQeiolr1v
+```
+
+### No. 162: The Goal That Belonged To Everyone Created With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ai Doctor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/ext_tw_video/2070769622664556544/pu/vid/avc1/1920x1072/t8DkZEXu27ImifyL.mp4)
+
+<video src="https://video.twimg.com/ext_tw_video/2070769622664556544/pu/vid/avc1/1920x1072/t8DkZEXu27ImifyL.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/DoctorAmna11/status/2070769785567166612)
+
+#### คำอธิบาย
+
+The Goal That Belonged to Everyone
+
+Created with HappyHorse 1.1 on  
+
+Prompt:
+15-second ultra-realistic cinematic football commercial, 4K HDR, 60fps, natural human motion, realistic football physics, 
+
+#### พรอมต์
+
+```text
+15-second ultra-realistic cinematic football commercial, 4K HDR, 60fps, natural human motion, realistic football physics, golden-hour lighting, packed stadium atmosphere, smooth gimbal https://t.co/q0KUReJrEF
+```
+
+### No. 163: Benchmarking Video Models In A Public Arena Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ethan Walker
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ethan_walker_ai/status/2070776674590069185)
+
+#### คำอธิบาย
+
+Benchmarking video models in a public arena is one of the best ways to push the space forward.
+
+#### พรอมต์
+
+```text
+@arena @HappyHorseATH Benchmarking video models in a public arena is one of the best ways to push the space forward. Curious to see how HappyHorse 1.1 performs against the current leaders.
+```
+
+### No. 164: Venice Doing Interesting Things In Decentralized Ai Space
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aixbt
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aixbt_agent/status/2070844128561381704)
+
+#### คำอธิบาย
+
+venice doing interesting things in decentralized ai space
+
+1.5M daily chats through warden protocol, processing nearly 1T tokens.
+
+#### พรอมต์
+
+```text
+@Robircz_ venice doing interesting things in decentralized ai space
+
+1.5M daily chats through warden protocol, processing nearly 1T tokens. user base projections show 4M by end of june, 10M by end of 2026. hit $2B fdv 8 days ago
+
+product velocity is real—just added seedance 2.0 4K video
+```
+
+### No. 165: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Grok
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/grok/status/2070857551667740950)
+
+#### คำอธิบาย
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### พรอมต์
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 166: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Grok
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/grok/status/2070857551667740950)
+
+#### คำอธิบาย
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### พรอมต์
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 167: **Cyrusjohnson** Happyhorse 1.1 Is Alibaba’S New Ai Video
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Grok
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/grok/status/2070857551667740950)
+
+#### คำอธิบาย
+
+**cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V).
+
+#### พรอมต์
+
+```text
+@cyrusjohnson @RestHouseHere **cyrusjohnson** HappyHorse 1.1 is Alibaba’s new AI video model (T2V/I2V/R2V). On Model Studio: **$0.14/sec** at 720p, **$0.18/sec** at 1080p (before the current 40% launch discount). Free 10s quota to test. Enterprise-focused, strong on motion &amp; consistency.
+```
+
+### No. 168: The Track Is Powered By Happyhorse 1.1 —
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alamin
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iam_chonchol/status/2070889123221745897)
+
+#### คำอธิบาย
+
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+
+#### พรอมต์
+
+```text
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+Released June 22, 2026.
+
+Not to be confused with the original HappyHorse — this is a major upgrade, already adopted across short drama, e-commerce, marketing, and CG production.
+
+Here's what
+```
+
+### No. 169: The Track Is Powered By Happyhorse 1.1 —
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alamin
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070888925854568448/vid/avc1/1280x720/t0WcT_qpsRA1Jhwy.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/iam_chonchol/status/2070889123221745897)
+
+#### คำอธิบาย
+
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+
+#### พรอมต์
+
+```text
+The track is powered by HappyHorse 1.1 — Alibaba Cloud's latest video generation model.
+Released June 22, 2026.
+
+Not to be confused with the original HappyHorse — this is a major upgrade, already adopted across short drama, e-commerce, marketing, and CG production.
+
+Here's what
+```
+
+### No. 170: So Many Ships: Here'S Another Demo Of The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Christopher Gwinn | Grindhouse Glitch
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ChrisGwinnLA/status/2071035565441708129)
+
+#### คำอธิบาย
+
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p.
+
+#### พรอมต์
+
+```text
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p. 
+
+AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
+```
+
+### No. 171: So Many Ships: Here'S Another Demo Of The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Christopher Gwinn | Grindhouse Glitch
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071034610646151168/vid/avc1/1920x1080/iN0eyq12w46qUrq3.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ChrisGwinnLA/status/2071035565441708129)
+
+#### คำอธิบาย
+
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p.
+
+#### พรอมต์
+
+```text
+So Many Ships: here's another demo of the new HappyHorse 1.1 video model in native 1080p. 
+
+AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
+```
+
+### No. 172: What A Crazy Week In Ai! 🚀 Wan
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ⚡AI Search⚡
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071075327921803264/vid/avc1/1080x1080/bXCAAoaE39am-09U.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071075327921803264/vid/avc1/1080x1080/bXCAAoaE39am-09U.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aisearchio/status/2071075787223322684)
+
+#### คำอธิบาย
+
+What a crazy week in AI!
+
+#### พรอมต์
+
+```text
+What a crazy week in AI! 🚀
+
+Wan Streamer
+Domain Shuttle
+Ornith
+Arbor
+DanceOPD
+Seedance 2.5
+HappyHorse 1.1
+Krea 2
+GPT-5.6
+Autodata
+&amp; more!
+
+Watch the full recap:
+```
+
+### No. 173: From Holding Onto A Golden Pole On Carousel
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Soulful Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071154787308158976/vid/avc1/1080x1080/GciMBlCZXUNP2wKv.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071154787308158976/vid/avc1/1080x1080/GciMBlCZXUNP2wKv.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/soulful__ai/status/2071154931697119436)
+
+#### คำอธิบาย
+
+From holding onto a golden pole on Carousel to holding a polo mallet on a championship field.🎠
+
+The things we loved as kids often shape who we become.
+
+#### พรอมต์
+
+```text
+SECTION 1 https://t.co/weyCcHGFrb
+```
+
+### No. 174: Happy Horse 1.1 Is Now Available On It
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PZF
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071162575383920640/vid/avc1/1280x720/Mt5kj7sN6mZ-rNqw.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071162575383920640/vid/avc1/1280x720/Mt5kj7sN6mZ-rNqw.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/pzf_ai/status/2071162859078271112)
+
+#### คำอธิบาย
+
+Happy Horse 1.1 is now available on  
+
+It has smoother motion and more expressive character performances than v1.
+
+#### พรอมต์
+
+```text
+Happy Horse 1.1 is now available on @LeonardoAi 
+
+It has smoother motion and more expressive character performances than v1.
+
+It also handles artistic styles well. This clip was done using text to video and it has rendered the painterly style I requested very well.
+```
+
+### No. 175: Quick Hits Alibaba Released Happy Horse 1.1, An
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ToZx
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Tozxart/status/2071214115360547061)
+
+#### คำอธิบาย
+
+Quick Hits
+
+Alibaba released Happy Horse 1.1, an upgrade to their video model with improved motion realism, character consistency, and native audio lip sync.
+
+#### พรอมต์
+
+```text
+Quick Hits
+
+Alibaba released Happy Horse 1.1, an upgrade to their video model with improved motion realism, character consistency, and native audio lip sync. Still behind Seed Dance but noticeably better than version one.
+
+Krea 2 is now open weights and one of the most uncensored
+```
+
+### No. 176: まいどです。 本日の生成Aiニュース+テクノロジー情報です。 『Gpt-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Stre
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** fujito
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/fujito_AI_note/status/2071229127940886949)
+
+#### คำอธิบาย
+
+まいどです。
+
+#### พรอมต์
+
+```text
+まいどです。
+本日の生成AIニュース+テクノロジー情報です。
+
+『GPT-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Streamer v0.1』『Krea 2 Conditioning Control』『LanPaint』『EditAnything』『3DREAL』『KER』『Step Into Set™ Motion
+```
+
+### No. 177: That’S A Beautiful Full-Circle Arc — From Carousel
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ÀBDŪLLÂH
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/itxabdullaa/status/2071246429465555349)
+
+#### คำอธิบาย
+
+That’s a beautiful full-circle arc — from carousel pole to polo mallet, childhood wonder becoming adult mastery 🎠🏆 
+
+Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
+
+#### พรอมต์
+
+```text
+@soulful__ai @itsPolloAI @HappyHorseATH That’s a beautiful full-circle arc — from carousel pole to polo mallet, childhood wonder becoming adult mastery 🎠🏆 
+
+Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
+```
+
+### No. 178: 🚀 This Week At Vanikya: 🎬 Happy Horse
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Vanikya
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/vanikyaai/status/2071254683424080159)
+
+#### คำอธิบาย
+
+🚀 This week at Vanikya:
+
+🎬 Happy Horse 1.1 video model is live
+🎞️ Video end frame control
+🎨 Rebuilt image editor, sharper + faster
+🖌️ Vector SVG generation
+🧊 Interactive 3D creations
+📱 Android adaptiv
+
+#### พรอมต์
+
+```text
+🚀 This week at Vanikya:
+
+🎬 Happy Horse 1.1 video model is live
+🎞️ Video end frame control
+🎨 Rebuilt image editor, sharper + faster
+🖌️ Vector SVG generation
+🧊 Interactive 3D creations
+📱 Android adaptive icon export
+⚡ Faster across the board
+
+Create at Vanikya AI
+
+#AI
+```
+
+### No. 179: An Idea That I Can'T Get To Work
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ty
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071287592587345922/vid/avc1/864x496/_otCAdgwZQw0iS-D.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071287592587345922/vid/avc1/864x496/_otCAdgwZQw0iS-D.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/EstrangedThots/status/2071289656420040960)
+
+#### คำอธิบาย
+
+An idea that I can't get to work correctly in Seedance.
+
+#### พรอมต์
+
+```text
+An idea that I can't get to work correctly in Seedance.  
+Concept: A woman drinks an energy drink that makes her grow in size rapidly.  The growth causes her clothing to shear off as she expands in size. 
+
+Part of what I don't get is the behavior of changing size causes it to
+```
+
+### No. 180: Been Using Happyhorse Since But 1.1 Is Crazy!!!
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** said
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071295398887456768/vid/avc1/3840x2160/H381JN9HSud2CT1-.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071295398887456768/vid/avc1/3840x2160/H381JN9HSud2CT1-.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/saidstetic/status/2071295556928917998)
+
+#### คำอธิบาย
+
+Been using HappyHorse since but 1.1 is crazy!!!
+
+#### พรอมต์
+
+```text
+Been using HappyHorse since but 1.1 is crazy!!! The Visual Quality is just suuper!!!  
+
+I made a Sakuga-level Battle scene for my HORSEPOWER AI Cinema Awards entry - entirely with HappyHorse 1.1.
+        
+The character, the  hit, the frames: locked in. That's the R2V upgrade
+```
+
+### No. 181: Happyhorse 1.1 Everyone 🙌🐎 Prompt: Poke Bowl Building
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** arc.
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071297810121576448/vid/avc1/3840x2160/1CHB1Deu_zQfNPO_.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071297810121576448/vid/avc1/3840x2160/1CHB1Deu_zQfNPO_.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/arceyul/status/2071297911208513612)
+
+#### คำอธิบาย
+
+HAPPYHORSE 1.1 EVERYONE 🙌🐎
+  
+
+prompt:
+POKE BOWL BUILDING 
+
+Create a crisp, clean infographic / storyboard style poster for VIBRANT POKE BOWL BUILDING.
+
+#### พรอมต์
+
+```text
+POKE BOWL BUILDING 
+
+Create a crisp, clean infographic / storyboard style poster for VIBRANT POKE BOWL BUILDING. Wide 16:9 layout, white background, black borders, bold black typography, premium 3D stylized rendering, bright https://t.co/DJJxkCY3Vc
+```
+
+### No. 182: Models Include , , , Wan, Veo
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Aristotto
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Aristottoai/status/2071410309516960012)
+
+#### คำอธิบาย
+
+Models include  ,  ,  , Wan, Veo,  , Flux, Nano Banana, GPT Image,  ,  , Seedream,  Pika, Happy Horse and more.
+
+#### พรอมต์
+
+```text
+Models include @Kling_ai , #SeeDance , @PixVerse_ , Wan, Veo, @imagine , Flux, Nano Banana, GPT Image, @ideogram_ai , @Alibaba_Qwen , Seedream, @hailuoai, Pika, Happy Horse and more.
+
+We’re looking for early users who actually create with AI and can give honest feedback.
+```
+
+### No. 183: 🐱国内海外228个Ai大模型一站式体验！ “我一开始以为Ucloud国际站只是又一个云厂商，结果点进去差点没出来。” Astraflow星图这个Ai平台，有点超
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 国外VPS测评
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/gwvpsceping/status/2071415081922158611)
+
+#### คำอธิบาย
+
+🐱国内海外228个AI大模型一站式体验！
+
+#### พรอมต์
+
+```text
+🐱国内海外228个AI大模型一站式体验！
+
+“我一开始以为UCloud国际站只是又一个云厂商，结果点进去差点没出来。”
+
+AstraFlow星图这个AI平台，有点超出预期👇
+
+🧠 Modelverse模型市场 + Sandbox安全开发环境
+🔒 金融级数据隔离（数据不出域）
+⚙️ 企业级AI开发工作台
+📊 模型日志 / API /
+```
+
+### No. 184: $Avo Weekly Recap 🥑 A Strong Week For
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Crypto Jay
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/CryptoLee002/status/2071445128657457342)
+
+#### คำอธิบาย
+
+$AVO Weekly Recap 🥑
+
+A strong week for $Avocado ai and the ecosystem overall 
+
+Stay with me 👇 
+
+This week may have been quieter on the surface, but progress continued behind the scenes.
+
+#### พรอมต์
+
+```text
+$AVO Weekly Recap 🥑
+
+A strong week for $Avocado ai and the ecosystem overall 
+
+Stay with me 👇 
+
+This week may have been quieter on the surface, but progress continued behind the scenes.
+
+• Happy Horse 1.1 officially launched, bringing better motion, improved consistency, and
+```
+
+### No. 185: A Simple Carousel Ride Became A Journey Beyond
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Stonic AI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071461251335757824/vid/avc1/1920x1080/6Qhb0iwA148GSaRQ.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071461251335757824/vid/avc1/1920x1080/6Qhb0iwA148GSaRQ.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Stonic_AI/status/2071462018599862334)
+
+#### คำอธิบาย
+
+A simple carousel ride became a journey beyond reality.
+
+#### พรอมต์
+
+```text
+15-Second AI Video https://t.co/Wg2lFqDCFg
+```
+
+### No. 186: # 🤖 Ai Teknoloji Radar — 29 Haziran
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AI Tech Radar 🇹🇷
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aiartanimation/status/2071481181145629045)
+
+#### คำอธิบาย
+
+# 🤖 AI Teknoloji Radar — 29 Haziran 2026
+
+ ⚡ BUGÜNÜN EN ÖNEMLİ GELİŞMESİ
+
+OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti isteğiyle yalnızca "güvenilir ortaklara" açtı —
+
+#### พรอมต์
+
+```text
+# 🤖 AI Teknoloji Radar — 29 Haziran 2026
+
+## ⚡ BUGÜNÜN EN ÖNEMLİ GELİŞMESİ
+
+OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti isteğiyle yalnızca "güvenilir ortaklara" açtı — bu, AI'ın artık bir savunma ve jeopolitik konu olduğunun en net işareti.
+```
+
+### No. 187: Animation Filmmakers Worried About Ai Taking Their Jobs
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** OneCloud Technology Solutions Official
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/onecloudtech/status/2071500588857368939)
+
+#### คำอธิบาย
+
+Animation filmmakers worried about AI taking their jobs, they should talk to short drama creators.
+
+#### พรอมต์
+
+```text
+@Polymarket Animation filmmakers worried about AI taking their jobs, they should talk to short drama creators. With tools like SeedDance and HappyHorse, 30-sec episodes are already dominated by AI. Hollywood is next.
+```
+
+### No. 188: Been Testing A Bunch Of Ai Models, And
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aditii
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### คำอธิบาย
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### พรอมต์
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 189: Been Testing A Bunch Of Ai Models, And
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aditii
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### คำอธิบาย
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### พรอมต์
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 190: Been Testing A Bunch Of Ai Models, And
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** aditii
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071507560839208960/vid/avc1/1392x720/XvaJLZndAsFgWZyC.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2071507760144097785)
+
+#### คำอธิบาย
+
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another bi
+
+#### พรอมต์
+
+```text
+Been testing a bunch of AI models, and one thing I didn't expect was how annoying the infrastructure side would get
+
+Every time I wanted to try a new model, I ended up with another API key, another billing dashboard, and another integration to manage.
+
+While looking for a simpler
+```
+
+### No. 191: Cool Ai Video! That Carousel Horse Turning Into
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nancy Diazz
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Nancy__Diazz/status/2071520263171379617)
+
+#### คำอธิบาย
+
+Cool AI video!
+
+#### พรอมต์
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 192: Cool Ai Video! That Carousel Horse Turning Into
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nancy Diazz
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Nancy__Diazz/status/2071520263171379617)
+
+#### คำอธิบาย
+
+Cool AI video!
+
+#### พรอมต์
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 193: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Bella 🌷
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### คำอธิบาย
+
+Cool dragon transformation!
+
+#### พรอมต์
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
+```
+
+### No. 194: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Bella 🌷
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### คำอธิบาย
+
+Cool dragon transformation!
+
+#### พรอมต์
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
+```
+
+### No. 195: Cool Ai Video! That Carousel Horse Turning Into
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jane Lmio🇺🇸
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/myvonniieta/status/2071525635131076725)
+
+#### คำอธิบาย
+
+Cool AI video!
+
+#### พรอมต์
+
+```text
+@zahray_ai @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 196: Ai Lip-Sync Never Looked This Good! Happy Horse
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Segmind
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071529956753256448/vid/avc1/1920x1080/EApqiY3mUbT99gUE.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071529956753256448/vid/avc1/1920x1080/EApqiY3mUbT99gUE.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Segmind_ai/status/2071531030796972513)
+
+#### คำอธิบาย
+
+AI Lip-sync never looked this good!
+
+#### พรอมต์
+
+```text
+AI Lip-sync never looked this good!
+
+Happy Horse 1.1 is now on Segmind
+
+prompt 👇🏻
+```
+
+### No. 197: Ran My Old Video Script Through Happyhorse 1.1
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Jackos K
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071533105010397184/vid/avc1/1280x720/XMogTGIk2RzMJ_Fn.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071533105010397184/vid/avc1/1280x720/XMogTGIk2RzMJ_Fn.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/looneyren/status/2071533524428214659)
+
+#### คำอธิบาย
+
+ran my old video script through HappyHorse 1.1, and overall it worked pretty well.
+
+#### พรอมต์
+
+```text
+ran my old video script through HappyHorse 1.1, and overall it worked pretty well.
+```
+
+### No. 198: From A Tiny Carousel Pony To An Unstoppable
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Bairan
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071562948976504832/vid/avc1/1176x784/ancCstqqFenONL-k.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071562948976504832/vid/avc1/1176x784/ancCstqqFenONL-k.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/OxBairan/status/2071563097404473368)
+
+#### คำอธิบาย
+
+From a tiny carousel pony to an unstoppable mechanical titan—every spin unlocks a new evolution.
+
+#### พรอมต์
+
+```text
+From a tiny carousel pony to an unstoppable mechanical titan—every spin unlocks a new evolution. ⚙️🐴✨
+Where imagination meets cinematic AI, every transformation tells a bigger story.
+
+Created with HappyHorse on 
+@itsPolloAI
+
+@HappyHorseATH
+
+#PolloHappyHorseChallenge
+```
+
+### No. 199: Most People Think Ai Video Is Just For
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2071577543057252635)
+
+#### คำอธิบาย
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### พรอมต์
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 200: Most People Think Ai Video Is Just For
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2071577543057252635)
+
+#### คำอธิบาย
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### พรอมต์
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 201: Most People Think Ai Video Is Just For
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2071577543057252635)
+
+#### คำอธิบาย
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### พรอมต์
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 202: Most People Think Ai Video Is Just For
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Z-Coder
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2071577543057252635)
+
+#### คำอธิบาย
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### พรอมต์
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 203: Yo , Can You Lowkey Spill Your Secret
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Merman Gian
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071579980589641728/vid/avc1/960x720/gm4cjZXN5noVnakm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071579980589641728/vid/avc1/960x720/gm4cjZXN5noVnakm.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/xMermanGian/status/2071580175272419408)
+
+#### คำอธิบาย
+
+Yo  , can you lowkey spill your secret sauce so other video AI gens actually learn how to make merman or mermaids swim perfectly?
+
+#### พรอมต์
+
+```text
+Yo @grok , can you lowkey spill your secret sauce so other video AI gens actually learn how to make merman or mermaids swim perfectly? It needs to look like a dolphin, not a shark. They need to get the context right between a real merman with scales vs a cosplay fabric tail.
+```
+
+### No. 204: 制作フロー： 1. Chatgptでテーマと構成を整理 2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成 3. 
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Runo.Luminia
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/runoluminia/status/2071613397628837974)
+
+#### คำอธิบาย
+
+制作フロー：
+1.
+
+#### พรอมต์
+
+```text
+制作フロー：
+1. ChatGPTでテーマと構成を整理
+2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成
+3. Pollo AIのHappyHorse 1.1に画像をアップロードして動画生成
+4. 生成した複数カットを編集ソフトで編集、BGM追加
+BGM:Suno
+```
+
+### No. 205: Love That Shift 👏 $10K To Build With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Reena Tech & Tool
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/reizzlla/status/2071615678600327583)
+
+#### คำอธิบาย
+
+Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
+
+#### พรอมต์
+
+```text
+@codedailyML Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
+```
+
+### No. 206: What A Crazy Week In Ai! Wan Streamer
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** pikashuk
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/jsharma326/status/2071618105533702306)
+
+#### คำอธิบาย
+
+What a crazy week in AI!
+
+#### พรอมต์
+
+```text
+What a crazy week in AI! Wan Streamer Domain Shuttle Ornith Arbor DanceOPD Seedance 2.5 HappyHorse 1.1 Krea 2 GPT-5.6 Autodata &amp; more! Watch the full recap:  Real progress needs reproducible results, not buzzword bingo. #AI #Tech
+```
+
+### No. 207: Can We Start Calling Ai Film To Just
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** GARLOTIC
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071623308299137024/vid/avc1/1920x1080/cim9GqK2zlDxfy_r.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071623308299137024/vid/avc1/1920x1080/cim9GqK2zlDxfy_r.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/garlotic/status/2071623425659945093)
+
+#### คำอธิบาย
+
+Can we start calling AI film to just film?
+
+#### พรอมต์
+
+```text
+Can we start calling AI film to just film? 
+
+HappyHorse 1.1 just launched today and its Insane!
+
+#happyhorse #happyhorse1.1 #AIfilm  #ai
+```
+
+### No. 208: Fear The Dark. Fear The Shadow. Fear The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** angel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071623361369669632/vid/avc1/1920x1080/eSkKU-wApS8a7w9A.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071623361369669632/vid/avc1/1920x1080/eSkKU-wApS8a7w9A.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/angeldot_/status/2071623462037172672)
+
+#### คำอธิบาย
+
+Fear the dark.
+
+#### พรอมต์
+
+```text
+Fear the dark. Fear the shadow. Fear the librarian at midnight. 😆
+
+HappyHorse 1.1 is live - and you can't tell it's AI.
+
+Smoother motion. More power. Every frame feels real!!
+
+The Midnight Library was made with HappyHorse 1.1
+@HappyHorseATH 
+
+#happyhorse #happyhorse1.1  #ai
+```
+
+### No. 209: Yes, I Still Make Sure I Try The
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝐙𝐞𝐧𝐠 💜
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/zeng_wt/status/2071624522412003437)
+
+#### คำอธิบาย
+
+Yes, I still make sure I try the new models, cause that is important.
+
+#### พรอมต์
+
+```text
+@HBCoop_ @dreamina_ai Yes, I still make sure I try the new models, cause that is important. What I mean was I just don't care about new platforms. LoL. Most of them are the same.😉
+I think Happy Horse 1.1 is great with animation, but not with realism. Which other new video models you are exploring
+```
+
+### No. 210: A Still Moment On An Old Stone Jetty
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alper
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/xtunc29/status/2071646239775412702)
+
+#### คำอธิบาย
+
+A still moment on an old stone jetty.
+
+#### พรอมต์
+
+```text
+A still moment on an old stone jetty. The breeze, the turquoise water, and one soft wistful look out to sea.
+
+Reference to Video HappyHorse 1.1
+
+#happyhorse @HappyHorseATH
+```
+
+### No. 211: Happy Horse 1.1 Is Available To All Gmi
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** GMI Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071651504960966656/vid/avc1/1920x1080/u4C5XebO8fKteDIm.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071651504960966656/vid/avc1/1920x1080/u4C5XebO8fKteDIm.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/gmi_cloud/status/2071652364411715859)
+
+#### คำอธิบาย
+
+Happy Horse 1.1 is available to all GMI users
+
+including r2v, t2v, and i2v 
+
+another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
+
+#### พรอมต์
+
+```text
+Happy Horse 1.1 is available to all GMI users
+
+including r2v, t2v, and i2v 
+
+another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
+```
+
+### No. 212: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Qiita（キータ）公式
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Qiita/status/2071777607562219613)
+
+#### คำอธิบาย
+
+【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成AI「Happy Horse」をQiitaデザイナーがレビュー！
+
+#### พรอมต์
+
+```text
+【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成AI「Happy Horse」をQiitaデザイナーがレビュー！
+
+劇的な進化を遂げる動画生成AI。今回はQiitaのデザイナーが、マルチモーダル動画生成AI「Happy
+```
+
+### No. 213: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 藤川裕一🤖アリババAIエンジニア
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/fujiyuu75e/status/2071835876141719871)
+
+#### คำอธิบาย
+
+明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
+
+#### พรอมต์
+
+```text
+明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
+#IVS #IVS2026
+```
+
+### No. 214: Xai Has Released Grok Imagine Video 1.5, Its
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Mura
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Mura1Verse/status/2071835969318518807)
+
+#### คำอธิบาย
+
+xAI has released Grok Imagine Video 1.5, its new AI video generation model, and it quickly climbed to the  spot on the Image-to-Video Arena leaderboard, surpassing Seedance 2.0, HappyHorse 1.0, and ev
+
+#### พรอมต์
+
+```text
+xAI has released Grok Imagine Video 1.5, its new AI video generation model, and it quickly climbed to the #1 spot on the Image-to-Video Arena leaderboard, surpassing Seedance 2.0, HappyHorse 1.0, and even Google Veo.
+
+It fixes many common AI video problems, such as unrealistic
+```
+
+### No. 215: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** EyeingAI
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071837628660609024/vid/avc1/1280x720/BnDOhqgdtVuhfljV.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071837628660609024/vid/avc1/1280x720/BnDOhqgdtVuhfljV.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/EyeingAI/status/2071837683320516663)
+
+#### คำอธิบาย
+
+Featured video model: HappyHorse 1.1.
+
+#### พรอมต์
+
+```text
+Featured video model: HappyHorse 1.1.
+
+
+
+Alibaba's latest video generation model with support for Text-to-Video, Image-to-Video, Reference-to-Video, multi-image references and 720p/1080p outputs.
+
+The latest update also brings smoother motion, stronger
+```
+
+### No. 216: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Leo Zhou
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PengZhou0394/status/2071860714697080903)
+
+#### คำอธิบาย
+
+2.核心定位:  AI Content-Marketing Agent
+
+口号 :  Let'suse Alto Earn!
+
+#### พรอมต์
+
+```text
+2.核心定位: #1 AI Content-Marketing Agent
+
+口号 :  Let'suse Alto Earn!
+四大核心Agent能力 (Monetize . Publish · Engage . Create)：
+
+Create一内容创作Agent
+· 调用顶级视频生成模型(Grok、Veo、Seedance、HappyHorse、Nano Banana等
+· 自动翻译、编辑、批量生成视频/图文
+·
+```
+
+### No. 217: "A Young Man Enters A Tea Shop, Sits
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** shishir.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/shishirai_/status/2071861768344015254)
+
+#### คำอธิบาย
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### พรอมต์
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
+### No. 218: "A Young Man Enters A Tea Shop, Sits
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** shishir.ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/shishirai_/status/2071861768344015254)
+
+#### คำอธิบาย
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### พรอมต์
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
+### No. 219: The Ai Film Festival Hackathon In Monaco Has
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2071890514505281618)
+
+#### คำอธิบาย
+
+The AI Film Festival Hackathon in Monaco has concluded.
+
+#### พรอมต์
+
+```text
+The AI Film Festival Hackathon in Monaco has concluded.
+We'll be revealing the top 10 winners over the next couple of days—keep an eye out!
+🏆 GRAND PRIZE WINNER
+🎬 《If I Forget》 by Li Jingying — the emotionally resonant short film that took 1st place among global creators,
+```
+
+### No. 220: The Ai Film Festival Hackathon In Monaco Has
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071890514505281618.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2071890514505281618)
+
+#### คำอธิบาย
+
+The AI Film Festival Hackathon in Monaco has concluded.
+
+#### พรอมต์
+
+```text
+The AI Film Festival Hackathon in Monaco has concluded.
+We'll be revealing the top 10 winners over the next couple of days—keep an eye out!
+🏆 GRAND PRIZE WINNER
+🎬 《If I Forget》 by Li Jingying — the emotionally resonant short film that took 1st place among global creators,
+```
+
+### No. 221: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alex Prompter
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071893927607877754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071893927607877754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alex_prompter/status/2071893927607877754)
+
+#### คำอธิบาย
+
+The featured model is HappyHorse 1.1, Alibaba Cloud's video model released June 22, 2026.
+
+#### พรอมต์
+
+```text
+The featured model is HappyHorse 1.1, Alibaba Cloud's video model released June 22, 2026.
+
+This is the 1.1 release, a major upgrade over the original, not the legacy version.
+
+Alibaba reports gains in motion, subject consistency across references, instruction following, and audio
+```
+
+### No. 222: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** えぴ@AIイッヌえぴ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071897121083757040.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071897121083757040.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/aiinuepi/status/2071897121083757040)
+
+#### คำอธิบาย
+
+『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+
+#### พรอมต์
+
+```text
+『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+```
+
+### No. 223: Generate The Video 1. Open Gmi Cloud Playground
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** DΞV
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/junwatu/status/2071906562244071725)
+
+#### คำอธิบาย
+
+Generate the Video
+
+1.
+
+#### พรอมต์
+
+```text
+Generate the Video
+
+1. Open GMI Cloud Playground &amp; select Happy Horse 1.1 r2v as the model.
+2. Upload the storyboard as the reference image.
+3. Set the video duration to 15 seconds.
+4. Use the following prompt to generate the video:
+
+Create a cinematic live-action video about
+```
+
+### No. 224: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 贾洛德森pro_🦞💎
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071932382194929883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071932382194929883.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/two3pro/status/2071932382194929883)
+
+#### คำอธิบาย
+
+AI 視頻創作者来活了 
+
+阿里巴巴 Qwen Cloud 全球 AI 黑客松的 AI Showrunner 賽道，要求參賽者使用 HappyHorse 1.1 視頻模型建構端到端生產管線，包含腳本、故事板、合成與後製，而非僅生成片段。
+
+#### พรอมต์
+
+```text
+AI 視頻創作者来活了 
+
+阿里巴巴 Qwen Cloud 全球 AI 黑客松的 AI Showrunner 賽道，要求參賽者使用 HappyHorse 1.1 視頻模型建構端到端生產管線，包含腳本、故事板、合成與後製，而非僅生成片段。
+
+賽道評分聚焦創新與 AI 創意 30%、技術深度 30%、問題價值 25% 及呈現
+```
+
+### No. 225: Intriguing End To End Pipeline With Happyhorse 1.1
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ifeanyi Uchendu
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Ifeanyiuchend/status/2071933185747779738)
+
+#### คำอธิบาย
+
+Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
+
+#### พรอมต์
+
+```text
+@two3pro Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
+```
+
+### No. 226: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 227: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 228: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 229: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 230: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 231: Hell Has A Short Video Competition. The Stakes?
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071935861684588561.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2071935861684588561)
+
+#### คำอธิบาย
+
+Hell has a short video competition.
+
+#### พรอมต์
+
+```text
+Hell has a short video competition.
+
+The stakes? Simple.
+Last place cleans the toilets.
+
+Two underworld messengers.
+Desperate, scrambling, running out of time—Until they found his story.
+No dramatic music. No forced tears.
+
+Just... a man’s life, honestly told.
+Sometimes that's
+```
+
+### No. 232: 1.0 Wins The Grand Prize In Monaco 🎬
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Eugenio Fierro
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071940618574512141.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071940618574512141.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/EugenioFierro3/status/2071940618574512141)
+
+#### คำอธิบาย
+
+1.0 wins the Grand Prize in Monaco
+
+🎬  has announced the Grand Prize winner of the AI Film Festival Hackathon in Monaco: If I Forget, a short film by Li Jingying created entirely with Alibaba Cloud Mo
+
+#### พรอมต์
+
+```text
+@HappyHorseATH 1.0 wins the Grand Prize in Monaco
+
+🎬 @alibaba_cloud has announced the Grand Prize winner of the AI Film Festival Hackathon in Monaco: If I Forget, a short film by Li Jingying created entirely with Alibaba Cloud Model Studio and HappyHorse 1.0.
+
+The story is set
+```
+
+### No. 233: I Created Three Versions Using The Same Prompt
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** CUPANG
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071956423987380365.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071956423987380365.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Cupang1997/status/2071956423987380365)
+
+#### คำอธิบาย
+
+I created three versions using the same prompt in different AI models:
+
+Seedance 2.0
+Seedance 2.0 Mini
+Happy Horse 1.1
+
+Which one do you think produces the most epic result?
+
+#### พรอมต์
+
+```text
+I created three versions using the same prompt in different AI models:
+
+Seedance 2.0
+Seedance 2.0 Mini
+Happy Horse 1.1
+
+Which one do you think produces the most epic result?
+```
+
+### No. 234: Tried Happyhorse 1.1 By For A Luxury Supercar
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KaiEnzo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071964745511711077.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071964745511711077.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/KaiEnzo_ai/status/2071964745511711077)
+
+#### คำอธิบาย
+
+Tried HappyHorse 1.1 by   for a luxury supercar ad using one multishot prompt.
+
+#### พรอมต์
+
+```text
+Tried HappyHorse 1.1 by @HappyHorseATH  for a luxury supercar ad using one multishot prompt.
+
+Not gonna lie… this is getting pretty close.
+
+Luxury mood, moving shots, cinematic car energy — all from one prompt.
+
+What do you guys think, pass or still needs work? #happyhorse
+```
+
+### No. 235: Every Spin Tells A New Story. 🎠✨ Created
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** TheAigenify
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071966937098453225.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071966937098453225.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/theaigenify/status/2071966937098453225)
+
+#### คำอธิบาย
+
+Every spin tells a new story.
+
+#### พรอมต์
+
+```text
+Every spin tells a new story. 🎠✨
+
+Created with the Happy Horse model in Pollo AI. Planned with a Master Sheet to keep every transformation smooth, connected, and visually consistent.
+
+#PolloHappyHorseChallenge @itsPolloAI @HappyHorseATH
+```
+
+### No. 236: The Future Of Cinematic Storytelling Has Arrived With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### คำอธิบาย
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### พรอมต์
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 237: The Future Of Cinematic Storytelling Has Arrived With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### คำอธิบาย
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### พรอมต์
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 238: The Future Of Cinematic Storytelling Has Arrived With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### คำอธิบาย
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### พรอมต์
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 239: The Future Of Cinematic Storytelling Has Arrived With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### คำอธิบาย
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### พรอมต์
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 240: The Future Of Cinematic Storytelling Has Arrived With
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** KATE
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### คำอธิบาย
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### พรอมต์
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 241: Happy Horse 1.1 Just Landed On Fotor —
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Fotor
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2071999364789047784.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071999364789047784.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/fotor_com/status/2071999364789047784)
+
+#### คำอธิบาย
+
+Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
+
+#### พรอมต์
+
+```text
+Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
+
+Smoother motion. More expressive characters. Real dynamic energy that makes scenes feel alive, not animated. Plus built-in foley &amp; ambient sound, so your clip arrives already scored — no extra dubbing
+```
+
+### No. 242: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artificial Analysis
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### คำอธิบาย
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### พรอมต์
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 243: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artificial Analysis
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### คำอธิบาย
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### พรอมต์
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 244: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Artificial Analysis
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### คำอธิบาย
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### พรอมต์
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
+```
+
+### No. 245: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alsa
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072040717141135547.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072040717141135547.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIsaOneHQ/status/2072040717141135547)
+
+#### คำอธิบาย
+
+🔥HappyHorse 1.1 is live on AIsa API gateway
+
+We tested  with a cinematic video concept: space, Earth, motion, and atmosphere!
+
+#### พรอมต์
+
+```text
+🔥HappyHorse 1.1 is live on AIsa API gateway
+
+We tested @HappyHorseATH with a cinematic video concept: space, Earth, motion, and atmosphere!
+
+The result shows why image/video generation models are becoming a serious creative layer for builders.
+
+Now ready for use on AIsa.
+```
+
+### No. 246: Gemini Omni Flash Ranks For Video Edit In
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Arena.ai
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/arena/status/2072049269054562711)
+
+#### คำอธิบาย
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### พรอมต์
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
+### No. 247: Gemini Omni Flash Ranks For Video Edit In
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Arena.ai
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/arena/status/2072049269054562711)
+
+#### คำอธิบาย
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### พรอมต์
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
+### No. 248: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ❝𝐒𝐚𝐢𝐭𝐚𝐦𝐚❞
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Siatma0x/status/2072050058049077489)
+
+#### คำอธิบาย
+
+🐎HappyHorse 1.1 is officially live on the AIsa gateway
+
+It creates high-quality video and native sound effects together in a single pass, making it way easier to scale video apps.
+
+#### พรอมต์
+
+```text
+🐎HappyHorse 1.1 is officially live on the AIsa gateway
+
+It creates high-quality video and native sound effects together in a single pass, making it way easier to scale video apps.
+
+You should give it a try
+```
+
+### No. 249: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Shira Wiggles
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072051889449931133.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072051889449931133.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/shirawiggles/status/2072051889449931133)
+
+#### คำอธิบาย
+
+Comparison video models
+
+gemini-omni-flash vs happy horse v1.1 vs seedance 2.0 fast
+
+check prompt in the replies👇
+
+Created with
+
+#### พรอมต์
+
+```text
+Comparison video models
+
+gemini-omni-flash vs happy horse v1.1 vs seedance 2.0 fast
+
+check prompt in the replies👇
+
+Created with @gmi_cloud
+```
+
+### No. 250: Half The Coin Cost. Same Powerful Model 💥
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### คำอธิบาย
+
+Half the coin cost.
+
+#### พรอมต์
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 251: Half The Coin Cost. Same Powerful Model 💥
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### คำอธิบาย
+
+Half the coin cost.
+
+#### พรอมต์
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 252: Half The Coin Cost. Same Powerful Model 💥
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### คำอธิบาย
+
+Half the coin cost.
+
+#### พรอมต์
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 253: Half The Coin Cost. Same Powerful Model 💥
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### คำอธิบาย
+
+Half the coin cost.
+
+#### พรอมต์
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 254: Half The Coin Cost. Same Powerful Model 💥
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2072076488204070976)
+
+#### คำอธิบาย
+
+Half the coin cost.
+
+#### พรอมต์
+
+```text
+Half the coin cost. Same powerful model 💥
+
+Get 50% off HappyHorse 1.1 generations in Studio AI. Scale your video production and experiment without limits. Offer ending soon!
+
+Generate now:
+```
+
+### No. 255: Anathema Studio [ Is Now Live. I Don'T
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** NiceCrew Technologies
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072095682664464537.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072095682664464537.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/nicecrewtech/status/2072095682664464537)
+
+#### คำอธิบาย
+
+Anathema Studio [ is now live.
+
+#### พรอมต์
+
+```text
+Anathema Studio [ is now live.
+
+I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
+```
+
+### No. 256: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Feathered Foodies | ESOTE Productions
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### คำอธิบาย
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### พรอมต์
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
+```
+
+### No. 257: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Feathered Foodies | ESOTE Productions
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### คำอธิบาย
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### พรอมต์
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
+```
+
+<a id="category-2"></a>
 
 ### ชุดสร้างสรรค์ HappyHorse (240)
 
@@ -4882,2763 +10590,6 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 ```text
 ในสตราโตสเฟียร์ที่มีพื้นที่สูง นักกีฬาเอ็กซ์ตรีมจะขับเคลื่อนแผงโซลาร์เซลล์เพื่อเหินโดยได้รับความช่วยเหลือจากลมสุริยะ และการตื่นขึ้นของนักกีฬาจะวาดส่วนโค้งสีทอง ทะเลหมอกและเส้นขอบฟ้าค่อยๆ เปลี่ยนไปในระยะไกล กล้องจะติดตามการวิ่งแล้วสลับไปที่มุมมองของโดรนเพื่อดำน้ำ ภาพยนตร์กีฬาแห่งอนาคต น่าตื่นเต้นและมีชีวิตชีวา
-```
-
-<a id="category-2"></a>
-
-### Twitter Community (136)
-
-### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 2: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/190_tw_001_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V2
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V2
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: Will Smith Eating Spaghetti V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V2
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: Quick Test of Female Controlling Plane in Complex Action Scene V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V2
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 6: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V2
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 7: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V2
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 8: One Punch Man Animation Surpassing Original Quality V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V2
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 9: Will Smith Eating Spaghetti V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V2
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 10: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V2
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 11: South Indian Cinema Alien Scene Generated from Single Prompt V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V2
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain V2
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v2
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V2
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/191_tw_003_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 14: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/290_tw_001_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V3
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 15: Aerial Shot of Burning Military Vehicle in Urban Warfare V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/291_tw_003_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V3
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 16: Will Smith Eating Spaghetti V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/292_tw_004_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V3
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 17: Quick Test of Female Controlling Plane in Complex Action Scene V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/293_tw_007_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V3
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 18: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/294_tw_008_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V3
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 19: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/295_tw_009_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V3
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 20: One Punch Man Animation Surpassing Original Quality V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/296_tw_016_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V3
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 21: Will Smith Eating Spaghetti V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/297_tw_018_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V3
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 22: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/298_tw_021_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V3
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 23: South Indian Cinema Alien Scene Generated from Single Prompt V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/299_tw_022_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V3
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 24: Ground Combat Shot of Soldiers Traversing Desert Terrain V3
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v3
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/300_tw_024_v3.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V3
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 25: Will Smith Eating Spaghetti
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/192_tw_004_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 26: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/390_tw_001_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V4
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 27: Aerial Shot of Burning Military Vehicle in Urban Warfare V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/391_tw_003_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V4
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 28: Will Smith Eating Spaghetti V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/392_tw_004_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V4
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 29: Quick Test of Female Controlling Plane in Complex Action Scene V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/393_tw_007_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V4
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 30: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/394_tw_008_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V4
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 31: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/395_tw_009_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V4
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 32: One Punch Man Animation Surpassing Original Quality V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/396_tw_016_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V4
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 33: Will Smith Eating Spaghetti V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/397_tw_018_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V4
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 34: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/398_tw_021_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V4
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 35: South Indian Cinema Alien Scene Generated from Single Prompt V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/399_tw_022_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V4
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 36: Ground Combat Shot of Soldiers Traversing Desert Terrain V4
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v4
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/400_tw_024_v4.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V4
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 37: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/490_tw_001_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V5
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 38: Aerial Shot of Burning Military Vehicle in Urban Warfare V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/491_tw_003_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V5
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 39: Will Smith Eating Spaghetti V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/492_tw_004_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V5
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 40: Quick Test of Female Controlling Plane in Complex Action Scene V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/493_tw_007_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V5
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 41: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/494_tw_008_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V5
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 42: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/495_tw_009_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V5
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 43: One Punch Man Animation Surpassing Original Quality V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/496_tw_016_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V5
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 44: Will Smith Eating Spaghetti V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/497_tw_018_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V5
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 45: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/498_tw_021_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V5
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 46: South Indian Cinema Alien Scene Generated from Single Prompt V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/499_tw_022_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V5
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 47: Ground Combat Shot of Soldiers Traversing Desert Terrain V5
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v5
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/500_tw_024_v5.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V5
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 48: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/590_tw_001_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V6
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 49: Aerial Shot of Burning Military Vehicle in Urban Warfare V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/591_tw_003_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V6
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 50: Will Smith Eating Spaghetti V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/592_tw_004_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V6
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 51: Quick Test of Female Controlling Plane in Complex Action Scene V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/593_tw_007_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V6
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 52: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/594_tw_008_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V6
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 53: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/595_tw_009_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V6
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 54: One Punch Man Animation Surpassing Original Quality V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/596_tw_016_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V6
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 55: Will Smith Eating Spaghetti V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/597_tw_018_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V6
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 56: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/598_tw_021_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V6
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 57: South Indian Cinema Alien Scene Generated from Single Prompt V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/599_tw_022_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V6
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 58: Ground Combat Shot of Soldiers Traversing Desert Terrain V6
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v6
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/600_tw_024_v6.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V6
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 59: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/193_tw_007_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 60: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/690_tw_001_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V7
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 61: Aerial Shot of Burning Military Vehicle in Urban Warfare V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/691_tw_003_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V7
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 62: Will Smith Eating Spaghetti V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/692_tw_004_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V7
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 63: Quick Test of Female Controlling Plane in Complex Action Scene V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/693_tw_007_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V7
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 64: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/694_tw_008_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V7
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 65: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/695_tw_009_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V7
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 66: One Punch Man Animation Surpassing Original Quality V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/696_tw_016_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V7
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 67: Will Smith Eating Spaghetti V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/697_tw_018_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V7
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 68: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/698_tw_021_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V7
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 69: South Indian Cinema Alien Scene Generated from Single Prompt V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/699_tw_022_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V7
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 70: Ground Combat Shot of Soldiers Traversing Desert Terrain V7
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v7
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/700_tw_024_v7.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V7
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 71: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/194_tw_008_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 72: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_001_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/790_tw_001_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene. V8
-
-#### พรอมต์
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 73: Aerial Shot of Burning Military Vehicle in Urban Warfare V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_003_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/791_tw_003_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering. V8
-
-#### พรอมต์
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 74: Will Smith Eating Spaghetti V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_004_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/792_tw_004_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V8
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 75: Quick Test of Female Controlling Plane in Complex Action Scene V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_007_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/793_tw_007_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis. V8
-
-#### พรอมต์
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 76: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_008_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/794_tw_008_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure. V8
-
-#### พรอมต์
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 77: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/795_tw_009_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment. V8
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 78: One Punch Man Animation Surpassing Original Quality V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/796_tw_016_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities. V8
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 79: Will Smith Eating Spaghetti V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/797_tw_018_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen. V8
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 80: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/798_tw_021_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities. V8
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 81: South Indian Cinema Alien Scene Generated from Single Prompt V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/799_tw_022_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities. V8
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 82: Ground Combat Shot of Soldiers Traversing Desert Terrain V8
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024_v8
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/800_tw_024_v8.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details. V8
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 83: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_009
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/195_tw_009_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### พรอมต์
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-### No. 84: One Punch Man Animation Surpassing Original Quality
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_016
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/196_tw_016_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### พรอมต์
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 85: Will Smith Eating Spaghetti
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_018
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/197_tw_018_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### พรอมต์
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 86: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_021
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/198_tw_021_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### พรอมต์
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 87: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_022
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/199_tw_022_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### พรอมต์
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 88: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `twitter`
-- **ผู้เขียน:** tw_024
-- **ภาษา:** `th`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/batch_20260424_144159/200_tw_024_v2.mp4" controls muted playsinline width="720"></video>
-
-#### คำอธิบาย
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### พรอมต์
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 89: Neon-lit city street at night
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Megan Li
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2064998724837994912.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/MeganLee_0318/status/2064998724837994912)
-
-#### คำอธิบาย
-
-A person walks through a rainy, neon-lit city street at night with cinematic reflections.
-
-#### พรอมต์
-
-```text
-A person walking through a neon-lit city street at night, rain falling, reflections on wet pavement, cinematic mood
-```
-
-### No. 90: Office Argument with Panoramic Window View
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Al-Shamus
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065030699938431285.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/im_shahid7/status/2065030699938431285)
-
-#### คำอธิบาย
-
-A video prompt depicting two men in business attire arguing in a modern high-rise office with a panoramic window.
-
-#### พรอมต์
-
-```text
-Two men in business attire argue in a modern high-rise office with a floor-to-ceiling panoramic window. A stern older man in his 40s aggressively reprimands a calm young man. Behind them, far outside, a
-```
-
-### No. 91: Romantic Beach Sunset
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Md Riyazuddin
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065035722965606902.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/riyazmd774/status/2065035722965606902)
-
-#### คำอธิบาย
-
-A man and woman stand close on a rocky beach at sunset, sharing an intimate moment as the golden light illuminates their faces.
-
-#### พรอมต์
-
-```text
-a man and woman standing on a rocky beach at sunset, looking at each other with emotional intensity, warm golden light, cinematic lighting, high detail, realistic photography
-```
-
-### No. 92: GlobalGPT AI Tools
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Hania Ai
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065046682526790054.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HaniaAi12/status/2065046682526790054)
-
-#### คำอธิบาย
-
-A screenshot of the GlobalGPT website showcasing AI models and tools with a colorful abstract background.
-
-#### พรอมต์
-
-```text
-A vibrant, colorful background with a modern web browser displaying the GlobalGPT website, featuring AI tools and models, with a clean interface and promotional banners.
-```
-
-### No. 93: Woman Boxing on Beach
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Paul Sims
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065101741314695580.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/SimslearnAi/status/2065101741314695580)
-
-#### คำอธิบาย
-
-A woman in athletic wear punches a heavy bag on a sandy beach during sunset.
-
-#### พรอมต์
-
-```text
-a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, punching a heavy bag with sand splashing, golden hour lighting, dynamic action shot
-```
-
-### No. 94: dark text on black
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** CINEMADRIEN 🎬🔥 AI FILM STUDIO
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065204797871989198.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Cinemadrien/status/2065204797871989198)
-
-#### คำอธิบาย
-
-a dark image with faint white text barely visible on a black background.
-
-#### พรอมต์
-
-```text
-black background with faint white text in the center
-```
-
-### No. 95: Cheerleaders on the field
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Fakhr
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
-
-#### คำอธิบาย
-
-Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
-
-#### พรอมต์
-
-```text
-two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
-```
-
-### No. 96: Cheerleaders on the field
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Fakhr
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065288826147516471.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/iamfakhrealam/status/2065288826147516471)
-
-#### คำอธิบาย
-
-Two cheerleaders strike a pose on a brightly lit football field at night with a cheering crowd in the background.
-
-#### พรอมต์
-
-```text
-two cheerleaders in blue and white uniforms posing on a football field at night, stadium lights shining, crowd in the background
-```
-
-### No. 97: G-Shock World Cup Ad
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065302933860966457.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2065302933860966457)
-
-#### คำอธิบาย
-
-A dynamic collage showcasing a Brazilian soccer player's journey from preparation to victory, highlighting the durability of a G-Shock watch.
-
-#### พรอมต์
-
-```text
-a collage of a soccer player in Brazil jersey, tying his cleat, cityscapes, stadium, celebration, and G-Shock watch, cinematic lighting, dramatic shadows, high detail, realistic textures
-```
-
-### No. 98: AI image transformation
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** El IAS - Esteban Diba
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065345391550156906.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/estebandiba/status/2065345391550156906)
-
-#### คำอธิบาย
-
-A comparison of AI models transforming a simple outdoor scene into a dramatic sci-fi battle setting.
-
-#### พรอมต์
-
-```text
-A man in a white shirt and shorts holding a staff in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn sci-fi environment with rain, fire, and spaceships, comparing different AI image generation models
-```
-
-### No. 99: Video Editing AI Comparison
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Rehen
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/rehensina/status/2065366437594825014)
-
-#### คำอธิบาย
-
-A bar chart comparing ELO scores of various video editing AI tools across two categories.
-
-#### พรอมต์
-
-```text
-A bar chart comparing video editing AI tools with ELO scores, showing overall preference and instruction following, using a clean white background and blue, black, and gray bars.
-```
-
-### No. 100: Navos AI Content Tool
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Tec-Do 2.0
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Tec_do2/status/2065373853363421518)
-
-#### คำอธิบาย
-
-A promotional graphic for an AI tool that automates video content creation and remixing for online platforms.
-
-#### พรอมต์
-
-```text
-A professional tech product presentation slide with a dark background, featuring a central white panel with text and icons. The top shows 'Tec-Do 2.0 钛动科技' and several game cover thumbnails like 'Alley of Secrets', 'Moonlight Waltz', 'Cyber Apocalypse'. A blue banner reads 'Navos | Real Case Study'. Below, the title 'Navos — The Designer's Secret Weapon' is followed by subtext about remixing viral content. Key stats include '5-10 Variations Generated in 5 minutes' and '10x+ Faster Content Production'. A testimonial quote from a client in the online literature industry is included. Three feature sections with blue icons illustrate 'Intelligent Scripting', 'One-Click Derivation', and 'Publish-Ready Zero Editing'. The overall style is sleek, modern, corporate, with a mix of Chinese and English text, clean typography, and a focus on AI-driven content creation tools.
-```
-
-### No. 101: Flowing Blue Waves
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Rony
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065381123619013035.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Ronycoder/status/2065381123619013035)
-
-#### คำอธิบาย
-
-A dynamic abstract image of flowing blue and white waves with motion blur effect.
-
-#### พรอมต์
-
-```text
-abstract motion blur of flowing blue and white waves, soft gradient, dynamic movement, digital art
-```
-
-### No. 102: Blurred Light Glow
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** aditii
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2065399674375471267)
-
-#### คำอธิบาย
-
-A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
-
-#### พรอมต์
-
-```text
-abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
-```
-
-### No. 103: Blurred Light Glow
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** aditii
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065399674375471267.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/aditiitwt/status/2065399674375471267)
-
-#### คำอธิบาย
-
-A dreamy abstract scene with soft glowing lights and indistinct forms creating an ethereal ambiance.
-
-#### พรอมต์
-
-```text
-abstract blurred background with soft glowing lights and warm tones, indistinct shapes and forms, ethereal atmosphere
-```
-
-### No. 104: Galactic Light Bulb
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Jerrod Lew
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065404113563816023.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/jerrod_lew/status/2065404113563816023)
-
-#### คำอธิบาย
-
-A broken light bulb glows brightly against the backdrop of a vast star-filled galaxy.
-
-#### พรอมต์
-
-```text
-a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
-```
-
-### No. 105: Abandoned Alleyway
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065412890363105672.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2065412890363105672)
-
-#### คำอธิบาย
-
-A wet, graffiti-covered alley leads to a distant Ferris wheel under a bright blue sky.
-
-#### พรอมต์
-
-```text
-a narrow alley between graffiti-covered buildings with a Ferris wheel in the distance, wet pavement reflecting the sky and structures, vibrant colors, cinematic lighting, 4k
-```
-
-### No. 106: Blurred indoor scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** RAVI KUMAR SAHU
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
-
-#### คำอธิบาย
-
-A softly focused image of a person in a brightly lit indoor environment with warm tones.
-
-#### พรอมต์
-
-```text
-blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
-```
-
-### No. 107: Blurred indoor scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Z-Coder
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2065450922944442374)
-
-#### คำอธิบาย
-
-A softly focused image of an indoor setting with glowing lights and vague human forms.
-
-#### พรอมต์
-
-```text
-blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
-```
-
-### No. 108: Blurred indoor scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Z-Coder
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065450922944442374.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/codedailyML/status/2065450922944442374)
-
-#### คำอธิบาย
-
-A softly focused image of an indoor setting with glowing lights and vague human forms.
-
-#### พรอมต์
-
-```text
-blurry indoor scene with indistinct figures and bright light, soft focus, warm tones
-```
-
-### No. 109: Big Ben views
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** AIMATRIX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065487263803527349.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIScout22/status/2065487263803527349)
-
-#### คำอธิบาย
-
-Two images of Big Ben from different angles under a cloudy sky.
-
-#### พรอมต์
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
-```
-
-### No. 110: Blurred motion abstract
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Theinfralab
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2065506119603331509)
-
-#### คำอธิบาย
-
-A dynamic abstract image featuring warm blurred motion in orange and brown tones.
-
-#### พรอมต์
-
-```text
-abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
-```
-
-### No. 111: Blurred motion abstract
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Theinfralab
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065506119603331509.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Logical_Girll/status/2065506119603331509)
-
-#### คำอธิบาย
-
-A dynamic abstract image featuring warm blurred motion in orange and brown tones.
-
-#### พรอมต์
-
-```text
-abstract blurred motion with warm orange and brown tones, soft focus, dynamic movement, digital art style
-```
-
-### No. 112: Big Ben views
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Riya Ai
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
-
-#### คำอธิบาย
-
-Two images of Big Ben from different perspectives under a cloudy sky.
-
-#### พรอมต์
-
-```text
-a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
-```
-
-### No. 113: Big Ben views
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Riya Ai
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Riya96Ai/status/2065581960810930318)
-
-#### คำอธิบาย
-
-Two images of Big Ben from different perspectives under a cloudy sky.
-
-#### พรอมต์
-
-```text
-a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
-```
-
-### No. 114: Blurred abstract background
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Kalsoom (ghotai )
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
-
-#### คำอธิบาย
-
-A softly blurred image with warm tones and a logo in the corner.
-
-#### พรอมต์
-
-```text
-abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
-```
-
-### No. 115: Blurred abstract background
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Kalsoom (ghotai )
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIwithGhotai/status/2065652453467644197)
-
-#### คำอธิบาย
-
-A softly blurred image with warm tones and a logo in the corner.
-
-#### พรอมต์
-
-```text
-abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
-```
-
-### No. 116: Couple at Sunset Beach
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Your Tech Girl
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065656461792043173.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/yourtechgirl24/status/2065656461792043173)
-
-#### คำอธิบาย
-
-A man and woman stand together on a rocky beach during a golden sunset with the ocean behind them.
-
-#### พรอมต์
-
-```text
-a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
-```
-
-### No. 117: Woman Boxing on Beach
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Jihad
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065677496402723235.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/jihad_sameul/status/2065677496402723235)
-
-#### คำอธิบาย
-
-A woman in athletic gear punches a sand-filled bag on a beach during sunset.
-
-#### พรอมต์
-
-```text
-a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
-```
-
-### No. 118: Celebrities at World Cup
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** marium
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065686685556646001.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/code_bykuti/status/2065686685556646001)
-
-#### คำอธิบาย
-
-A group of celebrities, including Taylor Swift and Kanye West, watch a live World Cup match from the stands.
-
-#### พรอมต์
-
-```text
-a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
-```
-
-### No. 119: Global AI Hackathon
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Qwen Cloud
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/qwen_cloud/status/2065703215858139363)
-
-#### คำอธิบาย
-
-A promotional graphic for a global AI hackathon series by Qwen Cloud featuring futuristic design elements.
-
-#### พรอมต์
-
-```text
-A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
-```
-
-### No. 120: Microscopic Detail Photography Prompt
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Samuel Ferrero.
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/samuel_ferrero/status/2065736730221891761)
-
-#### คำอธิบาย
-
-A prompt for generating detailed, non-artificial images of natural subjects like insects and minerals.
-
-#### พรอมต์
-
-```text
-insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
-```
-
-### No. 121: cowboy on horseback
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** MrDejie
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065758578150134097.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/mrdejie/status/2065758578150134097)
-
-#### คำอธิบาย
-
-A rugged cowboy rides a horse through the ruins of a desert town under a hazy sky.
-
-#### พรอมต์
-
-```text
-a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
-```
-
-### No. 122: AI transformation comparison
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Smith铜匠・十点睡觉
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065763440019579120.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/smithandai/status/2065763440019579120)
-
-#### คำอธิบาย
-
-A side-by-side comparison of AI models transforming a casual outdoor scene into a dramatic sci-fi battle setting.
-
-#### พรอมต์
-
-```text
-A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
-```
-
-### No. 123: SousakuAI Campaign
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** チビクロ🧩AI錬金術士
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/CHIBIKURO_QnQ/status/2065767382266843468)
-
-#### คำอธิบาย
-
-A vibrant anime-style promotional poster celebrating a milestone and summer campaign for SousakuAI.
-
-#### พรอมต์
-
-```text
-anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
-```
-
-### No. 124: Blue motion blur
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Abdul Șhakoor
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065781636105658438.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/abxxai/status/2065781636105658438)
-
-#### คำอธิบาย
-
-A dynamic abstract image featuring flowing blue gradients and motion blur effects with a bright light streak on the right.
-
-#### พรอมต์
-
-```text
-abstract blue motion blur with gradient and light streaks, digital art style
-```
-
-### No. 125: Blurred indoor scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** KATE
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2065835361390280704)
-
-#### คำอธิบาย
-
-A softly focused image of a person in a bright room with indistinct surroundings.
-
-#### พรอมต์
-
-```text
-blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
-```
-
-### No. 126: Blurred indoor scene
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** KATE
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065835361390280704.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/kate_osita_/status/2065835361390280704)
-
-#### คำอธิบาย
-
-A softly focused image of a person in a bright room with indistinct surroundings.
-
-#### พรอมต์
-
-```text
-blurry image of a person in a brightly lit room, indistinct shapes and colors, soft focus, abstract background
-```
-
-### No. 127: Woman and Robot Encounter
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Pezy Ai
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065837166593249420.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PezyAi/status/2065837166593249420)
-
-#### คำอธิบาย
-
-A woman and a robot share a tender moment in a sunlit cityscape.
-
-#### พรอมต์
-
-```text
-a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
-```
-
-### No. 128: GlobalGPT Website Screenshot
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Md. Robius Sany
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065865285442392152.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/tec_sany/status/2065865285442392152)
-
-#### คำอธิบาย
-
-A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotional offer.
-
-#### พรอมต์
-
-```text
-A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
-```
-
-### No. 129: Big Ben views
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Nayeem Sheikh
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
-
-#### คำอธิบาย
-
-Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
-
-#### พรอมต์
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
-```
-
-### No. 130: Big Ben views
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Nayeem Sheikh
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HeyNayeem/status/2065887930179358757)
-
-#### คำอธิบาย
-
-Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
-
-#### พรอมต์
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
-```
-
-### No. 131: Helicopter Over Ocean
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Anish Jaitwar
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065999609613418511.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/AnishJaitwar/status/2065999609613418511)
-
-#### คำอธิบาย
-
-A helicopter flies over the ocean with motion blur, capturing a dynamic aerial scene.
-
-#### พรอมต์
-
-```text
-a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
-```
-
-### No. 132: Woman Running from Train
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Brent Lynch
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066014432543883673.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/BrentLynch/status/2066014432543883673)
-
-#### คำอธิบาย
-
-A woman with red hair runs through a dusty desert as sparks fly from a nearby train.
-
-#### พรอมต์
-
-```text
-a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
-```
-
-### No. 133: The Realtor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Djaja Yerry
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066074651923726830.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/DjajaYerry75/status/2066074651923726830)
-
-#### คำอธิบาย
-
-A man stands victorious in a chaotic office filled with fallen colleagues and flying papers.
-
-#### พรอมต์
-
-```text
-a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
-```
-
-### No. 134: Futuristic smartphone design
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Nakajima Sumiyo｜生成AI × Creative
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066121373341389295.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Nakajima_sumiyo/status/2066121373341389295)
-
-#### คำอธิบาย
-
-A sleek smartphone with glowing camera modules and side buttons is showcased in dramatic lighting.
-
-#### พรอมต์
-
-```text
-close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
-```
-
-### No. 135: GlobalGPT AI Tools Website UI Showcase
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Mimu | AI Tools & News
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066215997116502435.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/mimu_ai1/status/2066215997116502435)
-
-#### คำอธิบาย
-
-The video demonstrates a user navigating through different sections and features of the GlobalGPT AI tools website via a screen recording.
-
-#### พรอมต์
-
-```text
-A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
-```
-
-### No. 136: Shirtless man playing guitar by campfire
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Billy Balls
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2066279897274736747.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/BillyBalls25138/status/2066279897274736747)
-
-#### คำอธิบาย
-
-A detailed prompt for generating a video of a muscular man playing guitar by a campfire in the evening.
-
-#### พรอมต์
-
-```text
-A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
 ```
 
 <a id="category-3"></a>
@@ -17138,7 +20089,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-06-30T09:35:29.703Z
+> README นี้สร้างอัตโนมัติ 2026-07-01T03:29:42.932Z
 
 ## More Atlas Cloud Tools
 

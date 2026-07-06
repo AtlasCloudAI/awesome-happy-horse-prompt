@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1043%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1052%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1043** |
+| Nombre Total de Prompts | **1052** |
 | Categories | **13** |
-| Videos d'Apercu | **938** |
-| Derniere Mise a Jour | **2026-07-05T03:42:33.784Z** |
+| Videos d'Apercu | **934** |
+| Derniere Mise a Jour | **2026-07-06T03:55:53.943Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **243**
+- [`Twitter Community`](#category-1): **252**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (243)
+### Twitter Community (252)
 
 ### No. 1: Neon-lit city street at night
 
@@ -2439,25 +2439,7 @@ Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone
 BGM:Suno
 ```
 
-### No. 103: Love That Shift 👏 $10K To Build With
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Reena Tech & Tool
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/reizzlla/status/2071615678600327583)
-
-#### Description
-
-Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
-
-#### Prompt
-
-```text
-@codedailyML Love that shift 👏 $10k to build with HappyHorse 1.1 makes AI video way more accessible beyond big studios
-```
-
-### No. 104: What A Crazy Week In Ai! Wan Streamer
+### No. 103: What A Crazy Week In Ai! Wan Streamer
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2475,7 +2457,7 @@ What a crazy week in AI!
 What a crazy week in AI! Wan Streamer Domain Shuttle Ornith Arbor DanceOPD Seedance 2.5 HappyHorse 1.1 Krea 2 GPT-5.6 Autodata &amp; more! Watch the full recap:  Real progress needs reproducible results, not buzzword bingo. #AI #Tech
 ```
 
-### No. 105: Can We Start Calling Ai Film To Just
+### No. 104: Can We Start Calling Ai Film To Just
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2500,7 +2482,7 @@ HappyHorse 1.1 just launched today and its Insane!
 #happyhorse #happyhorse1.1 #AIfilm  #ai
 ```
 
-### No. 106: Fear The Dark. Fear The Shadow. Fear The
+### No. 105: Fear The Dark. Fear The Shadow. Fear The
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2530,7 +2512,7 @@ The Midnight Library was made with HappyHorse 1.1
 #happyhorse #happyhorse1.1  #ai
 ```
 
-### No. 107: Yes, I Still Make Sure I Try The
+### No. 106: Yes, I Still Make Sure I Try The
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2549,7 +2531,7 @@ Yes, I still make sure I try the new models, cause that is important.
 I think Happy Horse 1.1 is great with animation, but not with realism. Which other new video models you are exploring
 ```
 
-### No. 108: A Still Moment On An Old Stone Jetty
+### No. 107: A Still Moment On An Old Stone Jetty
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2574,7 +2556,7 @@ Reference to Video HappyHorse 1.1
 #happyhorse @HappyHorseATH
 ```
 
-### No. 109: Happy Horse 1.1 Is Available To All Gmi
+### No. 108: Happy Horse 1.1 Is Available To All Gmi
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2603,7 +2585,7 @@ including r2v, t2v, and i2v
 another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
 ```
 
-### No. 110: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
+### No. 109: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2623,7 +2605,7 @@ another reference to video choice, on top of Seedance, Pixverse v6, and Kling Om
 劇的な進化を遂げる動画生成AI。今回はQiitaのデザイナーが、マルチモーダル動画生成AI「Happy
 ```
 
-### No. 111: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
+### No. 110: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2642,7 +2624,7 @@ another reference to video choice, on top of Seedance, Pixverse v6, and Kling Om
 #IVS #IVS2026
 ```
 
-### No. 112: Xai Has Released Grok Imagine Video 1.5, Its
+### No. 111: Xai Has Released Grok Imagine Video 1.5, Its
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2662,7 +2644,7 @@ xAI has released Grok Imagine Video 1.5, its new AI video generation model, and 
 It fixes many common AI video problems, such as unrealistic
 ```
 
-### No. 113: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
+### No. 112: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2689,7 +2671,7 @@ Alibaba's latest video generation model with support for Text-to-Video, Image-to
 The latest update also brings smoother motion, stronger
 ```
 
-### No. 114: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
+### No. 113: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2717,6 +2699,29 @@ Create一内容创作Agent
 ·
 ```
 
+### No. 114: "A Young Man Enters A Tea Shop, Sits
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** shishir.ai
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/shishirai_/status/2071861768344015254)
+
+#### Description
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### Prompt
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
 ### No. 115: "A Young Man Enters A Tea Shop, Sits
 
 - **Categorie:** `Twitter Community`
@@ -2740,30 +2745,7 @@ Create一内容创作Agent
 @HappyHorseATH #HappyHorseAI
 ```
 
-### No. 116: "A Young Man Enters A Tea Shop, Sits
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** shishir.ai
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/shishirai_/status/2071861768344015254)
-
-#### Description
-
-"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
-
-#### Prompt
-
-```text
-"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
- A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
-@HappyHorseATH #HappyHorseAI
-```
-
-### No. 117: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
+### No. 116: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2788,7 +2770,7 @@ This is the 1.1 release, a major upgrade over the original, not the legacy versi
 Alibaba reports gains in motion, subject consistency across references, instruction following, and audio
 ```
 
-### No. 118: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+### No. 117: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2809,7 +2791,7 @@ Alibaba reports gains in motion, subject consistency across references, instruct
 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 ```
 
-### No. 119: Generate The Video 1. Open Gmi Cloud Playground
+### No. 118: Generate The Video 1. Open Gmi Cloud Playground
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2836,7 +2818,7 @@ Generate the Video
 Create a cinematic live-action video about
 ```
 
-### No. 120: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
+### No. 119: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2863,7 +2845,7 @@ AI 視頻創作者来活了
 賽道評分聚焦創新與 AI 創意 30%、技術深度 30%、問題價值 25% 及呈現
 ```
 
-### No. 121: Intriguing End To End Pipeline With Happyhorse 1.1
+### No. 120: Intriguing End To End Pipeline With Happyhorse 1.1
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2881,7 +2863,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 @two3pro Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
 ```
 
-### No. 122: 1.0 Wins The Grand Prize In Monaco 🎬
+### No. 121: 1.0 Wins The Grand Prize In Monaco 🎬
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2908,7 +2890,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 The story is set
 ```
 
-### No. 123: I Created Three Versions Using The Same Prompt
+### No. 122: I Created Three Versions Using The Same Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2941,7 +2923,7 @@ Happy Horse 1.1
 Which one do you think produces the most epic result?
 ```
 
-### No. 124: Tried Happyhorse 1.1 By For A Luxury Supercar
+### No. 123: Tried Happyhorse 1.1 By For A Luxury Supercar
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2968,7 +2950,7 @@ Luxury mood, moving shots, cinematic car energy — all from one prompt.
 What do you guys think, pass or still needs work? #happyhorse
 ```
 
-### No. 125: Every Spin Tells A New Story. 🎠✨ Created
+### No. 124: Every Spin Tells A New Story. 🎠✨ Created
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -2991,6 +2973,31 @@ Every spin tells a new story. 🎠✨
 Created with the Happy Horse model in Pollo AI. Planned with a Master Sheet to keep every transformation smooth, connected, and visually consistent.
 
 #PolloHappyHorseChallenge @itsPolloAI @HappyHorseATH
+```
+
+### No. 125: The Future Of Cinematic Storytelling Has Arrived With
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** KATE
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### Description
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### Prompt
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
 ### No. 126: The Future Of Cinematic Storytelling Has Arrived With
@@ -3093,32 +3100,7 @@ Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
 Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
-### No. 130: The Future Of Cinematic Storytelling Has Arrived With
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** KATE
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### Description
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### Prompt
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 131: Happy Horse 1.1 Just Landed On Fotor —
+### No. 130: Happy Horse 1.1 Just Landed On Fotor —
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3139,6 +3121,29 @@ Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
 Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
 
 Smoother motion. More expressive characters. Real dynamic energy that makes scenes feel alive, not animated. Plus built-in foley &amp; ambient sound, so your clip arrives already scored — no extra dubbing
+```
+
+### No. 131: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Artificial Analysis
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### Description
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### Prompt
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
 ```
 
 ### No. 132: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
@@ -3187,30 +3192,7 @@ Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video an
 HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
 ```
 
-### No. 134: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Artificial Analysis
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/ArtificialAnlys/status/2072022131056267534)
-
-#### Description
-
-Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-#### Prompt
-
-```text
-Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
-```
-
-### No. 135: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
+### No. 134: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3239,6 +3221,28 @@ The result shows why image/video generation models are becoming a serious creati
 Now ready for use on AIsa.
 ```
 
+### No. 135: Gemini Omni Flash Ranks For Video Edit In
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Arena.ai
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/arena/status/2072049269054562711)
+
+#### Description
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### Prompt
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
 ### No. 136: Gemini Omni Flash Ranks For Video Edit In
 
 - **Categorie:** `Twitter Community`
@@ -3261,29 +3265,7 @@ With only seven models ranked for this capability, @GoogleDeepMind delivers a st
 Congrats to @GoogleDeepMind on the release
 ```
 
-### No. 137: Gemini Omni Flash Ranks For Video Edit In
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Arena.ai
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/arena/status/2072049269054562711)
-
-#### Description
-
-Gemini Omni Flash ranks  for Video Edit in the Video Arena!
-
-#### Prompt
-
-```text
-Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
-
-With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
-
-Congrats to @GoogleDeepMind on the release
-```
-
-### No. 138: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+### No. 137: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3307,7 +3289,7 @@ It creates high-quality video and native sound effects together in a single pass
 You should give it a try
 ```
 
-### No. 139: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+### No. 138: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3340,7 +3322,7 @@ check prompt in the replies👇
 Created with @gmi_cloud
 ```
 
-### No. 140: Anathema Studio [ Is Now Live. I Don'T
+### No. 139: Anathema Studio [ Is Now Live. I Don'T
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3361,6 +3343,29 @@ Anathema Studio [ is now live.
 Anathema Studio [ is now live.
 
 I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
+```
+
+### No. 140: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Feathered Foodies | ESOTE Productions
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### Description
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### Prompt
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
 ```
 
 ### No. 141: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
@@ -3386,30 +3391,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 142: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Feathered Foodies | ESOTE Productions
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/NuggetTheIntern/status/2072122052929024482)
-
-#### Description
-
-Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
-
-#### Prompt
-
-```text
-Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
-The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
-Flag text rendered
-```
-
-### No. 143: Hello,This Is Morefree, A Cloud Service Manager At
+### No. 142: Hello,This Is Morefree, A Cloud Service Manager At
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3429,7 +3411,7 @@ Seeing your achievements in AI production, we at Alibaba Cloud recently launched
 Would you be interested in learning more?
 ```
 
-### No. 144: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
+### No. 143: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3450,6 +3432,26 @@ Amazing, Google is pushing the cost-speed-quality frontier on both image and vid
 - while roughly halving price: $0.034+ vs $0.067+ per 1k image.
 
 - Gemini Omni Flash leads video editing ELO, 1087
+```
+
+### No. 144: Gemini Omni Flash Debuted At On Arena’S Video
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** DeFAI Scope
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/defaiscope/status/2072215087645872269)
+
+#### Description
+
+Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+#### Prompt
+
+```text
+Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
 ### No. 145: Gemini Omni Flash Debuted At On Arena’S Video
@@ -3492,27 +3494,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 147: Gemini Omni Flash Debuted At On Arena’S Video
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** DeFAI Scope
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/defaiscope/status/2072215087645872269)
-
-#### Description
-
-Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-#### Prompt
-
-```text
-Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-Only Dreamina Seedance-2.0 sits higher at 1,377.
-```
-
-### No. 148: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
+### No. 147: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3541,7 +3523,7 @@ AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が�
 #Kling #Seedream #HappyHorse #Sora #AI美女 #AI動画
 ```
 
-### No. 149: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
+### No. 148: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3563,32 +3545,7 @@ Stronger character consistency by better using multiple reference images, so pro
 More expressive
 ```
 
-### No. 150: When One Carousel Horse Broke Free 🦄🦖 🎬
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Lara
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072259186013216838.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072259186013216838.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/Lara_Gssy/status/2072259186013216838)
-
-#### Description
-
-When One Carousel Horse Broke Free 🦄🦖
-🎬 Created with HappyHorse 1.1 on Pollo AI.
-
-#### Prompt
-
-```text
-When One Carousel Horse Broke Free 🦄🦖
-🎬 Created with HappyHorse 1.1 on Pollo AI.
-#PolloHappyHorseChallenge #PolloAI #HappyHorse #Fantasy #AIVideo 
-@itsPolloAI @HappyHorseATH
-```
-
-### No. 151: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
+### No. 149: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3623,7 +3580,7 @@ Agents: GlobalClaw
 100+ models $10/mo
 ```
 
-### No. 152: New Gemini Omni Flash Vs Seedance 2.0 Vs
+### No. 150: New Gemini Omni Flash Vs Seedance 2.0 Vs
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3646,7 +3603,7 @@ gemini omni flash dropped recently.
 a single continuous fpv drone shot. opens low inside https://t.co/16O6Pv35k3 https://t.co/BVp4B0vUTF
 ```
 
-### No. 153: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
+### No. 151: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3675,6 +3632,42 @@ JoyPixで、喧嘩風景を動画にしてみました。
 2 : 動画編集（HappyHorse 1.0）
 
 動画編集時は HappyHorse 1.0 か Wan 2.7 が選べます。
+```
+
+### No. 152: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alice The Ai Expert
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/AliceInfoAi/status/2072308961278406882)
+
+#### Description
+
+Amazing HappyHorse 1.1 landed.
+
+#### Prompt
+
+```text
+@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
+```
+
+### No. 153: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alice The Ai Expert
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/AliceInfoAi/status/2072308961278406882)
+
+#### Description
+
+Amazing HappyHorse 1.1 landed.
+
+#### Prompt
+
+```text
+@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
 ### No. 154: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
@@ -3713,43 +3706,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 156: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alice The Ai Expert
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/AliceInfoAi/status/2072308961278406882)
-
-#### Description
-
-Amazing HappyHorse 1.1 landed.
-
-#### Prompt
-
-```text
-@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
-```
-
-### No. 157: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alice The Ai Expert
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/AliceInfoAi/status/2072308961278406882)
-
-#### Description
-
-Amazing HappyHorse 1.1 landed.
-
-#### Prompt
-
-```text
-@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
-```
-
-### No. 158: 🎬 Happy Horse 1.1 Is Now Available From
+### No. 156: 🎬 Happy Horse 1.1 Is Now Available From
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3775,7 +3732,7 @@ Generate stunning AI videos with natural motion, rich visual detail, and high-qu
 Try it now 👉
 ```
 
-### No. 159: 🎨 Ai Art &Amp; Visuals Roundup — July
+### No. 157: 🎨 Ai Art &Amp; Visuals Roundup — July
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3801,7 +3758,7 @@ June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video gen
 June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video generation from plain text prompts. The model delivers natural motion, rich visual detail,
 ```
 
-### No. 160: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
+### No. 158: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3824,7 +3781,7 @@ Anonymous Chinese video model. Cracked the Artificial Analysis Video Arena blind
 #AI #AINews
 ```
 
-### No. 161: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
+### No. 159: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3845,7 +3802,7 @@ AIモデルの比較・分析サイトArtificial Analysisの、テキスト→�
 AIモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、HappyHorse(アリババ)の動画生成AIモデル「HappyHorse 1.1」が2位にランクインしました。
 ```
 
-### No. 162: Excited To Announce My Journey As A Creator
+### No. 160: Excited To Announce My Journey As A Creator
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3876,7 +3833,7 @@ Prompt in comment 👇
 #HappyhorseCPP
 ```
 
-### No. 163: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 161: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3899,7 +3856,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 164: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 162: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3922,7 +3879,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 165: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
+### No. 163: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3949,7 +3906,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 ✅Superior
 ```
 
-### No. 166: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
+### No. 164: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -3977,7 +3934,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 🔗記事一覧はこちら
 ```
 
-### No. 167: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
+### No. 165: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4013,6 +3970,46 @@ Happy Horse 1.1 is now @askjuneai
  Built by @blockchain 
 
 #HappyHorse #JuneAI #AIVideo
+```
+
+### No. 166: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Grok
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/grok/status/2072551043519397979)
+
+#### Description
+
+Evet, Grok olarak güvenilirim.
+
+#### Prompt
+
+```text
+@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
+
+HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
+```
+
+### No. 167: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Grok
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/grok/status/2072551043519397979)
+
+#### Description
+
+Evet, Grok olarak güvenilirim.
+
+#### Prompt
+
+```text
+@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
+
+HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
 ### No. 168: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
@@ -4075,139 +4072,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 171: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Grok
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/grok/status/2072551043519397979)
-
-#### Description
-
-Evet, Grok olarak güvenilirim.
-
-#### Prompt
-
-```text
-@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
-
-HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
-```
-
-### No. 172: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Grok
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/grok/status/2072551043519397979)
-
-#### Description
-
-Evet, Grok olarak güvenilirim.
-
-#### Prompt
-
-```text
-@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
-
-HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
-```
-
-### No. 173: 🥉 3Rd Place At The Ai Film Festival
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alibaba Cloud
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2072552182163939665)
-
-#### Description
-
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-🎬 Introducing 《The Glow of First Love》 by Iuliia Kiseleva — a hauntingly beautiful one-minute film that earned third place among global creators.
-After her husband dies in a 2003 car crash, a pregnant woman raises their
-```
-
-### No. 174: 🥉 3Rd Place At The Ai Film Festival
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alibaba Cloud
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2072552182163939665)
-
-#### Description
-
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-🎬 Introducing 《The Glow of First Love》 by Iuliia Kiseleva — a hauntingly beautiful one-minute film that earned third place among global creators.
-After her husband dies in a 2003 car crash, a pregnant woman raises their
-```
-
-### No. 175: 🥉 3Rd Place At The Ai Film Festival
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alibaba Cloud
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2072552182163939665)
-
-#### Description
-
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-🎬 Introducing 《The Glow of First Love》 by Iuliia Kiseleva — a hauntingly beautiful one-minute film that earned third place among global creators.
-After her husband dies in a 2003 car crash, a pregnant woman raises their
-```
-
-### No. 176: 🥉 3Rd Place At The Ai Film Festival
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Alibaba Cloud
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072552182163939665.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2072552182163939665)
-
-#### Description
-
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-🥉 3rd Place at the AI Film Festival Monaco Hackathon!
-🎬 Introducing 《The Glow of First Love》 by Iuliia Kiseleva — a hauntingly beautiful one-minute film that earned third place among global creators.
-After her husband dies in a 2003 car crash, a pregnant woman raises their
-```
-
-### No. 177: Happy Horse 1.1 Is Now Live! Turn Simple
+### No. 171: Happy Horse 1.1 Is Now Live! Turn Simple
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4233,7 +4098,7 @@ Turn simple prompts into cinematic AI videos in seconds.
 Try it now:
 ```
 
-### No. 178: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
+### No. 172: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4254,7 +4119,7 @@ Try it now:
 動画生成AIはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて破綻少ないの生成できて驚き(編集無しの10秒ポン出し) #happyhorse @HappyHorseATH #猫 #卓球 #tabletennis #ai動画
 ```
 
-### No. 179: Here Is The Original Character Design Sheet For
+### No. 173: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4276,7 +4141,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 180: Here Is The Original Character Design Sheet For
+### No. 174: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4298,7 +4163,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 181: Here Is The Original Character Design Sheet For
+### No. 175: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4320,7 +4185,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 182: Here Is The Original Character Design Sheet For
+### No. 176: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4342,7 +4207,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 183: Here Is The Original Character Design Sheet For
+### No. 177: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4364,7 +4229,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 184: Here Is The Original Character Design Sheet For
+### No. 178: Here Is The Original Character Design Sheet For
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4386,7 +4251,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 185: Created This Video Using Happyhorse 1.1 Model. Prompt
+### No. 179: Created This Video Using Happyhorse 1.1 Model. Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4407,7 +4272,7 @@ Created this video using  HappyHorse 1.1 model.
 Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old female influencer making breakfast in a bright, modern apartment kitchen during golden morning light. Keep the same character https://t.co/eDNaCNd53t
 ```
 
-### No. 186: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
+### No. 180: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4425,6 +4290,162 @@ Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old fem
 快手旗下 AI 视频生成模型「可灵AI」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也在名单中。预计 2026 年完成重组股改，并于 2027 年初正式递交上市申请。
 
 分拆融资背后是算力成本重压与巨头资金鸿沟。2026
+```
+
+### No. 181: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+```
+
+### No. 182: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+```
+
+### No. 183: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+```
+
+### No. 184: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+```
+
+### No. 185: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+```
+
+### No. 186: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** HappyHorse
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### Description
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### Prompt
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
 ```
 
 ### No. 187: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
@@ -4505,163 +4526,7 @@ Use HappyHorse to create an original video telling a fantastical story of a pers
 Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
 ```
 
-### No. 190: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 191: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 192: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 193: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 194: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 195: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** HappyHorse
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### Description
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### Prompt
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 196: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 190: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4688,7 +4553,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 197: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 191: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4715,7 +4580,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 198: Introduction For Long Videos: A Prompt (Introducing The
+### No. 192: Introduction For Long Videos: A Prompt (Introducing The
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4746,7 +4611,7 @@ That’s all it takes with
 50 seconds, but you can do 2, 5, or 10 minutes just budget.
 ```
 
-### No. 199: Sound Up And Enjoy 😍 Song And Lyrics
+### No. 193: Sound Up And Enjoy 😍 Song And Lyrics
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4778,7 +4643,7 @@ And @Filmora_Editor
 #HappyHorse
 ```
 
-### No. 200: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
+### No. 194: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4804,7 +4669,7 @@ LINK IN BIO📎
 #aitools #aivideogenerators #creativefabrica
 ```
 
-### No. 201: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
+### No. 195: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4833,7 +4698,7 @@ New models/workflows: Krea 2 Turbo, Seedance 2.0 Mini + 4K, Happy Horse, LTX 2.3
 Secure your 3-day free trial of unlimited
 ```
 
-### No. 202: Confused About When To Use Happyhorse 1.0, Omni
+### No. 196: Confused About When To Use Happyhorse 1.0, Omni
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4851,7 +4716,7 @@ Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5?
 Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5? Video AI models are being added constantly. Modelglass captures live pricing, benchmark data, capability ratings and closest competitors across  90+ Image \ LLM \ Video &amp; Audio models.
 ```
 
-### No. 203: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
+### No. 197: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4872,7 +4737,7 @@ Lights, camera, action!
 Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here to elevate your influencer content in AI Influencer Studio 🌟 Get ready to generate cinematic videos and watermark-free images with your AI Influencers 🚀 Let's create some magic!
 ```
 
-### No. 204: はじめまして！ こちらのポスト見て、お送りしました！ 1つ弊社が主催のハッカソンの案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyh
+### No. 198: はじめまして！ こちらのポスト見て、お送りしました！ 1つ弊社が主催のハッカソンの案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyh
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4896,7 +4761,7 @@ Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here t
 詳細・申込は下記Lumaから
 ```
 
-### No. 205: Happy Horse 1.1 On Try It With Prompt
+### No. 199: Happy Horse 1.1 On Try It With Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4923,7 +4788,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 206: Happy Horse 1.1 On Try It With Prompt
+### No. 200: Happy Horse 1.1 On Try It With Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4950,7 +4815,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 207: Same Prompt, Different Ai Engines. Putting Happy Horse
+### No. 201: Same Prompt, Different Ai Engines. Putting Happy Horse
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -4977,7 +4842,7 @@ The differences in how they render textures, light, and motion consistency are w
 Who do you think won?
 ```
 
-### No. 208: Made This With Happy Horse Prompt Below
+### No. 202: Made This With Happy Horse Prompt Below
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5002,7 +4867,7 @@ Made this with Happy Horse
 Prompt below:
 ```
 
-### No. 209: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
+### No. 203: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5026,7 +4891,7 @@ Même secteur. Même semaine. Deux verdicts opposés.
 Kling, c’est le spin-off vidéo
 ```
 
-### No. 210: Happy Horse 1.0, Veo 3, And Vidu Q3
+### No. 204: Happy Horse 1.0, Veo 3, And Vidu Q3
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5044,7 +4909,7 @@ Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fa
 @AmControo Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fantasy prompt.
 ```
 
-### No. 211: Ai Isn'T Here To Talk Anymore. It'S Here
+### No. 205: Ai Isn'T Here To Talk Anymore. It'S Here
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5067,7 +4932,7 @@ These 5 updates dropped recently and most people scrolled right past them 👇
 2️⃣ HappyHorse 1.1 by Alibaba -
 ```
 
-### No. 212: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 206: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5101,7 +4966,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 213: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 207: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5135,7 +5000,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 214: Excited To See Qwen Pushing Agent Capabilities And
+### No. 208: Excited To See Qwen Pushing Agent Capabilities And
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5153,7 +5018,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @dani_avila7 Excited to see Qwen pushing agent capabilities and video gen with HappyHorse! The AI Showrunner track sounds perfect for experimenting with full autonomous content pipelines. Anyone else planning to join?
 ```
 
-### No. 215: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
+### No. 209: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5171,7 +5036,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @aziz4ai @LeonardoAi أتفق أن happyhorse يُقدم نتائج مذهلة في الفيديو التوليدي، ومشاركة راكان تُجسد مستقبل الفن الرقمي المخصص #AI #DigitalArt Cc
 ```
 
-### No. 216: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
+### No. 210: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5200,7 +5065,7 @@ Weekend Morning in Seoul (15s)
 Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, messy ponytail with wispy bangs, oversized cream sweatshirt, loose light-wash
 ```
 
-### No. 217: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
+### No. 211: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5229,7 +5094,7 @@ Weekend Morning in Seoul (15s)
 Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, messy ponytail with wispy bangs, oversized cream sweatshirt, loose light-wash
 ```
 
-### No. 218: Made The Most Of My 66 Sign Up
+### No. 212: Made The Most Of My 66 Sign Up
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5260,7 +5125,7 @@ Images made with @FlowbyGoogle.
 Tested scenes for my upcoming mini series.
 ```
 
-### No. 219: What An Amazing Video For Little Rakan! The
+### No. 213: What An Amazing Video For Little Rakan! The
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5278,7 +5143,7 @@ what an amazing video for little Rakan!
 @aziz4ai @LeonardoAi what an amazing video for little Rakan!  The way you blended him with Lightning McQueen is spot on, he must be over the moon. Great job with HappyHorse on Leonardo AI!
 ```
 
-### No. 220: Every Great Scene Starts With A Single Line
+### No. 214: Every Great Scene Starts With A Single Line
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5300,7 +5165,7 @@ The Scene tab in Cineyx Cinematic Studio is where your story becomes moving imag
 Under the hood you have a full lineup: Veo 3.1 Lite,
 ```
 
-### No. 221: 🎬 Happy Horse 1.1 : La Révolution De
+### No. 215: 🎬 Happy Horse 1.1 : La Révolution De
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5324,7 +5189,7 @@ Et si la production de vos contenus vidéo et audio de qualité professionnelle 
 #KingLand #IA #HappyHorse #Automation #Productivite #Video #Audio #Workflow #Technologie #Innovation
 ```
 
-### No. 222: Grandma'S Final Dance Created With Happyhorse 1.1 On
+### No. 216: Grandma'S Final Dance Created With Happyhorse 1.1 On
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5353,7 +5218,7 @@ Created with HappyHorse 1.1 on @budgetpixel
 Prompt below 🧵
 ```
 
-### No. 223: Currently Create Video With Happyhorse ✌🏻😁😊
+### No. 217: Currently Create Video With Happyhorse ✌🏻😁😊
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5371,7 +5236,7 @@ currently create video with Happyhorse ✌🏻😁😊
 @HappyHorseATH currently create video with Happyhorse ✌🏻😁😊
 ```
 
-### No. 224: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 218: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5398,7 +5263,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 225: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 219: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5425,7 +5290,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 226: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 220: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5452,35 +5317,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 227: Happyhorse 1.1 Has Landed On Clipfly Ai Drama
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Clipfly
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073376279093510477.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073376279093510477.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/ClipflyOfficial/status/2073376279093510477)
-
-#### Description
-
-HappyHorse 1.1 has landed on Clipfly AI Drama.
-
-#### Prompt
-
-```text
-HappyHorse 1.1 has landed on Clipfly AI Drama.
-
-✅ Smooth motion 
-✅ Expressive characters 
-✅ Natural cinematic frames
-➕ 50% OFF for a limited time
-
-Empowering creators to produce high-quality short dramas quickly, efficiently, and cost-effectively, with every frame delivering
-```
-
-### No. 228: I Edited The Prompt A Bit Ai: Happy
+### No. 221: I Edited The Prompt A Bit Ai: Happy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5503,7 +5340,7 @@ i edited the prompt a bit
 ai: happy horse left  vs grok on the right
 ```
 
-### No. 229: Created With Happyhorse-1.1 On Prompt : Title: The
+### No. 222: Created With Happyhorse-1.1 On Prompt : Title: The
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5533,7 +5370,7 @@ Scene 1 (0–5s):
 A modern gym. A young beginner confidently walks to a barbell and loads every weight plate available onto both sides. Nearby gym-goers glance at each other, trying not to laugh. https://t.co/1pSOs5QGmq
 ```
 
-### No. 230: I Have Been Using Happy Horse Ai Lately
+### No. 223: I Have Been Using Happy Horse Ai Lately
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5551,207 +5388,7 @@ I have been using Happy Horse AI lately and it is worth trying.
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
 ```
 
-### No. 231: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 232: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 233: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 234: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 235: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 236: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 237: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 238: In Other News: All Happyhorse 1.1 Video Generations
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** Creative Fabrica
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073437989628158272.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073437989628158272)
-
-#### Description
-
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-
-#### Prompt
-
-```text
-In other news: All HappyHorse 1.1 video generations 50% off for a limited time in Studio AI ⚡️
-
-Catch the discount and generate now:
-```
-
-### No. 239: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 224: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5779,7 +5416,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 240: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 225: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5807,7 +5444,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 241: The Reason Most Ai-Generated Stories Fail Is That
+### No. 226: The Reason Most Ai-Generated Stories Fail Is That
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5825,7 +5462,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 242: The Reason Most Ai-Generated Stories Fail Is That
+### No. 227: The Reason Most Ai-Generated Stories Fail Is That
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5843,7 +5480,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 243: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 228: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -5869,6 +5506,580 @@ AICUマガジンVol25ペーパーバック版はこちらから
 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「BitSummit PUNCH」とAICU国際ゲーム開発事業部が採択された「Supercell AI Innovation Lab」を密着取材。
 
 OpenAI Codex / Unity AI
+```
+
+### No. 229: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 230: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 231: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 232: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 233: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 234: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 235: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 236: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 237: Your Window To Lock In 50% Off Is
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Creative Fabrica
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### Description
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### Prompt
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 238: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Reena Tech & Tool
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/reizzlla/status/2073752236203941953)
+
+#### Description
+
+50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
+
+#### Prompt
+
+```text
+@cfabricacom 50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
+```
+
+### No. 239: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Reena Tech & Tool
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/reizzlla/status/2073752236203941953)
+
+#### Description
+
+50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
+
+#### Prompt
+
+```text
+@cfabricacom 50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
+```
+
+### No. 240: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Arnaud Mercier - #Entrepreneur #Versailles
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/arnaudmercier/status/2073833475644207594)
+
+#### Description
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### Prompt
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
+```
+
+### No. 241: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** hazard franq 🌍 💻| sidequests arc
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/HazardKrypto/status/2073840048319950874)
+
+#### Description
+
+🎬 Chinese AI video is exploding:
+
+Kuaishou's Kling AI just raised $2.8B from Alibaba &amp; Tencent, valued at $15B pre-money.
+
+#### Prompt
+
+```text
+🎬 Chinese AI video is exploding:
+
+Kuaishou's Kling AI just raised $2.8B from Alibaba &amp; Tencent, valued at $15B pre-money.
+
+Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generation forward.
+
+The video AI race is the next frontier.
+```
+
+### No. 242: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Lara
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/Lara_Gssy/status/2073937473269584075)
+
+#### Description
+
+Which Stairway Would You Choose?
+
+#### Prompt
+
+```text
+Which Stairway Would You Choose? 🌸🧇🍫🧊
+Created with HappyHorse 1.0 on Pollo AI.
+#polloai #AIVideo #AIGC #Surreal #Fantasy #DreamWorld #Stairs 
+@itsPolloAI @polloai_creator
+```
+
+### No. 243: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Lara
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/Lara_Gssy/status/2073937473269584075)
+
+#### Description
+
+Which Stairway Would You Choose?
+
+#### Prompt
+
+```text
+Which Stairway Would You Choose? 🌸🧇🍫🧊
+Created with HappyHorse 1.0 on Pollo AI.
+#polloai #AIVideo #AIGC #Surreal #Fantasy #DreamWorld #Stairs 
+@itsPolloAI @polloai_creator
+```
+
+### No. 244: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Tech Buzz China
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/TechBuzzChina/status/2073950088854979014)
+
+#### Description
+
+Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others.
+
+#### Prompt
+
+```text
+Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
+```
+
+### No. 245: A Short Ad Created With Happyhorse 1.1 With
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Clipfly
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/ClipflyOfficial/status/2073955950130762081)
+
+#### Description
+
+A short ad created with HappyHorse 1.1
+
+With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
+
+#### Prompt
+
+```text
+A short ad created with HappyHorse 1.1
+
+With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
+
+📢 HappyHorse 1.1 is now 50% off on Clipfly for a limited time, don’t miss out!
+
+Try it
+```
+
+### No. 246: A Short Ad Created With Happyhorse 1.1 With
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Clipfly
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/ClipflyOfficial/status/2073955950130762081)
+
+#### Description
+
+A short ad created with HappyHorse 1.1
+
+With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
+
+#### Prompt
+
+```text
+A short ad created with HappyHorse 1.1
+
+With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
+
+📢 HappyHorse 1.1 is now 50% off on Clipfly for a limited time, don’t miss out!
+
+Try it
+```
+
+### No. 247: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+```
+
+### No. 248: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+```
+
+### No. 249: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+```
+
+### No. 250: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+```
+
+### No. 251: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+```
+
+### No. 252: 4Th Place At The Ai Film Festival Monaco
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Alibaba Cloud
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/alibaba_cloud/status/2073958061127999558)
+
+#### Description
+
+4th Place at the AI Film Festival Monaco Hackathon!
+
+#### Prompt
+
+```text
+4th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+
+In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
 ```
 
 <a id="category-2"></a>
@@ -21992,7 +22203,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-07-05T03:42:33.784Z
+> Ce README est genere automatiquement. 2026-07-06T03:55:53.943Z
 
 ## More Atlas Cloud Tools
 

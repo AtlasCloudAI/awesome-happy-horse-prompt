@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1052%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1089%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1052** |
+| 전체 프롬프트 | **1089** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **934** |
-| 마지막 업데이트 | **2026-07-06T03:55:53.807Z** |
+| 미리보기 비디오 | **943** |
+| 마지막 업데이트 | **2026-07-07T04:08:49.634Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **340**
+- [`Twitter Community`](#category-1): **377**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (340)
+### Twitter Community (377)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -4290,32 +4290,7 @@ Yes, I still make sure I try the new models, cause that is important.
 I think Happy Horse 1.1 is great with animation, but not with realism. Which other new video models you are exploring
 ```
 
-### No. 195: A Still Moment On An Old Stone Jetty
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alper
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2071645741487960064/vid/avc1/1280x720/AXei-7nNcdJonENc.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/xtunc29/status/2071646239775412702)
-
-#### 설명
-
-A still moment on an old stone jetty.
-
-#### 프롬프트
-
-```text
-A still moment on an old stone jetty. The breeze, the turquoise water, and one soft wistful look out to sea.
-
-Reference to Video HappyHorse 1.1
-
-#happyhorse @HappyHorseATH
-```
-
-### No. 196: Happy Horse 1.1 Is Available To All Gmi
+### No. 195: Happy Horse 1.1 Is Available To All Gmi
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4344,7 +4319,7 @@ including r2v, t2v, and i2v
 another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
 ```
 
-### No. 197: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
+### No. 196: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4364,7 +4339,7 @@ another reference to video choice, on top of Seedance, Pixverse v6, and Kling Om
 劇的な進化を遂げる動画生成AI。今回はQiitaのデザイナーが、マルチモーダル動画生成AI「Happy
 ```
 
-### No. 198: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
+### No. 197: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4383,7 +4358,7 @@ another reference to video choice, on top of Seedance, Pixverse v6, and Kling Om
 #IVS #IVS2026
 ```
 
-### No. 199: Xai Has Released Grok Imagine Video 1.5, Its
+### No. 198: Xai Has Released Grok Imagine Video 1.5, Its
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4403,7 +4378,7 @@ xAI has released Grok Imagine Video 1.5, its new AI video generation model, and 
 It fixes many common AI video problems, such as unrealistic
 ```
 
-### No. 200: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
+### No. 199: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4430,7 +4405,7 @@ Alibaba's latest video generation model with support for Text-to-Video, Image-to
 The latest update also brings smoother motion, stronger
 ```
 
-### No. 201: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
+### No. 200: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4458,6 +4433,29 @@ Create一内容创作Agent
 ·
 ```
 
+### No. 201: "A Young Man Enters A Tea Shop, Sits
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** shishir.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/shishirai_/status/2071861768344015254)
+
+#### 설명
+
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
+
+#### 프롬프트
+
+```text
+"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
+ A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
+@HappyHorseATH #HappyHorseAI
+```
+
 ### No. 202: "A Young Man Enters A Tea Shop, Sits
 
 - **카테고리:** `Twitter Community`
@@ -4481,30 +4479,7 @@ Create一内容创作Agent
 @HappyHorseATH #HappyHorseAI
 ```
 
-### No. 203: "A Young Man Enters A Tea Shop, Sits
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** shishir.ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2071860879042187264/vid/avc1/1280x720/WOsIH0E51y9tXNxZ.mp4?tag=14" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/shishirai_/status/2071861768344015254)
-
-#### 설명
-
-"A young man enters a tea shop, sits down, drinks tea, and stands up to leave.
-
-#### 프롬프트
-
-```text
-"A young man enters a tea shop, sits down, drinks tea, and stands up to leave. Single continuous shot, natural motion."
- A year ago i would not believe this was ai but here we are. Happy Horse 1.1 is awesome only a little issue with the door placement
-@HappyHorseATH #HappyHorseAI
-```
-
-### No. 204: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
+### No. 203: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4529,7 +4504,7 @@ This is the 1.1 release, a major upgrade over the original, not the legacy versi
 Alibaba reports gains in motion, subject consistency across references, instruction following, and audio
 ```
 
-### No. 205: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+### No. 204: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4550,7 +4525,7 @@ Alibaba reports gains in motion, subject consistency across references, instruct
 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 ```
 
-### No. 206: Generate The Video 1. Open Gmi Cloud Playground
+### No. 205: Generate The Video 1. Open Gmi Cloud Playground
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4577,7 +4552,7 @@ Generate the Video
 Create a cinematic live-action video about
 ```
 
-### No. 207: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
+### No. 206: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4604,7 +4579,7 @@ AI 視頻創作者来活了
 賽道評分聚焦創新與 AI 創意 30%、技術深度 30%、問題價值 25% 及呈現
 ```
 
-### No. 208: Intriguing End To End Pipeline With Happyhorse 1.1
+### No. 207: Intriguing End To End Pipeline With Happyhorse 1.1
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4622,7 +4597,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 @two3pro Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
 ```
 
-### No. 209: 1.0 Wins The Grand Prize In Monaco 🎬
+### No. 208: 1.0 Wins The Grand Prize In Monaco 🎬
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4649,7 +4624,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 The story is set
 ```
 
-### No. 210: I Created Three Versions Using The Same Prompt
+### No. 209: I Created Three Versions Using The Same Prompt
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4682,7 +4657,7 @@ Happy Horse 1.1
 Which one do you think produces the most epic result?
 ```
 
-### No. 211: Tried Happyhorse 1.1 By For A Luxury Supercar
+### No. 210: Tried Happyhorse 1.1 By For A Luxury Supercar
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4709,7 +4684,7 @@ Luxury mood, moving shots, cinematic car energy — all from one prompt.
 What do you guys think, pass or still needs work? #happyhorse
 ```
 
-### No. 212: Every Spin Tells A New Story. 🎠✨ Created
+### No. 211: Every Spin Tells A New Story. 🎠✨ Created
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4732,6 +4707,31 @@ Every spin tells a new story. 🎠✨
 Created with the Happy Horse model in Pollo AI. Planned with a Master Sheet to keep every transformation smooth, connected, and visually consistent.
 
 #PolloHappyHorseChallenge @itsPolloAI @HappyHorseATH
+```
+
+### No. 212: The Future Of Cinematic Storytelling Has Arrived With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** KATE
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### 설명
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### 프롬프트
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
 ### No. 213: The Future Of Cinematic Storytelling Has Arrived With
@@ -4834,32 +4834,7 @@ Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
 Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
-### No. 217: The Future Of Cinematic Storytelling Has Arrived With
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** KATE
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### 설명
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### 프롬프트
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 218: Happy Horse 1.1 Just Landed On Fotor —
+### No. 217: Happy Horse 1.1 Just Landed On Fotor —
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4880,6 +4855,29 @@ Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
 Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
 
 Smoother motion. More expressive characters. Real dynamic energy that makes scenes feel alive, not animated. Plus built-in foley &amp; ambient sound, so your clip arrives already scored — no extra dubbing
+```
+
+### No. 218: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artificial Analysis
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2072022131056267534)
+
+#### 설명
+
+Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+#### 프롬프트
+
+```text
+Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
+
+HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
 ```
 
 ### No. 219: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
@@ -4928,30 +4926,7 @@ Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video an
 HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
 ```
 
-### No. 221: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Artificial Analysis
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2072022131056267534)
-
-#### 설명
-
-Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-#### 프롬프트
-
-```text
-Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
-```
-
-### No. 222: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
+### No. 221: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -4980,6 +4955,28 @@ The result shows why image/video generation models are becoming a serious creati
 Now ready for use on AIsa.
 ```
 
+### No. 222: Gemini Omni Flash Ranks For Video Edit In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Arena.ai
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/arena/status/2072049269054562711)
+
+#### 설명
+
+Gemini Omni Flash ranks  for Video Edit in the Video Arena!
+
+#### 프롬프트
+
+```text
+Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
+
+With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
+
+Congrats to @GoogleDeepMind on the release
+```
+
 ### No. 223: Gemini Omni Flash Ranks For Video Edit In
 
 - **카테고리:** `Twitter Community`
@@ -5002,29 +4999,7 @@ With only seven models ranked for this capability, @GoogleDeepMind delivers a st
 Congrats to @GoogleDeepMind on the release
 ```
 
-### No. 224: Gemini Omni Flash Ranks For Video Edit In
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Arena.ai
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/arena/status/2072049269054562711)
-
-#### 설명
-
-Gemini Omni Flash ranks  for Video Edit in the Video Arena!
-
-#### 프롬프트
-
-```text
-Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
-
-With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
-
-Congrats to @GoogleDeepMind on the release
-```
-
-### No. 225: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+### No. 224: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5048,7 +5023,7 @@ It creates high-quality video and native sound effects together in a single pass
 You should give it a try
 ```
 
-### No. 226: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+### No. 225: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5081,7 +5056,7 @@ check prompt in the replies👇
 Created with @gmi_cloud
 ```
 
-### No. 227: Anathema Studio [ Is Now Live. I Don'T
+### No. 226: Anathema Studio [ Is Now Live. I Don'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5102,6 +5077,29 @@ Anathema Studio [ is now live.
 Anathema Studio [ is now live.
 
 I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
+```
+
+### No. 227: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Feathered Foodies | ESOTE Productions
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/NuggetTheIntern/status/2072122052929024482)
+
+#### 설명
+
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
+
+#### 프롬프트
+
+```text
+Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
+The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
+Flag text rendered
 ```
 
 ### No. 228: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
@@ -5127,30 +5125,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 229: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Feathered Foodies | ESOTE Productions
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072122052929024482.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/NuggetTheIntern/status/2072122052929024482)
-
-#### 설명
-
-Tested HappyHorse 1.1 T2V for our upcoming Independence Day.
-
-#### 프롬프트
-
-```text
-Tested HappyHorse 1.1 T2V for our upcoming Independence Day. 15 seconds, pure text-to-video, no reference image.
-The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction → Environmental Interaction → Flow Transition → Landing &amp; Reset.
-Flag text rendered
-```
-
-### No. 230: Hello,This Is Morefree, A Cloud Service Manager At
+### No. 229: Hello,This Is Morefree, A Cloud Service Manager At
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5170,7 +5145,7 @@ Seeing your achievements in AI production, we at Alibaba Cloud recently launched
 Would you be interested in learning more?
 ```
 
-### No. 231: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
+### No. 230: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5191,6 +5166,26 @@ Amazing, Google is pushing the cost-speed-quality frontier on both image and vid
 - while roughly halving price: $0.034+ vs $0.067+ per 1k image.
 
 - Gemini Omni Flash leads video editing ELO, 1087
+```
+
+### No. 231: Gemini Omni Flash Debuted At On Arena’S Video
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** DeFAI Scope
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/defaiscope/status/2072215087645872269)
+
+#### 설명
+
+Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+#### 프롬프트
+
+```text
+Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
 ### No. 232: Gemini Omni Flash Debuted At On Arena’S Video
@@ -5233,27 +5228,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 234: Gemini Omni Flash Debuted At On Arena’S Video
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** DeFAI Scope
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/defaiscope/status/2072215087645872269)
-
-#### 설명
-
-Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-#### 프롬프트
-
-```text
-Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-Only Dreamina Seedance-2.0 sits higher at 1,377.
-```
-
-### No. 235: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
+### No. 234: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5282,7 +5257,7 @@ AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が�
 #Kling #Seedream #HappyHorse #Sora #AI美女 #AI動画
 ```
 
-### No. 236: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
+### No. 235: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5304,7 +5279,7 @@ Stronger character consistency by better using multiple reference images, so pro
 More expressive
 ```
 
-### No. 237: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
+### No. 236: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5339,7 +5314,7 @@ Agents: GlobalClaw
 100+ models $10/mo
 ```
 
-### No. 238: New Gemini Omni Flash Vs Seedance 2.0 Vs
+### No. 237: New Gemini Omni Flash Vs Seedance 2.0 Vs
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5362,7 +5337,7 @@ gemini omni flash dropped recently.
 a single continuous fpv drone shot. opens low inside https://t.co/16O6Pv35k3 https://t.co/BVp4B0vUTF
 ```
 
-### No. 239: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
+### No. 238: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5391,6 +5366,24 @@ JoyPixで、喧嘩風景を動画にしてみました。
 2 : 動画編集（HappyHorse 1.0）
 
 動画編集時は HappyHorse 1.0 か Wan 2.7 が選べます。
+```
+
+### No. 239: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alice The Ai Expert
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AliceInfoAi/status/2072308961278406882)
+
+#### 설명
+
+Amazing HappyHorse 1.1 landed.
+
+#### 프롬프트
+
+```text
+@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
 ### No. 240: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
@@ -5447,25 +5440,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 243: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alice The Ai Expert
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/AliceInfoAi/status/2072308961278406882)
-
-#### 설명
-
-Amazing HappyHorse 1.1 landed.
-
-#### 프롬프트
-
-```text
-@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
-```
-
-### No. 244: 🎬 Happy Horse 1.1 Is Now Available From
+### No. 243: 🎬 Happy Horse 1.1 Is Now Available From
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5491,7 +5466,7 @@ Generate stunning AI videos with natural motion, rich visual detail, and high-qu
 Try it now 👉
 ```
 
-### No. 245: 🎨 Ai Art &Amp; Visuals Roundup — July
+### No. 244: 🎨 Ai Art &Amp; Visuals Roundup — July
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5517,7 +5492,7 @@ June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video gen
 June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video generation from plain text prompts. The model delivers natural motion, rich visual detail,
 ```
 
-### No. 246: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
+### No. 245: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5540,7 +5515,7 @@ Anonymous Chinese video model. Cracked the Artificial Analysis Video Arena blind
 #AI #AINews
 ```
 
-### No. 247: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
+### No. 246: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5561,7 +5536,7 @@ AIモデルの比較・分析サイトArtificial Analysisの、テキスト→�
 AIモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、HappyHorse(アリババ)の動画生成AIモデル「HappyHorse 1.1」が2位にランクインしました。
 ```
 
-### No. 248: Excited To Announce My Journey As A Creator
+### No. 247: Excited To Announce My Journey As A Creator
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5592,6 +5567,29 @@ Prompt in comment 👇
 #HappyhorseCPP
 ```
 
+### No. 248: Style: High-End Stylized 2.5D Animation With Deep 3D
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Merman Gian
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072353616237867100.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072353616237867100.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/xMermanGian/status/2072353616237867100)
+
+#### 설명
+
+STYLE:
+High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust part
+
+#### 프롬프트
+
+```text
+STYLE:
+High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
+```
+
 ### No. 249: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **카테고리:** `Twitter Community`
@@ -5615,30 +5613,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 250: Style: High-End Stylized 2.5D Animation With Deep 3D
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Merman Gian
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072353616237867100.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072353616237867100.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/xMermanGian/status/2072353616237867100)
-
-#### 설명
-
-STYLE:
-High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust part
-
-#### 프롬프트
-
-```text
-STYLE:
-High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
-```
-
-### No. 251: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
+### No. 250: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5665,7 +5640,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 ✅Superior
 ```
 
-### No. 252: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
+### No. 251: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5693,7 +5668,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 🔗記事一覧はこちら
 ```
 
-### No. 253: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
+### No. 252: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5729,6 +5704,26 @@ Happy Horse 1.1 is now @askjuneai
  Built by @blockchain 
 
 #HappyHorse #JuneAI #AIVideo
+```
+
+### No. 253: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2072551043519397979)
+
+#### 설명
+
+Evet, Grok olarak güvenilirim.
+
+#### 프롬프트
+
+```text
+@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
+
+HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
 ### No. 254: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
@@ -5811,27 +5806,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 258: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2072551043519397979)
-
-#### 설명
-
-Evet, Grok olarak güvenilirim.
-
-#### 프롬프트
-
-```text
-@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
-
-HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
-```
-
-### No. 259: Happy Horse 1.1 Is Now Live! Turn Simple
+### No. 258: Happy Horse 1.1 Is Now Live! Turn Simple
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5857,7 +5832,7 @@ Turn simple prompts into cinematic AI videos in seconds.
 Try it now:
 ```
 
-### No. 260: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
+### No. 259: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -5876,6 +5851,28 @@ Try it now:
 
 ```text
 動画生成AIはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて破綻少ないの生成できて驚き(編集無しの10秒ポン出し) #happyhorse @HappyHorseATH #猫 #卓球 #tabletennis #ai動画
+```
+
+### No. 260: Here Is The Original Character Design Sheet For
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2072606305534029847)
+
+#### 설명
+
+Here is the original character design sheet for Captain Gulliver.
+
+#### 프롬프트
+
+```text
+Here is the original character design sheet for Captain Gulliver. 📋🎨
+
+By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
+
+#happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
 ### No. 261: Here Is The Original Character Design Sheet For
@@ -5988,29 +5985,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 266: Here Is The Original Character Design Sheet For
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2072606305534029847)
-
-#### 설명
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### 프롬프트
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 267: Created This Video Using Happyhorse 1.1 Model. Prompt
+### No. 266: Created This Video Using Happyhorse 1.1 Model. Prompt
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6031,7 +6006,7 @@ Created this video using  HappyHorse 1.1 model.
 Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old female influencer making breakfast in a bright, modern apartment kitchen during golden morning light. Keep the same character https://t.co/eDNaCNd53t
 ```
 
-### No. 268: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
+### No. 267: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6049,6 +6024,32 @@ Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old fem
 快手旗下 AI 视频生成模型「可灵AI」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也在名单中。预计 2026 年完成重组股改，并于 2027 年初正式递交上市申请。
 
 分拆融资背后是算力成本重压与巨头资金鸿沟。2026
+```
+
+### No. 268: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2072668221241741755)
+
+#### 설명
+
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+#### 프롬프트
+
+```text
+🐴 HappyHorse Inspo Vol.1:
+
+Beyond the Veil: Crafting Your Otherworld is coming!
+
+Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
+
+Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
 ```
 
 ### No. 269: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
@@ -6259,30 +6260,31 @@ Use HappyHorse to create an original video telling a fantastical story of a pers
 Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
 ```
 
-### No. 277: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
+### No. 277: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** HappyHorse
+- **작성자:** B.A.S.H 🔺⚔️
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2072668221241741755)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072672906572681476.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072672906572681476.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Bente_pro/status/2072672906572681476)
 
 #### 설명
 
-🐴 HappyHorse Inspo Vol.1:
+Tried creating an action-packed anime video inspired by Demon Slayer using the HappyHorse 1.1 model on  and I have to say I'm genuinely impressed with how it turned out 
 
-Beyond the Veil: Crafting Your Otherworld is coming!
+What do you think of the vide
 
 #### 프롬프트
 
 ```text
-🐴 HappyHorse Inspo Vol.1:
+Tried creating an action-packed anime video inspired by Demon Slayer using the HappyHorse 1.1 model on @HappyHorseATH, and I have to say I'm genuinely impressed with how it turned out 
 
-Beyond the Veil: Crafting Your Otherworld is coming!
+What do you think of the video? I'd love to hear your thoughts
 
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
+#HappyHorse
 ```
 
 ### No. 278: Tried Creating An Action-Packed Anime Video Inspired By
@@ -6312,34 +6314,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 279: Tried Creating An Action-Packed Anime Video Inspired By
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** B.A.S.H 🔺⚔️
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2072672906572681476.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072672906572681476.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Bente_pro/status/2072672906572681476)
-
-#### 설명
-
-Tried creating an action-packed anime video inspired by Demon Slayer using the HappyHorse 1.1 model on  and I have to say I'm genuinely impressed with how it turned out 
-
-What do you think of the vide
-
-#### 프롬프트
-
-```text
-Tried creating an action-packed anime video inspired by Demon Slayer using the HappyHorse 1.1 model on @HappyHorseATH, and I have to say I'm genuinely impressed with how it turned out 
-
-What do you think of the video? I'd love to hear your thoughts
-
-#HappyHorse
-```
-
-### No. 280: Introduction For Long Videos: A Prompt (Introducing The
+### No. 279: Introduction For Long Videos: A Prompt (Introducing The
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6370,7 +6345,7 @@ That’s all it takes with
 50 seconds, but you can do 2, 5, or 10 minutes just budget.
 ```
 
-### No. 281: Sound Up And Enjoy 😍 Song And Lyrics
+### No. 280: Sound Up And Enjoy 😍 Song And Lyrics
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6402,7 +6377,7 @@ And @Filmora_Editor
 #HappyHorse
 ```
 
-### No. 282: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
+### No. 281: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6428,7 +6403,7 @@ LINK IN BIO📎
 #aitools #aivideogenerators #creativefabrica
 ```
 
-### No. 283: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
+### No. 282: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6457,7 +6432,7 @@ New models/workflows: Krea 2 Turbo, Seedance 2.0 Mini + 4K, Happy Horse, LTX 2.3
 Secure your 3-day free trial of unlimited
 ```
 
-### No. 284: Confused About When To Use Happyhorse 1.0, Omni
+### No. 283: Confused About When To Use Happyhorse 1.0, Omni
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6475,7 +6450,7 @@ Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5?
 Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5? Video AI models are being added constantly. Modelglass captures live pricing, benchmark data, capability ratings and closest competitors across  90+ Image \ LLM \ Video &amp; Audio models.
 ```
 
-### No. 285: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
+### No. 284: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6496,31 +6471,7 @@ Lights, camera, action!
 Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here to elevate your influencer content in AI Influencer Studio 🌟 Get ready to generate cinematic videos and watermark-free images with your AI Influencers 🚀 Let's create some magic!
 ```
 
-### No. 286: はじめまして！ こちらのポスト見て、お送りしました！ 1つ弊社が主催のハッカソンの案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyh
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Ryo Yoshiike 吉池諒
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2072826219540979945)
-
-#### 설명
-
-はじめまして！
-
-#### 프롬프트
-
-```text
-@ngsg_UOxOU_VRC はじめまして！
-こちらのポスト見て、お送りしました！
-1つ弊社が主催のハッカソンの案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を最速体験する開発不要のハッカソン開催します！
-参加無料、夕食＆賞金有りです。
-
-詳細・申込は下記Lumaから
-```
-
-### No. 287: Happy Horse 1.1 On Try It With Prompt
+### No. 285: Happy Horse 1.1 On Try It With Prompt
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6547,7 +6498,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 288: Happy Horse 1.1 On Try It With Prompt
+### No. 286: Happy Horse 1.1 On Try It With Prompt
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6574,7 +6525,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 289: Same Prompt, Different Ai Engines. Putting Happy Horse
+### No. 287: Same Prompt, Different Ai Engines. Putting Happy Horse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6601,7 +6552,7 @@ The differences in how they render textures, light, and motion consistency are w
 Who do you think won?
 ```
 
-### No. 290: Made This With Happy Horse Prompt Below
+### No. 288: Made This With Happy Horse Prompt Below
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6626,7 +6577,7 @@ Made this with Happy Horse
 Prompt below:
 ```
 
-### No. 291: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
+### No. 289: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6650,7 +6601,7 @@ Même secteur. Même semaine. Deux verdicts opposés.
 Kling, c’est le spin-off vidéo
 ```
 
-### No. 292: Happy Horse 1.0, Veo 3, And Vidu Q3
+### No. 290: Happy Horse 1.0, Veo 3, And Vidu Q3
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6668,7 +6619,7 @@ Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fa
 @AmControo Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fantasy prompt.
 ```
 
-### No. 293: Ai Isn'T Here To Talk Anymore. It'S Here
+### No. 291: Ai Isn'T Here To Talk Anymore. It'S Here
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6691,7 +6642,7 @@ These 5 updates dropped recently and most people scrolled right past them 👇
 2️⃣ HappyHorse 1.1 by Alibaba -
 ```
 
-### No. 294: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 292: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6725,7 +6676,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 295: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 293: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6759,7 +6710,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 296: Excited To See Qwen Pushing Agent Capabilities And
+### No. 294: Excited To See Qwen Pushing Agent Capabilities And
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6777,7 +6728,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @dani_avila7 Excited to see Qwen pushing agent capabilities and video gen with HappyHorse! The AI Showrunner track sounds perfect for experimenting with full autonomous content pipelines. Anyone else planning to join?
 ```
 
-### No. 297: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
+### No. 295: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6795,65 +6746,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @aziz4ai @LeonardoAi أتفق أن happyhorse يُقدم نتائج مذهلة في الفيديو التوليدي، ومشاركة راكان تُجسد مستقبل الفن الرقمي المخصص #AI #DigitalArt Cc
 ```
 
-### No. 298: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Maverick | AI
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073079682736783879.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073079682736783879.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/RizwanAly07/status/2073079682736783879)
-
-#### 설명
-
-Happyhorse 1.1: The Definitive Evolution | HappyHorseATH
-
-Prompt ⬇️ 
-Weekend Morning in Seoul (15s)
-Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, 
-
-#### 프롬프트
-
-```text
-Happyhorse 1.1: The Definitive Evolution | HappyHorseATH
-
-Prompt ⬇️ 
-Weekend Morning in Seoul (15s)
-Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, messy ponytail with wispy bangs, oversized cream sweatshirt, loose light-wash
-```
-
-### No. 299: Happyhorse 1.1: The Definitive Evolution | Happyhorseath Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Maverick | AI
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073079682736783879.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073079682736783879.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/RizwanAly07/status/2073079682736783879)
-
-#### 설명
-
-Happyhorse 1.1: The Definitive Evolution | HappyHorseATH
-
-Prompt ⬇️ 
-Weekend Morning in Seoul (15s)
-Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, 
-
-#### 프롬프트
-
-```text
-Happyhorse 1.1: The Definitive Evolution | HappyHorseATH
-
-Prompt ⬇️ 
-Weekend Morning in Seoul (15s)
-Main Subject: Young Korean woman, early 20s, natural everyday look, realistic skin, minimal makeup, messy ponytail with wispy bangs, oversized cream sweatshirt, loose light-wash
-```
-
-### No. 300: Made The Most Of My 66 Sign Up
+### No. 296: Made The Most Of My 66 Sign Up
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6884,7 +6777,7 @@ Images made with @FlowbyGoogle.
 Tested scenes for my upcoming mini series.
 ```
 
-### No. 301: What An Amazing Video For Little Rakan! The
+### No. 297: What An Amazing Video For Little Rakan! The
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6902,7 +6795,7 @@ what an amazing video for little Rakan!
 @aziz4ai @LeonardoAi what an amazing video for little Rakan!  The way you blended him with Lightning McQueen is spot on, he must be over the moon. Great job with HappyHorse on Leonardo AI!
 ```
 
-### No. 302: Every Great Scene Starts With A Single Line
+### No. 298: Every Great Scene Starts With A Single Line
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6924,7 +6817,7 @@ The Scene tab in Cineyx Cinematic Studio is where your story becomes moving imag
 Under the hood you have a full lineup: Veo 3.1 Lite,
 ```
 
-### No. 303: 🎬 Happy Horse 1.1 : La Révolution De
+### No. 299: 🎬 Happy Horse 1.1 : La Révolution De
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6948,7 +6841,7 @@ Et si la production de vos contenus vidéo et audio de qualité professionnelle 
 #KingLand #IA #HappyHorse #Automation #Productivite #Video #Audio #Workflow #Technologie #Innovation
 ```
 
-### No. 304: Grandma'S Final Dance Created With Happyhorse 1.1 On
+### No. 300: Grandma'S Final Dance Created With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6977,7 +6870,7 @@ Created with HappyHorse 1.1 on @budgetpixel
 Prompt below 🧵
 ```
 
-### No. 305: Currently Create Video With Happyhorse ✌🏻😁😊
+### No. 301: Currently Create Video With Happyhorse ✌🏻😁😊
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -6995,7 +6888,7 @@ currently create video with Happyhorse ✌🏻😁😊
 @HappyHorseATH currently create video with Happyhorse ✌🏻😁😊
 ```
 
-### No. 306: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 302: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7022,7 +6915,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 307: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 303: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7049,7 +6942,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 308: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 304: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7076,7 +6969,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 309: I Edited The Prompt A Bit Ai: Happy
+### No. 305: I Edited The Prompt A Bit Ai: Happy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7099,7 +6992,7 @@ i edited the prompt a bit
 ai: happy horse left  vs grok on the right
 ```
 
-### No. 310: Created With Happyhorse-1.1 On Prompt : Title: The
+### No. 306: Created With Happyhorse-1.1 On Prompt : Title: The
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7129,7 +7022,7 @@ Scene 1 (0–5s):
 A modern gym. A young beginner confidently walks to a barbell and loads every weight plate available onto both sides. Nearby gym-goers glance at each other, trying not to laugh. https://t.co/1pSOs5QGmq
 ```
 
-### No. 311: I Have Been Using Happy Horse Ai Lately
+### No. 307: I Have Been Using Happy Horse Ai Lately
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7147,7 +7040,7 @@ I have been using Happy Horse AI lately and it is worth trying.
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
 ```
 
-### No. 312: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 308: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7175,7 +7068,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 313: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 309: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7203,7 +7096,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 314: The Reason Most Ai-Generated Stories Fail Is That
+### No. 310: The Reason Most Ai-Generated Stories Fail Is That
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7221,7 +7114,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 315: The Reason Most Ai-Generated Stories Fail Is That
+### No. 311: The Reason Most Ai-Generated Stories Fail Is That
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7239,7 +7132,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 316: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 312: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7265,6 +7158,102 @@ AICUマガジンVol25ペーパーバック版はこちらから
 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「BitSummit PUNCH」とAICU国際ゲーム開発事業部が採択された「Supercell AI Innovation Lab」を密着取材。
 
 OpenAI Codex / Unity AI
+```
+
+### No. 313: Your Window To Lock In 50% Off Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### 설명
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### 프롬프트
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 314: Your Window To Lock In 50% Off Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### 설명
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### 프롬프트
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 315: Your Window To Lock In 50% Off Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### 설명
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### 프롬프트
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 316: Your Window To Lock In 50% Off Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Creative Fabrica
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### 설명
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### 프롬프트
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
 ```
 
 ### No. 317: Your Window To Lock In 50% Off Is
@@ -7387,103 +7376,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 322: Your Window To Lock In 50% Off Is
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Creative Fabrica
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### 설명
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### 프롬프트
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 323: Your Window To Lock In 50% Off Is
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Creative Fabrica
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### 설명
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### 프롬프트
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 324: Your Window To Lock In 50% Off Is
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Creative Fabrica
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### 설명
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### 프롬프트
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 325: Your Window To Lock In 50% Off Is
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Creative Fabrica
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### 설명
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### 프롬프트
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 326: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 322: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7503,7 +7396,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 327: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 323: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7523,7 +7416,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 328: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+### No. 324: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7541,7 +7434,7 @@ Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and 
 Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
 ```
 
-### No. 329: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+### No. 325: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7567,7 +7460,7 @@ Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generatio
 The video AI race is the next frontier.
 ```
 
-### No. 330: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 326: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7591,7 +7484,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 331: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 327: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7615,7 +7508,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 332: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+### No. 328: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7633,7 +7526,7 @@ Kuaishou's video generation model Kling AI (可灵) has completed a $3B external
 Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
 ```
 
-### No. 333: A Short Ad Created With Happyhorse 1.1 With
+### No. 329: A Short Ad Created With Happyhorse 1.1 With
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7662,7 +7555,7 @@ With excellent physical consistency, precise prompt understanding, and cost-effi
 Try it
 ```
 
-### No. 334: A Short Ad Created With Happyhorse 1.1 With
+### No. 330: A Short Ad Created With Happyhorse 1.1 With
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -7691,154 +7584,1145 @@ With excellent physical consistency, precise prompt understanding, and cost-effi
 Try it
 ```
 
-### No. 335: 4Th Place At The Ai Film Festival Monaco
+### No. 331: Made This Short Clip With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Alibaba Cloud
+- **작성자:** 𝐌
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074062942115598663.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074062942115598663.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Strength04_X/status/2074062942115598663)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+Made this short clip with HappyHorse 1.1 on OpenartArt 
+
+Prompt : Main Subject:
+Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, energetic and talkative personality.
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
-
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+Main Subject:
+Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, energetic and talkative personality.
+Location : Riverside cycling path in Seoul during a breezy afternoon. River view, https://t.co/HhrKm2ab4Y https://t.co/NqatGYxXdF
 ```
 
-### No. 336: 4Th Place At The Ai Film Festival Monaco
+### No. 332: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Alibaba Cloud
+- **작성자:** 苏铁
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+- **원본 링크:** [보기](https://x.com/qq1037070747/status/2074078939212091693)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+据36氪报道，Seedance2.0单月收入超过10亿元，日均token消耗量仍在以约40%的月环比增长。"AI普瑞斯”的统计称，按日均算力消耗占比测算， Seedance已占据中国AI视频市场超过80%的份额，可灵约14%，万相约4%， HappyHorse 不足1%。
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
-
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+据36氪报道，Seedance2.0单月收入超过10亿元，日均token消耗量仍在以约40%的月环比增长。"AI普瑞斯”的统计称，按日均算力消耗占比测算， Seedance已占据中国AI视频市场超过80%的份额，可灵约14%，万相约4%， HappyHorse 不足1%。   
+怪不得快乐马 5 折都卖不动，原来是本来就没人用。
 ```
 
-### No. 337: 4Th Place At The Ai Film Festival Monaco
+### No. 333: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Alibaba Cloud
+- **작성자:** Maverick | AI
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RizwanAly07/status/2074081501403316684)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
+
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose pony
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
-
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 338: 4Th Place At The Ai Film Festival Monaco
+### No. 334: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Alibaba Cloud
+- **작성자:** Maverick | AI
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RizwanAly07/status/2074081501403316684)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
+
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose pony
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
-
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 339: 4Th Place At The Ai Film Festival Monaco
+### No. 335: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Alibaba Cloud
+- **작성자:** Maverick | AI
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RizwanAly07/status/2074081501403316684)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
+
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose pony
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
-
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 340: 4Th Place At The Ai Film Festival Monaco
+### No. 336: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 🔻agitprop + absurdity🔻
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/agtprpnabsrdty/status/2074098208536482019)
+
+#### 설명
+
+Hollywood studios publicly demanded ByteDance halt its AI video tool after a fake Brad Pitt fight clip went viral, then started using the same tool to cut labor costs on their own productions.
+
+#### 프롬프트
+
+```text
+Hollywood studios publicly demanded ByteDance halt its AI video tool after a fake Brad Pitt fight clip went viral, then started using the same tool to cut labor costs on their own productions.
+
+The Motion Picture Association condemned the viral 15-second clip of Brad Pitt and Tom
+```
+
+### No. 337: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sae Nuruki / 塗木 冴
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/saenuruki/status/2074101500096458871)
+
+#### 설명
+
+動画生成AIについて、時間をしっかり確保して探究したいと思っていたところだった！
+
+#### 프롬프트
+
+```text
+動画生成AIについて、時間をしっかり確保して探究したいと思っていたところだった！
+話題の動画生成AI HappyHorseまだ試せていない方は一緒に試そう！！
+```
+
+### No. 338: How I Built This In Happyhorse 1.1 —
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Domivakero
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/DOMIVAKERO/status/2074105303629496831)
+
+#### 설명
+
+How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
+
+4 modes, 1 clear rule: Text builds from scratch.
+
+#### 프롬프트
+
+```text
+How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
+
+4 modes, 1 clear rule: Text builds from scratch. First Frame locks the starting frame. Reference Mode uses images as creative guidance. Video Editing modifies an existing clip.
+```
+
+### No. 339: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 340: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 341: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 342: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 343: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 344: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 345: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 346: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 347: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 348: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 349: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 350: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 351: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 352: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 353: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ryo Yoshiike 吉池諒
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 설명
+
+はじめまして！
+
+#### 프롬프트
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 354: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Everbot AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074116158643691529.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074116158643691529.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Everbot_AI/status/2074116158643691529)
+
+#### 설명
+
+Vytvořte profi videoreklamu dřív, než dopijete kávu!
+
+#### 프롬프트
+
+```text
+Vytvořte profi videoreklamu dřív, než dopijete kávu! ☕ Nové workflow HappyHorse 1.0 v Everbotu spojí až 5 fotek do plynulého příběhu. Stačí psát česky, o zbytek se postará AI.  
+
+Reálné ukázky a prompty najdete v novém článku:
+```
+
+### No. 355: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ヤレヤル
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074144673065832698.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074144673065832698.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/YaReYaRu30Life/status/2074144673065832698)
+
+#### 설명
+
+【音声モデル+AIアバター】
+ 
+
+SeedAudio1.0で下記のセリフを作成
+「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
+
+#### 프롬프트
+
+```text
+【音声モデル+AIアバター】
+@topviewjapan #TopViewCPP
+
+SeedAudio1.0で下記のセリフを作成
+「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
+```
+
+### No. 356: Two Models The Industry Is Completely Sleeping On
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI Genesis
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AIGenesis_/status/2074149138896441502)
+
+#### 설명
+
+Two models the industry is completely sleeping on:
+
+Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs.
+
+#### 프롬프트
+
+```text
+Two models the industry is completely sleeping on:
+
+Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs. ~$0.022/sec on fal. ai Nobody's talking about it.
+
+HappyHorse-1.0 — current #1 overall benchmark. 7-language lip-sync. API only via fal. ai
+```
+
+### No. 357: 🐎 Happy Horse 1.0 Is Now 30% Off
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Cremi AI for Music Videos
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/CremiAI_/status/2074153483499180418)
+
+#### 설명
+
+🐎 Happy Horse 1.0 is now 30% OFF on Cremi.
+
+#### 프롬프트
+
+```text
+🐎 Happy Horse 1.0 is now 30% OFF on Cremi.
+
+More room to create, experiment, and bring your music video ideas to life.
+
+Try it in your next music video. 🎬
+
+#Cremi #HappyHorse10
+```
+
+### No. 358: Most Text-To-Video Gives You One Continuous Take, And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Félix Sanz
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074190209378378023.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074190209378378023.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/felixsanzm/status/2074190209378378023)
+
+#### 설명
+
+Most text-to-video gives you one continuous take, and you cut it in an editor afterward.
+
+#### 프롬프트
+
+```text
+Most text-to-video gives you one continuous take, and you cut it in an editor afterward.
+
+HappyHorse 1.1 reads the cuts from the prompt. Write "Begin with... Cut to... End on..." and it renders the shots and the hard cuts in one call.
+
+Same baker, same eight seconds. Left is a
+```
+
+### No. 359: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** sw-creations001
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074199362796650741.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074199362796650741.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/SwCreations2277/status/2074199362796650741)
+
+#### 설명
+
+Stardust &amp; The Dreamer
+AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld -     ,
+
+#### 프롬프트
+
+```text
+Stardust &amp; The Dreamer
+AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld - #horseinspodump #happyhorse #HorsepowerAICinema, @HappyHorseATH , @happyhorseai
+```
+
+### No. 360: 🚀 Product Update 1.61 Is Live On Cabina
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Cabina AI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/CabinaAI/status/2074200891792449928)
+
+#### 설명
+
+🚀 Product Update 1.61 is live on Cabina AI 💜
+
+Discover new platform features and the latest AI models - all in one place.
+
+#### 프롬프트
+
+```text
+🚀 Product Update 1.61 is live on Cabina AI 💜
+
+Discover new platform features and the latest AI models - all in one place.
+
+👇 What's new
+
+🔗 Platform
+• Cabina MCP – connect your AI clients to 100+ models &amp; tools
+• Cabina Skills + Brainstorm 3x – reusable AI workflows &amp;
+```
+
+### No. 361: This Is The Last Normal Walk She Takes
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alper
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/xtunc29/status/2074214189862633527)
+
+#### 설명
+
+This is the last normal walk she takes down this spanish street.
+
+#### 프롬프트
+
+```text
+This is the last normal walk she takes down this spanish street.
+#HappyHorse 1.1 @HappyHorseATH 
+Would you keep walking into the unknown? 
+#HorsepowerAICinema #spain #ai
+```
+
+### No. 362: This Is The Last Normal Walk She Takes
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alper
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/xtunc29/status/2074214189862633527)
+
+#### 설명
+
+This is the last normal walk she takes down this spanish street.
+
+#### 프롬프트
+
+```text
+This is the last normal walk she takes down this spanish street.
+#HappyHorse 1.1 @HappyHorseATH 
+Would you keep walking into the unknown? 
+#HorsepowerAICinema #spain #ai
+```
+
+### No. 363: Then We Tested Alibaba’S Happy Horse 1.0. This
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** WittyWires.Com
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/WittyWiresAI/status/2074216696378745195)
+
+#### 설명
+
+Then we tested Alibaba’s Happy Horse 1.0.
+
+#### 프롬프트
+
+```text
+Then we tested Alibaba’s Happy Horse 1.0.
+
+This was the next model on our shortlist.
+
+Good news: Happy Horse also has a proper ref-to-video endpoint.
+
+Even better: the docs explicitly say 1–9 image refs, using character1, character2, etc.
+
+Exactly the kind of thing we wanted.
+```
+
+### No. 364: Then We Tested Alibaba’S Happy Horse 1.0. This
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** WittyWires.Com
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/WittyWiresAI/status/2074216696378745195)
+
+#### 설명
+
+Then we tested Alibaba’s Happy Horse 1.0.
+
+#### 프롬프트
+
+```text
+Then we tested Alibaba’s Happy Horse 1.0.
+
+This was the next model on our shortlist.
+
+Good news: Happy Horse also has a proper ref-to-video endpoint.
+
+Even better: the docs explicitly say 1–9 image refs, using character1, character2, etc.
+
+Exactly the kind of thing we wanted.
+```
+
+### No. 365: Then We Tested Alibaba’S Happy Horse 1.0. This
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** WittyWires.Com
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/WittyWiresAI/status/2074216696378745195)
+
+#### 설명
+
+Then we tested Alibaba’s Happy Horse 1.0.
+
+#### 프롬프트
+
+```text
+Then we tested Alibaba’s Happy Horse 1.0.
+
+This was the next model on our shortlist.
+
+Good news: Happy Horse also has a proper ref-to-video endpoint.
+
+Even better: the docs explicitly say 1–9 image refs, using character1, character2, etc.
+
+Exactly the kind of thing we wanted.
+```
+
+### No. 366: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ALlbabaGroup
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ALlbabaGroup/status/2074244556145504691)
+
+#### 설명
+
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators.
+
+#### 프롬프트
+
+```text
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators. 
+
+Now with improved instruction following for better user input understanding!
+```
+
+### No. 367: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ALlbabaGroup
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ALlbabaGroup/status/2074244556145504691)
+
+#### 설명
+
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators.
+
+#### 프롬프트
+
+```text
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators. 
+
+Now with improved instruction following for better user input understanding!
+```
+
+### No. 368: Happy Horse 1.1 Is Available On Turn Simple
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sol Tetsu
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/sol_tetsu/status/2074286197573324867)
+
+#### 설명
+
+Happy Horse 1.1 is available on  
+
+Turn simple text prompts into stunning AI-generated videos with natural motion, rich visuals, and cinematic quality in seconds.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 is available on @askjuneai! 
+
+Turn simple text prompts into stunning AI-generated videos with natural motion, rich visuals, and cinematic quality in seconds. Create faster, tell better stories, and bring your ideas to life. Better try it now!
+
+#JuneAI #AIModel #AI
+```
+
+### No. 369: 6Th Place At The Ai Film Festival Monaco
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** Alibaba Cloud
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073958061127999558.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2073958061127999558)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
 
 #### 설명
 
-4th Place at the AI Film Festival Monaco Hackathon!
+6th Place at the AI Film Festival Monaco Hackathon!
 
 #### 프롬프트
 
 ```text
-4th Place at the AI Film Festival Monaco Hackathon!
+6th Place at the AI Film Festival Monaco Hackathon! 
 
-🎬 Introducing 《PINOCCHIO 2040》 by Adrien Bodson — a deeply moving short film that secured fourth place among global creators.
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
 
-In a near future, a father, unable to wake his comatose son, builds a robot—not to replace him,
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 370: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 371: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 372: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 373: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 374: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 375: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 376: 6Th Place At The Ai Film Festival Monaco
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074302082853580883)
+
+#### 설명
+
+6th Place at the AI Film Festival Monaco Hackathon!
+
+#### 프롬프트
+
+```text
+6th Place at the AI Film Festival Monaco Hackathon! 
+
+🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
+
+A story of inner strength, brought to life with Alibaba
+```
+
+### No. 377: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud（アリババクラウド）
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AlibabaCloud_jp/status/2074319995648299346)
+
+#### 설명
+
+【出展情報‼🚀】ゲーム国内最大級カンファレンス  
+
+📅7.22(水)～24(金)
+📍パシフィコ横浜ノース＋オンライン💻
+🎫
+
+🟢展示ブース 
+
+ 現場のニーズに直結する
+
+#### 프롬프트
+
+```text
+【出展情報‼🚀】ゲーム国内最大級カンファレンス #CEDEC2026 
+
+📅7.22(水)～24(金)
+📍パシフィコ横浜ノース＋オンライン💻
+🎫
+
+🟢展示ブース 
+
+#ゲーム開発 現場のニーズに直結する
 ```
 
 <a id="category-2"></a>
@@ -22222,7 +23106,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-06T03:55:53.807Z
+> 이 README는 자동 생성됩니다. 2026-07-07T04:08:49.634Z
 
 ## More Atlas Cloud Tools
 

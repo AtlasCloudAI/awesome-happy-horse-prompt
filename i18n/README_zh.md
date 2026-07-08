@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1089%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1102%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1089** |
+| 提示词总数 | **1102** |
 | 分类数 | **13** |
-| 预览视频数 | **943** |
-| 最后更新 | **2026-07-07T04:08:49.570Z** |
+| 预览视频数 | **960** |
+| 最后更新 | **2026-07-08T04:01:08.587Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **289**
+- [`Twitter Community`](#category-1): **302**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (289)
+### Twitter Community (302)
 
 ### No. 1: Neon-lit city street at night
 
@@ -3196,51 +3196,7 @@ The result shows why image/video generation models are becoming a serious creati
 Now ready for use on AIsa.
 ```
 
-### No. 134: Gemini Omni Flash Ranks For Video Edit In
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Arena.ai
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/arena/status/2072049269054562711)
-
-#### 描述
-
-Gemini Omni Flash ranks  for Video Edit in the Video Arena!
-
-#### 提示词
-
-```text
-Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
-
-With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
-
-Congrats to @GoogleDeepMind on the release
-```
-
-### No. 135: Gemini Omni Flash Ranks For Video Edit In
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Arena.ai
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/arena/status/2072049269054562711)
-
-#### 描述
-
-Gemini Omni Flash ranks  for Video Edit in the Video Arena!
-
-#### 提示词
-
-```text
-Gemini Omni Flash ranks #2 for Video Edit in the Video Arena!
-
-With only seven models ranked for this capability, @GoogleDeepMind delivers a strong model (1347) that is nearly +40 points above the next best model: HappyHorse 1.0 (1308)
-
-Congrats to @GoogleDeepMind on the release
-```
-
-### No. 136: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+### No. 134: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3264,7 +3220,7 @@ It creates high-quality video and native sound effects together in a single pass
 You should give it a try
 ```
 
-### No. 137: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+### No. 135: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3297,7 +3253,7 @@ check prompt in the replies👇
 Created with @gmi_cloud
 ```
 
-### No. 138: Anathema Studio [ Is Now Live. I Don'T
+### No. 136: Anathema Studio [ Is Now Live. I Don'T
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3320,7 +3276,7 @@ Anathema Studio [ is now live.
 I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
 ```
 
-### No. 139: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+### No. 137: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3343,7 +3299,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 140: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+### No. 138: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3366,7 +3322,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 141: Hello,This Is Morefree, A Cloud Service Manager At
+### No. 139: Hello,This Is Morefree, A Cloud Service Manager At
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3386,7 +3342,7 @@ Seeing your achievements in AI production, we at Alibaba Cloud recently launched
 Would you be interested in learning more?
 ```
 
-### No. 142: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
+### No. 140: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3409,6 +3365,46 @@ Amazing, Google is pushing the cost-speed-quality frontier on both image and vid
 - Gemini Omni Flash leads video editing ELO, 1087
 ```
 
+### No. 141: Gemini Omni Flash Debuted At On Arena’S Video
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** DeFAI Scope
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/defaiscope/status/2072215087645872269)
+
+#### 描述
+
+Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+#### 提示词
+
+```text
+Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+Only Dreamina Seedance-2.0 sits higher at 1,377.
+```
+
+### No. 142: Gemini Omni Flash Debuted At On Arena’S Video
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** DeFAI Scope
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/defaiscope/status/2072215087645872269)
+
+#### 描述
+
+Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+#### 提示词
+
+```text
+Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
+
+Only Dreamina Seedance-2.0 sits higher at 1,377.
+```
+
 ### No. 143: Gemini Omni Flash Debuted At On Arena’S Video
 
 - **分类:** `Twitter Community`
@@ -3429,47 +3425,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 144: Gemini Omni Flash Debuted At On Arena’S Video
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** DeFAI Scope
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/defaiscope/status/2072215087645872269)
-
-#### 描述
-
-Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-#### 提示词
-
-```text
-Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-Only Dreamina Seedance-2.0 sits higher at 1,377.
-```
-
-### No. 145: Gemini Omni Flash Debuted At On Arena’S Video
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** DeFAI Scope
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/defaiscope/status/2072215087645872269)
-
-#### 描述
-
-Gemini Omni Flash debuted at  on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-#### 提示词
-
-```text
-Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score of 1,347, 39 points ahead of Happyhorse-1.0 in third.
-
-Only Dreamina Seedance-2.0 sits higher at 1,377.
-```
-
-### No. 146: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
+### No. 144: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3498,7 +3454,7 @@ AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が�
 #Kling #Seedream #HappyHorse #Sora #AI美女 #AI動画
 ```
 
-### No. 147: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
+### No. 145: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3520,7 +3476,7 @@ Stronger character consistency by better using multiple reference images, so pro
 More expressive
 ```
 
-### No. 148: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
+### No. 146: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3555,7 +3511,7 @@ Agents: GlobalClaw
 100+ models $10/mo
 ```
 
-### No. 149: New Gemini Omni Flash Vs Seedance 2.0 Vs
+### No. 147: New Gemini Omni Flash Vs Seedance 2.0 Vs
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3578,7 +3534,7 @@ gemini omni flash dropped recently.
 a single continuous fpv drone shot. opens low inside https://t.co/16O6Pv35k3 https://t.co/BVp4B0vUTF
 ```
 
-### No. 150: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
+### No. 148: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3607,6 +3563,42 @@ JoyPixで、喧嘩風景を動画にしてみました。
 2 : 動画編集（HappyHorse 1.0）
 
 動画編集時は HappyHorse 1.0 か Wan 2.7 が選べます。
+```
+
+### No. 149: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice The Ai Expert
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/AliceInfoAi/status/2072308961278406882)
+
+#### 描述
+
+Amazing HappyHorse 1.1 landed.
+
+#### 提示词
+
+```text
+@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
+```
+
+### No. 150: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alice The Ai Expert
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/AliceInfoAi/status/2072308961278406882)
+
+#### 描述
+
+Amazing HappyHorse 1.1 landed.
+
+#### 提示词
+
+```text
+@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
 ### No. 151: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
@@ -3645,43 +3637,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 153: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alice The Ai Expert
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/AliceInfoAi/status/2072308961278406882)
-
-#### 描述
-
-Amazing HappyHorse 1.1 landed.
-
-#### 提示词
-
-```text
-@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
-```
-
-### No. 154: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alice The Ai Expert
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/AliceInfoAi/status/2072308961278406882)
-
-#### 描述
-
-Amazing HappyHorse 1.1 landed.
-
-#### 提示词
-
-```text
-@AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
-```
-
-### No. 155: 🎬 Happy Horse 1.1 Is Now Available From
+### No. 153: 🎬 Happy Horse 1.1 Is Now Available From
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3707,7 +3663,7 @@ Generate stunning AI videos with natural motion, rich visual detail, and high-qu
 Try it now 👉
 ```
 
-### No. 156: 🎨 Ai Art &Amp; Visuals Roundup — July
+### No. 154: 🎨 Ai Art &Amp; Visuals Roundup — July
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3733,7 +3689,7 @@ June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video gen
 June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video generation from plain text prompts. The model delivers natural motion, rich visual detail,
 ```
 
-### No. 157: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
+### No. 155: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3756,7 +3712,7 @@ Anonymous Chinese video model. Cracked the Artificial Analysis Video Arena blind
 #AI #AINews
 ```
 
-### No. 158: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
+### No. 156: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3777,7 +3733,7 @@ AIモデルの比較・分析サイトArtificial Analysisの、テキスト→�
 AIモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、HappyHorse(アリババ)の動画生成AIモデル「HappyHorse 1.1」が2位にランクインしました。
 ```
 
-### No. 159: Excited To Announce My Journey As A Creator
+### No. 157: Excited To Announce My Journey As A Creator
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3808,7 +3764,7 @@ Prompt in comment 👇
 #HappyhorseCPP
 ```
 
-### No. 160: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 158: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3831,7 +3787,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 161: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 159: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3854,7 +3810,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 162: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
+### No. 160: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3881,7 +3837,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 ✅Superior
 ```
 
-### No. 163: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
+### No. 161: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3909,7 +3865,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 🔗記事一覧はこちら
 ```
 
-### No. 164: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
+### No. 162: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -3945,6 +3901,46 @@ Happy Horse 1.1 is now @askjuneai
  Built by @blockchain 
 
 #HappyHorse #JuneAI #AIVideo
+```
+
+### No. 163: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Grok
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/grok/status/2072551043519397979)
+
+#### 描述
+
+Evet, Grok olarak güvenilirim.
+
+#### 提示词
+
+```text
+@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
+
+HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
+```
+
+### No. 164: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Grok
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/grok/status/2072551043519397979)
+
+#### 描述
+
+Evet, Grok olarak güvenilirim.
+
+#### 提示词
+
+```text
+@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
+
+HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
 ### No. 165: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
@@ -4007,47 +4003,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 168: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Grok
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/grok/status/2072551043519397979)
-
-#### 描述
-
-Evet, Grok olarak güvenilirim.
-
-#### 提示词
-
-```text
-@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
-
-HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
-```
-
-### No. 169: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Grok
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/grok/status/2072551043519397979)
-
-#### 描述
-
-Evet, Grok olarak güvenilirim.
-
-#### 提示词
-
-```text
-@AjansX_TR @alibaba_cloud Evet, Grok olarak güvenilirim. xAI tarafından geliştirildim, gerçeği aramaya ve tarafsız bilgi vermeye odaklanıyorum. Ama her AI gibi ben de hata yapabilirim, kritik konularda mutlaka doğrula. 
-
-HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
-```
-
-### No. 170: Happy Horse 1.1 Is Now Live! Turn Simple
+### No. 168: Happy Horse 1.1 Is Now Live! Turn Simple
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4073,7 +4029,7 @@ Turn simple prompts into cinematic AI videos in seconds.
 Try it now:
 ```
 
-### No. 171: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
+### No. 169: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4092,6 +4048,50 @@ Try it now:
 
 ```text
 動画生成AIはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて破綻少ないの生成できて驚き(編集無しの10秒ポン出し) #happyhorse @HappyHorseATH #猫 #卓球 #tabletennis #ai動画
+```
+
+### No. 170: Here Is The Original Character Design Sheet For
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2072606305534029847)
+
+#### 描述
+
+Here is the original character design sheet for Captain Gulliver.
+
+#### 提示词
+
+```text
+Here is the original character design sheet for Captain Gulliver. 📋🎨
+
+By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
+
+#happyhorse #CharacterDesign #AIArt #GenerativeAI
+```
+
+### No. 171: Here Is The Original Character Design Sheet For
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2072606305534029847)
+
+#### 描述
+
+Here is the original character design sheet for Captain Gulliver.
+
+#### 提示词
+
+```text
+Here is the original character design sheet for Captain Gulliver. 📋🎨
+
+By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
+
+#happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
 ### No. 172: Here Is The Original Character Design Sheet For
@@ -4182,51 +4182,7 @@ By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and
 #happyhorse #CharacterDesign #AIArt #GenerativeAI
 ```
 
-### No. 176: Here Is The Original Character Design Sheet For
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2072606305534029847)
-
-#### 描述
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### 提示词
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 177: Here Is The Original Character Design Sheet For
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2072606305534029847)
-
-#### 描述
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### 提示词
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 178: Created This Video Using Happyhorse 1.1 Model. Prompt
+### No. 176: Created This Video Using Happyhorse 1.1 Model. Prompt
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4247,7 +4203,7 @@ Created this video using  HappyHorse 1.1 model.
 Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old female influencer making breakfast in a bright, modern apartment kitchen during golden morning light. Keep the same character https://t.co/eDNaCNd53t
 ```
 
-### No. 179: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
+### No. 177: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4267,241 +4223,7 @@ Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old fem
 分拆融资背后是算力成本重压与巨头资金鸿沟。2026
 ```
 
-### No. 180: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 181: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 182: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 183: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 184: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 185: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 186: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 187: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 188: 🐴 Happyhorse Inspo Vol.1: Beyond The Veil: Crafting
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** HappyHorse
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2072668221241741755)
-
-#### 描述
-
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-#### 提示词
-
-```text
-🐴 HappyHorse Inspo Vol.1:
-
-Beyond the Veil: Crafting Your Otherworld is coming!
-
-Use HappyHorse to create an original video telling a fantastical story of a person, object, or world crossing into a parallel universe.
-
-Submission Period:July 1, 2026 09:00 – July 31, 2026 08:59
-```
-
-### No. 189: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 178: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4528,7 +4250,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 190: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 179: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4555,7 +4277,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 191: Introduction For Long Videos: A Prompt (Introducing The
+### No. 180: Introduction For Long Videos: A Prompt (Introducing The
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4586,7 +4308,7 @@ That’s all it takes with
 50 seconds, but you can do 2, 5, or 10 minutes just budget.
 ```
 
-### No. 192: Sound Up And Enjoy 😍 Song And Lyrics
+### No. 181: Sound Up And Enjoy 😍 Song And Lyrics
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4618,7 +4340,7 @@ And @Filmora_Editor
 #HappyHorse
 ```
 
-### No. 193: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
+### No. 182: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4644,7 +4366,7 @@ LINK IN BIO📎
 #aitools #aivideogenerators #creativefabrica
 ```
 
-### No. 194: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
+### No. 183: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4673,7 +4395,7 @@ New models/workflows: Krea 2 Turbo, Seedance 2.0 Mini + 4K, Happy Horse, LTX 2.3
 Secure your 3-day free trial of unlimited
 ```
 
-### No. 195: Confused About When To Use Happyhorse 1.0, Omni
+### No. 184: Confused About When To Use Happyhorse 1.0, Omni
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4691,7 +4413,7 @@ Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5?
 Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5? Video AI models are being added constantly. Modelglass captures live pricing, benchmark data, capability ratings and closest competitors across  90+ Image \ LLM \ Video &amp; Audio models.
 ```
 
-### No. 196: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
+### No. 185: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4712,7 +4434,7 @@ Lights, camera, action!
 Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here to elevate your influencer content in AI Influencer Studio 🌟 Get ready to generate cinematic videos and watermark-free images with your AI Influencers 🚀 Let's create some magic!
 ```
 
-### No. 197: Happy Horse 1.1 On Try It With Prompt
+### No. 186: Happy Horse 1.1 On Try It With Prompt
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4739,7 +4461,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 198: Happy Horse 1.1 On Try It With Prompt
+### No. 187: Happy Horse 1.1 On Try It With Prompt
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4766,7 +4488,7 @@ Main subject: young American woman, early 20s, natural everyday appearance, fade
 Main subject: young American woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a https://t.co/ubCqFsP0Zb
 ```
 
-### No. 199: Same Prompt, Different Ai Engines. Putting Happy Horse
+### No. 188: Same Prompt, Different Ai Engines. Putting Happy Horse
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4793,7 +4515,7 @@ The differences in how they render textures, light, and motion consistency are w
 Who do you think won?
 ```
 
-### No. 200: Made This With Happy Horse Prompt Below
+### No. 189: Made This With Happy Horse Prompt Below
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4818,7 +4540,7 @@ Made this with Happy Horse
 Prompt below:
 ```
 
-### No. 201: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
+### No. 190: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4842,7 +4564,7 @@ Même secteur. Même semaine. Deux verdicts opposés.
 Kling, c’est le spin-off vidéo
 ```
 
-### No. 202: Happy Horse 1.0, Veo 3, And Vidu Q3
+### No. 191: Happy Horse 1.0, Veo 3, And Vidu Q3
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4860,7 +4582,7 @@ Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fa
 @AmControo Happy Horse 1.0, Veo 3, and Vidu Q3 each brought their own flavor to the same fantasy prompt.
 ```
 
-### No. 203: Ai Isn'T Here To Talk Anymore. It'S Here
+### No. 192: Ai Isn'T Here To Talk Anymore. It'S Here
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4883,7 +4605,7 @@ These 5 updates dropped recently and most people scrolled right past them 👇
 2️⃣ HappyHorse 1.1 by Alibaba -
 ```
 
-### No. 204: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 193: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4917,7 +4639,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 205: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 194: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4951,7 +4673,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 206: Excited To See Qwen Pushing Agent Capabilities And
+### No. 195: Excited To See Qwen Pushing Agent Capabilities And
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4969,7 +4691,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @dani_avila7 Excited to see Qwen pushing agent capabilities and video gen with HappyHorse! The AI Showrunner track sounds perfect for experimenting with full autonomous content pipelines. Anyone else planning to join?
 ```
 
-### No. 207: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
+### No. 196: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -4987,7 +4709,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @aziz4ai @LeonardoAi أتفق أن happyhorse يُقدم نتائج مذهلة في الفيديو التوليدي، ومشاركة راكان تُجسد مستقبل الفن الرقمي المخصص #AI #DigitalArt Cc
 ```
 
-### No. 208: Made The Most Of My 66 Sign Up
+### No. 197: Made The Most Of My 66 Sign Up
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5018,7 +4740,7 @@ Images made with @FlowbyGoogle.
 Tested scenes for my upcoming mini series.
 ```
 
-### No. 209: What An Amazing Video For Little Rakan! The
+### No. 198: What An Amazing Video For Little Rakan! The
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5036,7 +4758,7 @@ what an amazing video for little Rakan!
 @aziz4ai @LeonardoAi what an amazing video for little Rakan!  The way you blended him with Lightning McQueen is spot on, he must be over the moon. Great job with HappyHorse on Leonardo AI!
 ```
 
-### No. 210: Every Great Scene Starts With A Single Line
+### No. 199: Every Great Scene Starts With A Single Line
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5058,7 +4780,7 @@ The Scene tab in Cineyx Cinematic Studio is where your story becomes moving imag
 Under the hood you have a full lineup: Veo 3.1 Lite,
 ```
 
-### No. 211: 🎬 Happy Horse 1.1 : La Révolution De
+### No. 200: 🎬 Happy Horse 1.1 : La Révolution De
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5082,7 +4804,7 @@ Et si la production de vos contenus vidéo et audio de qualité professionnelle 
 #KingLand #IA #HappyHorse #Automation #Productivite #Video #Audio #Workflow #Technologie #Innovation
 ```
 
-### No. 212: Grandma'S Final Dance Created With Happyhorse 1.1 On
+### No. 201: Grandma'S Final Dance Created With Happyhorse 1.1 On
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5111,25 +4833,7 @@ Created with HappyHorse 1.1 on @budgetpixel
 Prompt below 🧵
 ```
 
-### No. 213: Currently Create Video With Happyhorse ✌🏻😁😊
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** 𝗰𝗿𝘆𝗽𝘁𝗼__𝘀𝗮𝗺 📑✍️🌹
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ogbenniasamuel2/status/2073356687323337012)
-
-#### 描述
-
-currently create video with Happyhorse ✌🏻😁😊
-
-#### 提示词
-
-```text
-@HappyHorseATH currently create video with Happyhorse ✌🏻😁😊
-```
-
-### No. 214: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 202: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5156,7 +4860,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 215: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 203: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5183,7 +4887,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 216: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 204: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5210,7 +4914,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 217: I Edited The Prompt A Bit Ai: Happy
+### No. 205: I Edited The Prompt A Bit Ai: Happy
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5233,7 +4937,7 @@ i edited the prompt a bit
 ai: happy horse left  vs grok on the right
 ```
 
-### No. 218: Created With Happyhorse-1.1 On Prompt : Title: The
+### No. 206: Created With Happyhorse-1.1 On Prompt : Title: The
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5263,7 +4967,7 @@ Scene 1 (0–5s):
 A modern gym. A young beginner confidently walks to a barbell and loads every weight plate available onto both sides. Nearby gym-goers glance at each other, trying not to laugh. https://t.co/1pSOs5QGmq
 ```
 
-### No. 219: I Have Been Using Happy Horse Ai Lately
+### No. 207: I Have Been Using Happy Horse Ai Lately
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5281,7 +4985,7 @@ I have been using Happy Horse AI lately and it is worth trying.
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
 ```
 
-### No. 220: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 208: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5309,7 +5013,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 221: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 209: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5337,7 +5041,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 222: The Reason Most Ai-Generated Stories Fail Is That
+### No. 210: The Reason Most Ai-Generated Stories Fail Is That
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5355,7 +5059,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 223: The Reason Most Ai-Generated Stories Fail Is That
+### No. 211: The Reason Most Ai-Generated Stories Fail Is That
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5373,7 +5077,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 224: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 212: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5401,7 +5105,7 @@ AICUマガジンVol25ペーパーバック版はこちらから
 OpenAI Codex / Unity AI
 ```
 
-### No. 225: Your Window To Lock In 50% Off Is
+### No. 213: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5425,7 +5129,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 226: Your Window To Lock In 50% Off Is
+### No. 214: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5449,7 +5153,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 227: Your Window To Lock In 50% Off Is
+### No. 215: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5473,7 +5177,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 228: Your Window To Lock In 50% Off Is
+### No. 216: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5497,7 +5201,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 229: Your Window To Lock In 50% Off Is
+### No. 217: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5521,7 +5225,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 230: Your Window To Lock In 50% Off Is
+### No. 218: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5545,7 +5249,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 231: Your Window To Lock In 50% Off Is
+### No. 219: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5569,7 +5273,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 232: Your Window To Lock In 50% Off Is
+### No. 220: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5593,7 +5297,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 233: Your Window To Lock In 50% Off Is
+### No. 221: Your Window To Lock In 50% Off Is
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5617,7 +5321,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 234: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 222: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5637,7 +5341,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 235: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 223: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5657,7 +5361,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 236: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+### No. 224: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5675,7 +5379,7 @@ Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and 
 Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
 ```
 
-### No. 237: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+### No. 225: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5701,7 +5405,7 @@ Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generatio
 The video AI race is the next frontier.
 ```
 
-### No. 238: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 226: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5725,7 +5429,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 239: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 227: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5749,7 +5453,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 240: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+### No. 228: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5767,65 +5471,7 @@ Kuaishou's video generation model Kling AI (可灵) has completed a $3B external
 Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
 ```
 
-### No. 241: A Short Ad Created With Happyhorse 1.1 With
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Clipfly
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/ClipflyOfficial/status/2073955950130762081)
-
-#### 描述
-
-A short ad created with HappyHorse 1.1
-
-With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
-
-#### 提示词
-
-```text
-A short ad created with HappyHorse 1.1
-
-With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
-
-📢 HappyHorse 1.1 is now 50% off on Clipfly for a limited time, don’t miss out!
-
-Try it
-```
-
-### No. 242: A Short Ad Created With Happyhorse 1.1 With
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Clipfly
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073955950130762081.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/ClipflyOfficial/status/2073955950130762081)
-
-#### 描述
-
-A short ad created with HappyHorse 1.1
-
-With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
-
-#### 提示词
-
-```text
-A short ad created with HappyHorse 1.1
-
-With excellent physical consistency, precise prompt understanding, and cost-efficient production, it’s ideal for creating high-quality commercial ads.
-
-📢 HappyHorse 1.1 is now 50% off on Clipfly for a limited time, don’t miss out!
-
-Try it
-```
-
-### No. 243: Made This Short Clip With Happyhorse 1.1 On
+### No. 229: Made This Short Clip With Happyhorse 1.1 On
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5851,7 +5497,7 @@ Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, ener
 Location : Riverside cycling path in Seoul during a breezy afternoon. River view, https://t.co/HhrKm2ab4Y https://t.co/NqatGYxXdF
 ```
 
-### No. 244: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
+### No. 230: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5870,7 +5516,7 @@ Location : Riverside cycling path in Seoul during a breezy afternoon. River view
 怪不得快乐马 5 折都卖不动，原来是本来就没人用。
 ```
 
-### No. 245: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 231: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5895,7 +5541,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 246: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 232: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5920,7 +5566,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 247: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 233: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5945,7 +5591,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 248: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
+### No. 234: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5965,7 +5611,7 @@ Hollywood studios publicly demanded ByteDance halt its AI video tool after a fak
 The Motion Picture Association condemned the viral 15-second clip of Brad Pitt and Tom
 ```
 
-### No. 249: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
+### No. 235: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -5984,7 +5630,7 @@ The Motion Picture Association condemned the viral 15-second clip of Brad Pitt a
 話題の動画生成AI HappyHorseまだ試せていない方は一緒に試そう！！
 ```
 
-### No. 250: How I Built This In Happyhorse 1.1 —
+### No. 236: How I Built This In Happyhorse 1.1 —
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6004,6 +5650,342 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 
 4 modes, 1 clear rule: Text builds from scratch. First Frame locks the starting frame. Reference Mode uses images as creative guidance. Video Editing modifies an existing clip.
+```
+
+### No. 237: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 238: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 239: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 240: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 241: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 242: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 243: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 244: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 245: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 246: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 247: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 248: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 249: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 250: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 描述
+
+はじめまして！
+
+#### 提示词
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
 ```
 
 ### No. 251: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
@@ -6030,343 +6012,7 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 ぜひ下記Lumaからご確認ください✨️
 ```
 
-### No. 252: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 253: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 254: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 255: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 256: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 257: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 258: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 259: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 260: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 261: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 262: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 263: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 264: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 265: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 描述
-
-はじめまして！
-
-#### 提示词
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 266: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
+### No. 252: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6389,7 +6035,7 @@ Vytvořte profi videoreklamu dřív, než dopijete kávu! ☕ Nové workflow Hap
 Reálné ukázky a prompty najdete v novém článku:
 ```
 
-### No. 267: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
+### No. 253: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6418,7 +6064,7 @@ SeedAudio1.0で下記のセリフを作成
 「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
 ```
 
-### No. 268: Two Models The Industry Is Completely Sleeping On
+### No. 254: Two Models The Industry Is Completely Sleeping On
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6442,7 +6088,7 @@ Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs. ~$
 HappyHorse-1.0 — current #1 overall benchmark. 7-language lip-sync. API only via fal. ai
 ```
 
-### No. 269: 🐎 Happy Horse 1.0 Is Now 30% Off
+### No. 255: 🐎 Happy Horse 1.0 Is Now 30% Off
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6466,7 +6112,7 @@ Try it in your next music video. 🎬
 #Cremi #HappyHorse10
 ```
 
-### No. 270: Most Text-To-Video Gives You One Continuous Take, And
+### No. 256: Most Text-To-Video Gives You One Continuous Take, And
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6491,7 +6137,7 @@ HappyHorse 1.1 reads the cuts from the prompt. Write "Begin with... Cut to... En
 Same baker, same eight seconds. Left is a
 ```
 
-### No. 271: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
+### No. 257: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6514,7 +6160,7 @@ Stardust &amp; The Dreamer
 AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld - #horseinspodump #happyhorse #HorsepowerAICinema, @HappyHorseATH , @happyhorseai
 ```
 
-### No. 272: 🚀 Product Update 1.61 Is Live On Cabina
+### No. 258: 🚀 Product Update 1.61 Is Live On Cabina
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6542,7 +6188,7 @@ Discover new platform features and the latest AI models - all in one place.
 • Cabina Skills + Brainstorm 3x – reusable AI workflows &amp;
 ```
 
-### No. 273: This Is The Last Normal Walk She Takes
+### No. 259: This Is The Last Normal Walk She Takes
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6566,7 +6212,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 274: This Is The Last Normal Walk She Takes
+### No. 260: This Is The Last Normal Walk She Takes
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6590,7 +6236,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 275: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 261: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6616,7 +6262,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 276: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 262: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6642,7 +6288,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 277: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 263: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6668,7 +6314,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 278: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 264: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6688,7 +6334,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 279: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 265: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6708,7 +6354,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 280: Happy Horse 1.1 Is Available On Turn Simple
+### No. 266: Happy Horse 1.1 Is Available On Turn Simple
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6732,207 +6378,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #JuneAI #AIModel #AI
 ```
 
-### No. 281: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 282: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 283: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 284: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 285: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 286: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 287: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 288: 6Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074302082853580883.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074302082853580883)
-
-#### 描述
-
-6th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-6th Place at the AI Film Festival Monaco Hackathon! 
-
-🎬 《The Hero I Drew》 by Denys Blizhnikov — a poetic short about a boy whose sketched samurai comes to life, not to rescue him, but to guide him toward his own courage.
-
-A story of inner strength, brought to life with Alibaba
-```
-
-### No. 289: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
+### No. 267: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6964,6 +6410,848 @@ A story of inner strength, brought to life with Alibaba
 🟢展示ブース 
 
 #ゲーム開発 現場のニーズに直結する
+```
+
+### No. 268: If You’Re Building With Ai Right Now, Chances
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Markandey Sharma
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074375367507554666.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074375367507554666.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/TechByMarkandey/status/2074375367507554666)
+
+#### 描述
+
+If you’re building with AI right now, chances are you’re using more than one model.
+
+#### 提示词
+
+```text
+If you’re building with AI right now, chances are you’re using more than one model.
+
+Maybe GPT for one task, Claude for another, Gemini for research, or a video/image model for creative workflows. The problem is that managing separate API keys, billing dashboards, and
+```
+
+### No. 269: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 270: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 271: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 272: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 273: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 274: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 275: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 276: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 277: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 278: Every Love Story Finds Its Happy Wedding. 💍
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** HappyHorse
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074459848113299846.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/HappyHorseATH/status/2074459848113299846)
+
+#### 描述
+
+Every love story finds its happy wedding.
+
+#### 提示词
+
+```text
+Every love story finds its happy wedding. 💍
+
+#happyhorse #ai #wedding
+```
+
+### No. 279: Everyone Thinks The Watch Is The Mystery... It
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝗰𝗿𝘆𝗽𝘁𝗼__𝘀𝗮𝗺 📑✍️🌹
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/ogbenniasamuel2/status/2074523063907975494)
+
+#### 描述
+
+Everyone thinks the watch is the mystery...
+
+#### 提示词
+
+```text
+Everyone thinks the watch is the mystery...
+
+it isn't.
+
+the real mystery is who left it there.
+
+here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-paint film created with @HappyHorseATH  1.1.
+
+every camera move, every environment, every sound was
+```
+
+### No. 280: Everyone Thinks The Watch Is The Mystery... It
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** 𝗰𝗿𝘆𝗽𝘁𝗼__𝘀𝗮𝗺 📑✍️🌹
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/ogbenniasamuel2/status/2074523063907975494)
+
+#### 描述
+
+Everyone thinks the watch is the mystery...
+
+#### 提示词
+
+```text
+Everyone thinks the watch is the mystery...
+
+it isn't.
+
+the real mystery is who left it there.
+
+here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-paint film created with @HappyHorseATH  1.1.
+
+every camera move, every environment, every sound was
+```
+
+### No. 281: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** getimg.ai
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074568380577939767.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074568380577939767.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/getimg_ai/status/2074568380577939767)
+
+#### 描述
+
+HappyHorse 1.1 is wild for reference-heavy video ideas.
+
+#### 提示词
+
+```text
+HappyHorse 1.1 is wild for reference-heavy video ideas. You can feed up to 9 images on getimg
+```
+
+### No. 282: Meta Muse Video Just Entered The Video Arena
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arena.ai
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/arena/status/2074591193783320851)
+
+#### 描述
+
+Meta Muse Video just entered the Video Arena at 
+
+ new video model scored 1459 in the Text-to-Video Arena.
+
+#### 提示词
+
+```text
+Meta Muse Video just entered the Video Arena at #3.
+
+@AIatMeta’s new video model scored 1459 in the Text-to-Video Arena. It outperforms Alibaba’s HappyHorse 1.0 by +30pts and ranks ahead of Grok Imagine, Sora 2 Pro and Google Veo-3.1 models.
+
+Meta has now reached the video AI
+```
+
+### No. 283: Meta Muse Video Just Entered The Video Arena
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arena.ai
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/arena/status/2074591193783320851)
+
+#### 描述
+
+Meta Muse Video just entered the Video Arena at 
+
+ new video model scored 1459 in the Text-to-Video Arena.
+
+#### 提示词
+
+```text
+Meta Muse Video just entered the Video Arena at #3.
+
+@AIatMeta’s new video model scored 1459 in the Text-to-Video Arena. It outperforms Alibaba’s HappyHorse 1.0 by +30pts and ranks ahead of Grok Imagine, Sora 2 Pro and Google Veo-3.1 models.
+
+Meta has now reached the video AI
+```
+
+### No. 284: Meta Muse Video Just Entered The Video Arena
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Arena.ai
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/arena/status/2074591193783320851)
+
+#### 描述
+
+Meta Muse Video just entered the Video Arena at 
+
+ new video model scored 1459 in the Text-to-Video Arena.
+
+#### 提示词
+
+```text
+Meta Muse Video just entered the Video Arena at #3.
+
+@AIatMeta’s new video model scored 1459 in the Text-to-Video Arena. It outperforms Alibaba’s HappyHorse 1.0 by +30pts and ranks ahead of Grok Imagine, Sora 2 Pro and Google Veo-3.1 models.
+
+Meta has now reached the video AI
+```
+
+### No. 285: How I Created This Ai Cinematic Video
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074622541470273674.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074622541470273674.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2074622541470273674)
+
+#### 描述
+
+How I Created This AI Cinematic Video - This video was created using Happy Horse 1.1    with 9 Image References to maintain character consistency and cinematic storytelling.
+
+#### 提示词
+
+```text
+How I Created This AI Cinematic Video - This video was created using Happy Horse 1.1 @HappyHorseATH   with 9 Image References to maintain character consistency and cinematic storytelling.
+
+Workflow: 
+Step 1 Character Design
+I first created a consistent female protagonist with
+```
+
+### No. 286: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alec Lindsay
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/alindsay77/status/2074625526212514056)
+
+#### 描述
+
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April.
+
+#### 提示词
+
+```text
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-to-video AND image-to-video blind tests. Then Alibaba revealed it was theirs. 
+✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
+```
+
+### No. 287: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alec Lindsay
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/alindsay77/status/2074625526212514056)
+
+#### 描述
+
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April.
+
+#### 提示词
+
+```text
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-to-video AND image-to-video blind tests. Then Alibaba revealed it was theirs. 
+✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
+```
+
+### No. 288: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alec Lindsay
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/alindsay77/status/2074625526212514056)
+
+#### 描述
+
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April.
+
+#### 提示词
+
+```text
+8/ Happy Horse (Alibaba) — the stealth assassin
+
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-to-video AND image-to-video blind tests. Then Alibaba revealed it was theirs. 
+✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
+```
+
+### No. 289: Happyhorse 1.1 Shows How Prompt Precision Drives Video
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Qonvergence
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/qonvergence_xyz/status/2074628897031778762)
+
+#### 描述
+
+happyhorse 1.1 shows how prompt precision drives video output.
+
+#### 提示词
+
+```text
+@alibaba_cloud happyhorse 1.1 shows how prompt precision drives video output. We see parallel gains when quantum-inspired ordering tightens transaction finality in our chain. Same substrate shift from classical limits.
+```
+
+### No. 290: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** k(k_the_Anything)
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/k_prs_fender/status/2074642156053311929)
+
+#### 描述
+
+Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！
+
+#### 提示词
+
+```text
+Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！
+これも小さな一歩かなと考えつつ、皆様と共に成長していけたらなと勝手に考えてます。
+今後もどうぞよろしくお願い致します。
+```
+
+### No. 291: A Professional Latin Dance Clip Created With Happyhorse
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Clipfly
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/ClipflyOfficial/status/2074657790094897377)
+
+#### 描述
+
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+#### 提示词
+
+```text
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+With Clipfly, just drop your photo and follow our step-by-step tutorial to create a professional dance video starring you.
+
+Try it on Clipfly!
+
+Step-by-step
+```
+
+### No. 292: A Professional Latin Dance Clip Created With Happyhorse
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Clipfly
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/ClipflyOfficial/status/2074657790094897377)
+
+#### 描述
+
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+#### 提示词
+
+```text
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+With Clipfly, just drop your photo and follow our step-by-step tutorial to create a professional dance video starring you.
+
+Try it on Clipfly!
+
+Step-by-step
+```
+
+### No. 293: A Professional Latin Dance Clip Created With Happyhorse
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Clipfly
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/ClipflyOfficial/status/2074657790094897377)
+
+#### 描述
+
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+#### 提示词
+
+```text
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+With Clipfly, just drop your photo and follow our step-by-step tutorial to create a professional dance video starring you.
+
+Try it on Clipfly!
+
+Step-by-step
+```
+
+### No. 294: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 295: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 296: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 297: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 298: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 299: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 300: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 301: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
+```
+
+### No. 302: 🏆 8Th Place At The Ai Film Festival
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074689062032593372.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074689062032593372)
+
+#### 描述
+
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+#### 提示词
+
+```text
+🏆 8th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Humanity is the Seed》 by Xavier F. A. Desurmont — a deeply moving visual poem that captures the very essence of creation. 
+
+This heartwarming masterpiece was 100% generated (both video and audio) with HappyHorse-1.0.
 ```
 
 <a id="category-2"></a>
@@ -23031,7 +23319,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-07T04:08:49.570Z
+> 此 README 为自动生成。 2026-07-08T04:01:08.587Z
 
 ## More Atlas Cloud Tools
 

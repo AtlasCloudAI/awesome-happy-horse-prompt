@@ -13527,5 +13527,39 @@
       "images": [],
       "video": "media/happy-horse/x_2074695104137224242.mp4"
     }
+  },
+  {
+    "id": "x_2075265569629388873",
+    "title": "優雅女性身著極簡服飾",
+    "description": "一個用於生成影片的提示：一位身著白色上衣與米色長褲的成熟年輕女性。",
+    "prompt": "Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4",
+    "author_name": "ᴍᴜʀᴘʜʏ",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/Diplomeme/status/2075265569629388873",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075265569629388873.mp4"
+    }
+  },
+  {
+    "id": "x_2075214979842879634",
+    "title": "崩塌大橋上的摩托車追逐",
+    "description": "一個電影風格的影片生成提示：一名騎士在崩塌的吊橋上疾馳，周遭碎片紛飛。",
+    "prompt": "A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075214979842879634.mp4",
+    "author_name": "Karen",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/Karen_Moroe/status/2075214979842879634",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075214979842879634.mp4"
+    }
   }
 ]

@@ -13527,5 +13527,39 @@
       "images": [],
       "video": "media/happy-horse/x_2074695104137224242.mp4"
     }
+  },
+  {
+    "id": "x_2075265569629388873",
+    "title": "ミニマルな装いのエレガントな女性",
+    "description": "白いトップスとベージュのパンツを着た洗練された若い女性のビデオ生成用プロンプト。",
+    "prompt": "Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4",
+    "author_name": "ᴍᴜʀᴘʜʏ",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/Diplomeme/status/2075265569629388873",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075265569629388873.mp4"
+    }
+  },
+  {
+    "id": "x_2075214979842879634",
+    "title": "崩落する橋でのバイクチェイス",
+    "description": "崩壊する吊り橋を飛散する瓦礫の中、ライダーが疾走する映画的なビデオプロンプト。",
+    "prompt": "A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075214979842879634.mp4",
+    "author_name": "Karen",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/Karen_Moroe/status/2075214979842879634",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075214979842879634.mp4"
+    }
   }
 ]

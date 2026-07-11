@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1123** |
+| 전체 프롬프트 | **1124** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **973** |
-| 마지막 업데이트 | **2026-07-10T04:42:34.360Z** |
+| 미리보기 비디오 | **974** |
+| 마지막 업데이트 | **2026-07-11T04:41:45.128Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9494,6 +9494,34 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: 업로드된 이미지에서 캐릭터 일관성 유지
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIReel
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### 설명
+
+참조 이미지에서 젊은 여성 주인공의 원래 외모와 태도를 엄격히 유지하며, 그녀가 유일한 주인공인 동영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23877,7 +23905,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-10T04:42:34.360Z
+> 이 README는 자동 생성됩니다. 2026-07-11T04:41:45.128Z
 
 ## More Atlas Cloud Tools
 

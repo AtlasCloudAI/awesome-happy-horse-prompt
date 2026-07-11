@@ -13561,5 +13561,22 @@
       "images": [],
       "video": "media/happy-horse/x_2075214979842879634.mp4"
     }
+  },
+  {
+    "id": "x_2075547835479540083",
+    "title": "Manter a Consistência do Personagem a partir de uma Imagem Enviada",
+    "description": "Um prompt para gerar um vídeo onde a única protagonista é uma jovem mulher, mantendo rigorosamente sua aparência e comportamento originais de uma imagem de referência.",
+    "prompt": "Character Setup (Maintaining IP Consistency)\nThe young woman from the uploaded image is the sole protagonist of the video.\nStrictly maintain:\nOriginal facial features\nHairstyle\nOutfit\nBody proportions\nCharacter demeanor/aura",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4",
+    "author_name": "AIReel",
+    "source_platform": "x",
+    "language": "pt-BR",
+    "source_link": "https://x.com/AIReelofficial/status/2075547835479540083",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075547835479540083.mp4"
+    }
   }
 ]

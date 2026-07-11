@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Eine kuratierte Sammlung von Happy Horse 1.0 Prompts aus dem AtlasCloud Prompt-Okosystem.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrik | Anzahl |
 |--------|-------|
-| Prompts Insgesamt | **1123** |
+| Prompts Insgesamt | **1124** |
 | Kategorien | **13** |
-| Vorschauvideos | **973** |
-| Zuletzt aktualisiert | **2026-07-10T04:42:34.475Z** |
+| Vorschauvideos | **974** |
+| Zuletzt aktualisiert | **2026-07-11T04:41:45.248Z** |
 
 ## 🏷️ Nach Kategorie durchsuchen
 
-- [`Twitter Community`](#category-1): **323**
+- [`Twitter Community`](#category-1): **324**
 - [`HappyHorse Kreativsammlung`](#category-2): **240**
 - [`Twitter-Community`](#category-3): **88**
 - [`Audio & Sprachsynthese`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (323)
+### Twitter Community (324)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7735,6 +7735,34 @@ Ein Prompt zur Erstellung eines Videos einer anspruchsvollen jungen Frau in eine
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 324: Konsistenz der Figur aus hochgeladenem Bild beibehalten
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** AIReel
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **Quelllink:** [Ansehen](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### Beschreibung
+
+Eine Eingabeaufforderung zur Erstellung eines Videos, in dem die einzige Protagonistin eine junge Frau ist, die streng ihr ursprüngliches Aussehen und Auftreten aus einem Referenzbild beibehält.
+
+#### Prompt
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23858,7 +23886,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-07-10T04:42:34.475Z
+> Diese README wird automatisch erzeugt. 2026-07-11T04:41:45.248Z
 
 ## More Atlas Cloud Tools
 

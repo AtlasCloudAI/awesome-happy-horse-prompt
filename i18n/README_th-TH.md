@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1123** |
+| พรอมต์ทั้งหมด | **1124** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **973** |
-| อัปเดตล่าสุด | **2026-07-10T04:42:34.382Z** |
+| วิดีโอตัวอย่าง | **974** |
+| อัปเดตล่าสุด | **2026-07-11T04:41:45.152Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9494,6 +9494,34 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: รักษาความสม่ำเสมอของตัวละครจากรูปภาพที่อัปโหลด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับการสร้างวิดีโอซึ่งมีตัวเอกเพียงคนเดียวคือหญิงสาว โดยต้องรักษารูปลักษณ์และท่าทางเดิมจากรูปอ้างอิงอย่างเคร่งครัด
+
+#### พรอมต์
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23797,7 +23825,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-10T04:42:34.382Z
+> README นี้สร้างอัตโนมัติ 2026-07-11T04:41:45.152Z
 
 ## More Atlas Cloud Tools
 

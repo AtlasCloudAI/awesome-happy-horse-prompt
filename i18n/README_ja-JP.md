@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1123** |
+| 総プロンプト数 | **1124** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **973** |
-| 最終更新 | **2026-07-10T04:42:34.340Z** |
+| プレビュー動画数 | **974** |
+| 最終更新 | **2026-07-11T04:41:45.108Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9494,6 +9494,34 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: アップロード画像からのキャラクター一貫性の維持
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** AIReel
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### 説明
+
+参照画像から、若い女性という唯一の主人公の元の外見と振る舞いを厳密に維持したままビデオを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23877,7 +23905,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-10T04:42:34.340Z
+> この README は自動生成です。 2026-07-11T04:41:45.108Z
 
 ## More Atlas Cloud Tools
 

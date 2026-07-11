@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1123** |
+| 提示词总数 | **1124** |
 | 分类数 | **13** |
-| 预览视频数 | **973** |
-| 最后更新 | **2026-07-10T04:42:34.298Z** |
+| 预览视频数 | **974** |
+| 最后更新 | **2026-07-11T04:41:45.066Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **323**
+- [`Twitter Community`](#category-1): **324**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (323)
+### Twitter Community (324)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7735,6 +7735,34 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 324: 保持上传图像中角色的一致性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### 描述
+
+一个用于生成视频的提示，其中唯一主角是一位年轻女性，严格保持她在参考图像中的原始外貌和举止。
+
+#### 提示词
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23802,7 +23830,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-10T04:42:34.298Z
+> 此 README 为自动生成。 2026-07-11T04:41:45.066Z
 
 ## More Atlas Cloud Tools
 

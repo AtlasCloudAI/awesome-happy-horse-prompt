@@ -13561,5 +13561,22 @@
       "images": [],
       "video": "media/happy-horse/x_2075214979842879634.mp4"
     }
+  },
+  {
+    "id": "x_2075547835479540083",
+    "title": "保持上传图像中角色的一致性",
+    "description": "一个用于生成视频的提示，其中唯一主角是一位年轻女性，严格保持她在参考图像中的原始外貌和举止。",
+    "prompt": "Character Setup (Maintaining IP Consistency)\nThe young woman from the uploaded image is the sole protagonist of the video.\nStrictly maintain:\nOriginal facial features\nHairstyle\nOutfit\nBody proportions\nCharacter demeanor/aura",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4",
+    "author_name": "AIReel",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/AIReelofficial/status/2075547835479540083",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075547835479540083.mp4"
+    }
   }
 ]

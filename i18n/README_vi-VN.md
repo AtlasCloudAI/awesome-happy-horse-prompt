@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1123** |
+| Tong so Prompt | **1124** |
 | So danh muc | **12** |
-| Video xem truoc | **973** |
-| Cap nhat lan cuoi | **2026-07-10T04:42:34.401Z** |
+| Video xem truoc | **974** |
+| Cap nhat lan cuoi | **2026-07-11T04:41:45.173Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9494,6 +9494,34 @@ Một gợi ý để tạo video về một phụ nữ trẻ tinh tế trong áo
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: Duy Trì Tính Nhất Quán Nhân Vật Từ Hình Ảnh Tải Lên
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AIReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### Mo ta
+
+Một gợi ý để tạo video trong đó nhân vật chính duy nhất là một phụ nữ trẻ, nghiêm ngặt duy trì ngoại hình và thần thái nguyên bản của cô ấy từ một hình ảnh tham chiếu.
+
+#### Prompt
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23797,7 +23825,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-10T04:42:34.401Z
+> README nay duoc tao tu dong. 2026-07-11T04:41:45.173Z
 
 ## More Atlas Cloud Tools
 

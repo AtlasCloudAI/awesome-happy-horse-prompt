@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1123** |
+| Toplam Prompt | **1124** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **973** |
-| Son Guncelleme | **2026-07-10T04:42:34.570Z** |
+| Onizleme Videolari | **974** |
+| Son Guncelleme | **2026-07-11T04:41:45.371Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **323**
+- [`Twitter Community`](#category-1): **324**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (323)
+### Twitter Community (324)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7735,6 +7735,34 @@ Beyaz üst ve bej pantolon giymiş sofistike genç bir kadının videosunu oluş
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 324: Yüklenen Görselden Karakter Tutarlılığını Koruma
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AIReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### Aciklama
+
+Referans görselindeki orijinal görünümünü ve tavrını kesinlikle koruyan, tek başrol olan genç bir kadının yer aldığı bir video oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23802,7 +23830,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-10T04:42:34.570Z
+> Bu README otomatik uretilmistir. 2026-07-11T04:41:45.371Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1123** |
+| Kul Prompts | **1124** |
 | Categories | **12** |
-| Preview Videos | **973** |
-| Aakhri Update | **2026-07-10T04:42:34.421Z** |
+| Preview Videos | **974** |
+| Aakhri Update | **2026-07-11T04:41:45.193Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9494,6 +9494,34 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: अपलोड की गई छवि से चरित्र की स्थिरता बनाए रखें
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AIReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### Varnan
+
+एक वीडियो बनाने के लिए एक प्रॉम्प्ट जिसमें एकमात्र नायिका एक युवा महिला है, जो एक संदर्भ छवि से उसकी मूल उपस्थिति और व्यवहार को सख्ती से बनाए रखती है।
+
+#### Prompt
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23797,7 +23825,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-10T04:42:34.421Z
+> Yeh README auto-generated hai. 2026-07-11T04:41:45.193Z
 
 ## More Atlas Cloud Tools
 

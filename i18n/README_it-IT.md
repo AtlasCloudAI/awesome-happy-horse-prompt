@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1123%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una raccolta curata di prompt Happy Horse 1.0 provenienti dall'ecosistema di prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt Totali | **1123** |
+| Prompt Totali | **1124** |
 | Categorie | **12** |
-| Video di Anteprima | **973** |
-| Ultimo Aggiornamento | **2026-07-10T04:42:34.510Z** |
+| Video di Anteprima | **974** |
+| Ultimo Aggiornamento | **2026-07-11T04:41:45.285Z** |
 
 ## 🏷️ Sfoglia per Categoria
 
-- [`Twitter Community`](#category-1): **411**
+- [`Twitter Community`](#category-1): **412**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (411)
+### Twitter Community (412)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9494,6 +9494,34 @@ Una prompt per generare un video di una giovane donna sofisticata in una magliet
 
 ```text
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
+```
+
+### No. 412: Mantenere la Coerenza del Personaggio da un'Immagine Caricata
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** AIReel
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/AIReelofficial/status/2075547835479540083)
+
+#### Descrizione
+
+Un prompt per generare un video in cui l'unica protagonista è una giovane donna, che mantiene rigorosamente il suo aspetto e il suo atteggiamento originali da un'immagine di riferimento.
+
+#### Prompt
+
+```text
+Character Setup (Maintaining IP Consistency)
+The young woman from the uploaded image is the sole protagonist of the video.
+Strictly maintain:
+Original facial features
+Hairstyle
+Outfit
+Body proportions
+Character demeanor/aura
 ```
 
 <a id="category-2"></a>
@@ -23797,7 +23825,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-07-10T04:42:34.510Z
+> Questo README e generato automaticamente. 2026-07-11T04:41:45.285Z
 
 ## More Atlas Cloud Tools
 

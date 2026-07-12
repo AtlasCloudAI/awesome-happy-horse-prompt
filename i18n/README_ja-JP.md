@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1124%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1126%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1124** |
+| 総プロンプト数 | **1126** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **974** |
-| 最終更新 | **2026-07-11T04:41:45.108Z** |
+| プレビュー動画数 | **976** |
+| 最終更新 | **2026-07-12T04:49:15.221Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **412**
+- [`Twitter Community`](#category-1): **414**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (412)
+### Twitter Community (414)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -6624,37 +6624,7 @@ i edited the prompt a bit
 ai: happy horse left  vs grok on the right
 ```
 
-### No. 291: Created With Happyhorse-1.1 On Prompt : Title: The
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Hannah Ai
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2073391188036792804.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073391188036792804.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/nusratsid1/status/2073391188036792804)
-
-#### 説明
-
-Created with happyhorse-1.1 on 
-Prompt :
-
-Title: The First Day at the Gym
-
-Scene 1 (0–5s):
-A modern gym.
-
-#### プロンプト
-
-```text
-Title: The First Day at the Gym
-
-Scene 1 (0–5s):
-A modern gym. A young beginner confidently walks to a barbell and loads every weight plate available onto both sides. Nearby gym-goers glance at each other, trying not to laugh. https://t.co/1pSOs5QGmq
-```
-
-### No. 292: I Have Been Using Happy Horse Ai Lately
+### No. 291: I Have Been Using Happy Horse Ai Lately
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -6670,6 +6640,34 @@ I have been using Happy Horse AI lately and it is worth trying.
 
 ```text
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
+```
+
+### No. 292: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** RMNA
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/RMNA67704204/status/2073440133181788502)
+
+#### 説明
+
+The powerhouse lineup on 𝐉𝐮𝐧𝐞 just keeps getting stronger!
+
+#### プロンプト
+
+```text
+The powerhouse lineup on 𝐉𝐮𝐧𝐞 just keeps getting stronger!
+
+🔵 The latest:
+
+📄 Chat: Claude Fable 5, Minimax M3, and Kimi K2.7
+🎨 Image: HiDream O1 
+🎬 Video: Kling Motion &amp; Happy Horse 1.1
+
+Privacy-focused. Multi-model. 🛡️ @askjuneai 
+
+Try now at  🌐
 ```
 
 ### No. 293: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
@@ -6700,32 +6698,22 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 294: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 294: The Reason Most Ai-Generated Stories Fail Is That
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** RMNA
+- **作者:** Adel Bucetta
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/RMNA67704204/status/2073440133181788502)
+- **元リンク:** [表示](https://x.com/adelbucetta/status/2073478385792078052)
 
 #### 説明
 
-The powerhouse lineup on 𝐉𝐮𝐧𝐞 just keeps getting stronger!
+the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue.
 
 #### プロンプト
 
 ```text
-The powerhouse lineup on 𝐉𝐮𝐧𝐞 just keeps getting stronger!
-
-🔵 The latest:
-
-📄 Chat: Claude Fable 5, Minimax M3, and Kimi K2.7
-🎨 Image: HiDream O1 
-🎬 Video: Kling Motion &amp; Happy Horse 1.1
-
-Privacy-focused. Multi-model. 🛡️ @askjuneai 
-
-Try now at  🌐
+@nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
 ### No. 295: The Reason Most Ai-Generated Stories Fail Is That
@@ -6746,25 +6734,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 296: The Reason Most Ai-Generated Stories Fail Is That
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Adel Bucetta
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/adelbucetta/status/2073478385792078052)
-
-#### 説明
-
-the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue.
-
-#### プロンプト
-
-```text
-@nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
-```
-
-### No. 297: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 296: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -6790,6 +6760,30 @@ AICUマガジンVol25ペーパーバック版はこちらから
 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「BitSummit PUNCH」とAICU国際ゲーム開発事業部が採択された「Supercell AI Innovation Lab」を密着取材。
 
 OpenAI Codex / Unity AI
+```
+
+### No. 297: Your Window To Lock In 50% Off Is
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Creative Fabrica
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### 説明
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### プロンプト
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
 ```
 
 ### No. 298: Your Window To Lock In 50% Off Is
@@ -6984,28 +6978,24 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 306: Your Window To Lock In 50% Off Is
+### No. 306: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** Creative Fabrica
+- **作者:** Reena Tech & Tool
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/cfabricacom/status/2073669229019107791)
+- **元リンク:** [表示](https://x.com/reizzlla/status/2073752236203941953)
 
 #### 説明
 
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
+50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
 
 #### プロンプト
 
 ```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
+@cfabricacom 50% off HappyHorse 1.1 is huge 
+Perfect time to scale video production and test more ideas
 ```
 
 ### No. 307: 50% Off Happyhorse 1.1 Is Huge Perfect Time
@@ -7028,27 +7018,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 308: 50% Off Happyhorse 1.1 Is Huge Perfect Time
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Reena Tech & Tool
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/reizzlla/status/2073752236203941953)
-
-#### 説明
-
-50% off HappyHorse 1.1 is huge 
-Perfect time to scale video production and test more ideas
-
-#### プロンプト
-
-```text
-@cfabricacom 50% off HappyHorse 1.1 is huge 
-Perfect time to scale video production and test more ideas
-```
-
-### No. 309: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+### No. 308: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7066,7 +7036,7 @@ Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and 
 Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
 ```
 
-### No. 310: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+### No. 309: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7090,6 +7060,30 @@ Kuaishou's Kling AI just raised $2.8B from Alibaba &amp; Tencent, valued at $15B
 Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generation forward.
 
 The video AI race is the next frontier.
+```
+
+### No. 310: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Lara
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/Lara_Gssy/status/2073937473269584075)
+
+#### 説明
+
+Which Stairway Would You Choose?
+
+#### プロンプト
+
+```text
+Which Stairway Would You Choose? 🌸🧇🍫🧊
+Created with HappyHorse 1.0 on Pollo AI.
+#polloai #AIVideo #AIGC #Surreal #Fantasy #DreamWorld #Stairs 
+@itsPolloAI @polloai_creator
 ```
 
 ### No. 311: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
@@ -7116,31 +7110,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 312: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Lara
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073937473269584075.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/Lara_Gssy/status/2073937473269584075)
-
-#### 説明
-
-Which Stairway Would You Choose?
-
-#### プロンプト
-
-```text
-Which Stairway Would You Choose? 🌸🧇🍫🧊
-Created with HappyHorse 1.0 on Pollo AI.
-#polloai #AIVideo #AIGC #Surreal #Fantasy #DreamWorld #Stairs 
-@itsPolloAI @polloai_creator
-```
-
-### No. 313: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+### No. 312: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7158,7 +7128,7 @@ Kuaishou's video generation model Kling AI (可灵) has completed a $3B external
 Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
 ```
 
-### No. 314: Made This Short Clip With Happyhorse 1.1 On
+### No. 313: Made This Short Clip With Happyhorse 1.1 On
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7184,7 +7154,7 @@ Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, ener
 Location : Riverside cycling path in Seoul during a breezy afternoon. River view, https://t.co/HhrKm2ab4Y https://t.co/NqatGYxXdF
 ```
 
-### No. 315: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
+### No. 314: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7201,6 +7171,31 @@ Location : Riverside cycling path in Seoul during a breezy afternoon. River view
 ```text
 据36氪报道，Seedance2.0单月收入超过10亿元，日均token消耗量仍在以约40%的月环比增长。"AI普瑞斯”的统计称，按日均算力消耗占比测算， Seedance已占据中国AI视频市场超过80%的份额，可灵约14%，万相约4%， HappyHorse 不足1%。   
 怪不得快乐马 5 折都卖不动，原来是本来就没人用。
+```
+
+### No. 315: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Maverick | AI
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/RizwanAly07/status/2074081501403316684)
+
+#### 説明
+
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
+
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose pony
+
+#### プロンプト
+
+```text
+Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
+
+Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
 ### No. 316: Happyhorse 1.1 Is Here: Bigger Better, And Faster
@@ -7253,32 +7248,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 318: Happyhorse 1.1 Is Here: Bigger Better, And Faster
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Maverick | AI
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074081501403316684.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/RizwanAly07/status/2074081501403316684)
-
-#### 説明
-
-Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
-
-Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose pony
-
-#### プロンプト
-
-```text
-Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
-
-Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
-```
-
-### No. 319: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
+### No. 318: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7298,7 +7268,7 @@ Hollywood studios publicly demanded ByteDance halt its AI video tool after a fak
 The Motion Picture Association condemned the viral 15-second clip of Brad Pitt and Tom
 ```
 
-### No. 320: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
+### No. 319: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7317,7 +7287,7 @@ The Motion Picture Association condemned the viral 15-second clip of Brad Pitt a
 話題の動画生成AI HappyHorseまだ試せていない方は一緒に試そう！！
 ```
 
-### No. 321: How I Built This In Happyhorse 1.1 —
+### No. 320: How I Built This In Happyhorse 1.1 —
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7337,6 +7307,30 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 
 4 modes, 1 clear rule: Text builds from scratch. First Frame locks the starting frame. Reference Mode uses images as creative guidance. Video Editing modifies an existing clip.
+```
+
+### No. 321: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Ryo Yoshiike 吉池諒
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### 説明
+
+はじめまして！
+
+#### プロンプト
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
 ```
 
 ### No. 322: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
@@ -7675,31 +7669,7 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 ぜひ下記Lumaからご確認ください✨️
 ```
 
-### No. 336: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Ryo Yoshiike 吉池諒
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### 説明
-
-はじめまして！
-
-#### プロンプト
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 337: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
+### No. 336: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7722,7 +7692,7 @@ Vytvořte profi videoreklamu dřív, než dopijete kávu! ☕ Nové workflow Hap
 Reálné ukázky a prompty najdete v novém článku:
 ```
 
-### No. 338: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
+### No. 337: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7751,7 +7721,7 @@ SeedAudio1.0で下記のセリフを作成
 「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
 ```
 
-### No. 339: Two Models The Industry Is Completely Sleeping On
+### No. 338: Two Models The Industry Is Completely Sleeping On
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7775,7 +7745,7 @@ Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs. ~$
 HappyHorse-1.0 — current #1 overall benchmark. 7-language lip-sync. API only via fal. ai
 ```
 
-### No. 340: 🐎 Happy Horse 1.0 Is Now 30% Off
+### No. 339: 🐎 Happy Horse 1.0 Is Now 30% Off
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7799,7 +7769,7 @@ Try it in your next music video. 🎬
 #Cremi #HappyHorse10
 ```
 
-### No. 341: Most Text-To-Video Gives You One Continuous Take, And
+### No. 340: Most Text-To-Video Gives You One Continuous Take, And
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7824,7 +7794,7 @@ HappyHorse 1.1 reads the cuts from the prompt. Write "Begin with... Cut to... En
 Same baker, same eight seconds. Left is a
 ```
 
-### No. 342: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
+### No. 341: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7847,7 +7817,7 @@ Stardust &amp; The Dreamer
 AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld - #horseinspodump #happyhorse #HorsepowerAICinema, @HappyHorseATH , @happyhorseai
 ```
 
-### No. 343: 🚀 Product Update 1.61 Is Live On Cabina
+### No. 342: 🚀 Product Update 1.61 Is Live On Cabina
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -7875,6 +7845,30 @@ Discover new platform features and the latest AI models - all in one place.
 • Cabina Skills + Brainstorm 3x – reusable AI workflows &amp;
 ```
 
+### No. 343: This Is The Last Normal Walk She Takes
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alper
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/xtunc29/status/2074214189862633527)
+
+#### 説明
+
+This is the last normal walk she takes down this spanish street.
+
+#### プロンプト
+
+```text
+This is the last normal walk she takes down this spanish street.
+#HappyHorse 1.1 @HappyHorseATH 
+Would you keep walking into the unknown? 
+#HorsepowerAICinema #spain #ai
+```
+
 ### No. 344: This Is The Last Normal Walk She Takes
 
 - **カテゴリ:** `Twitter Community`
@@ -7899,28 +7893,30 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 345: This Is The Last Normal Walk She Takes
+### No. 345: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** Alper
+- **作者:** WittyWires.Com
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074214189862633527.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/xtunc29/status/2074214189862633527)
+- **元リンク:** [表示](https://x.com/WittyWiresAI/status/2074216696378745195)
 
 #### 説明
 
-This is the last normal walk she takes down this spanish street.
+Then we tested Alibaba’s Happy Horse 1.0.
 
 #### プロンプト
 
 ```text
-This is the last normal walk she takes down this spanish street.
-#HappyHorse 1.1 @HappyHorseATH 
-Would you keep walking into the unknown? 
-#HorsepowerAICinema #spain #ai
+Then we tested Alibaba’s Happy Horse 1.0.
+
+This was the next model on our shortlist.
+
+Good news: Happy Horse also has a proper ref-to-video endpoint.
+
+Even better: the docs explicitly say 1–9 image refs, using character1, character2, etc.
+
+Exactly the kind of thing we wanted.
 ```
 
 ### No. 346: Then We Tested Alibaba’S Happy Horse 1.0. This
@@ -7975,30 +7971,24 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 348: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 348: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** WittyWires.Com
+- **作者:** ALlbabaGroup
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/WittyWiresAI/status/2074216696378745195)
+- **元リンク:** [表示](https://x.com/ALlbabaGroup/status/2074244556145504691)
 
 #### 説明
 
-Then we tested Alibaba’s Happy Horse 1.0.
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators.
 
 #### プロンプト
 
 ```text
-Then we tested Alibaba’s Happy Horse 1.0.
+Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators. 
 
-This was the next model on our shortlist.
-
-Good news: Happy Horse also has a proper ref-to-video endpoint.
-
-Even better: the docs explicitly say 1–9 image refs, using character1, character2, etc.
-
-Exactly the kind of thing we wanted.
+Now with improved instruction following for better user input understanding!
 ```
 
 ### No. 349: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
@@ -8021,27 +8011,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 350: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** ALlbabaGroup
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/ALlbabaGroup/status/2074244556145504691)
-
-#### 説明
-
-Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators.
-
-#### プロンプト
-
-```text
-Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed to boost creative quality, controllability, and efficiency for pro content creators. 
-
-Now with improved instruction following for better user input understanding!
-```
-
-### No. 351: Happy Horse 1.1 Is Available On Turn Simple
+### No. 350: Happy Horse 1.1 Is Available On Turn Simple
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8065,7 +8035,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #JuneAI #AIModel #AI
 ```
 
-### No. 352: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
+### No. 351: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8099,7 +8069,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #ゲーム開発 現場のニーズに直結する
 ```
 
-### No. 353: If You’Re Building With Ai Right Now, Chances
+### No. 352: If You’Re Building With Ai Right Now, Chances
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8120,6 +8090,35 @@ If you’re building with AI right now, chances are you’re using more than one
 If you’re building with AI right now, chances are you’re using more than one model.
 
 Maybe GPT for one task, Claude for another, Gemini for research, or a video/image model for creative workflows. The problem is that managing separate API keys, billing dashboards, and
+```
+
+### No. 353: Everyone Thinks The Watch Is The Mystery... It
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** 𝗰𝗿𝘆𝗽𝘁𝗼__𝘀𝗮𝗺 📑✍️🌹
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/ogbenniasamuel2/status/2074523063907975494)
+
+#### 説明
+
+Everyone thinks the watch is the mystery...
+
+#### プロンプト
+
+```text
+Everyone thinks the watch is the mystery...
+
+it isn't.
+
+the real mystery is who left it there.
+
+here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-paint film created with @HappyHorseATH  1.1.
+
+every camera move, every environment, every sound was
 ```
 
 ### No. 354: Everyone Thinks The Watch Is The Mystery... It
@@ -8151,36 +8150,7 @@ here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-pa
 every camera move, every environment, every sound was
 ```
 
-### No. 355: Everyone Thinks The Watch Is The Mystery... It
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** 𝗰𝗿𝘆𝗽𝘁𝗼__𝘀𝗮𝗺 📑✍️🌹
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074523063907975494.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/ogbenniasamuel2/status/2074523063907975494)
-
-#### 説明
-
-Everyone thinks the watch is the mystery...
-
-#### プロンプト
-
-```text
-Everyone thinks the watch is the mystery...
-
-it isn't.
-
-the real mystery is who left it there.
-
-here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-paint film created with @HappyHorseATH  1.1.
-
-every camera move, every environment, every sound was
-```
-
-### No. 356: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
+### No. 355: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8199,6 +8169,30 @@ HappyHorse 1.1 is wild for reference-heavy video ideas.
 
 ```text
 HappyHorse 1.1 is wild for reference-heavy video ideas. You can feed up to 9 images on getimg
+```
+
+### No. 356: Meta Muse Video Just Entered The Video Arena
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Arena.ai
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/arena/status/2074591193783320851)
+
+#### 説明
+
+Meta Muse Video just entered the Video Arena at 
+
+ new video model scored 1459 in the Text-to-Video Arena.
+
+#### プロンプト
+
+```text
+Meta Muse Video just entered the Video Arena at #3.
+
+@AIatMeta’s new video model scored 1459 in the Text-to-Video Arena. It outperforms Alibaba’s HappyHorse 1.0 by +30pts and ranks ahead of Grok Imagine, Sora 2 Pro and Google Veo-3.1 models.
+
+Meta has now reached the video AI
 ```
 
 ### No. 357: Meta Muse Video Just Entered The Video Arena
@@ -8249,28 +8243,27 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 359: Meta Muse Video Just Entered The Video Arena
+### No. 359: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** Arena.ai
+- **作者:** Alec Lindsay
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/arena/status/2074591193783320851)
+- **元リンク:** [表示](https://x.com/alindsay77/status/2074625526212514056)
 
 #### 説明
 
-Meta Muse Video just entered the Video Arena at 
+8/ Happy Horse (Alibaba) — the stealth assassin
 
- new video model scored 1459 in the Text-to-Video Arena.
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April.
 
 #### プロンプト
 
 ```text
-Meta Muse Video just entered the Video Arena at #3.
+8/ Happy Horse (Alibaba) — the stealth assassin
 
-@AIatMeta’s new video model scored 1459 in the Text-to-Video Arena. It outperforms Alibaba’s HappyHorse 1.0 by +30pts and ranks ahead of Grok Imagine, Sora 2 Pro and Google Veo-3.1 models.
-
-Meta has now reached the video AI
+Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-to-video AND image-to-video blind tests. Then Alibaba revealed it was theirs. 
+✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
 ### No. 360: 8/ Happy Horse (Alibaba) — The Stealth Assassin
@@ -8319,30 +8312,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 362: 8/ Happy Horse (Alibaba) — The Stealth Assassin
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alec Lindsay
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/alindsay77/status/2074625526212514056)
-
-#### 説明
-
-8/ Happy Horse (Alibaba) — the stealth assassin
-
-Appeared ANONYMOUSLY on the Artificial Analysis Arena in April.
-
-#### プロンプト
-
-```text
-8/ Happy Horse (Alibaba) — the stealth assassin
-
-Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-to-video AND image-to-video blind tests. Then Alibaba revealed it was theirs. 
-✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
-```
-
-### No. 363: Happyhorse 1.1 Shows How Prompt Precision Drives Video
+### No. 362: Happyhorse 1.1 Shows How Prompt Precision Drives Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8360,7 +8330,7 @@ happyhorse 1.1 shows how prompt precision drives video output.
 @alibaba_cloud happyhorse 1.1 shows how prompt precision drives video output. We see parallel gains when quantum-inspired ordering tightens transaction finality in our chain. Same substrate shift from classical limits.
 ```
 
-### No. 364: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
+### No. 363: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8378,6 +8348,33 @@ Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コ
 Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！
 これも小さな一歩かなと考えつつ、皆様と共に成長していけたらなと勝手に考えてます。
 今後もどうぞよろしくお願い致します。
+```
+
+### No. 364: A Professional Latin Dance Clip Created With Happyhorse
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Clipfly
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/ClipflyOfficial/status/2074657790094897377)
+
+#### 説明
+
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+#### プロンプト
+
+```text
+A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+
+With Clipfly, just drop your photo and follow our step-by-step tutorial to create a professional dance video starring you.
+
+Try it on Clipfly!
+
+Step-by-step
 ```
 
 ### No. 365: A Professional Latin Dance Clip Created With Happyhorse
@@ -8434,31 +8431,27 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 367: A Professional Latin Dance Clip Created With Happyhorse
+### No. 367: 9Th Place At The Ai Film Festival Monaco
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
-- **作者:** Clipfly
+- **作者:** Alibaba Cloud
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074657790094897377.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/ClipflyOfficial/status/2074657790094897377)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
 
 #### 説明
 
-A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+9th Place at the AI Film Festival Monaco Hackathon!
 
 #### プロンプト
 
 ```text
-A professional Latin dance clip created with HappyHorse 1.1 — featuring smooth motion and expressive performances.
+9th Place at the AI Film Festival Monaco Hackathon!
 
-With Clipfly, just drop your photo and follow our step-by-step tutorial to create a professional dance video starring you.
-
-Try it on Clipfly!
-
-Step-by-step
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
 ```
 
 ### No. 368: 9Th Place At The Ai Film Festival Monaco
@@ -8714,30 +8707,7 @@ Step-by-step
 🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
 ```
 
-### No. 379: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 380: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 379: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8753,6 +8723,36 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 
 ```text
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
+```
+
+### No. 380: Title: "The Promise Above The Clouds " Created
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Luca Ai
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074741048409223341.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074741048409223341.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/lucas_yuoo/status/2074741048409223341)
+
+#### 説明
+
+Title: "The Promise Above the Clouds "
+
+Created with HappyHorse 1.1 on  
+
+Prompt:
+Duration: 15 Seconds
+
+Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens 
+
+#### プロンプト
+
+```text
+Duration: 15 Seconds
+
+Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
 ### No. 381: Title: "The Promise Above The Clouds " Created
@@ -8785,37 +8785,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 382: Title: "The Promise Above The Clouds " Created
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Luca Ai
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074741048409223341.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074741048409223341.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/lucas_yuoo/status/2074741048409223341)
-
-#### 説明
-
-Title: "The Promise Above the Clouds "
-
-Created with HappyHorse 1.1 on  
-
-Prompt:
-Duration: 15 Seconds
-
-Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens 
-
-#### プロンプト
-
-```text
-Duration: 15 Seconds
-
-Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
-```
-
-### No. 383: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 382: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8833,7 +8803,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 384: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 383: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8868,7 +8838,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 385: The Infrastructure Behind This Is The Real Story
+### No. 384: The Infrastructure Behind This Is The Real Story
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8884,6 +8854,35 @@ The infrastructure behind this is the real story.
 
 ```text
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
+```
+
+### No. 385: Neon District Created With Happy Horse 1.1 Prompt
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2074841071776043384)
+
+#### 説明
+
+Neon District created with Happy Horse 1.1  
+
+Prompt 👇 
+Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
+
+#### プロンプト
+
+```text
+Neon District created with Happy Horse 1.1 @HappyHorseATH 
+
+Prompt 👇 
+Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
+Subject: Female idol, oversized tech wear jacket over holographic bodysuit.
+[0:00-0:03]
 ```
 
 ### No. 386: Neon District Created With Happy Horse 1.1 Prompt
@@ -8915,36 +8914,7 @@ Subject: Female idol, oversized tech wear jacket over holographic bodysuit.
 [0:00-0:03]
 ```
 
-### No. 387: Neon District Created With Happy Horse 1.1 Prompt
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2074841071776043384)
-
-#### 説明
-
-Neon District created with Happy Horse 1.1  
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-
-#### プロンプト
-
-```text
-Neon District created with Happy Horse 1.1 @HappyHorseATH 
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-Subject: Female idol, oversized tech wear jacket over holographic bodysuit.
-[0:00-0:03]
-```
-
-### No. 388: Meta Just Crashed Into The Video Ai Rankings
+### No. 387: Meta Just Crashed Into The Video Ai Rankings
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8965,6 +8935,29 @@ Meta Muse Video @AIatMeta just landed at #3 in the Text-to-Video @arena with a 1
 It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro, Grok Imagine and Google Veo-3.1.
 
 But the real question is
+```
+
+### No. 388: Have You Heard That Ufo Have Been Spotted
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** HappyHorse
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### 説明
+
+Have you heard that UFO have been spotted again recently?
+
+#### プロンプト
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
 ```
 
 ### No. 389: Have You Heard That Ufo Have Been Spotted
@@ -9197,30 +9190,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 399: Have You Heard That Ufo Have Been Spotted
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** HappyHorse
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### 説明
-
-Have you heard that UFO have been spotted again recently?
-
-#### プロンプト
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 400: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 399: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9238,7 +9208,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 401: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 400: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9256,7 +9226,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 402: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 401: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9277,7 +9247,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 403: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 402: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9300,7 +9270,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 404: 色々アレっぽくなった😅
+### No. 403: 色々アレっぽくなった😅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9323,7 +9293,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 405: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 404: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9343,7 +9313,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 406: Models Available On (Byok Friendly) Video Models Gemini
+### No. 405: Models Available On (Byok Friendly) Video Models Gemini
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9385,7 +9355,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 407: What Model Will You Choose For Ai Video
+### No. 406: What Model Will You Choose For Ai Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9412,7 +9382,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 408: 崩落する橋でのバイクチェイス
+### No. 407: 崩落する橋でのバイクチェイス
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9431,6 +9401,27 @@ Comment down your answers
 
 ```text
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
+```
+
+### No. 408: ミニマルな装いのエレガントな女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ᴍᴜʀᴘʜʏ
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/Diplomeme/status/2075265569629388873)
+
+#### 説明
+
+白いトップスとベージュのパンツを着た洗練された若い女性のビデオ生成用プロンプト。
+
+#### プロンプト
+
+```text
+Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
 ### No. 409: ミニマルな装いのエレガントな女性
@@ -9475,28 +9466,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 411: ミニマルな装いのエレガントな女性
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** ᴍᴜʀᴘʜʏ
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 説明
-
-白いトップスとベージュのパンツを着た洗練された若い女性のビデオ生成用プロンプト。
-
-#### プロンプト
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 412: アップロード画像からのキャラクター一貫性の維持
+### No. 411: アップロード画像からのキャラクター一貫性の維持
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9522,6 +9492,70 @@ Hairstyle
 Outfit
 Body proportions
 Character demeanor/aura
+```
+
+### No. 412: 参照動画の撮影技法とリズムを再現
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Leaf Yeah!
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075866625731866658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075866625731866658.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/leaf_sanren/status/2075866625731866658)
+
+#### 説明
+
+参照動画の撮影技法、ショットの種類、背景音楽、リズムを再現する指示プロンプト。
+
+#### プロンプト
+
+```text
+1. 画面与运镜对标：
+(a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 413: 隠された峡谷をカヤックで進む
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hannah Ai
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### 説明
+
+一人のカヤッカーが狭い砂岩の峡谷を進む、超リアルな光景。
+
+#### プロンプト
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
+```
+
+### No. 414: 隠された峡谷をカヤックで進む
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Hannah Ai
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### 説明
+
+一人のカヤッカーが狭い砂岩の峡谷を進む、超リアルな光景。
+
+#### プロンプト
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 <a id="category-2"></a>
@@ -23905,7 +23939,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-11T04:41:45.108Z
+> この README は自動生成です。 2026-07-12T04:49:15.221Z
 
 ## More Atlas Cloud Tools
 

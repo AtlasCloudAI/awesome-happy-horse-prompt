@@ -13578,5 +13578,39 @@
       "images": [],
       "video": "media/happy-horse/x_2075547835479540083.mp4"
     }
+  },
+  {
+    "id": "x_2075932474794807658",
+    "title": "划獨木舟穿越隱蔽峽谷",
+    "description": "一幅超寫實場景，描繪一名獨木舟划手正穿行於狹窄的砂岩峽谷中。",
+    "prompt": "A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4",
+    "author_name": "Hannah Ai",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/nusratsid1/status/2075932474794807658",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075932474794807658.mp4"
+    }
+  },
+  {
+    "id": "x_2075866625731866658",
+    "title": "複製影片的電影攝影與節奏",
+    "description": "一個指示，要求複製參考影片的電影攝影手法、鏡頭類型、背景音樂及其節奏。",
+    "prompt": "1. 画面与运镜对标：\n(a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2075866625731866658.mp4",
+    "author_name": "Leaf Yeah!",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/leaf_sanren/status/2075866625731866658",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2075866625731866658.mp4"
+    }
   }
 ]

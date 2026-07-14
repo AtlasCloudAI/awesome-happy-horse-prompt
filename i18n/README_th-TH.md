@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1126%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1126** |
+| พรอมต์ทั้งหมด | **1133** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **976** |
-| อัปเดตล่าสุด | **2026-07-13T04:03:22.363Z** |
+| วิดีโอตัวอย่าง | **982** |
+| อัปเดตล่าสุด | **2026-07-14T06:13:32.906Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **414**
+- [`Twitter Community`](#category-1): **421**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (414)
+### Twitter Community (421)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -5809,139 +5809,7 @@ Try it now:
 動画生成AIはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて破綻少ないの生成できて驚き(編集無しの10秒ポン出し) #happyhorse @HappyHorseATH #猫 #卓球 #tabletennis #ai動画
 ```
 
-### No. 258: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 259: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 260: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 261: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 262: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 263: Here Is The Original Character Design Sheet For
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2072606305534029847)
-
-#### คำอธิบาย
-
-Here is the original character design sheet for Captain Gulliver.
-
-#### พรอมต์
-
-```text
-Here is the original character design sheet for Captain Gulliver. 📋🎨
-
-By using this reference, Happy Horse 1.1 ensures that every pose, accessory, and facial expression translates accurately into the final video.
-
-#happyhorse #CharacterDesign #AIArt #GenerativeAI
-```
-
-### No. 264: Created This Video Using Happyhorse 1.1 Model. Prompt
+### No. 258: Created This Video Using Happyhorse 1.1 Model. Prompt
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -5962,7 +5830,7 @@ Created this video using  HappyHorse 1.1 model.
 Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old female influencer making breakfast in a bright, modern apartment kitchen during golden morning light. Keep the same character https://t.co/eDNaCNd53t
 ```
 
-### No. 265: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
+### No. 259: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -5982,7 +5850,7 @@ Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old fem
 分拆融资背后是算力成本重压与巨头资金鸿沟。2026
 ```
 
-### No. 266: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 260: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6009,7 +5877,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 267: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 261: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6036,7 +5904,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 268: Introduction For Long Videos: A Prompt (Introducing The
+### No. 262: Introduction For Long Videos: A Prompt (Introducing The
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6067,7 +5935,7 @@ That’s all it takes with
 50 seconds, but you can do 2, 5, or 10 minutes just budget.
 ```
 
-### No. 269: Sound Up And Enjoy 😍 Song And Lyrics
+### No. 263: Sound Up And Enjoy 😍 Song And Lyrics
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6099,7 +5967,7 @@ And @Filmora_Editor
 #HappyHorse
 ```
 
-### No. 270: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
+### No. 264: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6125,7 +5993,7 @@ LINK IN BIO📎
 #aitools #aivideogenerators #creativefabrica
 ```
 
-### No. 271: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
+### No. 265: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6154,7 +6022,7 @@ New models/workflows: Krea 2 Turbo, Seedance 2.0 Mini + 4K, Happy Horse, LTX 2.3
 Secure your 3-day free trial of unlimited
 ```
 
-### No. 272: Confused About When To Use Happyhorse 1.0, Omni
+### No. 266: Confused About When To Use Happyhorse 1.0, Omni
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6172,7 +6040,7 @@ Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5?
 Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5? Video AI models are being added constantly. Modelglass captures live pricing, benchmark data, capability ratings and closest competitors across  90+ Image \ LLM \ Video &amp; Audio models.
 ```
 
-### No. 273: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
+### No. 267: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6193,7 +6061,7 @@ Lights, camera, action!
 Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here to elevate your influencer content in AI Influencer Studio 🌟 Get ready to generate cinematic videos and watermark-free images with your AI Influencers 🚀 Let's create some magic!
 ```
 
-### No. 274: Same Prompt, Different Ai Engines. Putting Happy Horse
+### No. 268: Same Prompt, Different Ai Engines. Putting Happy Horse
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6220,7 +6088,7 @@ The differences in how they render textures, light, and motion consistency are w
 Who do you think won?
 ```
 
-### No. 275: Made This With Happy Horse Prompt Below
+### No. 269: Made This With Happy Horse Prompt Below
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6245,7 +6113,7 @@ Made this with Happy Horse
 Prompt below:
 ```
 
-### No. 276: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
+### No. 270: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6269,7 +6137,7 @@ Même secteur. Même semaine. Deux verdicts opposés.
 Kling, c’est le spin-off vidéo
 ```
 
-### No. 277: Ai Isn'T Here To Talk Anymore. It'S Here
+### No. 271: Ai Isn'T Here To Talk Anymore. It'S Here
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6292,7 +6160,7 @@ These 5 updates dropped recently and most people scrolled right past them 👇
 2️⃣ HappyHorse 1.1 by Alibaba -
 ```
 
-### No. 278: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 272: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6326,7 +6194,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 279: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 273: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6360,7 +6228,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 280: Excited To See Qwen Pushing Agent Capabilities And
+### No. 274: Excited To See Qwen Pushing Agent Capabilities And
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6378,7 +6246,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @dani_avila7 Excited to see Qwen pushing agent capabilities and video gen with HappyHorse! The AI Showrunner track sounds perfect for experimenting with full autonomous content pipelines. Anyone else planning to join?
 ```
 
-### No. 281: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
+### No. 275: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6396,7 +6264,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @aziz4ai @LeonardoAi أتفق أن happyhorse يُقدم نتائج مذهلة في الفيديو التوليدي، ومشاركة راكان تُجسد مستقبل الفن الرقمي المخصص #AI #DigitalArt Cc
 ```
 
-### No. 282: Made The Most Of My 66 Sign Up
+### No. 276: Made The Most Of My 66 Sign Up
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6427,7 +6295,7 @@ Images made with @FlowbyGoogle.
 Tested scenes for my upcoming mini series.
 ```
 
-### No. 283: What An Amazing Video For Little Rakan! The
+### No. 277: What An Amazing Video For Little Rakan! The
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6445,7 +6313,7 @@ what an amazing video for little Rakan!
 @aziz4ai @LeonardoAi what an amazing video for little Rakan!  The way you blended him with Lightning McQueen is spot on, he must be over the moon. Great job with HappyHorse on Leonardo AI!
 ```
 
-### No. 284: Every Great Scene Starts With A Single Line
+### No. 278: Every Great Scene Starts With A Single Line
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6467,7 +6335,7 @@ The Scene tab in Cineyx Cinematic Studio is where your story becomes moving imag
 Under the hood you have a full lineup: Veo 3.1 Lite,
 ```
 
-### No. 285: 🎬 Happy Horse 1.1 : La Révolution De
+### No. 279: 🎬 Happy Horse 1.1 : La Révolution De
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6491,7 +6359,7 @@ Et si la production de vos contenus vidéo et audio de qualité professionnelle 
 #KingLand #IA #HappyHorse #Automation #Productivite #Video #Audio #Workflow #Technologie #Innovation
 ```
 
-### No. 286: Grandma'S Final Dance Created With Happyhorse 1.1 On
+### No. 280: Grandma'S Final Dance Created With Happyhorse 1.1 On
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6520,7 +6388,7 @@ Created with HappyHorse 1.1 on @budgetpixel
 Prompt below 🧵
 ```
 
-### No. 287: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 281: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6547,7 +6415,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 288: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 282: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6574,7 +6442,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 289: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 283: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6601,7 +6469,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 290: I Edited The Prompt A Bit Ai: Happy
+### No. 284: I Edited The Prompt A Bit Ai: Happy
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6624,7 +6492,7 @@ i edited the prompt a bit
 ai: happy horse left  vs grok on the right
 ```
 
-### No. 291: I Have Been Using Happy Horse Ai Lately
+### No. 285: I Have Been Using Happy Horse Ai Lately
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6642,7 +6510,7 @@ I have been using Happy Horse AI lately and it is worth trying.
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
 ```
 
-### No. 292: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 286: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6670,7 +6538,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 293: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 287: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6698,7 +6566,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 294: The Reason Most Ai-Generated Stories Fail Is That
+### No. 288: The Reason Most Ai-Generated Stories Fail Is That
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6716,7 +6584,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 295: The Reason Most Ai-Generated Stories Fail Is That
+### No. 289: The Reason Most Ai-Generated Stories Fail Is That
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6734,7 +6602,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 296: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 290: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6760,6 +6628,150 @@ AICUマガジンVol25ペーパーバック版はこちらから
 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「BitSummit PUNCH」とAICU国際ゲーム開発事業部が採択された「Supercell AI Innovation Lab」を密着取材。
 
 OpenAI Codex / Unity AI
+```
+
+### No. 291: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 292: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 293: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 294: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 295: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
+```
+
+### No. 296: Your Window To Lock In 50% Off Is
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Creative Fabrica
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
+
+#### คำอธิบาย
+
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI.
+
+#### พรอมต์
+
+```text
+Your window to lock in 50% off is closing 💥
+
+Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
+
+→ Generate now:
 ```
 
 ### No. 297: Your Window To Lock In 50% Off Is
@@ -6834,151 +6846,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 300: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 301: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 302: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 303: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 304: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 305: Your Window To Lock In 50% Off Is
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Creative Fabrica
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/cfabricacom/status/2073669229019107791)
-
-#### คำอธิบาย
-
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI.
-
-#### พรอมต์
-
-```text
-Your window to lock in 50% off is closing 💥
-
-Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production and experiment before the offer ends.
-
-→ Generate now:
-```
-
-### No. 306: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 300: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -6998,7 +6866,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 307: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 301: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7018,7 +6886,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 308: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+### No. 302: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7036,7 +6904,7 @@ Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and 
 Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
 ```
 
-### No. 309: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+### No. 303: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7062,7 +6930,7 @@ Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generatio
 The video AI race is the next frontier.
 ```
 
-### No. 310: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 304: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7086,7 +6954,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 311: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 305: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7110,7 +6978,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 312: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+### No. 306: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7128,7 +6996,7 @@ Kuaishou's video generation model Kling AI (可灵) has completed a $3B external
 Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
 ```
 
-### No. 313: Made This Short Clip With Happyhorse 1.1 On
+### No. 307: Made This Short Clip With Happyhorse 1.1 On
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7154,7 +7022,7 @@ Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, ener
 Location : Riverside cycling path in Seoul during a breezy afternoon. River view, https://t.co/HhrKm2ab4Y https://t.co/NqatGYxXdF
 ```
 
-### No. 314: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
+### No. 308: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7173,7 +7041,7 @@ Location : Riverside cycling path in Seoul during a breezy afternoon. River view
 怪不得快乐马 5 折都卖不动，原来是本来就没人用。
 ```
 
-### No. 315: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 309: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7198,7 +7066,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 316: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 310: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7223,7 +7091,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 317: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 311: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7248,7 +7116,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 318: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
+### No. 312: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7268,7 +7136,7 @@ Hollywood studios publicly demanded ByteDance halt its AI video tool after a fak
 The Motion Picture Association condemned the viral 15-second clip of Brad Pitt and Tom
 ```
 
-### No. 319: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
+### No. 313: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7287,7 +7155,7 @@ The Motion Picture Association condemned the viral 15-second clip of Brad Pitt a
 話題の動画生成AI HappyHorseまだ試せていない方は一緒に試そう！！
 ```
 
-### No. 320: How I Built This In Happyhorse 1.1 —
+### No. 314: How I Built This In Happyhorse 1.1 —
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7307,6 +7175,150 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 
 4 modes, 1 clear rule: Text builds from scratch. First Frame locks the starting frame. Reference Mode uses images as creative guidance. Video Editing modifies an existing clip.
+```
+
+### No. 315: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 316: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 317: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 318: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 319: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 320: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ryo Yoshiike 吉池諒
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### คำอธิบาย
+
+はじめまして！
+
+#### พรอมต์
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
 ```
 
 ### No. 321: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
@@ -7525,151 +7537,7 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 ぜひ下記Lumaからご確認ください✨️
 ```
 
-### No. 330: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 331: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 332: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 333: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 334: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 335: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Ryo Yoshiike 吉池諒
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### คำอธิบาย
-
-はじめまして！
-
-#### พรอมต์
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 336: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
+### No. 330: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7692,7 +7560,7 @@ Vytvořte profi videoreklamu dřív, než dopijete kávu! ☕ Nové workflow Hap
 Reálné ukázky a prompty najdete v novém článku:
 ```
 
-### No. 337: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
+### No. 331: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7721,7 +7589,7 @@ SeedAudio1.0で下記のセリフを作成
 「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
 ```
 
-### No. 338: Two Models The Industry Is Completely Sleeping On
+### No. 332: Two Models The Industry Is Completely Sleeping On
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7745,7 +7613,7 @@ Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs. ~$
 HappyHorse-1.0 — current #1 overall benchmark. 7-language lip-sync. API only via fal. ai
 ```
 
-### No. 339: 🐎 Happy Horse 1.0 Is Now 30% Off
+### No. 333: 🐎 Happy Horse 1.0 Is Now 30% Off
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7769,7 +7637,7 @@ Try it in your next music video. 🎬
 #Cremi #HappyHorse10
 ```
 
-### No. 340: Most Text-To-Video Gives You One Continuous Take, And
+### No. 334: Most Text-To-Video Gives You One Continuous Take, And
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7794,7 +7662,7 @@ HappyHorse 1.1 reads the cuts from the prompt. Write "Begin with... Cut to... En
 Same baker, same eight seconds. Left is a
 ```
 
-### No. 341: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
+### No. 335: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7817,7 +7685,7 @@ Stardust &amp; The Dreamer
 AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld - #horseinspodump #happyhorse #HorsepowerAICinema, @HappyHorseATH , @happyhorseai
 ```
 
-### No. 342: 🚀 Product Update 1.61 Is Live On Cabina
+### No. 336: 🚀 Product Update 1.61 Is Live On Cabina
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7845,7 +7713,7 @@ Discover new platform features and the latest AI models - all in one place.
 • Cabina Skills + Brainstorm 3x – reusable AI workflows &amp;
 ```
 
-### No. 343: This Is The Last Normal Walk She Takes
+### No. 337: This Is The Last Normal Walk She Takes
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7869,7 +7737,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 344: This Is The Last Normal Walk She Takes
+### No. 338: This Is The Last Normal Walk She Takes
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7893,7 +7761,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 345: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 339: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7919,7 +7787,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 346: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 340: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7945,7 +7813,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 347: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 341: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7971,7 +7839,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 348: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 342: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -7991,7 +7859,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 349: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 343: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8011,7 +7879,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 350: Happy Horse 1.1 Is Available On Turn Simple
+### No. 344: Happy Horse 1.1 Is Available On Turn Simple
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8035,7 +7903,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #JuneAI #AIModel #AI
 ```
 
-### No. 351: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
+### No. 345: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8069,7 +7937,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #ゲーム開発 現場のニーズに直結する
 ```
 
-### No. 352: If You’Re Building With Ai Right Now, Chances
+### No. 346: If You’Re Building With Ai Right Now, Chances
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8092,7 +7960,7 @@ If you’re building with AI right now, chances are you’re using more than one
 Maybe GPT for one task, Claude for another, Gemini for research, or a video/image model for creative workflows. The problem is that managing separate API keys, billing dashboards, and
 ```
 
-### No. 353: Everyone Thinks The Watch Is The Mystery... It
+### No. 347: Everyone Thinks The Watch Is The Mystery... It
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8121,7 +7989,7 @@ here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-pa
 every camera move, every environment, every sound was
 ```
 
-### No. 354: Everyone Thinks The Watch Is The Mystery... It
+### No. 348: Everyone Thinks The Watch Is The Mystery... It
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8150,7 +8018,7 @@ here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-pa
 every camera move, every environment, every sound was
 ```
 
-### No. 355: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
+### No. 349: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8171,7 +8039,7 @@ HappyHorse 1.1 is wild for reference-heavy video ideas.
 HappyHorse 1.1 is wild for reference-heavy video ideas. You can feed up to 9 images on getimg
 ```
 
-### No. 356: Meta Muse Video Just Entered The Video Arena
+### No. 350: Meta Muse Video Just Entered The Video Arena
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8195,7 +8063,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 357: Meta Muse Video Just Entered The Video Arena
+### No. 351: Meta Muse Video Just Entered The Video Arena
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8219,7 +8087,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 358: Meta Muse Video Just Entered The Video Arena
+### No. 352: Meta Muse Video Just Entered The Video Arena
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8243,7 +8111,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 359: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 353: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8266,7 +8134,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 360: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 354: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8289,7 +8157,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 361: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 355: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8312,7 +8180,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 362: Happyhorse 1.1 Shows How Prompt Precision Drives Video
+### No. 356: Happyhorse 1.1 Shows How Prompt Precision Drives Video
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8330,7 +8198,7 @@ happyhorse 1.1 shows how prompt precision drives video output.
 @alibaba_cloud happyhorse 1.1 shows how prompt precision drives video output. We see parallel gains when quantum-inspired ordering tightens transaction finality in our chain. Same substrate shift from classical limits.
 ```
 
-### No. 363: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
+### No. 357: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8350,7 +8218,7 @@ Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コ
 今後もどうぞよろしくお願い致します。
 ```
 
-### No. 364: A Professional Latin Dance Clip Created With Happyhorse
+### No. 358: A Professional Latin Dance Clip Created With Happyhorse
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8377,7 +8245,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 365: A Professional Latin Dance Clip Created With Happyhorse
+### No. 359: A Professional Latin Dance Clip Created With Happyhorse
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8404,7 +8272,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 366: A Professional Latin Dance Clip Created With Happyhorse
+### No. 360: A Professional Latin Dance Clip Created With Happyhorse
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8429,6 +8297,144 @@ With Clipfly, just drop your photo and follow our step-by-step tutorial to creat
 Try it on Clipfly!
 
 Step-by-step
+```
+
+### No. 361: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
+```
+
+### No. 362: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
+```
+
+### No. 363: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
+```
+
+### No. 364: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
+```
+
+### No. 365: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
+```
+
+### No. 366: 9Th Place At The Ai Film Festival Monaco
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Alibaba Cloud
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
+
+#### คำอธิบาย
+
+9th Place at the AI Film Festival Monaco Hackathon!
+
+#### พรอมต์
+
+```text
+9th Place at the AI Film Festival Monaco Hackathon!
+
+🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
 ```
 
 ### No. 367: 9Th Place At The Ai Film Festival Monaco
@@ -8569,145 +8575,7 @@ Step-by-step
 🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
 ```
 
-### No. 373: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 374: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 375: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 376: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 377: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 378: 9Th Place At The Ai Film Festival Monaco
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Alibaba Cloud
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### คำอธิบาย
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### พรอมต์
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 379: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 373: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8725,7 +8593,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 380: Title: "The Promise Above The Clouds " Created
+### No. 374: Title: "The Promise Above The Clouds " Created
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8755,7 +8623,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 381: Title: "The Promise Above The Clouds " Created
+### No. 375: Title: "The Promise Above The Clouds " Created
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8785,7 +8653,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 382: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 376: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8803,7 +8671,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 383: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 377: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8838,7 +8706,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 384: The Infrastructure Behind This Is The Real Story
+### No. 378: The Infrastructure Behind This Is The Real Story
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8856,65 +8724,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 385: Neon District Created With Happy Horse 1.1 Prompt
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2074841071776043384)
-
-#### คำอธิบาย
-
-Neon District created with Happy Horse 1.1  
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-
-#### พรอมต์
-
-```text
-Neon District created with Happy Horse 1.1 @HappyHorseATH 
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-Subject: Female idol, oversized tech wear jacket over holographic bodysuit.
-[0:00-0:03]
-```
-
-### No. 386: Neon District Created With Happy Horse 1.1 Prompt
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074841071776043384.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2074841071776043384)
-
-#### คำอธิบาย
-
-Neon District created with Happy Horse 1.1  
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-
-#### พรอมต์
-
-```text
-Neon District created with Happy Horse 1.1 @HappyHorseATH 
-
-Prompt 👇 
-Style: Cyberpunk street K pop, rain soaked neon alley, magenta/teal contrast, anamorphic lens flares, gritty glam energy.
-Subject: Female idol, oversized tech wear jacket over holographic bodysuit.
-[0:00-0:03]
-```
-
-### No. 387: Meta Just Crashed Into The Video Ai Rankings
+### No. 379: Meta Just Crashed Into The Video Ai Rankings
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -8935,6 +8745,190 @@ Meta Muse Video @AIatMeta just landed at #3 in the Text-to-Video @arena with a 1
 It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro, Grok Imagine and Google Veo-3.1.
 
 But the real question is
+```
+
+### No. 380: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 381: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 382: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 383: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 384: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 385: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 386: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
+```
+
+### No. 387: Have You Heard That Ufo Have Been Spotted
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** HappyHorse
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
+
+#### คำอธิบาย
+
+Have you heard that UFO have been spotted again recently?
+
+#### พรอมต์
+
+```text
+Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
+
+#happyhorse #ai #UFO #alien
 ```
 
 ### No. 388: Have You Heard That Ufo Have Been Spotted
@@ -9006,191 +9000,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 391: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 392: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 393: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 394: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 395: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 396: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 397: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 398: Have You Heard That Ufo Have Been Spotted
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** HappyHorse
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### คำอธิบาย
-
-Have you heard that UFO have been spotted again recently?
-
-#### พรอมต์
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 399: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 391: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9208,7 +9018,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 400: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 392: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9226,7 +9036,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 401: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 393: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9247,7 +9057,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 402: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 394: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9270,7 +9080,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 403: 色々アレっぽくなった😅
+### No. 395: 色々アレっぽくなった😅
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9293,7 +9103,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 404: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 396: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9313,7 +9123,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 405: Models Available On (Byok Friendly) Video Models Gemini
+### No. 397: Models Available On (Byok Friendly) Video Models Gemini
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9355,7 +9165,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 406: What Model Will You Choose For Ai Video
+### No. 398: What Model Will You Choose For Ai Video
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9382,7 +9192,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 407: ไล่ล่าด้วยมอเตอร์ไซค์บนสะพานที่กำลังพังทลาย
+### No. 399: ไล่ล่าด้วยมอเตอร์ไซค์บนสะพานที่กำลังพังทลาย
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9403,7 +9213,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 408: ผู้หญิงสง่างามในชุดเรียบง่าย
+### No. 400: ผู้หญิงสง่างามในชุดเรียบง่าย
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9424,7 +9234,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 409: ผู้หญิงสง่างามในชุดเรียบง่าย
+### No. 401: ผู้หญิงสง่างามในชุดเรียบง่าย
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9445,7 +9255,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 410: ผู้หญิงสง่างามในชุดเรียบง่าย
+### No. 402: ผู้หญิงสง่างามในชุดเรียบง่าย
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9466,7 +9276,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 411: รักษาความสม่ำเสมอของตัวละครจากรูปภาพที่อัปโหลด
+### No. 403: รักษาความสม่ำเสมอของตัวละครจากรูปภาพที่อัปโหลด
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9494,7 +9304,7 @@ Body proportions
 Character demeanor/aura
 ```
 
-### No. 412: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
+### No. 404: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9516,7 +9326,7 @@ Character demeanor/aura
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 413: พายเรือคายัคผ่านหุบเขาลับ
+### No. 405: พายเรือคายัคผ่านหุบเขาลับ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9537,7 +9347,7 @@ Character demeanor/aura
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 414: พายเรือคายัคผ่านหุบเขาลับ
+### No. 406: พายเรือคายัคผ่านหุบเขาลับ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9556,6 +9366,301 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 
 ```text
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
+```
+
+### No. 407: เด็กดื่มน้ำจากก๊อกน้ำกลางแจ้ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076415739784044623)
+
+#### คำอธิบาย
+
+ฉากสไตล์สารคดีของเด็กที่กำลังดื่มน้ำอย่างเร่งรีบจากก๊อกน้ำเก่าแก่บนผนังกลางแจ้ง โดยมีน้ำหกกระเซ็น
+
+#### พรอมต์
+
+```text
+Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
+```
+
+### No. 408: เด็กดื่มน้ำจากก๊อกน้ำกลางแจ้ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076415739784044623)
+
+#### คำอธิบาย
+
+ฉากสไตล์สารคดีของเด็กที่กำลังดื่มน้ำอย่างเร่งรีบจากก๊อกน้ำเก่าแก่บนผนังกลางแจ้ง โดยมีน้ำหกกระเซ็น
+
+#### พรอมต์
+
+```text
+Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
+```
+
+### No. 409: เด็กดื่มน้ำจากก๊อกน้ำกลางแจ้ง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076415739784044623)
+
+#### คำอธิบาย
+
+ฉากสไตล์สารคดีของเด็กที่กำลังดื่มน้ำอย่างเร่งรีบจากก๊อกน้ำเก่าแก่บนผนังกลางแจ้ง โดยมีน้ำหกกระเซ็น
+
+#### พรอมต์
+
+```text
+Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
+```
+
+### No. 410: การนำทางเว็บไซต์เครื่องมือเอไอ GlobalGPT
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Ricardo Momo
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076525307562230067.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076525307562230067.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Ricardo_Momo1/status/2076525307562230067)
+
+#### คำอธิบาย
+
+วิดีโอนี้บันทึกการใช้งานของผู้ใช้ที่กำลังนำทางเว็บไซต์ GlobalGPT ซึ่งแสดงให้เห็นโมเดลและเครื่องมือเอไอต่าง ๆ สำหรับการสร้างภาพ วิดีโอ และเสียง
+
+#### พรอมต์
+
+```text
+A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
+```
+
+### No. 411: ภาพยนตร์สั้นเอไอสไตล์ภาพยนตร์ญี่ปุ่น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VivaReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2076626065246822589)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพยนตร์สั้นเอไอที่มีแสงอ่อนนุ่มเป็นหมอก เกรนย้อนยุค และพื้นผิวภาพยนตร์แบบภาพยนตร์ญี่ปุ่น
+
+#### พรอมต์
+
+```text
+Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 412: ภาพยนตร์สั้นเอไอสไตล์ภาพยนตร์ญี่ปุ่น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VivaReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2076626065246822589)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับภาพยนตร์สั้นเอไอที่มีแสงอ่อนนุ่มเป็นหมอก เกรนย้อนยุค และพื้นผิวภาพยนตร์แบบภาพยนตร์ญี่ปุ่น
+
+#### พรอมต์
+
+```text
+Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 413: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 414: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 415: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 416: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 417: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 418: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 419: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 420: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076819740668920279.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076819740668920279.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Bic_Revelation/status/2076819740668920279)
+
+#### คำอธิบาย
+
+มุมมองบุคคลที่หนึ่งของการตกลงผ่านภูมิทัศน์เหนือจริงของเกาะลอยฟ้า น้ำตก และแสงที่กำลังละลายหายไป
+
+#### พรอมต์
+
+```text
+POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
+```
+
+### No. 421: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Nataly Che
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076822338419429598.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076822338419429598.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/creatoroff/status/2076822338419429598)
+
+#### คำอธิบาย
+
+พรอมต์ที่บรรยายถึงสิ่งมีชีวิตดิจิทัลเรืองแสง ซึ่งแบกและปล่อยโลกต่าง ๆ ให้รั่วไหลเข้าสู่ความเป็นจริงในขณะที่มันเคลื่อนไหว
+
+#### พรอมต์
+
+```text
+Aetherpede
+A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
 <a id="category-2"></a>
@@ -23859,7 +23964,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-13T04:03:22.363Z
+> README นี้สร้างอัตโนมัติ 2026-07-14T06:13:32.906Z
 
 ## More Atlas Cloud Tools
 

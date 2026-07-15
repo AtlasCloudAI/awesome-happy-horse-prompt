@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1133** |
+| 総プロンプト数 | **1136** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **982** |
-| 最終更新 | **2026-07-14T06:13:32.860Z** |
+| プレビュー動画数 | **984** |
+| 最終更新 | **2026-07-15T05:59:26.910Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **421**
+- [`Twitter Community`](#category-1): **424**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (421)
+### Twitter Community (424)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9368,70 +9368,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 407: 屋外の蛇口から水を飲む子供
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 説明
-
-風化した屋外の壁付け蛇口から、水をこぼしながら必死に飲む子供を捉えた、ドキュメンタリー風のシーンです。
-
-#### プロンプト
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 408: 屋外の蛇口から水を飲む子供
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 説明
-
-風化した屋外の壁付け蛇口から、水をこぼしながら必死に飲む子供を捉えた、ドキュメンタリー風のシーンです。
-
-#### プロンプト
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 409: 屋外の蛇口から水を飲む子供
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 説明
-
-風化した屋外の壁付け蛇口から、水をこぼしながら必死に飲む子供を捉えた、ドキュメンタリー風のシーンです。
-
-#### プロンプト
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 410: GlobalGPT AIツールウェブサイトナビゲーション
+### No. 407: GlobalGPT AIツールウェブサイトナビゲーション
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9452,7 +9389,7 @@ Scene & Mood: Warm field documentary realism. A quiet human moment: a young chil
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 411: 日本映画風AIショートフィルム
+### No. 408: 日本映画風AIショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9473,7 +9410,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
 ```
 
-### No. 412: 日本映画風AIショートフィルム
+### No. 409: 日本映画風AIショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9492,6 +9429,60 @@ Misty soft light, retro film grain, pure Japanese movie texture AI short film. E
 
 ```text
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 410: アニメ風スーパーヒーロー降臨の映画的シーケンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 説明
+
+アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 411: アニメ風スーパーヒーロー降臨の映画的シーケンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 説明
+
+アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 412: アニメ風スーパーヒーロー降臨の映画的シーケンス
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 説明
+
+アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 413: アニメ風スーパーヒーロー降臨の映画的シーケンス
@@ -9566,61 +9557,7 @@ An anime-style superhero descends from the
 An anime-style superhero descends from the
 ```
 
-### No. 417: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 418: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 419: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 420: 浮遊島と不可能な滝を落下する
+### No. 417: 浮遊島と不可能な滝を落下する
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9641,7 +9578,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 421: 世界を運ぶ発光するデジタル生命体
+### No. 418: 世界を運ぶ発光するデジタル生命体
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9661,6 +9598,130 @@ POV falling through floating islands, impossible waterfalls, and layers of a wor
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 419: 見知らぬ人が崩壊する都市から通行人を救出
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 説明
+
+崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
+
+#### プロンプト
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 420: 見知らぬ人が崩壊する都市から通行人を救出
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 説明
+
+崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
+
+#### プロンプト
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 421: 見知らぬ人が崩壊する都市から通行人を救出
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 説明
+
+崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
+
+#### プロンプト
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 422: 見知らぬ人が崩壊する都市から通行人を救出
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 説明
+
+崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
+
+#### プロンプト
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 423: 映画的な黄金時刻の山岳ダイブ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** OpenGradient (∇, ∇)
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/OpenGradient/status/2077071663590740155)
+
+#### 説明
+
+壮大な映画的な空中ダイブショットが、黄金時刻の光に包まれた広大な山岳風景を捉え、崖の上の孤独な人物のクローズアップで締めくくられます。
+
+#### プロンプト
+
+```text
+Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
+```
+
+### No. 424: ネオンの雨に包まれた未来型ルーフトップバー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alessandro Bagnuoli
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/alex_bagnuoli89/status/2077155959865004232)
+
+#### 説明
+
+雨の夜、ネオン輝く未来的な都市を見下ろすハイテクなルーフトップバーで、女性が佇む映像シーンを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
+Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
 <a id="category-2"></a>
@@ -24044,7 +24105,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-14T06:13:32.860Z
+> この README は自動生成です。 2026-07-15T05:59:26.910Z
 
 ## More Atlas Cloud Tools
 

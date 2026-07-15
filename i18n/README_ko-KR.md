@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1133** |
+| 전체 프롬프트 | **1136** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **982** |
-| 마지막 업데이트 | **2026-07-14T06:13:32.880Z** |
+| 미리보기 비디오 | **984** |
+| 마지막 업데이트 | **2026-07-15T05:59:26.930Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **421**
+- [`Twitter Community`](#category-1): **424**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (421)
+### Twitter Community (424)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9368,70 +9368,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 407: Child drinking from outdoor tap
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 설명
-
-A documentary-style scene of a child drinking urgently from a weathered outdoor wall tap with water spilling.
-
-#### 프롬프트
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 408: Child drinking from outdoor tap
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 설명
-
-A documentary-style scene of a child drinking urgently from a weathered outdoor wall tap with water spilling.
-
-#### 프롬프트
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 409: Child drinking from outdoor tap
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 설명
-
-A documentary-style scene of a child drinking urgently from a weathered outdoor wall tap with water spilling.
-
-#### 프롬프트
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 410: GlobalGPT AI Tools Website Navigation
+### No. 407: GlobalGPT AI Tools Website Navigation
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9452,7 +9389,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 411: Japanese Movie Style AI Short Film
+### No. 408: Japanese Movie Style AI Short Film
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9473,7 +9410,7 @@ A prompt for an AI short film with misty soft light, retro grain, and the cinema
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
 ```
 
-### No. 412: Japanese Movie Style AI Short Film
+### No. 409: Japanese Movie Style AI Short Film
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9492,6 +9429,60 @@ A prompt for an AI short film with misty soft light, retro grain, and the cinema
 
 ```text
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 410: Anime superhero descending cinematic sequence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 설명
+
+A prompt for generating an anime-style cinematic scene of a superhero descending.
+
+#### 프롬프트
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 411: Anime superhero descending cinematic sequence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 설명
+
+A prompt for generating an anime-style cinematic scene of a superhero descending.
+
+#### 프롬프트
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 412: Anime superhero descending cinematic sequence
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 설명
+
+A prompt for generating an anime-style cinematic scene of a superhero descending.
+
+#### 프롬프트
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 413: Anime superhero descending cinematic sequence
@@ -9566,61 +9557,7 @@ A prompt for generating an anime-style cinematic scene of a superhero descending
 An anime-style superhero descends from the
 ```
 
-### No. 417: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 418: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 419: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 420: Falling through floating islands and impossible waterfalls
+### No. 417: Falling through floating islands and impossible waterfalls
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9641,7 +9578,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 421: Luminous Digital Being Carrying Worlds
+### No. 418: Luminous Digital Being Carrying Worlds
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9661,6 +9598,130 @@ A prompt describing a luminous digital being that carries and leaks worlds into 
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 419: 무너지는 도시에서 낯선 사람이 행인을 구조하다
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 설명
+
+무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 420: 무너지는 도시에서 낯선 사람이 행인을 구조하다
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 설명
+
+무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 421: 무너지는 도시에서 낯선 사람이 행인을 구조하다
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 설명
+
+무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 422: 무너지는 도시에서 낯선 사람이 행인을 구조하다
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 설명
+
+무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 423: 황금빛 시간의 산악 다이브 (시네마틱)
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** OpenGradient (∇, ∇)
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/OpenGradient/status/2077071663590740155)
+
+#### 설명
+
+황금빛 시간의 빛을 받은 광활한 산악 풍경을 담은 웅장한 시네마틱 공중 다이브 샷으로, 절벽 위 외로운 인물의 클로즈업으로 마무리됩니다.
+
+#### 프롬프트
+
+```text
+Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
+```
+
+### No. 424: 네온 빛 비 속의 미래형 루프탑 바
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alessandro Bagnuoli
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/alex_bagnuoli89/status/2077155959865004232)
+
+#### 설명
+
+비 내리는 밤, 미래형 네온 도시를 내려다보는 첨단 루프탑 바에서 한 여성이 있는 비디오 장면을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
+Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
 <a id="category-2"></a>
@@ -24044,7 +24105,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-14T06:13:32.880Z
+> 이 README는 자동 생성됩니다. 2026-07-15T05:59:26.930Z
 
 ## More Atlas Cloud Tools
 

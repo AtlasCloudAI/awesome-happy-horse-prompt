@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1133** |
+| Total de Prompts | **1136** |
 | Categorias | **13** |
-| Videos de Previa | **982** |
-| Ultima Atualizacao | **2026-07-14T06:13:33.083Z** |
+| Videos de Previa | **984** |
+| Ultima Atualizacao | **2026-07-15T05:59:27.125Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **333**
+- [`Twitter Community`](#category-1): **336**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (333)
+### Twitter Community (336)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7609,70 +7609,7 @@ Uma cena hiper-realista de um canoísta solitário a navegar por um estreito câ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 319: Criança a beber de uma torneira exterior
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Descricao
-
-Uma cena em estilo documental de uma criança a beber com urgência de uma torneira exterior gasta numa parede, com água a derramar-se.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 320: Criança a beber de uma torneira exterior
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Descricao
-
-Uma cena em estilo documental de uma criança a beber com urgência de uma torneira exterior gasta numa parede, com água a derramar-se.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 321: Criança a beber de uma torneira exterior
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Descricao
-
-Uma cena em estilo documental de uma criança a beber com urgência de uma torneira exterior gasta numa parede, com água a derramar-se.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 322: Navegação no Website de Ferramentas de IA GlobalGPT
+### No. 319: Navegação no Website de Ferramentas de IA GlobalGPT
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7693,7 +7630,7 @@ Este vídeo captura um utilizador a navegar no website da GlobalGPT, mostrando o
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 323: Curta-metragem de IA em Estilo de Filme Japonês
+### No. 320: Curta-metragem de IA em Estilo de Filme Japonês
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7714,7 +7651,7 @@ Um prompt para um curta-metragem de IA com luz suave e nebulosa, grão retro e a
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
 ```
 
-### No. 324: Curta-metragem de IA em Estilo de Filme Japonês
+### No. 321: Curta-metragem de IA em Estilo de Filme Japonês
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7733,6 +7670,60 @@ Um prompt para um curta-metragem de IA com luz suave e nebulosa, grão retro e a
 
 ```text
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 322: Sequência cinematográfica de super-herói de anime a descer
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Descricao
+
+Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 323: Sequência cinematográfica de super-herói de anime a descer
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Descricao
+
+Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 324: Sequência cinematográfica de super-herói de anime a descer
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Descricao
+
+Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 325: Sequência cinematográfica de super-herói de anime a descer
@@ -7807,61 +7798,7 @@ Um prompt para gerar uma cena cinematográfica em estilo anime de um super-heró
 An anime-style superhero descends from the
 ```
 
-### No. 329: Sequência cinematográfica de super-herói de anime a descer
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descricao
-
-Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 330: Sequência cinematográfica de super-herói de anime a descer
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descricao
-
-Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 331: Sequência cinematográfica de super-herói de anime a descer
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descricao
-
-Um prompt para gerar uma cena cinematográfica em estilo anime de um super-herói a descer.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 332: Queda através de ilhas flutuantes e cascatas impossíveis
+### No. 329: Queda através de ilhas flutuantes e cascatas impossíveis
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7882,7 +7819,7 @@ Uma visão em primeira pessoa de uma queda através de uma paisagem surreal de i
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 333: Ser Digital Luminoso que Carrega Mundos
+### No. 330: Ser Digital Luminoso que Carrega Mundos
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7902,6 +7839,130 @@ Um prompt que descreve um ser digital luminoso que carrega e deixa vazar mundos 
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 331: Desconhecido resgata transeunte de cidade em colapso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descricao
+
+Um prompt de vídeo que retrata um desesperado resgate de um transeunte aterrorizado de um quarteirão citadino em colapso, realizado por um desconhecido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 332: Desconhecido resgata transeunte de cidade em colapso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descricao
+
+Um prompt de vídeo que retrata um desesperado resgate de um transeunte aterrorizado de um quarteirão citadino em colapso, realizado por um desconhecido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 333: Desconhecido resgata transeunte de cidade em colapso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descricao
+
+Um prompt de vídeo que retrata um desesperado resgate de um transeunte aterrorizado de um quarteirão citadino em colapso, realizado por um desconhecido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 334: Desconhecido resgata transeunte de cidade em colapso
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descricao
+
+Um prompt de vídeo que retrata um desesperado resgate de um transeunte aterrorizado de um quarteirão citadino em colapso, realizado por um desconhecido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 335: Mergulho Cinematográfico na Hora Dourada da Montanha
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** OpenGradient (∇, ∇)
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/OpenGradient/status/2077071663590740155)
+
+#### Descricao
+
+Uma tomada aérea épica e cinematográfica de um mergulho captura uma vasta paisagem montanhosa banhada pela luz da hora dourada, culminando num close-up de uma figura solitária num penhasco.
+
+#### Prompt
+
+```text
+Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
+```
+
+### No. 336: Bar Futurista no Terraço sob Chuva Neon
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Alessandro Bagnuoli
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/alex_bagnuoli89/status/2077155959865004232)
+
+#### Descricao
+
+Um prompt para gerar uma cena de vídeo de uma mulher num bar high-tech num terraço, com vista para uma cidade futurista neon à noite, sob a chuva.
+
+#### Prompt
+
+```text
+Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
+Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
 <a id="category-2"></a>
@@ -24025,7 +24086,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-07-14T06:13:33.083Z
+> Este README e gerado automaticamente. 2026-07-15T05:59:27.125Z
 
 ## More Atlas Cloud Tools
 

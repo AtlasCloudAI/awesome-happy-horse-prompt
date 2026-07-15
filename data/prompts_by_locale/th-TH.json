@@ -13724,5 +13724,53 @@
       "images": [],
       "video": "media/happy-horse/x_2076415739784044623.mp4"
     }
+  },
+  {
+    "id": "x_2077155959865004232",
+    "title": "บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง",
+    "description": "คำสั่งสำหรับสร้างฉากวิดีโอของหญิงสาวที่บาร์บนดาดฟ้าทันสมัย มองเห็นเมืองอนาคตเรืองแสงในยามค่ำคืนท่ามกลางสายฝน",
+    "prompt": "Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.\nSetting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Alessandro Bagnuoli",
+    "source_platform": "x",
+    "language": "th-TH",
+    "source_link": "https://x.com/alex_bagnuoli89/status/2077155959865004232",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077071663590740155",
+    "title": "การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์",
+    "description": "ภาพมุมกว้างทางอากาศที่ยิ่งใหญ่และดราม่าจับภาพทิวทัศน์ภูเขาอันกว้างใหญ่ในแสงสีทองยามเย็น สิ้นสุดที่ภาพระยะใกล้ของร่างโดดเดี่ยวบนหน้าผา",
+    "prompt": "Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4",
+    "author_name": "OpenGradient (∇, ∇)",
+    "source_platform": "x",
+    "language": "th-TH",
+    "source_link": "https://x.com/OpenGradient/status/2077071663590740155",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077071663590740155.mp4"
+    }
+  },
+  {
+    "id": "x_2076996319558906273",
+    "title": "คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม",
+    "description": "คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า",
+    "prompt": "Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "th-TH",
+    "source_link": "https://x.com/bmx_ai13/status/2076996319558906273",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2076996319558906273.mp4"
+    }
   }
 ]

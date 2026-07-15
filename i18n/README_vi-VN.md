@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1133** |
+| Tong so Prompt | **1136** |
 | So danh muc | **12** |
-| Video xem truoc | **982** |
-| Cap nhat lan cuoi | **2026-07-14T06:13:32.928Z** |
+| Video xem truoc | **984** |
+| Cap nhat lan cuoi | **2026-07-15T05:59:26.974Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **421**
+- [`Twitter Community`](#category-1): **424**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (421)
+### Twitter Community (424)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9368,70 +9368,7 @@ Một cảnh tượng siêu thực tế về một người chèo kayak đơn đ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 407: Đứa trẻ uống nước từ vòi ngoài trời
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Mo ta
-
-Một cảnh theo phong cách tài liệu, ghi lại hình ảnh một đứa trẻ đang khát nước uống vội vàng từ một vòi nước gắn tường cũ kỹ ngoài trời, với nước tràn ra ngoài.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 408: Đứa trẻ uống nước từ vòi ngoài trời
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Mo ta
-
-Một cảnh theo phong cách tài liệu, ghi lại hình ảnh một đứa trẻ đang khát nước uống vội vàng từ một vòi nước gắn tường cũ kỹ ngoài trời, với nước tràn ra ngoài.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 409: Đứa trẻ uống nước từ vòi ngoài trời
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### Mo ta
-
-Một cảnh theo phong cách tài liệu, ghi lại hình ảnh một đứa trẻ đang khát nước uống vội vàng từ một vòi nước gắn tường cũ kỹ ngoài trời, với nước tràn ra ngoài.
-
-#### Prompt
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 410: Điều Hướng Trang Web Công Cụ AI GlobalGPT
+### No. 407: Điều Hướng Trang Web Công Cụ AI GlobalGPT
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9452,7 +9389,7 @@ Video này ghi lại cảnh người dùng điều hướng trang web GlobalGPT,
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 411: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
+### No. 408: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9473,7 +9410,7 @@ Một gợi ý cho một bộ phim ngắn AI với ánh sáng mờ dịu, hạt 
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
 ```
 
-### No. 412: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
+### No. 409: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9492,6 +9429,60 @@ Một gợi ý cho một bộ phim ngắn AI với ánh sáng mờ dịu, hạt 
 
 ```text
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 410: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Mo ta
+
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 411: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Mo ta
+
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 412: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Mo ta
+
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 413: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
@@ -9566,61 +9557,7 @@ Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime,
 An anime-style superhero descends from the
 ```
 
-### No. 417: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 418: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 419: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 420: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
+### No. 417: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9641,7 +9578,7 @@ Góc nhìn người thứ nhất của cảnh rơi xuyên qua một cảnh quan 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 421: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
+### No. 418: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9661,6 +9598,130 @@ Một gợi ý mô tả một thực thể số phát quang, mang theo và để
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 419: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 420: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 421: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 422: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 423: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** OpenGradient (∇, ∇)
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/OpenGradient/status/2077071663590740155)
+
+#### Mo ta
+
+Cảnh quay trên không mang tính điện ảnh hoành tráng ghi lại một cảnh quan núi non rộng lớn ngập trong ánh sáng giờ vàng, kết thúc bằng cận cảnh một bóng người cô độc trên vách đá.
+
+#### Prompt
+
+```text
+Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
+```
+
+### No. 424: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Alessandro Bagnuoli
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/alex_bagnuoli89/status/2077155959865004232)
+
+#### Mo ta
+
+Một gợi ý để tạo cảnh video về một người phụ nữ tại quán bar công nghệ cao trên tầng thượng, nhìn ra thành phố neon tương lai vào ban đêm trong cơn mưa.
+
+#### Prompt
+
+```text
+Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
+Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
 <a id="category-2"></a>
@@ -23964,7 +24025,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-14T06:13:32.928Z
+> README nay duoc tao tu dong. 2026-07-15T05:59:26.974Z
 
 ## More Atlas Cloud Tools
 

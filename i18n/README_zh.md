@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1133%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1133** |
+| 提示词总数 | **1136** |
 | 分类数 | **13** |
-| 预览视频数 | **982** |
-| 最后更新 | **2026-07-14T06:13:32.816Z** |
+| 预览视频数 | **984** |
+| 最后更新 | **2026-07-15T05:59:26.867Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **333**
+- [`Twitter Community`](#category-1): **336**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (333)
+### Twitter Community (336)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7609,70 +7609,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 319: 孩童在户外水龙头喝水
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 描述
-
-纪录片风格场景：一个孩子急切地从一个饱经风霜的户外墙式水龙头喝水，水花四溅。
-
-#### 提示词
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 320: 孩童在户外水龙头喝水
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 描述
-
-纪录片风格场景：一个孩子急切地从一个饱经风霜的户外墙式水龙头喝水，水花四溅。
-
-#### 提示词
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 321: 孩童在户外水龙头喝水
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076415739784044623.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076415739784044623)
-
-#### 描述
-
-纪录片风格场景：一个孩子急切地从一个饱经风霜的户外墙式水龙头喝水，水花四溅。
-
-#### 提示词
-
-```text
-Scene & Mood: Warm field documentary realism. A quiet human moment: a young child drinks urgently from a weathered outdoor wall tap, water spilling across the face and neck. Honest, tactile, natural.
-```
-
-### No. 322: GlobalGPT AI工具网站导航
+### No. 319: GlobalGPT AI工具网站导航
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7693,7 +7630,7 @@ Scene & Mood: Warm field documentary realism. A quiet human moment: a young chil
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 323: 日式电影风格AI短片
+### No. 320: 日式电影风格AI短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7714,7 +7651,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
 ```
 
-### No. 324: 日式电影风格AI短片
+### No. 321: 日式电影风格AI短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7733,6 +7670,60 @@ Misty soft light, retro film grain, pure Japanese movie texture AI short film. E
 
 ```text
 Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+```
+
+### No. 322: 动漫超级英雄降临电影感序列
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 描述
+
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
+
+#### 提示词
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 323: 动漫超级英雄降临电影感序列
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 描述
+
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
+
+#### 提示词
+
+```text
+An anime-style superhero descends from the
+```
+
+### No. 324: 动漫超级英雄降临电影感序列
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 描述
+
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
+
+#### 提示词
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 325: 动漫超级英雄降临电影感序列
@@ -7807,61 +7798,7 @@ An anime-style superhero descends from the
 An anime-style superhero descends from the
 ```
 
-### No. 329: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 330: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 331: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 332: 坠入浮空岛屿与不可能瀑布
+### No. 329: 坠入浮空岛屿与不可能瀑布
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7882,7 +7819,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 333: 承载世界的光之数字生命体
+### No. 330: 承载世界的光之数字生命体
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7902,6 +7839,130 @@ POV falling through floating islands, impossible waterfalls, and layers of a wor
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 331: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 332: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 333: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 334: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 335: 电影感黄金时刻山间俯冲
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** OpenGradient (∇, ∇)
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077071663590740155.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/OpenGradient/status/2077071663590740155)
+
+#### 描述
+
+一个史诗般的电影感空中俯冲镜头，捕捉了沐浴在黄金时刻光线下的广阔山景，最终定格在悬崖上一个孤独身影的特写。
+
+#### 提示词
+
+```text
+Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
+```
+
+### No. 336: 霓虹雨中的未来主义屋顶酒吧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alessandro Bagnuoli
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/alex_bagnuoli89/status/2077155959865004232)
+
+#### 描述
+
+一个用于生成视频场景的提示：夜晚的雨中，一位女子身处高科技屋顶酒吧，俯瞰着霓虹闪烁的未来都市。
+
+#### 提示词
+
+```text
+Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
+Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
 <a id="category-2"></a>
@@ -23969,7 +24030,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-14T06:13:32.816Z
+> 此 README 为自动生成。 2026-07-15T05:59:26.867Z
 
 ## More Atlas Cloud Tools
 

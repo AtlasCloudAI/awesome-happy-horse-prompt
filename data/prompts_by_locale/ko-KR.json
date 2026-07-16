@@ -13772,5 +13772,39 @@
       "images": [],
       "video": "media/happy-horse/x_2076996319558906273.mp4"
     }
+  },
+  {
+    "id": "x_2077353658443055170",
+    "title": "대칭적 빈티지 기발한 앤더슨 미학",
+    "description": "대칭적 구도, 빈티지한 부드러운 톤, 그리고 클래식한 웨스 앤더슨의 기발한 스타일을 담은 단편 영화를 위한 프롬프트입니다.",
+    "prompt": "Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4",
+    "author_name": "VivaReel",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/VivaReelna1/status/2077353658443055170",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077353658443055170.mp4"
+    }
+  },
+  {
+    "id": "x_2077352728464912868",
+    "title": "폭우 속 사이버펑크 옥상 전투",
+    "description": "어두운 사이버펑크 도시의 밤, 회녹색 분위기와 폭우, 젖어 반사되는 표면이 특징인 초현실적인 아이맥스 영화적 장면의 옥상 전투입니다.",
+    "prompt": "Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.\nVisual style:\nGrey-green cyberpunk atmosphere,\nheavy rain,\nwet reflective concrete rooftop,\nglass skyscrapers,\nstorm",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4",
+    "author_name": "AIReel",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/AIReelofficial/status/2077352728464912868",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077352728464912868.mp4"
+    }
   }
 ]

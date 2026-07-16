@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1136** |
+| Tong so Prompt | **1138** |
 | So danh muc | **12** |
-| Video xem truoc | **984** |
-| Cap nhat lan cuoi | **2026-07-15T05:59:26.974Z** |
+| Video xem truoc | **986** |
+| Cap nhat lan cuoi | **2026-07-16T05:51:41.411Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **424**
+- [`Twitter Community`](#category-1): **426**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (424)
+### Twitter Community (426)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9276,35 +9276,7 @@ Một gợi ý để tạo video về một phụ nữ trẻ tinh tế trong áo
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 403: Duy Trì Tính Nhất Quán Nhân Vật Từ Hình Ảnh Tải Lên
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** AIReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### Mo ta
-
-Một gợi ý để tạo video trong đó nhân vật chính duy nhất là một phụ nữ trẻ, nghiêm ngặt duy trì ngoại hình và thần thái nguyên bản của cô ấy từ một hình ảnh tham chiếu.
-
-#### Prompt
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 404: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
+### No. 403: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9324,6 +9296,27 @@ Một chỉ dẫn yêu cầu tái tạo kỹ thuật quay phim, loại cảnh qu
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 404: Chèo Kayak Qua Hẻm Núi Ẩn Mình
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Hannah Ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### Mo ta
+
+Một cảnh tượng siêu thực tế về một người chèo kayak đơn độc đang lướt qua một hẻm núi sa thạch hẹp.
+
+#### Prompt
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 405: Chèo Kayak Qua Hẻm Núi Ẩn Mình
@@ -9347,28 +9340,7 @@ Một cảnh tượng siêu thực tế về một người chèo kayak đơn đ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: Chèo Kayak Qua Hẻm Núi Ẩn Mình
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hannah Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### Mo ta
-
-Một cảnh tượng siêu thực tế về một người chèo kayak đơn độc đang lướt qua một hẻm núi sa thạch hẹp.
-
-#### Prompt
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 407: Điều Hướng Trang Web Công Cụ AI GlobalGPT
+### No. 406: Điều Hướng Trang Web Công Cụ AI GlobalGPT
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9389,46 +9361,58 @@ Video này ghi lại cảnh người dùng điều hướng trang web GlobalGPT,
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 408: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
+### No. 407: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** VivaReel
+- **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Mo ta
 
-Một gợi ý cho một bộ phim ngắn AI với ánh sáng mờ dịu, hạt nhiễu retro và kết cấu điện ảnh đặc trưng của các bộ phim Nhật Bản.
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 409: Phim Ngắn AI Theo Phong Cách Điện Ảnh Nhật Bản
+### No. 408: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** VivaReel
+- **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Mo ta
 
-Một gợi ý cho một bộ phim ngắn AI với ánh sáng mờ dịu, hạt nhiễu retro và kết cấu điện ảnh đặc trưng của các bộ phim Nhật Bản.
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 409: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Mo ta
+
+Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 410: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
@@ -9503,61 +9487,7 @@ Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime,
 An anime-style superhero descends from the
 ```
 
-### No. 414: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 415: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 416: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 417: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
+### No. 414: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9578,7 +9508,7 @@ Góc nhìn người thứ nhất của cảnh rơi xuyên qua một cảnh quan 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 418: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
+### No. 415: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9598,6 +9528,69 @@ Một gợi ý mô tả một thực thể số phát quang, mang theo và để
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 416: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 417: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 418: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Mo ta
+
+Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 419: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
@@ -9621,70 +9614,7 @@ Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người 
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 420: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 421: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 422: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 423: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
+### No. 420: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9705,7 +9635,7 @@ Cảnh quay trên không mang tính điện ảnh hoành tráng ghi lại một 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 424: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
+### No. 421: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9722,6 +9652,123 @@ Một gợi ý để tạo cảnh video về một người phụ nữ tại qu�
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 422: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AIReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Mo ta
+
+Một cảnh điện ảnh IMAX siêu thực về trận chiến trên mái nhà trong một thành phố cyberpunk tối tăm vào ban đêm với bầu không khí xám xanh, mưa lớn và các bề mặt ướt phản chiếu.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 423: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AIReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Mo ta
+
+Một cảnh điện ảnh IMAX siêu thực về trận chiến trên mái nhà trong một thành phố cyberpunk tối tăm vào ban đêm với bầu không khí xám xanh, mưa lớn và các bề mặt ướt phản chiếu.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 424: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Mo ta
+
+Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông màu mềm mại cổ điển, và phong cách lập dị kinh điển của Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 425: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Mo ta
+
+Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông màu mềm mại cổ điển, và phong cách lập dị kinh điển của Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 426: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Mo ta
+
+Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông màu mềm mại cổ điển, và phong cách lập dị kinh điển của Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24025,7 +24072,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-15T05:59:26.974Z
+> README nay duoc tao tu dong. 2026-07-16T05:51:41.411Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1136** |
+| Toplam Prompt | **1138** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **984** |
-| Son Guncelleme | **2026-07-15T05:59:27.144Z** |
+| Onizleme Videolari | **986** |
+| Son Guncelleme | **2026-07-16T05:51:41.594Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **336**
+- [`Twitter Community`](#category-1): **338**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (336)
+### Twitter Community (338)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7517,35 +7517,7 @@ Beyaz üst ve bej pantolon giymiş sofistike genç bir kadının videosunu oluş
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 315: Yüklenen Görselden Karakter Tutarlılığını Koruma
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** AIReel
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### Aciklama
-
-Referans görselindeki orijinal görünümünü ve tavrını kesinlikle koruyan, tek başrol olan genç bir kadının yer aldığı bir video oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 316: Video Sinematografisi ve Ritmini Kopyalama
+### No. 315: Video Sinematografisi ve Ritmini Kopyalama
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7565,6 +7537,27 @@ Bir referans videosunun sinematografisini, çekim türlerini, arka plan müziği
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 316: Gizli Bir Kanyonda Kano Yolculuğu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Hannah Ai
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### Aciklama
+
+Dar bir kumtaşı kanyonunda tek başına yol alan bir kanocunun hiper-gerçekçi bir sahnesi.
+
+#### Prompt
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 317: Gizli Bir Kanyonda Kano Yolculuğu
@@ -7588,28 +7581,7 @@ Dar bir kumtaşı kanyonunda tek başına yol alan bir kanocunun hiper-gerçekç
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: Gizli Bir Kanyonda Kano Yolculuğu
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** Hannah Ai
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### Aciklama
-
-Dar bir kumtaşı kanyonunda tek başına yol alan bir kanocunun hiper-gerçekçi bir sahnesi.
-
-#### Prompt
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 319: GlobalGPT AI Araçları Web Sitesi Gezinimi
+### No. 318: GlobalGPT AI Araçları Web Sitesi Gezinimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7630,46 +7602,58 @@ Bu video, bir kullanıcının GlobalGPT web sitesinde gezinerek, görüntü, vid
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 320: Japon Film Tarzı AI Kısa Filmi
+### No. 319: Anime süper kahraman iniş sinematik sahnesi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** VivaReel
+- **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Aciklama
 
-Puslu yumuşak ışık, retro gren ve Japon filmlerinin sinematik dokusuna sahip bir AI kısa filmi için prompt.
+Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 321: Japon Film Tarzı AI Kısa Filmi
+### No. 320: Anime süper kahraman iniş sinematik sahnesi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** VivaReel
+- **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Aciklama
 
-Puslu yumuşak ışık, retro gren ve Japon filmlerinin sinematik dokusuna sahip bir AI kısa filmi için prompt.
+Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 321: Anime süper kahraman iniş sinematik sahnesi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Aciklama
+
+Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 322: Anime süper kahraman iniş sinematik sahnesi
@@ -7744,61 +7728,7 @@ Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluştu
 An anime-style superhero descends from the
 ```
 
-### No. 326: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 327: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 328: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 329: Uçan adalar ve imkansız şelalelerden düşüş
+### No. 326: Uçan adalar ve imkansız şelalelerden düşüş
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7819,7 +7749,7 @@ Uçan adalar, şelaleler ve çözülen ışıklardan oluşan sürreal bir manzar
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 330: Dünyaları Taşıyan Işıltılı Dijital Varlık
+### No. 327: Dünyaları Taşıyan Işıltılı Dijital Varlık
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7839,6 +7769,69 @@ Hareket ettikçe dünyaları taşıyan ve gerçekliğe sızdıran ışıltılı 
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 328: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Aciklama
+
+Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 329: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Aciklama
+
+Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 330: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Aciklama
+
+Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 331: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
@@ -7862,70 +7855,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 332: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 333: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 334: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 335: Sinematik Altın Saat Dağ Dalışı
+### No. 332: Sinematik Altın Saat Dağ Dalışı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7946,7 +7876,7 @@ Epik bir sinematik hava dalış çekimi, altın saat ışığıyla yıkanmış u
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 336: Neon Yağmurda Fütüristik Çatı Barı
+### No. 333: Neon Yağmurda Fütüristik Çatı Barı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7963,6 +7893,123 @@ Gece yağmuru altında neonlarla ışıldayan fütüristik bir şehre bakan yük
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 334: Şiddetli yağmur altında cyberpunk çatı savaşı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AIReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Aciklama
+
+Geceleyin karanlık bir cyberpunk şehrinde, gri-yeşil atmosfer, şiddetli yağmur ve ıslak yansıtıcı yüzeylerle ultra gerçekçi bir IMAX sinematik çatı savaşı sahnesi.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 335: Şiddetli yağmur altında cyberpunk çatı savaşı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** AIReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Aciklama
+
+Geceleyin karanlık bir cyberpunk şehrinde, gri-yeşil atmosfer, şiddetli yağmur ve ıslak yansıtıcı yüzeylerle ultra gerçekçi bir IMAX sinematik çatı savaşı sahnesi.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 336: Simetrik Vintage Oyunbaz Anderson Estetiği
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** VivaReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Aciklama
+
+Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz tarzına sahip bir kısa film için bir prompt.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 337: Simetrik Vintage Oyunbaz Anderson Estetiği
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** VivaReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Aciklama
+
+Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz tarzına sahip bir kısa film için bir prompt.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 338: Simetrik Vintage Oyunbaz Anderson Estetiği
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** VivaReel
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Aciklama
+
+Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz tarzına sahip bir kısa film için bir prompt.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24030,7 +24077,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-15T05:59:27.144Z
+> Bu README otomatik uretilmistir. 2026-07-16T05:51:41.594Z
 
 ## More Atlas Cloud Tools
 

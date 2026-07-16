@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1136** |
+| Kul Prompts | **1138** |
 | Categories | **12** |
-| Preview Videos | **984** |
-| Aakhri Update | **2026-07-15T05:59:26.995Z** |
+| Preview Videos | **986** |
+| Aakhri Update | **2026-07-16T05:51:41.430Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **424**
+- [`Twitter Community`](#category-1): **426**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (424)
+### Twitter Community (426)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9276,35 +9276,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 403: अपलोड की गई छवि से चरित्र की स्थिरता बनाए रखें
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIReel
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### Varnan
-
-एक वीडियो बनाने के लिए एक प्रॉम्प्ट जिसमें एकमात्र नायिका एक युवा महिला है, जो एक संदर्भ छवि से उसकी मूल उपस्थिति और व्यवहार को सख्ती से बनाए रखती है।
-
-#### Prompt
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 404: वीडियो की सिनेमैटोग्राफी और लय की नकल करें
+### No. 403: वीडियो की सिनेमैटोग्राफी और लय की नकल करें
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9324,6 +9296,27 @@ Character demeanor/aura
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 404: एक छिपी हुई घाटी में कयाकिंग
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Hannah Ai
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### Varnan
+
+एक अकेले कयाकर द्वारा एक संकरी बलुआ पत्थर की घाटी में नौकायन करने का अतियथार्थवादी दृश्य।
+
+#### Prompt
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 405: एक छिपी हुई घाटी में कयाकिंग
@@ -9347,28 +9340,7 @@ Character demeanor/aura
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: एक छिपी हुई घाटी में कयाकिंग
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Hannah Ai
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### Varnan
-
-एक अकेले कयाकर द्वारा एक संकरी बलुआ पत्थर की घाटी में नौकायन करने का अतियथार्थवादी दृश्य।
-
-#### Prompt
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 407: ग्लोबलजीपीटी एआई टूल्स वेबसाइट नेविगेशन
+### No. 406: ग्लोबलजीपीटी एआई टूल्स वेबसाइट नेविगेशन
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9389,46 +9361,58 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 408: जापानी मूवी स्टाइल एआई शॉर्ट फिल्म
+### No. 407: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** VivaReel
+- **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Varnan
 
-धुंधली मुलायम रोशनी, रेट्रो ग्रेन और जापानी फिल्मों की सिनेमाई बनावट के साथ एक एआई शॉर्ट फिल्म के लिए एक प्रॉम्प्ट।
+एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 409: जापानी मूवी स्टाइल एआई शॉर्ट फिल्म
+### No. 408: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** VivaReel
+- **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Varnan
 
-धुंधली मुलायम रोशनी, रेट्रो ग्रेन और जापानी फिल्मों की सिनेमाई बनावट के साथ एक एआई शॉर्ट फिल्म के लिए एक प्रॉम्प्ट।
+एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 409: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Varnan
+
+एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 410: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
@@ -9503,61 +9487,7 @@ An anime-style superhero descends from the
 An anime-style superhero descends from the
 ```
 
-### No. 414: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 415: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 416: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 417: तैरते द्वीपों और असंभव झरनों से गिरना
+### No. 414: तैरते द्वीपों और असंभव झरनों से गिरना
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9578,7 +9508,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 418: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
+### No. 415: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9598,6 +9528,69 @@ POV falling through floating islands, impossible waterfalls, and layers of a wor
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 416: अजनबी ढहते शहर से मूकदर्शक को बचाता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Varnan
+
+एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 417: अजनबी ढहते शहर से मूकदर्शक को बचाता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Varnan
+
+एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 418: अजनबी ढहते शहर से मूकदर्शक को बचाता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Varnan
+
+एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 419: अजनबी ढहते शहर से मूकदर्शक को बचाता है
@@ -9621,70 +9614,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 420: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 421: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 422: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 423: सिनेमाई गोल्डन आवर पर्वत डाइव
+### No. 420: सिनेमाई गोल्डन आवर पर्वत डाइव
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9705,7 +9635,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 424: नीयन बारिश में भविष्यवादी छत वाला बार
+### No. 421: नीयन बारिश में भविष्यवादी छत वाला बार
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9722,6 +9652,123 @@ Cinematic aerial dive through misty mountain peaks at golden hour toward a lone 
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 422: भारी बारिश में साइबरपंक छत पर लड़ाई
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AIReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Varnan
+
+रात में एक अंधेरे साइबरपंक शहर में छत पर लड़ाई का एक अति-यथार्थवादी आईमैक्स सिनेमाई दृश्य, जिसमें भूरे-हरे वातावरण, भारी बारिश और गीली चमकदार सतहें हैं।
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 423: भारी बारिश में साइबरपंक छत पर लड़ाई
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AIReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Varnan
+
+रात में एक अंधेरे साइबरपंक शहर में छत पर लड़ाई का एक अति-यथार्थवादी आईमैक्स सिनेमाई दृश्य, जिसमें भूरे-हरे वातावरण, भारी बारिश और गीली चमकदार सतहें हैं।
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 424: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Varnan
+
+एक लघु फिल्म के लिए एक प्रॉम्प्ट जिसमें सममित फ्रेमिंग, विन्टेज मुलायम टोन और क्लासिक वेस एंडरसन की विचित्र शैली है।
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 425: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Varnan
+
+एक लघु फिल्म के लिए एक प्रॉम्प्ट जिसमें सममित फ्रेमिंग, विन्टेज मुलायम टोन और क्लासिक वेस एंडरसन की विचित्र शैली है।
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 426: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Varnan
+
+एक लघु फिल्म के लिए एक प्रॉम्प्ट जिसमें सममित फ्रेमिंग, विन्टेज मुलायम टोन और क्लासिक वेस एंडरसन की विचित्र शैली है।
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24025,7 +24072,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-15T05:59:26.995Z
+> Yeh README auto-generated hai. 2026-07-16T05:51:41.430Z
 
 ## More Atlas Cloud Tools
 

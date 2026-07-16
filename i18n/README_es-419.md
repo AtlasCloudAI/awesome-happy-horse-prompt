@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una coleccion curada de prompts de Happy Horse 1.0 obtenidos del ecosistema de prompts de AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Cantidad |
 |--------|-------|
-| Prompts Totales | **1136** |
+| Prompts Totales | **1138** |
 | Categorias | **13** |
-| Videos de Vista Previa | **984** |
-| Ultima Actualizacion | **2026-07-15T05:59:27.032Z** |
+| Videos de Vista Previa | **986** |
+| Ultima Actualizacion | **2026-07-16T05:51:41.469Z** |
 
 ## 🏷️ Explorar por Categoria
 
-- [`Twitter Community`](#category-1): **336**
+- [`Twitter Community`](#category-1): **338**
 - [`Lote creativo de HappyHorse`](#category-2): **240**
 - [`Comunidad de Twitter`](#category-3): **88**
 - [`Audio y Síntesis de Voz`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (336)
+### Twitter Community (338)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7517,35 +7517,7 @@ Un prompt para generar un video de una mujer joven y sofisticada con una blusa b
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 315: Mantener la Consistencia del Personaje desde una Imagen Cargada
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** AIReel
-- **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### Descripcion
-
-Una indicación para generar un video donde la única protagonista es una mujer joven, manteniendo estrictamente su apariencia y actitud originales de una imagen de referencia.
-
-#### Prompt
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 316: Replicar la Cinematografía y el Ritmo de un Video
+### No. 315: Replicar la Cinematografía y el Ritmo de un Video
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7565,6 +7537,27 @@ Una instrucción para replicar la cinematografía, tipos de plano, música de fo
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 316: Kayak a Través de un Cañón Oculto
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Hannah Ai
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### Descripcion
+
+Una escena hiperrealista de un kayakista solitario navegando por un estrecho cañón de arenisca.
+
+#### Prompt
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 317: Kayak a Través de un Cañón Oculto
@@ -7588,28 +7581,7 @@ Una escena hiperrealista de un kayakista solitario navegando por un estrecho ca�
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: Kayak a Través de un Cañón Oculto
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** Hannah Ai
-- **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### Descripcion
-
-Una escena hiperrealista de un kayakista solitario navegando por un estrecho cañón de arenisca.
-
-#### Prompt
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 319: Navegación por el sitio web de herramientas de IA GlobalGPT
+### No. 318: Navegación por el sitio web de herramientas de IA GlobalGPT
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7630,46 +7602,58 @@ Este video captura a un usuario navegando por el sitio web de GlobalGPT, mostran
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 320: Cortometraje con IA al Estilo de Cine Japonés
+### No. 319: Secuencia cinematográfica de un superhéroe de anime descendiendo
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
-- **Autor:** VivaReel
+- **Autor:** PSS
 - **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Descripcion
 
-Un prompt para un cortometraje de IA con luz suave y neblinosa, grano retro y la textura cinematográfica de las películas japonesas.
+Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 321: Cortometraje con IA al Estilo de Cine Japonés
+### No. 320: Secuencia cinematográfica de un superhéroe de anime descendiendo
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
-- **Autor:** VivaReel
+- **Autor:** PSS
 - **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/VivaReelna1/status/2076626065246822589)
+- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
 
 #### Descripcion
 
-Un prompt para un cortometraje de IA con luz suave y neblinosa, grano retro y la textura cinematográfica de las películas japonesas.
+Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
 
 #### Prompt
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 321: Secuencia cinematográfica de un superhéroe de anime descendiendo
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** PSS
+- **Idioma:** `es-419`
+- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
+
+#### Descripcion
+
+Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
+
+#### Prompt
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 322: Secuencia cinematográfica de un superhéroe de anime descendiendo
@@ -7744,61 +7728,7 @@ Un prompt para generar una escena cinematográfica al estilo anime de un superh�
 An anime-style superhero descends from the
 ```
 
-### No. 326: Secuencia cinematográfica de un superhéroe de anime descendiendo
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** PSS
-- **Idioma:** `es-419`
-- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descripcion
-
-Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 327: Secuencia cinematográfica de un superhéroe de anime descendiendo
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** PSS
-- **Idioma:** `es-419`
-- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descripcion
-
-Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 328: Secuencia cinematográfica de un superhéroe de anime descendiendo
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** PSS
-- **Idioma:** `es-419`
-- **Enlace de Origen:** [Ver](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descripcion
-
-Un prompt para generar una escena cinematográfica al estilo anime de un superhéroe descendiendo.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 329: Cayendo a través de islas flotantes y cascadas imposibles
+### No. 326: Cayendo a través de islas flotantes y cascadas imposibles
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7819,7 +7749,7 @@ Una vista en primera persona de caer a través de un paisaje surrealista de isla
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 330: Ser Digital Luminoso que Transporta Mundos
+### No. 327: Ser Digital Luminoso que Transporta Mundos
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7839,6 +7769,69 @@ Un prompt que describe a un ser digital luminoso que transporta y filtra mundos 
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 328: Desconocido rescata a transeúnte de ciudad colapsando
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** BMX
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descripcion
+
+Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 329: Desconocido rescata a transeúnte de ciudad colapsando
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** BMX
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descripcion
+
+Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 330: Desconocido rescata a transeúnte de ciudad colapsando
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** BMX
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### Descripcion
+
+Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
+
+#### Prompt
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 331: Desconocido rescata a transeúnte de ciudad colapsando
@@ -7862,70 +7855,7 @@ Un prompt de video que representa un desesperado rescate de un aterrorizado tran
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 332: Desconocido rescata a transeúnte de ciudad colapsando
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** BMX
-- **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descripcion
-
-Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 333: Desconocido rescata a transeúnte de ciudad colapsando
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** BMX
-- **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descripcion
-
-Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 334: Desconocido rescata a transeúnte de ciudad colapsando
-
-- **Categoria:** `Twitter Community`
-- **Fuente:** `x`
-- **Autor:** BMX
-- **Idioma:** `es-419`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Enlace de Origen:** [Ver](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descripcion
-
-Un prompt de video que representa un desesperado rescate de un aterrorizado transeúnte de una manzana de la ciudad que se derrumba, realizado por un desconocido.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 335: Inmersión Cinematográfica en la Montaña a la Hora Dorada
+### No. 332: Inmersión Cinematográfica en la Montaña a la Hora Dorada
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7946,7 +7876,7 @@ Una toma aérea de inmersión épica y cinematográfica captura un vasto paisaje
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 336: Bar Futurista en la Azotea bajo Lluvia Neón
+### No. 333: Bar Futurista en la Azotea bajo Lluvia Neón
 
 - **Categoria:** `Twitter Community`
 - **Fuente:** `x`
@@ -7963,6 +7893,123 @@ Un prompt para generar una escena de video de una mujer en un bar de alta tecnol
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 334: Batalla en azotea cyberpunk bajo lluvia intensa
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** AIReel
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Descripcion
+
+Una escena cinematográfica ultrarealista en formato IMAX de una batalla en una azotea en una ciudad cyberpunk oscura durante la noche, con una atmósfera gris verdosa, lluvia intensa y superficies húmedas reflectantes.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 335: Batalla en azotea cyberpunk bajo lluvia intensa
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** AIReel
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Descripcion
+
+Una escena cinematográfica ultrarealista en formato IMAX de una batalla en una azotea en una ciudad cyberpunk oscura durante la noche, con una atmósfera gris verdosa, lluvia intensa y superficies húmedas reflectantes.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 336: Estética Vintage Simétrica y Caprichosa al Estilo Anderson
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Descripcion
+
+Una propuesta para un cortometraje con encuadre simétrico, tonos suaves vintage y el estilo clásico caprichoso de Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 337: Estética Vintage Simétrica y Caprichosa al Estilo Anderson
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Descripcion
+
+Una propuesta para un cortometraje con encuadre simétrico, tonos suaves vintage y el estilo clásico caprichoso de Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 338: Estética Vintage Simétrica y Caprichosa al Estilo Anderson
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `es-419`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### Descripcion
+
+Una propuesta para un cortometraje con encuadre simétrico, tonos suaves vintage y el estilo clásico caprichoso de Wes Anderson.
+
+#### Prompt
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24086,7 +24133,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README se genera automaticamente. 2026-07-15T05:59:27.032Z
+> Este README se genera automaticamente. 2026-07-16T05:51:41.469Z
 
 ## More Atlas Cloud Tools
 

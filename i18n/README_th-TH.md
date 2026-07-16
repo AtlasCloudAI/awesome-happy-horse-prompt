@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1136** |
+| พรอมต์ทั้งหมด | **1138** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **984** |
-| อัปเดตล่าสุด | **2026-07-15T05:59:26.955Z** |
+| วิดีโอตัวอย่าง | **986** |
+| อัปเดตล่าสุด | **2026-07-16T05:51:41.391Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **424**
+- [`Twitter Community`](#category-1): **426**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (424)
+### Twitter Community (426)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9276,35 +9276,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 403: รักษาความสม่ำเสมอของตัวละครจากรูปภาพที่อัปโหลด
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** AIReel
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### คำอธิบาย
-
-คำสั่งสำหรับการสร้างวิดีโอซึ่งมีตัวเอกเพียงคนเดียวคือหญิงสาว โดยต้องรักษารูปลักษณ์และท่าทางเดิมจากรูปอ้างอิงอย่างเคร่งครัด
-
-#### พรอมต์
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 404: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
+### No. 403: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9324,6 +9296,27 @@ Character demeanor/aura
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 404: พายเรือคายัคผ่านหุบเขาลับ
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Hannah Ai
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### คำอธิบาย
+
+ภาพฉากเหมือนจริงสุดขีดของนักพายเรือคายัคเพียงลำพังที่กำลังล่องผ่านหุบเขาหินทรายแคบ ๆ
+
+#### พรอมต์
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 405: พายเรือคายัคผ่านหุบเขาลับ
@@ -9347,28 +9340,7 @@ Character demeanor/aura
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: พายเรือคายัคผ่านหุบเขาลับ
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** Hannah Ai
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### คำอธิบาย
-
-ภาพฉากเหมือนจริงสุดขีดของนักพายเรือคายัคเพียงลำพังที่กำลังล่องผ่านหุบเขาหินทรายแคบ ๆ
-
-#### พรอมต์
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 407: การนำทางเว็บไซต์เครื่องมือเอไอ GlobalGPT
+### No. 406: การนำทางเว็บไซต์เครื่องมือเอไอ GlobalGPT
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9389,46 +9361,58 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 408: ภาพยนตร์สั้นเอไอสไตล์ภาพยนตร์ญี่ปุ่น
+### No. 407: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** VivaReel
+- **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2076626065246822589)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับภาพยนตร์สั้นเอไอที่มีแสงอ่อนนุ่มเป็นหมอก เกรนย้อนยุค และพื้นผิวภาพยนตร์แบบภาพยนตร์ญี่ปุ่น
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
 
 #### พรอมต์
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 409: ภาพยนตร์สั้นเอไอสไตล์ภาพยนตร์ญี่ปุ่น
+### No. 408: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** VivaReel
+- **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2076626065246822589)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับภาพยนตร์สั้นเอไอที่มีแสงอ่อนนุ่มเป็นหมอก เกรนย้อนยุค และพื้นผิวภาพยนตร์แบบภาพยนตร์ญี่ปุ่น
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
 
 #### พรอมต์
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 409: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
+
+#### พรอมต์
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 410: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
@@ -9503,61 +9487,7 @@ An anime-style superhero descends from the
 An anime-style superhero descends from the
 ```
 
-### No. 414: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 415: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 416: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 417: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
+### No. 414: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9578,7 +9508,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 418: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
+### No. 415: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9598,6 +9528,69 @@ POV falling through floating islands, impossible waterfalls, and layers of a wor
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 416: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### คำอธิบาย
+
+คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
+
+#### พรอมต์
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 417: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### คำอธิบาย
+
+คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
+
+#### พรอมต์
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 418: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### คำอธิบาย
+
+คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
+
+#### พรอมต์
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 419: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
@@ -9621,70 +9614,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 420: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 421: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 422: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 423: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
+### No. 420: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9705,7 +9635,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 424: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
+### No. 421: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9722,6 +9652,123 @@ Cinematic aerial dive through misty mountain peaks at golden hour toward a lone 
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 422: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### คำอธิบาย
+
+ฉากภาพยนตร์ระดับ IMAX แบบสมจริงสุดขีดของการต่อสู้นอกสถานที่บนดาดฟ้าในเมืองไซเบอร์พังก์อันมืดมิดยามค่ำคืน ด้วยบรรยากาศสีเทา-เขียว ฝนตกหนัก และพื้นผิวเปียกชุ่มสะท้อนแสง
+
+#### พรอมต์
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 423: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** AIReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### คำอธิบาย
+
+ฉากภาพยนตร์ระดับ IMAX แบบสมจริงสุดขีดของการต่อสู้นอกสถานที่บนดาดฟ้าในเมืองไซเบอร์พังก์อันมืดมิดยามค่ำคืน ด้วยบรรยากาศสีเทา-เขียว ฝนตกหนัก และพื้นผิวเปียกชุ่มสะท้อนแสง
+
+#### พรอมต์
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 424: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VivaReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### คำอธิบาย
+
+แนวทางการสร้างภาพยนตร์สั้นด้วยการจัดองค์ประกอบภาพแบบสมมาตร โทนสีวินเทจอ่อนนุ่ม และสไตล์แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+#### พรอมต์
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 425: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VivaReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### คำอธิบาย
+
+แนวทางการสร้างภาพยนตร์สั้นด้วยการจัดองค์ประกอบภาพแบบสมมาตร โทนสีวินเทจอ่อนนุ่ม และสไตล์แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+#### พรอมต์
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 426: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** VivaReel
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### คำอธิบาย
+
+แนวทางการสร้างภาพยนตร์สั้นด้วยการจัดองค์ประกอบภาพแบบสมมาตร โทนสีวินเทจอ่อนนุ่ม และสไตล์แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+
+#### พรอมต์
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24025,7 +24072,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-15T05:59:26.955Z
+> README นี้สร้างอัตโนมัติ 2026-07-16T05:51:41.391Z
 
 ## More Atlas Cloud Tools
 

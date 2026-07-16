@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1136%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1136** |
+| 提示词总数 | **1138** |
 | 分类数 | **13** |
-| 预览视频数 | **984** |
-| 最后更新 | **2026-07-15T05:59:26.867Z** |
+| 预览视频数 | **986** |
+| 最后更新 | **2026-07-16T05:51:41.302Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **336**
+- [`Twitter Community`](#category-1): **338**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (336)
+### Twitter Community (338)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7517,35 +7517,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
 ```
 
-### No. 315: 保持上传图像中角色的一致性
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** AIReel
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075547835479540083.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/AIReelofficial/status/2075547835479540083)
-
-#### 描述
-
-一个用于生成视频的提示，其中唯一主角是一位年轻女性，严格保持她在参考图像中的原始外貌和举止。
-
-#### 提示词
-
-```text
-Character Setup (Maintaining IP Consistency)
-The young woman from the uploaded image is the sole protagonist of the video.
-Strictly maintain:
-Original facial features
-Hairstyle
-Outfit
-Body proportions
-Character demeanor/aura
-```
-
-### No. 316: 复刻视频的摄影手法与节奏
+### No. 315: 复刻视频的摄影手法与节奏
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7565,6 +7537,27 @@ Character demeanor/aura
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 316: 穿越隐秘峡谷的皮划艇之旅
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Hannah Ai
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### 描述
+
+一幅超写实场景，描绘了一位独行皮划艇手在狭窄的砂岩峡谷中穿行。
+
+#### 提示词
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 317: 穿越隐秘峡谷的皮划艇之旅
@@ -7588,28 +7581,7 @@ Character demeanor/aura
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: 穿越隐秘峡谷的皮划艇之旅
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Hannah Ai
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### 描述
-
-一幅超写实场景，描绘了一位独行皮划艇手在狭窄的砂岩峡谷中穿行。
-
-#### 提示词
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 319: GlobalGPT AI工具网站导航
+### No. 318: GlobalGPT AI工具网站导航
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7630,46 +7602,58 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 320: 日式电影风格AI短片
+### No. 319: 动漫超级英雄降临电影感序列
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** VivaReel
+- **作者:** PSS
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/VivaReelna1/status/2076626065246822589)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
 
 #### 描述
 
-一个用于AI短片的提示，具有朦胧柔光、复古颗粒感和日本电影的胶片质感。
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
 
 #### 提示词
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
 ```
 
-### No. 321: 日式电影风格AI短片
+### No. 320: 动漫超级英雄降临电影感序列
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** VivaReel
+- **作者:** PSS
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076626065246822589.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/VivaReelna1/status/2076626065246822589)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
 
 #### 描述
 
-一个用于AI短片的提示，具有朦胧柔光、复古颗粒感和日本电影的胶片质感。
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
 
 #### 提示词
 
 ```text
-Misty soft light, retro film grain, pure Japanese movie texture AI short film. Exclusive filters for Hirokazu Uesugi and Makoto Shinkai, turning gentle stories in their minds into images.
+An anime-style superhero descends from the
+```
+
+### No. 321: 动漫超级英雄降临电影感序列
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
+
+#### 描述
+
+一个用于生成动漫风格超级英雄降临电影感场景的提示。
+
+#### 提示词
+
+```text
+An anime-style superhero descends from the
 ```
 
 ### No. 322: 动漫超级英雄降临电影感序列
@@ -7744,61 +7728,7 @@ An anime-style superhero descends from the
 An anime-style superhero descends from the
 ```
 
-### No. 326: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 327: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 328: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 329: 坠入浮空岛屿与不可能瀑布
+### No. 326: 坠入浮空岛屿与不可能瀑布
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7819,7 +7749,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 330: 承载世界的光之数字生命体
+### No. 327: 承载世界的光之数字生命体
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7839,6 +7769,69 @@ POV falling through floating islands, impossible waterfalls, and layers of a wor
 ```text
 Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
+```
+
+### No. 328: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 329: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
+```
+
+### No. 330: 陌生人在坍塌城市中营救旁观者
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
+
+#### 描述
+
+一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
+
+#### 提示词
+
+```text
+Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
 ### No. 331: 陌生人在坍塌城市中营救旁观者
@@ -7862,70 +7855,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
 ```
 
-### No. 332: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 333: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 334: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 335: 电影感黄金时刻山间俯冲
+### No. 332: 电影感黄金时刻山间俯冲
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7946,7 +7876,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 336: 霓虹雨中的未来主义屋顶酒吧
+### No. 333: 霓虹雨中的未来主义屋顶酒吧
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7963,6 +7893,123 @@ Cinematic aerial dive through misty mountain peaks at golden hour toward a lone 
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 334: 暴雨中的赛博朋克屋顶激战
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### 描述
+
+一个超现实的IMAX电影级场景，描绘了夜晚黑暗赛博朋克城市中屋顶上的战斗，氛围灰绿，暴雨倾盆，表面湿滑反光。
+
+#### 提示词
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 335: 暴雨中的赛博朋克屋顶激战
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** AIReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### 描述
+
+一个超现实的IMAX电影级场景，描绘了夜晚黑暗赛博朋克城市中屋顶上的战斗，氛围灰绿，暴雨倾盆，表面湿滑反光。
+
+#### 提示词
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
+```
+
+### No. 336: 对称复古奇幻安德森美学
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** VivaReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### 描述
+
+一部短片的概念，采用对称构图、复古柔色调和经典的韦斯·安德森奇幻风格。
+
+#### 提示词
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 337: 对称复古奇幻安德森美学
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** VivaReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### 描述
+
+一部短片的概念，采用对称构图、复古柔色调和经典的韦斯·安德森奇幻风格。
+
+#### 提示词
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 338: 对称复古奇幻安德森美学
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** VivaReel
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/VivaReelna1/status/2077353658443055170)
+
+#### 描述
+
+一部短片的概念，采用对称构图、复古柔色调和经典的韦斯·安德森奇幻风格。
+
+#### 提示词
+
+```text
+Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
 <a id="category-2"></a>
@@ -24030,7 +24077,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-15T05:59:26.867Z
+> 此 README 为自动生成。 2026-07-16T05:51:41.302Z
 
 ## More Atlas Cloud Tools
 

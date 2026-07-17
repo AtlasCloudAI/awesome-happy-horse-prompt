@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "Style Caméscope Nostalgique avec une Jeune Femme",
+    "description": "Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "fr-FR",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "Une Tempête Apparaît sur les Écrans de Téléphone du Public",
+    "description": "Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "fr-FR",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "Vidéo IA de la Star Préférée de la Coupe du Monde",
+    "description": "Une instruction pour une vidéo IA afin de créer une vidéo originale mettant en vedette une star favorite du football de la Coupe du Monde 2026.",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "fr-FR",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

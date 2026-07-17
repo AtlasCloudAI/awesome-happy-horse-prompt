@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1138** |
+| Nombre Total de Prompts | **1141** |
 | Categories | **13** |
-| Videos d'Apercu | **986** |
-| Derniere Mise a Jour | **2026-07-16T05:51:41.508Z** |
+| Videos d'Apercu | **987** |
+| Derniere Mise a Jour | **2026-07-17T05:57:56.810Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **338**
+- [`Twitter Community`](#category-1): **341**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (338)
+### Twitter Community (341)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7602,133 +7602,7 @@ Cette vidéo capture un utilisateur naviguant sur le site web de GlobalGPT, pré
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 320: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 321: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 322: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 323: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 324: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 325: Séquence cinématographique de descente d'un super-héros anime
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** PSS
-- **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-Une prompte pour générer une scène cinématographique de style anime d'un super-héros en train de descendre.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 326: Chute à travers des îles flottantes et des cascades impossibles
+### No. 319: Chute à travers des îles flottantes et des cascades impossibles
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7749,7 +7623,7 @@ Une vue à la première personne d'une chute à travers un paysage surréaliste 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 327: Être numérique lumineux portant des mondes
+### No. 320: Être numérique lumineux portant des mondes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7771,91 +7645,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 328: Un inconnu sauve un passant d'une ville qui s'effondre
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** BMX
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-Une consigne vidéo dépeignant le sauvetage désespéré d'un passant terrifié d'un pâté de maisons en train de s'effondrer, par un inconnu.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 329: Un inconnu sauve un passant d'une ville qui s'effondre
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** BMX
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-Une consigne vidéo dépeignant le sauvetage désespéré d'un passant terrifié d'un pâté de maisons en train de s'effondrer, par un inconnu.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 330: Un inconnu sauve un passant d'une ville qui s'effondre
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** BMX
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-Une consigne vidéo dépeignant le sauvetage désespéré d'un passant terrifié d'un pâté de maisons en train de s'effondrer, par un inconnu.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 331: Un inconnu sauve un passant d'une ville qui s'effondre
-
-- **Categorie:** `Twitter Community`
-- **Source:** `x`
-- **Auteur:** BMX
-- **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-Une consigne vidéo dépeignant le sauvetage désespéré d'un passant terrifié d'un pâté de maisons en train de s'effondrer, par un inconnu.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 332: Plongée cinématographique en montagne à l'heure dorée
+### No. 321: Plongée cinématographique en montagne à l'heure dorée
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7876,7 +7666,7 @@ Un plan aérien de plongée cinématographique épique capture un vaste paysage 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 333: Bar futuriste sur le toit sous une pluie néon
+### No. 322: Bar futuriste sur le toit sous une pluie néon
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7895,7 +7685,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 334: Combat sur un toit cyberpunk sous une pluie battante
+### No. 323: Combat sur un toit cyberpunk sous une pluie battante
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7922,7 +7712,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 335: Combat sur un toit cyberpunk sous une pluie battante
+### No. 324: Combat sur un toit cyberpunk sous une pluie battante
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7949,7 +7739,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 336: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
+### No. 325: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7970,7 +7760,7 @@ Un scénario pour un court métrage avec un cadrage symétrique, des tons doux v
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 337: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
+### No. 326: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -7991,7 +7781,7 @@ Un scénario pour un court métrage avec un cadrage symétrique, des tons doux v
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 338: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
+### No. 327: Symétrie Vintage et Esthétique Fantaisiste à la Anderson
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
@@ -8010,6 +7800,273 @@ Un scénario pour un court métrage avec un cadrage symétrique, des tons doux v
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 328: Vidéo IA de la Star Préférée de la Coupe du Monde
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Bin
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Description
+
+Une instruction pour une vidéo IA afin de créer une vidéo originale mettant en vedette une star favorite du football de la Coupe du Monde 2026.
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 329: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 330: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 331: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 332: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 333: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 334: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 335: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 336: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 337: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 338: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 339: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 340: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 341: Style Caméscope Nostalgique avec une Jeune Femme
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24133,7 +24190,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-07-16T05:51:41.508Z
+> Ce README est genere automatiquement. 2026-07-17T05:57:56.810Z
 
 ## More Atlas Cloud Tools
 

@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "Nostalgischer Camcorder-Look mit junger Frau",
+    "description": "Ein Prompt für Happy Horse 1.1, um ein Video im Stil einer Consumer-Camcorder-Ästhetik zu erstellen, inklusive Handkamera-Wacklern und Autofokus-Suche, mit einer jungen Bäuerin.",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "de-DE",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "Sturm erscheint auf den Handybildschirmen des Publikums",
+    "description": "Ein Video-Prompt, bei dem ein Sturmeffekt von den Handybildschirmen eines Kinopublikums ausgeht.",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "de-DE",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "KI-Video des Lieblingsstars der Weltmeisterschaft",
+    "description": "Ein KI-Video-Prompt, um ein originelles Video mit einem Lieblingsfußballstar der WM 2026 zu erstellen.",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "de-DE",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

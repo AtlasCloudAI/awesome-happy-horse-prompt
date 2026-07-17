@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una raccolta curata di prompt Happy Horse 1.0 provenienti dall'ecosistema di prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt Totali | **1138** |
+| Prompt Totali | **1141** |
 | Categorie | **12** |
-| Video di Anteprima | **986** |
-| Ultimo Aggiornamento | **2026-07-16T05:51:41.528Z** |
+| Video di Anteprima | **987** |
+| Ultimo Aggiornamento | **2026-07-17T05:57:56.828Z** |
 
 ## 🏷️ Sfoglia per Categoria
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9361,133 +9361,7 @@ Questo video mostra un utente che naviga il sito web di GlobalGPT, presentando i
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: Sequenza cinematografica di discesa di un supereroe in stile anime
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** PSS
-- **Lingua:** `it-IT`
-- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Descrizione
-
-Un prompt per generare una scena cinematografica in stile anime di un supereroe che discende.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: Caduta attraverso isole fluttuanti e cascate impossibili
+### No. 407: Caduta attraverso isole fluttuanti e cascate impossibili
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9508,7 +9382,7 @@ Una vista in prima persona di una caduta attraverso un paesaggio surreale di iso
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: Essere Digitale Luminoso che Trasporta Mondi
+### No. 408: Essere Digitale Luminoso che Trasporta Mondi
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: Uno sconosciuto salva un passante dal crollo della città
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** BMX
-- **Lingua:** `it-IT`
-- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descrizione
-
-Una prompt video che raffigura un disperato salvataggio di un passante terrorizzato da un isolato cittadino in crollo, operato da uno sconosciuto.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: Uno sconosciuto salva un passante dal crollo della città
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** BMX
-- **Lingua:** `it-IT`
-- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descrizione
-
-Una prompt video che raffigura un disperato salvataggio di un passante terrorizzato da un isolato cittadino in crollo, operato da uno sconosciuto.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: Uno sconosciuto salva un passante dal crollo della città
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** BMX
-- **Lingua:** `it-IT`
-- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descrizione
-
-Una prompt video che raffigura un disperato salvataggio di un passante terrorizzato da un isolato cittadino in crollo, operato da uno sconosciuto.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: Uno sconosciuto salva un passante dal crollo della città
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autore:** BMX
-- **Lingua:** `it-IT`
-- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Descrizione
-
-Una prompt video che raffigura un disperato salvataggio di un passante terrorizzato da un isolato cittadino in crollo, operato da uno sconosciuto.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: Tuffo Cinematografico nella Montagna all'Ora d'Oro
+### No. 409: Tuffo Cinematografico nella Montagna all'Ora d'Oro
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9635,7 +9425,7 @@ Una ripresa aerea cinematografica ed epica cattura un vasto paesaggio montano im
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: Bar Futuristico sul Tetto nella Pioggia Neon
+### No. 410: Bar Futuristico sul Tetto nella Pioggia Neon
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: Battaglia sul tetto in stile cyberpunk sotto la pioggia battente
+### No. 411: Battaglia sul tetto in stile cyberpunk sotto la pioggia battente
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: Battaglia sul tetto in stile cyberpunk sotto la pioggia battente
+### No. 412: Battaglia sul tetto in stile cyberpunk sotto la pioggia battente
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: Estetica Vintage Simmetrica e Capricciosa alla Anderson
+### No. 413: Estetica Vintage Simmetrica e Capricciosa alla Anderson
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9729,7 +9519,7 @@ Una traccia per un cortometraggio con inquadratura simmetrica, toni morbidi vint
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: Estetica Vintage Simmetrica e Capricciosa alla Anderson
+### No. 414: Estetica Vintage Simmetrica e Capricciosa alla Anderson
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9750,7 +9540,7 @@ Una traccia per un cortometraggio con inquadratura simmetrica, toni morbidi vint
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: Estetica Vintage Simmetrica e Capricciosa alla Anderson
+### No. 415: Estetica Vintage Simmetrica e Capricciosa alla Anderson
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9769,6 +9559,273 @@ Una traccia per un cortometraggio con inquadratura simmetrica, toni morbidi vint
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: Video IA della Stella Preferita dei Mondiali
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Bin
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Descrizione
+
+Un prompt per video IA per creare un video originale che ritragga una stella preferita del calcio dei Mondiali 2026.
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: Tempesta Appare sugli Schermi dei Telefoni del Pubblico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** BMX
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Descrizione
+
+Un prompt video in cui un effetto tempesta emerge dagli schermi dei telefoni del pubblico di un cinema.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: Tempesta Appare sugli Schermi dei Telefoni del Pubblico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** BMX
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Descrizione
+
+Un prompt video in cui un effetto tempesta emerge dagli schermi dei telefoni del pubblico di un cinema.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: Tempesta Appare sugli Schermi dei Telefoni del Pubblico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** BMX
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Descrizione
+
+Un prompt video in cui un effetto tempesta emerge dagli schermi dei telefoni del pubblico di un cinema.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: Tempesta Appare sugli Schermi dei Telefoni del Pubblico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** BMX
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Descrizione
+
+Un prompt video in cui un effetto tempesta emerge dagli schermi dei telefoni del pubblico di un cinema.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: Tempesta Appare sugli Schermi dei Telefoni del Pubblico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** BMX
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Descrizione
+
+Un prompt video in cui un effetto tempesta emerge dagli schermi dei telefoni del pubblico di un cinema.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: Stile Videocamera Vintage con Giovane Donna
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** PSS
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Descrizione
+
+Un prompt per Happy Horse 1.1 per creare un video con un'estetica da videocamera consumer, inclusi tremolii a mano e inseguimento dell'autofocus, che ritrae una giovane contadina.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24072,7 +24129,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-07-16T05:51:41.528Z
+> Questo README e generato automaticamente. 2026-07-17T05:57:56.828Z
 
 ## More Atlas Cloud Tools
 

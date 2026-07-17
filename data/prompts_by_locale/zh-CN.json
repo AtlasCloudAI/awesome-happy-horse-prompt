@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "怀旧摄像机风格与年轻女性",
+    "description": "一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "风暴从观众手机屏幕涌现",
+    "description": "一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "最喜爱世界杯球星的AI视频",
+    "description": "一个AI视频提示，用于创作一部以2026年世界杯最喜爱的足球明星为主角的原创视频。",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

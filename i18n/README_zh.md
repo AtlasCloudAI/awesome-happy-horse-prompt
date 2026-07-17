@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1138** |
+| 提示词总数 | **1141** |
 | 分类数 | **13** |
-| 预览视频数 | **986** |
-| 最后更新 | **2026-07-16T05:51:41.302Z** |
+| 预览视频数 | **987** |
+| 最后更新 | **2026-07-17T05:57:56.596Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **338**
+- [`Twitter Community`](#category-1): **341**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (338)
+### Twitter Community (341)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7602,133 +7602,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 320: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 321: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 322: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 323: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 324: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 325: 动漫超级英雄降临电影感序列
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 描述
-
-一个用于生成动漫风格超级英雄降临电影感场景的提示。
-
-#### 提示词
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 326: 坠入浮空岛屿与不可能瀑布
+### No. 319: 坠入浮空岛屿与不可能瀑布
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7749,7 +7623,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 327: 承载世界的光之数字生命体
+### No. 320: 承载世界的光之数字生命体
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7771,91 +7645,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 328: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 329: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 330: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 331: 陌生人在坍塌城市中营救旁观者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** BMX
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 描述
-
-一个视频提示，描绘了一位陌生人从正在坍塌的城市街区中，绝望地营救出一名惊恐的旁观者。
-
-#### 提示词
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 332: 电影感黄金时刻山间俯冲
+### No. 321: 电影感黄金时刻山间俯冲
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7876,7 +7666,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 333: 霓虹雨中的未来主义屋顶酒吧
+### No. 322: 霓虹雨中的未来主义屋顶酒吧
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7895,7 +7685,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 334: 暴雨中的赛博朋克屋顶激战
+### No. 323: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7922,7 +7712,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 335: 暴雨中的赛博朋克屋顶激战
+### No. 324: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7949,7 +7739,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 336: 对称复古奇幻安德森美学
+### No. 325: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7970,7 +7760,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 337: 对称复古奇幻安德森美学
+### No. 326: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7991,7 +7781,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 338: 对称复古奇幻安德森美学
+### No. 327: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -8010,6 +7800,273 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 328: 最喜爱世界杯球星的AI视频
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Bin
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### 描述
+
+一个AI视频提示，用于创作一部以2026年世界杯最喜爱的足球明星为主角的原创视频。
+
+#### 提示词
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 329: 风暴从观众手机屏幕涌现
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 描述
+
+一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+
+#### 提示词
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 330: 风暴从观众手机屏幕涌现
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 描述
+
+一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+
+#### 提示词
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 331: 风暴从观众手机屏幕涌现
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 描述
+
+一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+
+#### 提示词
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 332: 风暴从观众手机屏幕涌现
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 描述
+
+一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+
+#### 提示词
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 333: 风暴从观众手机屏幕涌现
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 描述
+
+一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+
+#### 提示词
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 334: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 335: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 336: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 337: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 338: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 339: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 340: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 341: 怀旧摄像机风格与年轻女性
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 描述
+
+一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+
+#### 提示词
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24077,7 +24134,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-16T05:51:41.302Z
+> 此 README 为自动生成。 2026-07-17T05:57:56.596Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1138** |
+| Tong so Prompt | **1141** |
 | So danh muc | **12** |
-| Video xem truoc | **986** |
-| Cap nhat lan cuoi | **2026-07-16T05:51:41.411Z** |
+| Video xem truoc | **987** |
+| Cap nhat lan cuoi | **2026-07-17T05:57:56.708Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9361,133 +9361,7 @@ Video này ghi lại cảnh người dùng điều hướng trang web GlobalGPT,
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: Phân cảnh điện ảnh siêu anh hùng anime đáp xuống
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Mo ta
-
-Một gợi ý để tạo ra một cảnh điện ảnh theo phong cách anime, miêu tả một siêu anh hùng đang đáp xuống.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
+### No. 407: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9508,7 +9382,7 @@ Góc nhìn người thứ nhất của cảnh rơi xuyên qua một cảnh quan 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
+### No. 408: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: Người lạ giải cứu người qua đường khỏi thành phố đổ sập
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Mo ta
-
-Một gợi ý video mô tả cảnh giải cứu tuyệt vọng một người qua đường hoảng sợ khỏi một khu phố đang sụp đổ bởi một người lạ.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
+### No. 409: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9635,7 +9425,7 @@ Cảnh quay trên không mang tính điện ảnh hoành tráng ghi lại một 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
+### No. 410: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+### No. 411: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+### No. 412: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 413: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9729,7 +9519,7 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 414: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9750,7 +9540,7 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 415: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9769,6 +9559,273 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: Video AI Về Ngôi Sao Bóng Đá World Cup Yêu Thích
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Bin
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Mo ta
+
+Một gợi ý video AI để tạo ra một video nguyên bản có sự xuất hiện của ngôi sao bóng đá yêu thích tại World Cup 2026.
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Mo ta
+
+Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Mo ta
+
+Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Mo ta
+
+Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Mo ta
+
+Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Mo ta
+
+Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Mo ta
+
+Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24072,7 +24129,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-16T05:51:41.411Z
+> README nay duoc tao tu dong. 2026-07-17T05:57:56.708Z
 
 ## More Atlas Cloud Tools
 

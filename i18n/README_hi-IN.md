@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1138** |
+| Kul Prompts | **1141** |
 | Categories | **12** |
-| Preview Videos | **986** |
-| Aakhri Update | **2026-07-16T05:51:41.430Z** |
+| Preview Videos | **987** |
+| Aakhri Update | **2026-07-17T05:57:56.729Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9361,133 +9361,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: एनिमे सुपरहीरो का अवरोहण सिनेमाई दृश्य
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Varnan
-
-एक सुपरहीरो के अवरोहण का एनिमे-शैली का सिनेमाई दृश्य जनरेट करने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: तैरते द्वीपों और असंभव झरनों से गिरना
+### No. 407: तैरते द्वीपों और असंभव झरनों से गिरना
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9508,7 +9382,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
+### No. 408: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: अजनबी ढहते शहर से मूकदर्शक को बचाता है
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Varnan
-
-एक अजनबी द्वारा ढहते शहर ब्लॉक से एक भयभीत मूकदर्शक के बचाव को दर्शाने वाला एक वीडियो प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: सिनेमाई गोल्डन आवर पर्वत डाइव
+### No. 409: सिनेमाई गोल्डन आवर पर्वत डाइव
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9635,7 +9425,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: नीयन बारिश में भविष्यवादी छत वाला बार
+### No. 410: नीयन बारिश में भविष्यवादी छत वाला बार
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: भारी बारिश में साइबरपंक छत पर लड़ाई
+### No. 411: भारी बारिश में साइबरपंक छत पर लड़ाई
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: भारी बारिश में साइबरपंक छत पर लड़ाई
+### No. 412: भारी बारिश में साइबरपंक छत पर लड़ाई
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 413: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9729,7 +9519,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 414: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9750,7 +9540,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 415: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9769,6 +9559,273 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: पसंदीदा विश्व कप स्टार का एआई वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Bin
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Varnan
+
+2026 विश्व कप के एक पसंदीदा फुटबॉल स्टार को दर्शाता एक मूल एआई वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Varnan
+
+एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Varnan
+
+हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24072,7 +24129,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-16T05:51:41.430Z
+> Yeh README auto-generated hai. 2026-07-17T05:57:56.729Z
 
 ## More Atlas Cloud Tools
 

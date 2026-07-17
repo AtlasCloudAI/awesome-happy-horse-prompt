@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1138** |
+| 전체 프롬프트 | **1141** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **986** |
-| 마지막 업데이트 | **2026-07-16T05:51:41.365Z** |
+| 미리보기 비디오 | **987** |
+| 마지막 업데이트 | **2026-07-17T05:57:56.664Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9361,133 +9361,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: Anime superhero descending cinematic sequence
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 설명
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### 프롬프트
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: Falling through floating islands and impossible waterfalls
+### No. 407: Falling through floating islands and impossible waterfalls
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9508,7 +9382,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: Luminous Digital Being Carrying Worlds
+### No. 408: Luminous Digital Being Carrying Worlds
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: 무너지는 도시에서 낯선 사람이 행인을 구조하다
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 설명
-
-무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: 무너지는 도시에서 낯선 사람이 행인을 구조하다
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 설명
-
-무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: 무너지는 도시에서 낯선 사람이 행인을 구조하다
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 설명
-
-무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: 무너지는 도시에서 낯선 사람이 행인을 구조하다
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 설명
-
-무너지는 도시 블록에서 낯선 사람이 공포에 질린 행인을 필사적으로 구조하는 장면을 묘사한 비디오 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: 황금빛 시간의 산악 다이브 (시네마틱)
+### No. 409: 황금빛 시간의 산악 다이브 (시네마틱)
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9635,7 +9425,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: 네온 빛 비 속의 미래형 루프탑 바
+### No. 410: 네온 빛 비 속의 미래형 루프탑 바
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: 폭우 속 사이버펑크 옥상 전투
+### No. 411: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: 폭우 속 사이버펑크 옥상 전투
+### No. 412: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 413: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9729,7 +9519,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 414: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9750,7 +9540,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 415: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9769,6 +9559,273 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: 가장 좋아하는 월드컵 스타의 AI 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Bin
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### 설명
+
+2026년 월드컵 축구 스타 중 가장 좋아하는 선수를 주인공으로 한 오리지널 영상을 생성하는 AI 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 설명
+
+영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 설명
+
+영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 설명
+
+영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 설명
+
+영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 설명
+
+영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 설명
+
+Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+
+#### 프롬프트
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24152,7 +24209,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-16T05:51:41.365Z
+> 이 README는 자동 생성됩니다. 2026-07-17T05:57:56.664Z
 
 ## More Atlas Cloud Tools
 

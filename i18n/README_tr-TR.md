@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1138** |
+| Toplam Prompt | **1141** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **986** |
-| Son Guncelleme | **2026-07-16T05:51:41.594Z** |
+| Onizleme Videolari | **987** |
+| Son Guncelleme | **2026-07-17T05:57:56.892Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **338**
+- [`Twitter Community`](#category-1): **341**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (338)
+### Twitter Community (341)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7602,133 +7602,7 @@ Bu video, bir kullanıcının GlobalGPT web sitesinde gezinerek, görüntü, vid
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 320: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 321: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 322: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 323: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 324: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 325: Anime süper kahraman iniş sinematik sahnesi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Aciklama
-
-Bir süper kahramanın iniş yaptığı anime tarzı sinematik bir sahne oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 326: Uçan adalar ve imkansız şelalelerden düşüş
+### No. 319: Uçan adalar ve imkansız şelalelerden düşüş
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7749,7 +7623,7 @@ Uçan adalar, şelaleler ve çözülen ışıklardan oluşan sürreal bir manzar
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 327: Dünyaları Taşıyan Işıltılı Dijital Varlık
+### No. 320: Dünyaları Taşıyan Işıltılı Dijital Varlık
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7771,91 +7645,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 328: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 329: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 330: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 331: Yabancı, yıkılan şehirde bir sivil hayatını kurtarıyor
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** BMX
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Aciklama
-
-Çöken bir şehir bloğundan dehşete düşmüş bir sivilin, bir yabancı tarafından umutsuzca kurtarılışını betimleyen bir video prompt'u.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 332: Sinematik Altın Saat Dağ Dalışı
+### No. 321: Sinematik Altın Saat Dağ Dalışı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7876,7 +7666,7 @@ Epik bir sinematik hava dalış çekimi, altın saat ışığıyla yıkanmış u
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 333: Neon Yağmurda Fütüristik Çatı Barı
+### No. 322: Neon Yağmurda Fütüristik Çatı Barı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7895,7 +7685,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 334: Şiddetli yağmur altında cyberpunk çatı savaşı
+### No. 323: Şiddetli yağmur altında cyberpunk çatı savaşı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7922,7 +7712,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 335: Şiddetli yağmur altında cyberpunk çatı savaşı
+### No. 324: Şiddetli yağmur altında cyberpunk çatı savaşı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7949,7 +7739,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 336: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 325: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7970,7 +7760,7 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 337: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 326: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7991,7 +7781,7 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 338: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 327: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8010,6 +7800,273 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 328: Favori Dünya Kupası Yıldızının Yapay Zeka Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Bin
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Aciklama
+
+2026 Dünya Kupası'ndan favori bir futbol yıldızını özgün bir videoda yer alacak şekilde oluşturmak için bir yapay zeka video istemi.
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 329: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Aciklama
+
+Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 330: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Aciklama
+
+Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 331: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Aciklama
+
+Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 332: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Aciklama
+
+Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 333: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Aciklama
+
+Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 334: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 335: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 336: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 337: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 338: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 339: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 340: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 341: Genç Kadınla Nostaljik Kamera Stili
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Aciklama
+
+Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24077,7 +24134,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-16T05:51:41.594Z
+> Bu README otomatik uretilmistir. 2026-07-17T05:57:56.892Z
 
 ## More Atlas Cloud Tools
 

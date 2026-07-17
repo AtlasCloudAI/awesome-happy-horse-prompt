@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "懐かしいカムコーダースタイルの若い女性",
+    "description": "Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "観客のスマホ画面に現れる嵐",
+    "description": "映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "お気に入りのワールドカップスターのAIビデオ",
+    "description": "2026年ワールドカップサッカーのお気に入りのスターをフィーチャーしたオリジナルビデオを作成するAIビデオプロンプトです。",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "ja-JP",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

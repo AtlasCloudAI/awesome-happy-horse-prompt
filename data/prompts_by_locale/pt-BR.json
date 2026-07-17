@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "Estilo Camcorder Nostálgico com Jovem Mulher",
+    "description": "Um prompt para o Happy Horse 1.1 criar um vídeo com estética de camcorder de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "pt-BR",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "Tempestade Aparece nas Telas de Celular do Público",
+    "description": "Um prompt de vídeo onde um efeito de tempestade emerge das telas de celular de uma plateia de cinema.",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "pt-BR",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "Vídeo de IA do Astro Favorito da Copa do Mundo",
+    "description": "Um prompt de vídeo de IA para criar um vídeo original apresentando um astro favorito da Copa do Mundo de Futebol de 2026.",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "pt-BR",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

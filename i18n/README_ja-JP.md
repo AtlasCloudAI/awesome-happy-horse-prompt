@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1138** |
+| 総プロンプト数 | **1141** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **986** |
-| 最終更新 | **2026-07-16T05:51:41.345Z** |
+| プレビュー動画数 | **987** |
+| 最終更新 | **2026-07-17T05:57:56.643Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9361,133 +9361,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: アニメ風スーパーヒーロー降臨の映画的シーケンス
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2076735929880916436)
-
-#### 説明
-
-アニメスタイルの映画的シーンで、スーパーヒーローが降臨する様子を生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: 浮遊島と不可能な滝を落下する
+### No. 407: 浮遊島と不可能な滝を落下する
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9508,7 +9382,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: 世界を運ぶ発光するデジタル生命体
+### No. 408: 世界を運ぶ発光するデジタル生命体
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: 見知らぬ人が崩壊する都市から通行人を救出
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 説明
-
-崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
-
-#### プロンプト
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: 見知らぬ人が崩壊する都市から通行人を救出
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 説明
-
-崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
-
-#### プロンプト
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: 見知らぬ人が崩壊する都市から通行人を救出
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 説明
-
-崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
-
-#### プロンプト
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: 見知らぬ人が崩壊する都市から通行人を救出
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** BMX
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### 説明
-
-崩壊する市街区から恐怖に震える通行人を、見知らぬ人が必死に救出する様子を描いた映像プロンプトです。
-
-#### プロンプト
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: 映画的な黄金時刻の山岳ダイブ
+### No. 409: 映画的な黄金時刻の山岳ダイブ
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9635,7 +9425,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: ネオンの雨に包まれた未来型ルーフトップバー
+### No. 410: ネオンの雨に包まれた未来型ルーフトップバー
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: サイバーパンクの屋上バトル、豪雨の中
+### No. 411: サイバーパンクの屋上バトル、豪雨の中
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: サイバーパンクの屋上バトル、豪雨の中
+### No. 412: サイバーパンクの屋上バトル、豪雨の中
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 413: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9729,7 +9519,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 414: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9750,7 +9540,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 415: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9769,6 +9559,273 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: お気に入りのワールドカップスターのAIビデオ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Bin
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### 説明
+
+2026年ワールドカップサッカーのお気に入りのスターをフィーチャーしたオリジナルビデオを作成するAIビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: 観客のスマホ画面に現れる嵐
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 説明
+
+映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: 観客のスマホ画面に現れる嵐
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 説明
+
+映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: 観客のスマホ画面に現れる嵐
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 説明
+
+映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: 観客のスマホ画面に現れる嵐
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 説明
+
+映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: 観客のスマホ画面に現れる嵐
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### 説明
+
+映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+
+#### プロンプト
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: 懐かしいカムコーダースタイルの若い女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+
+#### 説明
+
+Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+
+#### プロンプト
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24152,7 +24209,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-16T05:51:41.345Z
+> この README は自動生成です。 2026-07-17T05:57:56.643Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1138** |
+| พรอมต์ทั้งหมด | **1141** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **986** |
-| อัปเดตล่าสุด | **2026-07-16T05:51:41.391Z** |
+| วิดีโอตัวอย่าง | **987** |
+| อัปเดตล่าสุด | **2026-07-17T05:57:56.688Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9361,133 +9361,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: ลำดับฉากภาพยนตร์ซูเปอร์ฮีโร่สไตล์อนิเมะร่อนลง
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
-- **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2076735929880916436)
-
-#### คำอธิบาย
-
-พรอมต์สำหรับสร้างฉากภาพยนตร์สไตล์อนิเมะของซูเปอร์ฮีโร่ที่กำลังร่อนลงมา
-
-#### พรอมต์
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
+### No. 407: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9508,7 +9382,7 @@ An anime-style superhero descends from the
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
+### No. 408: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: คนแปลกหน้าช่วยเหลือผู้คนจากเมืองที่กำลังถล่ม
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### คำอธิบาย
-
-คำสั่งสร้างวิดีโอที่แสดงฉากการช่วยเหลือผู้คนที่หวาดกลัวจากตึกในเมืองที่กำลังพังทลาย โดยบุคคลแปลกหน้า
-
-#### พรอมต์
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
+### No. 409: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9635,7 +9425,7 @@ Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
+### No. 410: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+### No. 411: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+### No. 412: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 413: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9729,7 +9519,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 414: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9750,7 +9540,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 415: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9769,6 +9559,273 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: วิดีโอเอไอของดาราฟุตบอลโลกคนโปรด
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Bin
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอเอไอต้นฉบับ ที่มีตัวละครเป็นดาราฟุตบอลดาวรุ่งคนโปรดจากฟุตบอลโลก 2026
+
+#### พรอมต์
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+
+#### พรอมต์
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+
+#### พรอมต์
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+
+#### พรอมต์
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+
+#### พรอมต์
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+
+#### พรอมต์
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+
+#### คำอธิบาย
+
+พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+
+#### พรอมต์
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24072,7 +24129,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-16T05:51:41.391Z
+> README นี้สร้างอัตโนมัติ 2026-07-17T05:57:56.688Z
 
 ## More Atlas Cloud Tools
 

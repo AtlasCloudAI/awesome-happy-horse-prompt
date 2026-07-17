@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1138%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > A curated collection of Happy Horse 1.0 prompts with real previews generated via Atlas Cloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **1138** |
+| Total Prompts | **1141** |
 | Categories | **12** |
-| Preview Videos | **986** |
-| Last Updated | **2026-07-16T05:51:41.274Z** |
+| Preview Videos | **987** |
+| Last Updated | **2026-07-17T05:57:56.568Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **426**
+- [`Twitter Community`](#category-1): **429**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (426)
+### Twitter Community (429)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9361,133 +9361,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 408: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 409: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 410: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 411: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 412: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 413: Anime superhero descending cinematic sequence
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2076735929880916436)
-
-#### Description
-
-A prompt for generating an anime-style cinematic scene of a superhero descending.
-
-#### Prompt
-
-```text
-An anime-style superhero descends from the
-```
-
-### No. 414: Falling through floating islands and impossible waterfalls
+### No. 407: Falling through floating islands and impossible waterfalls
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9508,7 +9382,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 415: Luminous Digital Being Carrying Worlds
+### No. 408: Luminous Digital Being Carrying Worlds
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9530,91 +9404,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 416: Stranger rescues bystander from collapsing city
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-A video prompt depicting a desperate rescue of a terrified bystander from a collapsing city block by a stranger.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 417: Stranger rescues bystander from collapsing city
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-A video prompt depicting a desperate rescue of a terrified bystander from a collapsing city block by a stranger.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 418: Stranger rescues bystander from collapsing city
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-A video prompt depicting a desperate rescue of a terrified bystander from a collapsing city block by a stranger.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 419: Stranger rescues bystander from collapsing city
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076996319558906273.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2076996319558906273)
-
-#### Description
-
-A video prompt depicting a desperate rescue of a terrified bystander from a collapsing city block by a stranger.
-
-#### Prompt
-
-```text
-Scene & Mood: A stranger hauls a terrified bystander clear of a collapsing city block no words, pure instinct, two bodies moving as one desperate unit through a narrow
-```
-
-### No. 420: Cinematic Golden Hour Mountain Dive
+### No. 409: Cinematic Golden Hour Mountain Dive
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9635,7 +9425,7 @@ An epic cinematic aerial dive shot captures a vast mountain landscape bathed in 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 421: Futuristic Rooftop Bar in Neon Rain
+### No. 410: Futuristic Rooftop Bar in Neon Rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9654,7 +9444,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 422: Cyberpunk rooftop battle in heavy rain
+### No. 411: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9681,7 +9471,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 423: Cyberpunk rooftop battle in heavy rain
+### No. 412: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9708,7 +9498,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 424: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 413: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9729,7 +9519,7 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 425: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 414: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9750,7 +9540,7 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 426: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 415: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9769,6 +9559,273 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 
 ```text
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
+```
+
+### No. 416: AI Video of Favorite World Cup Star
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Bin
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/juannnnnner/status/2077673716260151413)
+
+#### Description
+
+An AI video prompt to create an original video featuring a favorite 2026 World Cup soccer star.
+
+#### Prompt
+
+```text
+Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 417: Storm Appears on Audience Phone Screens
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+A video prompt where a storm effect emerges from the phone screens of a cinema audience.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 418: Storm Appears on Audience Phone Screens
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+A video prompt where a storm effect emerges from the phone screens of a cinema audience.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 419: Storm Appears on Audience Phone Screens
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+A video prompt where a storm effect emerges from the phone screens of a cinema audience.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 420: Storm Appears on Audience Phone Screens
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+A video prompt where a storm effect emerges from the phone screens of a cinema audience.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 421: Storm Appears on Audience Phone Screens
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2077700067176448058)
+
+#### Description
+
+A video prompt where a storm effect emerges from the phone screens of a cinema audience.
+
+#### Prompt
+
+```text
+Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+```
+
+### No. 422: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 423: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 424: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 425: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 426: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 427: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 428: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
+```
+
+### No. 429: Nostalgic Camcorder Style with Young Woman
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2077853437312520687)
+
+#### Description
+
+A prompt for Happy Horse 1.1 to create a video with a consumer camcorder aesthetic, including handheld shakes and autofocus hunting, featuring a young peasant woman.
+
+#### Prompt
+
+```text
+Main subject: young peasant woman, early 20s, natural everyday appearance,
 ```
 
 <a id="category-2"></a>
@@ -24072,7 +24129,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-16T05:51:41.274Z
+> This README is auto-generated. 2026-07-17T05:57:56.568Z
 
 ## More Atlas Cloud Tools
 

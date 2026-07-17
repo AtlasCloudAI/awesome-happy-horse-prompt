@@ -13806,5 +13806,48 @@
       "images": [],
       "video": "media/happy-horse/x_2077352728464912868.mp4"
     }
+  },
+  {
+    "id": "x_2077853437312520687",
+    "title": "युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल",
+    "description": "हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।",
+    "prompt": "Main subject: young peasant woman, early 20s, natural everyday appearance,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/PromptSin/status/2077853437312520687",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2077700067176448058",
+    "title": "दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है",
+    "description": "एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।",
+    "prompt": "Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/bmx_ai13/status/2077700067176448058",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2077700067176448058.mp4"
+    }
+  },
+  {
+    "id": "x_2077673716260151413",
+    "title": "पसंदीदा विश्व कप स्टार का एआई वीडियो",
+    "description": "2026 विश्व कप के एक पसंदीदा फुटबॉल स्टार को दर्शाता एक मूल एआई वीडियो बनाने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Create an original AI video featuring your favorite 2026 World Cup star",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Bin",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
+    "needs_preview": true
   }
 ]

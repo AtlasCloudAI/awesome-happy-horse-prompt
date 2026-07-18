@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1141** |
+| 提示词总数 | **1143** |
 | 分类数 | **13** |
-| 预览视频数 | **987** |
-| 最后更新 | **2026-07-17T05:57:56.596Z** |
+| 预览视频数 | **988** |
+| 最后更新 | **2026-07-18T05:17:22.770Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **341**
+- [`Twitter Community`](#category-1): **343**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (341)
+### Twitter Community (343)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7820,253 +7820,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 329: 风暴从观众手机屏幕涌现
+### No. 329: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** BMX
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 描述
 
-一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
 
 #### 提示词
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 330: 风暴从观众手机屏幕涌现
+### No. 330: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** BMX
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 描述
 
-一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
 
 #### 提示词
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 331: 风暴从观众手机屏幕涌现
+### No. 331: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** BMX
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 描述
 
-一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
 
 #### 提示词
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: 风暴从观众手机屏幕涌现
+### No. 332: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** BMX
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 描述
 
-一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
 
 #### 提示词
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 333: 风暴从观众手机屏幕涌现
+### No. 333: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** BMX
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 描述
 
-一个视频提示，描述风暴效果从电影院观众的手机屏幕上显现出来的场景。
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
 
 #### 提示词
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 334: 怀旧摄像机风格与年轻女性
+### No. 334: 第一人称热气球主观视角镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 描述
+
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+
+#### 提示词
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 335: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 335: 怀旧摄像机风格与年轻女性
+### No. 336: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 336: 怀旧摄像机风格与年轻女性
+### No. 337: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 337: 怀旧摄像机风格与年轻女性
+### No. 338: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 338: 怀旧摄像机风格与年轻女性
+### No. 339: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 339: 怀旧摄像机风格与年轻女性
+### No. 340: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 340: 怀旧摄像机风格与年轻女性
+### No. 341: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: 怀旧摄像机风格与年轻女性
+### No. 342: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2077853437312520687)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个为Happy Horse 1.1设计的视频提示，旨在创作具有消费级摄像机美学的视频，包含手持抖动和自动对焦搜索效果，主角是一位年轻的农家女。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 343: 趣味3D动画烹饪短片
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
+
+#### 描述
+
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
+
+#### 提示词
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24134,7 +24173,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-17T05:57:56.596Z
+> 此 README 为自动生成。 2026-07-18T05:17:22.770Z
 
 ## More Atlas Cloud Tools
 

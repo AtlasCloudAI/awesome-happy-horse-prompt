@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1141** |
+| พรอมต์ทั้งหมด | **1143** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **987** |
-| อัปเดตล่าสุด | **2026-07-17T05:57:56.688Z** |
+| วิดีโอตัวอย่าง | **988** |
+| อัปเดตล่าสุด | **2026-07-18T05:17:22.861Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **429**
+- [`Twitter Community`](#category-1): **431**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (429)
+### Twitter Community (431)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9579,253 +9579,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 417: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+### No. 417: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** BMX
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
 
 #### พรอมต์
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+### No. 418: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** BMX
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
 
 #### พรอมต์
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+### No. 419: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** BMX
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
 
 #### พรอมต์
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+### No. 420: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** BMX
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
 
 #### พรอมต์
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 421: พายุปรากฏบนหน้าจอโทรศัพท์ของผู้ชม
+### No. 421: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** BMX
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับสร้างวิดีโอ โดยมีเอฟเฟกต์พายุเกิดขึ้นจากหน้าจอโทรศัพท์ของผู้ชมในโรงภาพยนตร์
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
 
 #### พรอมต์
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 422: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 422: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+
+#### พรอมต์
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 423: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 423: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 424: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 424: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 425: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 425: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 426: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 426: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 427: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 427: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 428: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 428: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 429: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: สไตล์กล้องวิดีโอเก่าเล่าความทรงจำกับหญิงสาววัยเยาว์
+### No. 430: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2077853437312520687)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-พรอมต์สำหรับ Happy Horse 1.1 เพื่อสร้างวิดีโอที่มีสุนทรียะแบบกล้องวิดีโอระดับผู้บริโภคยุคเก่า พร้อมเอฟเฟกต์มือถือที่สั่นไหวและการปรับโฟกัสอัตโนมัติที่เล็งหาเป้าหมายไม่นิ่ง โดยมีตัวละครเป็นหญิงสาวชาวนาวัยเยาว์
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 431: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
+
+#### พรอมต์
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24129,7 +24168,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-17T05:57:56.688Z
+> README นี้สร้างอัตโนมัติ 2026-07-18T05:17:22.861Z
 
 ## More Atlas Cloud Tools
 

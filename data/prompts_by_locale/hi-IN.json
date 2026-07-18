@@ -13849,5 +13849,35 @@
     "language": "hi-IN",
     "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
     "needs_preview": true
+  },
+  {
+    "id": "x_2078130090601308329",
+    "title": "मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म",
+    "description": "एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/PromptSin/status/2078130090601308329",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078040509902401754",
+    "title": "फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट",
+    "description": "बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/bmx_ai13/status/2078040509902401754",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078040509902401754.mp4"
+    }
   }
 ]

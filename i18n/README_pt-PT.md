@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1141** |
+| Total de Prompts | **1143** |
 | Categorias | **13** |
-| Videos de Previa | **987** |
-| Ultima Atualizacao | **2026-07-17T05:57:56.865Z** |
+| Videos de Previa | **988** |
+| Ultima Atualizacao | **2026-07-18T05:17:23.040Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **341**
+- [`Twitter Community`](#category-1): **343**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (341)
+### Twitter Community (343)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7820,253 +7820,292 @@ Um prompt de vídeo de IA para criar um vídeo original com uma estrela favorita
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 329: Tempestade Aparece nos Ecrãs dos Telemóveis do Público
+### No. 329: Plano em POV de Balão de Ar Quente em Primeira Pessoa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** BMX
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Descricao
 
-Um prompt de vídeo onde um efeito de tempestade emerge dos ecrãs dos telemóveis de uma audiência de cinema.
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 330: Tempestade Aparece nos Ecrãs dos Telemóveis do Público
+### No. 330: Plano em POV de Balão de Ar Quente em Primeira Pessoa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** BMX
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Descricao
 
-Um prompt de vídeo onde um efeito de tempestade emerge dos ecrãs dos telemóveis de uma audiência de cinema.
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 331: Tempestade Aparece nos Ecrãs dos Telemóveis do Público
+### No. 331: Plano em POV de Balão de Ar Quente em Primeira Pessoa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** BMX
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Descricao
 
-Um prompt de vídeo onde um efeito de tempestade emerge dos ecrãs dos telemóveis de uma audiência de cinema.
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Tempestade Aparece nos Ecrãs dos Telemóveis do Público
+### No. 332: Plano em POV de Balão de Ar Quente em Primeira Pessoa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** BMX
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Descricao
 
-Um prompt de vídeo onde um efeito de tempestade emerge dos ecrãs dos telemóveis de uma audiência de cinema.
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 333: Tempestade Aparece nos Ecrãs dos Telemóveis do Público
+### No. 333: Plano em POV de Balão de Ar Quente em Primeira Pessoa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** BMX
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Descricao
 
-Um prompt de vídeo onde um efeito de tempestade emerge dos ecrãs dos telemóveis de uma audiência de cinema.
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 334: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 334: Plano em POV de Balão de Ar Quente em Primeira Pessoa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Descricao
+
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, a partir do interior de um balão de ar quente acima das nuvens.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 335: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 335: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 336: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 336: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 337: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 337: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 338: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 338: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 339: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 339: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 340: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 340: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 341: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: Estilo Nostálgico de Câmara de Vídeo com Jovem Mulher
+### No. 342: Curta-Metagem Animado em 3D e Divertido sobre Culinária
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
 - **Autor:** PSS
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2077853437312520687)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para o Happy Horse 1.1 criar um vídeo com uma estética de câmara de vídeo de consumo, incluindo tremidos de mão e busca de foco automático, apresentando uma jovem mulher camponesa.
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 343: Curta-Metagem Animado em 3D e Divertido sobre Culinária
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
+
+#### Descricao
+
+Um prompt para gerar uma animação 3D calorosa e cinematográfica de uma sequência de cozinha num estilo familiar e amigável.
+
+#### Prompt
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24190,7 +24229,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-07-17T05:57:56.865Z
+> Este README e gerado automaticamente. 2026-07-18T05:17:23.040Z
 
 ## More Atlas Cloud Tools
 

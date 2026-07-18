@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1141** |
+| 전체 프롬프트 | **1143** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **987** |
-| 마지막 업데이트 | **2026-07-17T05:57:56.664Z** |
+| 미리보기 비디오 | **988** |
+| 마지막 업데이트 | **2026-07-18T05:17:22.837Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **429**
+- [`Twitter Community`](#category-1): **431**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (429)
+### Twitter Community (431)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9579,253 +9579,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 417: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+### No. 417: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** BMX
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 설명
 
-영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+### No. 418: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** BMX
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 설명
 
-영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+### No. 419: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** BMX
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 설명
 
-영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+### No. 420: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** BMX
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 설명
 
-영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 421: 관객의 휴대폰 화면에서 펼쳐지는 폭풍
+### No. 421: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** BMX
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 설명
 
-영화관 관객들의 휴대폰 화면에서 폭풍 효과가 나타나는 영상 프롬프트입니다.
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 422: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 422: 1인칭 열기구 탑승자 시점 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 설명
+
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 423: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 423: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 424: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 424: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 425: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 425: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 426: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 426: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 427: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 427: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 428: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 428: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 429: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: 젊은 여성이 등장하는 향수에 젖은 캠코더 스타일
+### No. 430: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2077853437312520687)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-Happy Horse 1.1을 위한 프롬프트로, 핸드헬드 흔들림과 오토포커스 헌팅을 포함한 소비자용 캠코더의 미학을 담은 영상을 제작하며, 젊은 농촌 여성을 등장시킵니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 431: 장난기 가득한 3D 애니메이션 요리 단편 영화
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
+
+#### 설명
+
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24209,7 +24248,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-17T05:57:56.664Z
+> 이 README는 자동 생성됩니다. 2026-07-18T05:17:22.837Z
 
 ## More Atlas Cloud Tools
 

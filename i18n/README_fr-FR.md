@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1141** |
+| Nombre Total de Prompts | **1143** |
 | Categories | **13** |
-| Videos d'Apercu | **987** |
-| Derniere Mise a Jour | **2026-07-17T05:57:56.810Z** |
+| Videos d'Apercu | **988** |
+| Derniere Mise a Jour | **2026-07-18T05:17:22.982Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **341**
+- [`Twitter Community`](#category-1): **343**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (341)
+### Twitter Community (343)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7820,253 +7820,292 @@ Une instruction pour une vidéo IA afin de créer une vidéo originale mettant e
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 329: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+### No. 329: Plan en vue subjective depuis une montgolfière
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** BMX
 - **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Description
 
-Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 330: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+### No. 330: Plan en vue subjective depuis une montgolfière
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** BMX
 - **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Description
 
-Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 331: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+### No. 331: Plan en vue subjective depuis une montgolfière
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** BMX
 - **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Description
 
-Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+### No. 332: Plan en vue subjective depuis une montgolfière
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** BMX
 - **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Description
 
-Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 333: Une Tempête Apparaît sur les Écrans de Téléphone du Public
+### No. 333: Plan en vue subjective depuis une montgolfière
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** BMX
 - **Langue:** `fr-FR`
-- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Description
 
-Une instruction vidéo où un effet de tempête émerge des écrans de téléphone d'un public de cinéma.
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 334: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 334: Plan en vue subjective depuis une montgolfière
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** BMX
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Description
+
+Une instruction pour générer des images ultra-réalistes, filmées comme avec un smartphone, depuis l'intérieur d'une montgolfière au-dessus des nuages.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 335: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 335: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 336: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 336: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 337: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 337: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 338: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 338: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 339: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 339: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 340: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 340: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 341: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: Style Caméscope Nostalgique avec une Jeune Femme
+### No. 342: Court-métrage d'animation 3D ludique sur la cuisine
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Description
 
-Une instruction pour Happy Horse 1.1 afin de créer une vidéo avec une esthétique de caméscope grand public, incluant des tremblements à main levée et une recherche d'autofocus, mettant en scène une jeune paysanne.
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 343: Court-métrage d'animation 3D ludique sur la cuisine
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2078130090601308329)
+
+#### Description
+
+Une instruction pour générer une animation 3D cinématographique et chaleureuse d'une séquence culinaire, dans un style adapté aux familles.
+
+#### Prompt
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24190,7 +24229,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-07-17T05:57:56.810Z
+> Ce README est genere automatiquement. 2026-07-18T05:17:22.982Z
 
 ## More Atlas Cloud Tools
 

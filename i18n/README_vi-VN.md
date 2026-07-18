@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1141** |
+| Tong so Prompt | **1143** |
 | So danh muc | **12** |
-| Video xem truoc | **987** |
-| Cap nhat lan cuoi | **2026-07-17T05:57:56.708Z** |
+| Video xem truoc | **988** |
+| Cap nhat lan cuoi | **2026-07-18T05:17:22.882Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **429**
+- [`Twitter Community`](#category-1): **431**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (429)
+### Twitter Community (431)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9579,253 +9579,292 @@ Một gợi ý video AI để tạo ra một video nguyên bản có sự xuất
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 417: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+### No. 417: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** BMX
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Mo ta
 
-Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+### No. 418: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** BMX
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Mo ta
 
-Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+### No. 419: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** BMX
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Mo ta
 
-Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+### No. 420: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** BMX
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Mo ta
 
-Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 421: Cơn Bão Hiện Ra Trên Màn Hình Điện Thoại Của Khán Giả
+### No. 421: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** BMX
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Mo ta
 
-Một gợi ý video trong đó hiệu ứng cơn bão xuất hiện từ màn hình điện thoại của khán giả trong một rạp chiếu phim.
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 422: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 422: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Mo ta
+
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 423: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 423: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 424: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 424: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 425: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 425: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 426: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 426: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 427: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 427: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 428: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 428: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 429: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: Phong Cách Quay Phim Camcorder Hoài Cổ với Thiếu Nữ Trẻ
+### No. 430: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2077853437312520687)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý cho Happy Horse 1.1 để tạo video với phong cách thẩm mỹ của máy quay phim gia đình, bao gồm cảm giác rung tay cầm và hiện tượng lấy nét tự động liên tục điều chỉnh, có sự xuất hiện của một thiếu nữ trẻ mộc mạc.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 431: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
+
+#### Mo ta
+
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
+
+#### Prompt
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24129,7 +24168,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-17T05:57:56.708Z
+> README nay duoc tao tu dong. 2026-07-18T05:17:22.882Z
 
 ## More Atlas Cloud Tools
 

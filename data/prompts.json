@@ -13849,5 +13849,35 @@
     "language": "en",
     "source_link": "https://x.com/juannnnnner/status/2077673716260151413",
     "needs_preview": true
+  },
+  {
+    "id": "x_2078130090601308329",
+    "title": "Playful 3D Animated Cooking Short Film",
+    "description": "A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.",
+    "prompt": "Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "en",
+    "source_link": "https://x.com/PromptSin/status/2078130090601308329",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078040509902401754",
+    "title": "First Person Hot Air Balloon POV Shot",
+    "description": "A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.",
+    "prompt": "Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4",
+    "author_name": "BMX",
+    "source_platform": "x",
+    "language": "en",
+    "source_link": "https://x.com/bmx_ai13/status/2078040509902401754",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078040509902401754.mp4"
+    }
   }
 ]

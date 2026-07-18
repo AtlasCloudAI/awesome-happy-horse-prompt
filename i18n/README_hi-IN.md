@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1141** |
+| Kul Prompts | **1143** |
 | Categories | **12** |
-| Preview Videos | **987** |
-| Aakhri Update | **2026-07-17T05:57:56.729Z** |
+| Preview Videos | **988** |
+| Aakhri Update | **2026-07-18T05:17:22.903Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **429**
+- [`Twitter Community`](#category-1): **431**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (429)
+### Twitter Community (431)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9579,253 +9579,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 417: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+### No. 417: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** BMX
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Varnan
 
-एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+### No. 418: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** BMX
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Varnan
 
-एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+### No. 419: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** BMX
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Varnan
 
-एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+### No. 420: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** BMX
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Varnan
 
-एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 421: दर्शकों के फोन स्क्रीन पर तूफान दिखाई देता है
+### No. 421: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** BMX
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Varnan
 
-एक वीडियो प्रॉम्प्ट जहां सिनेमा हॉल के दर्शकों के फोन स्क्रीन से एक तूफानी प्रभाव उभरता है।
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 422: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 422: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Varnan
+
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 423: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 423: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 424: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 424: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 425: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 425: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 426: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 426: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 427: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 427: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 428: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 428: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 429: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: युवा महिला के साथ नॉस्टैल्जिक कैमकॉर्डर स्टाइल
+### No. 430: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
 - **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2077853437312520687)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-हैप्पी हॉर्स 1.1 के लिए एक प्रॉम्प्ट जो एक उपभोक्ता कैमकॉर्डर एस्थेटिक वाला वीडियो बनाए, जिसमें हाथ में पकड़कर बनाई गई हलचल और ऑटोफोकस की तलाश शामिल हो, और एक युवा ग्रामीण महिला दिखाई दे।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 431: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
+
+#### Varnan
+
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24129,7 +24168,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-17T05:57:56.729Z
+> Yeh README auto-generated hai. 2026-07-18T05:17:22.903Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1141** |
+| Toplam Prompt | **1143** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **987** |
-| Son Guncelleme | **2026-07-17T05:57:56.892Z** |
+| Onizleme Videolari | **988** |
+| Son Guncelleme | **2026-07-18T05:17:23.067Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **341**
+- [`Twitter Community`](#category-1): **343**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (341)
+### Twitter Community (343)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7820,253 +7820,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 329: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+### No. 329: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** BMX
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Aciklama
 
-Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 330: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+### No. 330: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** BMX
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Aciklama
 
-Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 331: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+### No. 331: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** BMX
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Aciklama
 
-Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+### No. 332: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** BMX
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Aciklama
 
-Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 333: Seyirci Telefon Ekranlarında Fırtına Beliriyor
+### No. 333: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** BMX
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### Aciklama
 
-Bir sinema seyircisinin telefon ekranlarından bir fırtına efekti ortaya çıkan bir video istemi.
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 334: Genç Kadınla Nostaljik Kamera Stili
+### No. 334: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Aciklama
+
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 335: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 335: Genç Kadınla Nostaljik Kamera Stili
+### No. 336: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 336: Genç Kadınla Nostaljik Kamera Stili
+### No. 337: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 337: Genç Kadınla Nostaljik Kamera Stili
+### No. 338: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 338: Genç Kadınla Nostaljik Kamera Stili
+### No. 339: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 339: Genç Kadınla Nostaljik Kamera Stili
+### No. 340: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 340: Genç Kadınla Nostaljik Kamera Stili
+### No. 341: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: Genç Kadınla Nostaljik Kamera Stili
+### No. 342: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2077853437312520687)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Happy Horse 1.1 için, el kamerası sallantıları ve otomatik odaklanma arayışı gibi tüketici tipi video kamera estetiğine sahip, genç bir köylü kadın içeren bir video oluşturma istemi.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 343: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
+
+#### Aciklama
+
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24134,7 +24173,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-17T05:57:56.892Z
+> Bu README otomatik uretilmistir. 2026-07-18T05:17:23.067Z
 
 ## More Atlas Cloud Tools
 

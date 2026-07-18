@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1141%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1141** |
+| 総プロンプト数 | **1143** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **987** |
-| 最終更新 | **2026-07-17T05:57:56.643Z** |
+| プレビュー動画数 | **988** |
+| 最終更新 | **2026-07-18T05:17:22.815Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **429**
+- [`Twitter Community`](#category-1): **431**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (429)
+### Twitter Community (431)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9579,253 +9579,292 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 417: 観客のスマホ画面に現れる嵐
+### No. 417: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** BMX
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 説明
 
-映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: 観客のスマホ画面に現れる嵐
+### No. 418: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** BMX
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 説明
 
-映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: 観客のスマホ画面に現れる嵐
+### No. 419: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** BMX
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 説明
 
-映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 観客のスマホ画面に現れる嵐
+### No. 420: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** BMX
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 説明
 
-映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 421: 観客のスマホ画面に現れる嵐
+### No. 421: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** BMX
 - **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077700067176448058.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/bmx_ai13/status/2077700067176448058)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
 
 #### 説明
 
-映画館の観客のスマートフォン画面から嵐のエフェクトが現れるビデオプロンプトです。
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Instead of the effect bursting only from the cinema screen, the storm first appears inside every audience member’s phone screen. Each raised phone suddenly shows a different
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 422: 懐かしいカムコーダースタイルの若い女性
+### No. 422: 一人称視点の熱気球POVショット
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** BMX
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 説明
+
+雲の上を飛ぶ熱気球の内部から、スマートフォンで撮影したような超高精細映像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 423: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 423: 懐かしいカムコーダースタイルの若い女性
+### No. 424: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 424: 懐かしいカムコーダースタイルの若い女性
+### No. 425: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 425: 懐かしいカムコーダースタイルの若い女性
+### No. 426: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 426: 懐かしいカムコーダースタイルの若い女性
+### No. 427: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 427: 懐かしいカムコーダースタイルの若い女性
+### No. 428: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 428: 懐かしいカムコーダースタイルの若い女性
+### No. 429: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: 懐かしいカムコーダースタイルの若い女性
+### No. 430: 遊び心あふれる3Dアニメーション料理ショートフィルム
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2077853437312520687)
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 説明
 
-Happy Horse 1.1用のプロンプトで、コンシューマーカムコーダーの美学を備えたビデオを作成します。手ブレやオートフォーカスの迷いを含み、若い農家の女性をフィーチャーしています。
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
 
 #### プロンプト
 
 ```text
-Main subject: young peasant woman, early 20s, natural everyday appearance,
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+```
+
+### No. 431: 遊び心あふれる3Dアニメーション料理ショートフィルム
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
+
+#### 説明
+
+家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 <a id="category-2"></a>
@@ -24209,7 +24248,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-17T05:57:56.643Z
+> この README は自動生成です。 2026-07-18T05:17:22.815Z
 
 ## More Atlas Cloud Tools
 

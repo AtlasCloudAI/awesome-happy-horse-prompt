@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1143** |
+| 전체 프롬프트 | **1145** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **988** |
-| 마지막 업데이트 | **2026-07-18T05:17:22.837Z** |
+| 미리보기 비디오 | **990** |
+| 마지막 업데이트 | **2026-07-19T05:14:58.442Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **431**
+- [`Twitter Community`](#category-1): **433**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (431)
+### Twitter Community (433)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9213,70 +9213,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: 미니멀리스트 복장의 우아한 여성
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 설명
-
-화이트 상의와 베이지색 바지를 입은 세련된 젊은 여성의 영상을 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 401: 미니멀리스트 복장의 우아한 여성
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 설명
-
-화이트 상의와 베이지색 바지를 입은 세련된 젊은 여성의 영상을 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 402: 미니멀리스트 복장의 우아한 여성
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 설명
-
-화이트 상의와 베이지색 바지를 입은 세련된 젊은 여성의 영상을 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 403: 참조 영상의 촬영 기법과 리듬 재현
+### No. 400: 참조 영상의 촬영 기법과 리듬 재현
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9298,7 +9235,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 404: 숨겨진 협곡 카약 탐험
+### No. 401: 숨겨진 협곡 카약 탐험
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9319,7 +9256,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 405: 숨겨진 협곡 카약 탐험
+### No. 402: 숨겨진 협곡 카약 탐험
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9340,7 +9277,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: GlobalGPT AI Tools Website Navigation
+### No. 403: GlobalGPT AI Tools Website Navigation
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9361,7 +9298,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Falling through floating islands and impossible waterfalls
+### No. 404: Falling through floating islands and impossible waterfalls
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9382,7 +9319,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 408: Luminous Digital Being Carrying Worlds
+### No. 405: Luminous Digital Being Carrying Worlds
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9404,7 +9341,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 409: 황금빛 시간의 산악 다이브 (시네마틱)
+### No. 406: 황금빛 시간의 산악 다이브 (시네마틱)
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9425,7 +9362,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 410: 네온 빛 비 속의 미래형 루프탑 바
+### No. 407: 네온 빛 비 속의 미래형 루프탑 바
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9444,7 +9381,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 411: 폭우 속 사이버펑크 옥상 전투
+### No. 408: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9471,7 +9408,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 412: 폭우 속 사이버펑크 옥상 전투
+### No. 409: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9498,7 +9435,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 413: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 410: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9519,7 +9456,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 414: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 411: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9540,7 +9477,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 415: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 412: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9561,7 +9498,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 416: 가장 좋아하는 월드컵 스타의 AI 영상
+### No. 413: 가장 좋아하는 월드컵 스타의 AI 영상
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9577,6 +9514,69 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 414: 1인칭 열기구 탑승자 시점 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 설명
+
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 415: 1인칭 열기구 탑승자 시점 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 설명
+
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 416: 1인칭 열기구 탑승자 시점 샷
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 설명
+
+구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 417: 1인칭 열기구 탑승자 시점 샷
@@ -9642,67 +9642,58 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 1인칭 열기구 탑승자 시점 샷
+### No. 420: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** BMX
+- **작성자:** PSS
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 421: 1인칭 열기구 탑승자 시점 샷
+### No. 421: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** BMX
+- **작성자:** PSS
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 422: 1인칭 열기구 탑승자 시점 샷
+### No. 422: 장난기 가득한 3D 애니메이션 요리 단편 영화
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** BMX
+- **작성자:** PSS
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2078040509902401754)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 설명
 
-구름 위를 나는 열기구 내부에서 촬영한 초현실적인 스마트폰 영상을 생성하기 위한 프롬프트입니다.
+가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 423: 장난기 가득한 3D 애니메이션 요리 단편 영화
@@ -9813,58 +9804,109 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: 장난기 가득한 3D 애니메이션 요리 단편 영화
+### No. 429: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** PSS
+- **작성자:** ᴍᴜʀᴘʜʏ
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 설명
 
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
+두바이를 주제로 한 사실적인 드론 비행 장면을 묘사한 영상에 대한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: 장난기 가득한 3D 애니메이션 요리 단편 영화
+### No. 430: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** PSS
+- **작성자:** ᴍᴜʀᴘʜʏ
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 설명
 
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
+두바이를 주제로 한 사실적인 드론 비행 장면을 묘사한 영상에 대한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: 장난기 가득한 3D 애니메이션 요리 단편 영화
+### No. 431: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** PSS
+- **작성자:** ᴍᴜʀᴘʜʏ
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 설명
 
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
+두바이를 주제로 한 사실적인 드론 비행 장면을 묘사한 영상에 대한 프롬프트입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 432: 두바이를 가로지르는 영화적 항공 여정
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ᴍᴜʀᴘʜʏ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### 설명
+
+두바이를 주제로 한 사실적인 드론 비행 장면을 묘사한 영상에 대한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 433: 축구 경기: 경기장, 페널티킥, 프리킥
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Can Matrix
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Jomolos/status/2078592344920924658)
+
+#### 설명
+
+이 영상은 세 가지 독특한 축구 장면을 담고 있습니다: 가득 찬 경기장의 조감도, 강렬한 페널티킥 장면, 그리고 놀라운 프리킥 골 장면입니다.
+
+#### 프롬프트
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24248,7 +24290,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-18T05:17:22.837Z
+> 이 README는 자동 생성됩니다. 2026-07-19T05:14:58.442Z
 
 ## More Atlas Cloud Tools
 

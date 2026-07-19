@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1143** |
+| Total de Prompts | **1145** |
 | Categorias | **13** |
-| Videos de Previa | **988** |
-| Ultima Atualizacao | **2026-07-18T05:17:23.022Z** |
+| Videos de Previa | **990** |
+| Ultima Atualizacao | **2026-07-19T05:14:58.618Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **343**
+- [`Twitter Community`](#category-1): **345**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (343)
+### Twitter Community (345)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7454,70 +7454,7 @@ Um prompt de vídeo cinematográfico de um motociclista acelerando por uma ponte
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 312: Mulher elegante em trajes minimalistas
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ᴍᴜʀᴘʜʏ
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Descricao
-
-Um prompt para gerar um vídeo de uma jovem sofisticada usando uma blusa branca e calças bege.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 313: Mulher elegante em trajes minimalistas
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ᴍᴜʀᴘʜʏ
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Descricao
-
-Um prompt para gerar um vídeo de uma jovem sofisticada usando uma blusa branca e calças bege.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 314: Mulher elegante em trajes minimalistas
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ᴍᴜʀᴘʜʏ
-- **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Descricao
-
-Um prompt para gerar um vídeo de uma jovem sofisticada usando uma blusa branca e calças bege.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 315: Replicar Cinematografia e Ritmo de Vídeo
+### No. 312: Replicar Cinematografia e Ritmo de Vídeo
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7539,7 +7476,7 @@ Uma instrução para replicar a cinematografia, tipos de tomada, trilha sonora e
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 316: Canoagem por um Cânion Escondido
+### No. 313: Canoagem por um Cânion Escondido
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7560,7 +7497,7 @@ Uma cena hiper-realista de um canoísta solitário navegando por um estreito câ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 317: Canoagem por um Cânion Escondido
+### No. 314: Canoagem por um Cânion Escondido
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7581,7 +7518,7 @@ Uma cena hiper-realista de um canoísta solitário navegando por um estreito câ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: Navegação no Site de Ferramentas de IA GlobalGPT
+### No. 315: Navegação no Site de Ferramentas de IA GlobalGPT
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7602,7 +7539,7 @@ Este vídeo captura um usuário navegando no site da GlobalGPT, mostrando seus v
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: Caindo através de ilhas flutuantes e cachoeiras impossíveis
+### No. 316: Caindo através de ilhas flutuantes e cachoeiras impossíveis
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7623,7 +7560,7 @@ Uma visão em primeira pessoa de cair através de uma paisagem surreal de ilhas 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 320: Ser Digital Luminoso Carregando Mundos
+### No. 317: Ser Digital Luminoso Carregando Mundos
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7645,7 +7582,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 321: Mergulho Cinematográfico na Hora Dourada da Montanha
+### No. 318: Mergulho Cinematográfico na Hora Dourada da Montanha
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7666,7 +7603,7 @@ Uma tomada aérea cinematográfica épica de um mergulho captura uma vasta paisa
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 322: Bar Futurista no Terraço sob Chuva Neon
+### No. 319: Bar Futurista no Terraço sob Chuva Neon
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7685,7 +7622,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 323: Batalha em telhado cyberpunk sob chuva forte
+### No. 320: Batalha em telhado cyberpunk sob chuva forte
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7712,7 +7649,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 324: Batalha em telhado cyberpunk sob chuva forte
+### No. 321: Batalha em telhado cyberpunk sob chuva forte
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7739,7 +7676,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 325: Estética Vintage e Caprichosa de Anderson com Simetria
+### No. 322: Estética Vintage e Caprichosa de Anderson com Simetria
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7760,7 +7697,7 @@ Um prompt para um curta-metragem com enquadramento simétrico, tons suaves vinta
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 326: Estética Vintage e Caprichosa de Anderson com Simetria
+### No. 323: Estética Vintage e Caprichosa de Anderson com Simetria
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7781,7 +7718,7 @@ Um prompt para um curta-metragem com enquadramento simétrico, tons suaves vinta
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 327: Estética Vintage e Caprichosa de Anderson com Simetria
+### No. 324: Estética Vintage e Caprichosa de Anderson com Simetria
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7802,7 +7739,7 @@ Um prompt para um curta-metragem com enquadramento simétrico, tons suaves vinta
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 328: Vídeo de IA do Astro Favorito da Copa do Mundo
+### No. 325: Vídeo de IA do Astro Favorito da Copa do Mundo
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7818,6 +7755,69 @@ Um prompt de vídeo de IA para criar um vídeo original apresentando um astro fa
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 326: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Descricao
+
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 327: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Descricao
+
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 328: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Descricao
+
+Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 329: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
@@ -7883,67 +7883,58 @@ Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, d
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+### No. 332: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** BMX
+- **Autor:** PSS
 - **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 333: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+### No. 333: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** BMX
+- **Autor:** PSS
 - **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 334: Tomada em POV de Balão de Ar Quente em Primeira Pessoa
+### No. 334: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** BMX
+- **Autor:** PSS
 - **Idioma:** `pt-BR`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Descricao
 
-Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, de dentro de um balão de ar quente acima das nuvens.
+Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 335: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
@@ -8054,58 +8045,109 @@ Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequ
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
+### No. 341: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** PSS
+- **Autor:** ᴍᴜʀᴘʜʏ
 - **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Descricao
 
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
+Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a cidade como tema principal.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
+### No. 342: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** PSS
+- **Autor:** ᴍᴜʀᴘʜʏ
 - **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Descricao
 
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
+Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a cidade como tema principal.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
+### No. 343: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** PSS
+- **Autor:** ᴍᴜʀᴘʜʏ
 - **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Descricao
 
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
+Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a cidade como tema principal.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 344: Jornada Aérea Cinematográfica por Dubai
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** ᴍᴜʀᴘʜʏ
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### Descricao
+
+Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a cidade como tema principal.
+
+#### Prompt
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 345: Partidas de Futebol: Estádio, Pênalti, Cobrança de Falta
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Can Matrix
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Jomolos/status/2078592344920924658)
+
+#### Descricao
+
+Este vídeo apresenta três cenas distintas de futebol: uma vista aérea de um estádio lotado, um pênalti intenso e um gol impressionante de cobrança de falta.
+
+#### Prompt
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24229,7 +24271,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-07-18T05:17:23.022Z
+> Este README e gerado automaticamente. 2026-07-19T05:14:58.618Z
 
 ## More Atlas Cloud Tools
 

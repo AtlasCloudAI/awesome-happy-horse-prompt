@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1143** |
+| Toplam Prompt | **1145** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **988** |
-| Son Guncelleme | **2026-07-18T05:17:23.067Z** |
+| Onizleme Videolari | **990** |
+| Son Guncelleme | **2026-07-19T05:14:58.662Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **343**
+- [`Twitter Community`](#category-1): **345**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (343)
+### Twitter Community (345)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7454,70 +7454,7 @@ Uçuşan enkazlar eşliğinde çöken bir asma köprüden hızla geçen bir sür
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 312: Minimalist giyimli zarif kadın
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** ᴍᴜʀᴘʜʏ
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Aciklama
-
-Beyaz üst ve bej pantolon giymiş sofistike genç bir kadının videosunu oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 313: Minimalist giyimli zarif kadın
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** ᴍᴜʀᴘʜʏ
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Aciklama
-
-Beyaz üst ve bej pantolon giymiş sofistike genç bir kadının videosunu oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 314: Minimalist giyimli zarif kadın
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** ᴍᴜʀᴘʜʏ
-- **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Aciklama
-
-Beyaz üst ve bej pantolon giymiş sofistike genç bir kadının videosunu oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 315: Video Sinematografisi ve Ritmini Kopyalama
+### No. 312: Video Sinematografisi ve Ritmini Kopyalama
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7539,7 +7476,7 @@ Bir referans videosunun sinematografisini, çekim türlerini, arka plan müziği
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 316: Gizli Bir Kanyonda Kano Yolculuğu
+### No. 313: Gizli Bir Kanyonda Kano Yolculuğu
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7560,7 +7497,7 @@ Dar bir kumtaşı kanyonunda tek başına yol alan bir kanocunun hiper-gerçekç
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 317: Gizli Bir Kanyonda Kano Yolculuğu
+### No. 314: Gizli Bir Kanyonda Kano Yolculuğu
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7581,7 +7518,7 @@ Dar bir kumtaşı kanyonunda tek başına yol alan bir kanocunun hiper-gerçekç
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: GlobalGPT AI Araçları Web Sitesi Gezinimi
+### No. 315: GlobalGPT AI Araçları Web Sitesi Gezinimi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7602,7 +7539,7 @@ Bu video, bir kullanıcının GlobalGPT web sitesinde gezinerek, görüntü, vid
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: Uçan adalar ve imkansız şelalelerden düşüş
+### No. 316: Uçan adalar ve imkansız şelalelerden düşüş
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7623,7 +7560,7 @@ Uçan adalar, şelaleler ve çözülen ışıklardan oluşan sürreal bir manzar
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 320: Dünyaları Taşıyan Işıltılı Dijital Varlık
+### No. 317: Dünyaları Taşıyan Işıltılı Dijital Varlık
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7645,7 +7582,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 321: Sinematik Altın Saat Dağ Dalışı
+### No. 318: Sinematik Altın Saat Dağ Dalışı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7666,7 +7603,7 @@ Epik bir sinematik hava dalış çekimi, altın saat ışığıyla yıkanmış u
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 322: Neon Yağmurda Fütüristik Çatı Barı
+### No. 319: Neon Yağmurda Fütüristik Çatı Barı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7685,7 +7622,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 323: Şiddetli yağmur altında cyberpunk çatı savaşı
+### No. 320: Şiddetli yağmur altında cyberpunk çatı savaşı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7712,7 +7649,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 324: Şiddetli yağmur altında cyberpunk çatı savaşı
+### No. 321: Şiddetli yağmur altında cyberpunk çatı savaşı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7739,7 +7676,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 325: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 322: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7760,7 +7697,7 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 326: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 323: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7781,7 +7718,7 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 327: Simetrik Vintage Oyunbaz Anderson Estetiği
+### No. 324: Simetrik Vintage Oyunbaz Anderson Estetiği
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7802,7 +7739,7 @@ Simetrik çerçeveleme, vintage yumuşak tonlar ve klasik Wes Anderson oyunbaz t
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 328: Favori Dünya Kupası Yıldızının Yapay Zeka Videosu
+### No. 325: Favori Dünya Kupası Yıldızının Yapay Zeka Videosu
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -7818,6 +7755,69 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 326: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Aciklama
+
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 327: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Aciklama
+
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 328: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** BMX
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Aciklama
+
+Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 329: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
@@ -7883,67 +7883,58 @@ Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi ak�
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+### No. 332: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** BMX
+- **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 333: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+### No. 333: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** BMX
+- **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 334: Birinci Şahıs Sıcak Hava Balonu POV Çekimi
+### No. 334: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** BMX
+- **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Aciklama
 
-Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi akıllı telefon görüntüsü oluşturmak için bir prompt.
+Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 335: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
@@ -8054,58 +8045,109 @@ Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluştur
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
+### No. 341: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** PSS
+- **Yazar:** ᴍᴜʀᴘʜʏ
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Aciklama
 
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
+Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleyen bir video için bir prompt (talimat).
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
+### No. 342: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** PSS
+- **Yazar:** ᴍᴜʀᴘʜʏ
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Aciklama
 
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
+Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleyen bir video için bir prompt (talimat).
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
+### No. 343: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
-- **Yazar:** PSS
+- **Yazar:** ᴍᴜʀᴘʜʏ
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Aciklama
 
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
+Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleyen bir video için bir prompt (talimat).
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 344: Dubai Üzerinden Sinematik Havadan Yolculuk
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** ᴍᴜʀᴘʜʏ
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### Aciklama
+
+Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleyen bir video için bir prompt (talimat).
+
+#### Prompt
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 345: Futbol Maçları: Stadyum, Penaltı, Serbest Vuruş
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Can Matrix
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Jomolos/status/2078592344920924658)
+
+#### Aciklama
+
+Bu video, üç farklı futbol sahnesini sergiliyor: dolu bir stadyumun havadan görünümü, yoğun bir penaltı atışı ve muhteşem bir serbest vuruş golü.
+
+#### Prompt
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24173,7 +24215,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-18T05:17:23.067Z
+> Bu README otomatik uretilmistir. 2026-07-19T05:14:58.662Z
 
 ## More Atlas Cloud Tools
 

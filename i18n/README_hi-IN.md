@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1143** |
+| Kul Prompts | **1145** |
 | Categories | **12** |
-| Preview Videos | **988** |
-| Aakhri Update | **2026-07-18T05:17:22.903Z** |
+| Preview Videos | **990** |
+| Aakhri Update | **2026-07-19T05:14:58.507Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **431**
+- [`Twitter Community`](#category-1): **433**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (431)
+### Twitter Community (433)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9213,70 +9213,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: न्यूनतम वस्त्रों में सुसज्जित महिला
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** ᴍᴜʀᴘʜʏ
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Varnan
-
-एक सफेद टॉप और बेज रंग की ट्राउजर पहने एक परिष्कृत युवा महिला का वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 401: न्यूनतम वस्त्रों में सुसज्जित महिला
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** ᴍᴜʀᴘʜʏ
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Varnan
-
-एक सफेद टॉप और बेज रंग की ट्राउजर पहने एक परिष्कृत युवा महिला का वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 402: न्यूनतम वस्त्रों में सुसज्जित महिला
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** ᴍᴜʀᴘʜʏ
-- **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Varnan
-
-एक सफेद टॉप और बेज रंग की ट्राउजर पहने एक परिष्कृत युवा महिला का वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 403: वीडियो की सिनेमैटोग्राफी और लय की नकल करें
+### No. 400: वीडियो की सिनेमैटोग्राफी और लय की नकल करें
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9298,7 +9235,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 404: एक छिपी हुई घाटी में कयाकिंग
+### No. 401: एक छिपी हुई घाटी में कयाकिंग
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9319,7 +9256,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 405: एक छिपी हुई घाटी में कयाकिंग
+### No. 402: एक छिपी हुई घाटी में कयाकिंग
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9340,7 +9277,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: ग्लोबलजीपीटी एआई टूल्स वेबसाइट नेविगेशन
+### No. 403: ग्लोबलजीपीटी एआई टूल्स वेबसाइट नेविगेशन
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9361,7 +9298,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: तैरते द्वीपों और असंभव झरनों से गिरना
+### No. 404: तैरते द्वीपों और असंभव झरनों से गिरना
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9382,7 +9319,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 408: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
+### No. 405: दुनियाओं को ढोता चमकदार डिजिटल प्राणी
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9404,7 +9341,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 409: सिनेमाई गोल्डन आवर पर्वत डाइव
+### No. 406: सिनेमाई गोल्डन आवर पर्वत डाइव
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9425,7 +9362,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 410: नीयन बारिश में भविष्यवादी छत वाला बार
+### No. 407: नीयन बारिश में भविष्यवादी छत वाला बार
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9444,7 +9381,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 411: भारी बारिश में साइबरपंक छत पर लड़ाई
+### No. 408: भारी बारिश में साइबरपंक छत पर लड़ाई
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9471,7 +9408,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 412: भारी बारिश में साइबरपंक छत पर लड़ाई
+### No. 409: भारी बारिश में साइबरपंक छत पर लड़ाई
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9498,7 +9435,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 413: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 410: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9519,7 +9456,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 414: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 411: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9540,7 +9477,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 415: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
+### No. 412: सममित विन्टेज विचित्र एंडरसन सौंदर्यशास्त्र
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9561,7 +9498,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 416: पसंदीदा विश्व कप स्टार का एआई वीडियो
+### No. 413: पसंदीदा विश्व कप स्टार का एआई वीडियो
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9577,6 +9514,69 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 414: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Varnan
+
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 415: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Varnan
+
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 416: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Varnan
+
+बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 417: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
@@ -9642,67 +9642,58 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+### No. 420: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** BMX
+- **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 421: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+### No. 421: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** BMX
+- **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 422: फर्स्ट पर्सन हॉट एयर बैलून पीओवी शॉट
+### No. 422: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** BMX
+- **Author:** PSS
 - **Bhasha:** `hi-IN`
-- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [Dekhen](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Varnan
 
-बादलों के ऊपर एक हॉट एयर बैलून के अंदर से अल्ट्रा-यथार्थवादी स्मार्टफोन फुटेज जनरेट करने के लिए एक प्रॉम्प्ट।
+एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 423: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
@@ -9813,58 +9804,109 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
+### No. 429: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** PSS
+- **Author:** ᴍᴜʀᴘʜʏ
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Varnan
 
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
+दुबई के माध्यम से एक यथार्थवादी ड्रोन उड़ान को दर्शाने वाले वीडियो के लिए एक प्रॉम्प्ट, जहाँ शहर मुख्य विषय है।
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
+### No. 430: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** PSS
+- **Author:** ᴍᴜʀᴘʜʏ
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Varnan
 
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
+दुबई के माध्यम से एक यथार्थवादी ड्रोन उड़ान को दर्शाने वाले वीडियो के लिए एक प्रॉम्प्ट, जहाँ शहर मुख्य विषय है।
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
+### No. 431: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** PSS
+- **Author:** ᴍᴜʀᴘʜʏ
 - **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Varnan
 
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
+दुबई के माध्यम से एक यथार्थवादी ड्रोन उड़ान को दर्शाने वाले वीडियो के लिए एक प्रॉम्प्ट, जहाँ शहर मुख्य विषय है।
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 432: दुबई के माध्यम से सिनेमाई हवाई यात्रा
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ᴍᴜʀᴘʜʏ
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### Varnan
+
+दुबई के माध्यम से एक यथार्थवादी ड्रोन उड़ान को दर्शाने वाले वीडियो के लिए एक प्रॉम्प्ट, जहाँ शहर मुख्य विषय है।
+
+#### Prompt
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 433: फुटबॉल मैच: स्टेडियम, पेनल्टी, फ्री किक
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Can Matrix
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Jomolos/status/2078592344920924658)
+
+#### Varnan
+
+यह वीडियो फुटबॉल के तीन अलग-अलग दृश्य दिखाता है: भरे हुए स्टेडियम का हवाई दृश्य, एक तीव्र पेनल्टी शॉट, और एक शानदार फ्री किक गोल।
+
+#### Prompt
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24168,7 +24210,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-18T05:17:22.903Z
+> Yeh README auto-generated hai. 2026-07-19T05:14:58.507Z
 
 ## More Atlas Cloud Tools
 

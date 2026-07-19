@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1143** |
+| 提示词总数 | **1145** |
 | 分类数 | **13** |
-| 预览视频数 | **988** |
-| 最后更新 | **2026-07-18T05:17:22.770Z** |
+| 预览视频数 | **990** |
+| 最后更新 | **2026-07-19T05:14:58.376Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **343**
+- [`Twitter Community`](#category-1): **345**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (343)
+### Twitter Community (345)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7454,70 +7454,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 312: 简约服饰的优雅女性
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** ᴍᴜʀᴘʜʏ
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 描述
-
-一个用于生成视频的提示，描绘一位身着白色上衣和米色长裤的精致年轻女性。
-
-#### 提示词
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 313: 简约服饰的优雅女性
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** ᴍᴜʀᴘʜʏ
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 描述
-
-一个用于生成视频的提示，描绘一位身着白色上衣和米色长裤的精致年轻女性。
-
-#### 提示词
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 314: 简约服饰的优雅女性
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** ᴍᴜʀᴘʜʏ
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### 描述
-
-一个用于生成视频的提示，描绘一位身着白色上衣和米色长裤的精致年轻女性。
-
-#### 提示词
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 315: 复刻视频的摄影手法与节奏
+### No. 312: 复刻视频的摄影手法与节奏
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7539,7 +7476,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 316: 穿越隐秘峡谷的皮划艇之旅
+### No. 313: 穿越隐秘峡谷的皮划艇之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7560,7 +7497,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 317: 穿越隐秘峡谷的皮划艇之旅
+### No. 314: 穿越隐秘峡谷的皮划艇之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7581,7 +7518,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 318: GlobalGPT AI工具网站导航
+### No. 315: GlobalGPT AI工具网站导航
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7602,7 +7539,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 319: 坠入浮空岛屿与不可能瀑布
+### No. 316: 坠入浮空岛屿与不可能瀑布
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7623,7 +7560,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 320: 承载世界的光之数字生命体
+### No. 317: 承载世界的光之数字生命体
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7645,7 +7582,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 321: 电影感黄金时刻山间俯冲
+### No. 318: 电影感黄金时刻山间俯冲
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7666,7 +7603,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 322: 霓虹雨中的未来主义屋顶酒吧
+### No. 319: 霓虹雨中的未来主义屋顶酒吧
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7685,7 +7622,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 323: 暴雨中的赛博朋克屋顶激战
+### No. 320: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7712,7 +7649,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 324: 暴雨中的赛博朋克屋顶激战
+### No. 321: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7739,7 +7676,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 325: 对称复古奇幻安德森美学
+### No. 322: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7760,7 +7697,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 326: 对称复古奇幻安德森美学
+### No. 323: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7781,7 +7718,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 327: 对称复古奇幻安德森美学
+### No. 324: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7802,7 +7739,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 328: 最喜爱世界杯球星的AI视频
+### No. 325: 最喜爱世界杯球星的AI视频
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7818,6 +7755,69 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 326: 第一人称热气球主观视角镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 描述
+
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+
+#### 提示词
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 327: 第一人称热气球主观视角镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 描述
+
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+
+#### 提示词
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 328: 第一人称热气球主观视角镜头
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** BMX
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### 描述
+
+一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+
+#### 提示词
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 329: 第一人称热气球主观视角镜头
@@ -7883,67 +7883,58 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: 第一人称热气球主观视角镜头
+### No. 332: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** BMX
+- **作者:** PSS
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 333: 第一人称热气球主观视角镜头
+### No. 333: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** BMX
+- **作者:** PSS
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 334: 第一人称热气球主观视角镜头
+### No. 334: 趣味3D动画烹饪短片
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** BMX
+- **作者:** PSS
 - **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/bmx_ai13/status/2078040509902401754)
+- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
 
 #### 描述
 
-一个用于生成超现实主义智能手机拍摄画面的提示，内容为从云层上方的热气球内部拍摄。
+一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
 
 #### 提示词
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 335: 趣味3D动画烹饪短片
@@ -8054,58 +8045,109 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 341: 趣味3D动画烹饪短片
+### No. 341: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** PSS
+- **作者:** ᴍᴜʀᴘʜʏ
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 描述
 
-一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
+一段视频提示，描绘了以城市为主题的、穿越迪拜的现实主义无人机飞行画面。
 
 #### 提示词
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: 趣味3D动画烹饪短片
+### No. 342: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** PSS
+- **作者:** ᴍᴜʀᴘʜʏ
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 描述
 
-一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
+一段视频提示，描绘了以城市为主题的、穿越迪拜的现实主义无人机飞行画面。
 
 #### 提示词
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: 趣味3D动画烹饪短片
+### No. 343: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
-- **作者:** PSS
+- **作者:** ᴍᴜʀᴘʜʏ
 - **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2078130090601308329)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### 描述
 
-一个用于生成温馨、电影感的3D动画烹饪序列的提示，风格为家庭友好型。
+一段视频提示，描绘了以城市为主题的、穿越迪拜的现实主义无人机飞行画面。
 
 #### 提示词
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 344: 穿越迪拜的电影感空中之旅
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ᴍᴜʀᴘʜʏ
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### 描述
+
+一段视频提示，描绘了以城市为主题的、穿越迪拜的现实主义无人机飞行画面。
+
+#### 提示词
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 345: 足球比赛：球场、点球、任意球
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Can Matrix
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Jomolos/status/2078592344920924658)
+
+#### 描述
+
+本视频展示了三个不同的足球场景：座无虚席的体育场鸟瞰图、紧张刺激的点球射门，以及一记精彩的任意球破门。
+
+#### 提示词
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24173,7 +24215,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-18T05:17:22.770Z
+> 此 README 为自动生成。 2026-07-19T05:14:58.376Z
 
 ## More Atlas Cloud Tools
 

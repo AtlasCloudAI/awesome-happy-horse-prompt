@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1143** |
+| Tong so Prompt | **1145** |
 | So danh muc | **12** |
-| Video xem truoc | **988** |
-| Cap nhat lan cuoi | **2026-07-18T05:17:22.882Z** |
+| Video xem truoc | **990** |
+| Cap nhat lan cuoi | **2026-07-19T05:14:58.486Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **431**
+- [`Twitter Community`](#category-1): **433**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (431)
+### Twitter Community (433)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9213,70 +9213,7 @@ Một gợi ý video điện ảnh về một người lái xe phóng nhanh qua 
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: Người phụ nữ thanh lịch trong trang phục tối giản
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Mo ta
-
-Một gợi ý để tạo video về một phụ nữ trẻ tinh tế trong áo trắng và quần màu be.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 401: Người phụ nữ thanh lịch trong trang phục tối giản
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Mo ta
-
-Một gợi ý để tạo video về một phụ nữ trẻ tinh tế trong áo trắng và quần màu be.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 402: Người phụ nữ thanh lịch trong trang phục tối giản
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### Mo ta
-
-Một gợi ý để tạo video về một phụ nữ trẻ tinh tế trong áo trắng và quần màu be.
-
-#### Prompt
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 403: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
+### No. 400: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9298,7 +9235,7 @@ Một chỉ dẫn yêu cầu tái tạo kỹ thuật quay phim, loại cảnh qu
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 404: Chèo Kayak Qua Hẻm Núi Ẩn Mình
+### No. 401: Chèo Kayak Qua Hẻm Núi Ẩn Mình
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9319,7 +9256,7 @@ Một cảnh tượng siêu thực tế về một người chèo kayak đơn đ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 405: Chèo Kayak Qua Hẻm Núi Ẩn Mình
+### No. 402: Chèo Kayak Qua Hẻm Núi Ẩn Mình
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9340,7 +9277,7 @@ Một cảnh tượng siêu thực tế về một người chèo kayak đơn đ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: Điều Hướng Trang Web Công Cụ AI GlobalGPT
+### No. 403: Điều Hướng Trang Web Công Cụ AI GlobalGPT
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9361,7 +9298,7 @@ Video này ghi lại cảnh người dùng điều hướng trang web GlobalGPT,
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
+### No. 404: Rơi xuyên qua những hòn đảo lơ lửng và thác nước bất khả thi
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9382,7 +9319,7 @@ Góc nhìn người thứ nhất của cảnh rơi xuyên qua một cảnh quan 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 408: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
+### No. 405: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9404,7 +9341,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 409: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
+### No. 406: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9425,7 +9362,7 @@ Cảnh quay trên không mang tính điện ảnh hoành tráng ghi lại một 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 410: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
+### No. 407: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9444,7 +9381,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 411: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+### No. 408: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9471,7 +9408,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 412: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+### No. 409: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9498,7 +9435,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 413: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 410: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9519,7 +9456,7 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 414: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 411: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9540,7 +9477,7 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 415: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
+### No. 412: Thẩm Mỹ Anderson Cổ Điển Lập Dị Đối Xứng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9561,7 +9498,7 @@ Một gợi ý cho một bộ phim ngắn với bố cục đối xứng, tông 
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 416: Video AI Về Ngôi Sao Bóng Đá World Cup Yêu Thích
+### No. 413: Video AI Về Ngôi Sao Bóng Đá World Cup Yêu Thích
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9577,6 +9514,69 @@ Một gợi ý video AI để tạo ra một video nguyên bản có sự xuất
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 414: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Mo ta
+
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 415: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Mo ta
+
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 416: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### Mo ta
+
+Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+
+#### Prompt
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 417: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
@@ -9642,67 +9642,58 @@ Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thô
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+### No. 420: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** BMX
+- **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 421: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+### No. 421: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** BMX
+- **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 422: Cảnh Quay Góc Nhìn Người Thứ Nhất Từ Khinh Khí Cầu
+### No. 422: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** BMX
+- **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2078040509902401754)
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
 
 #### Mo ta
 
-Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thông minh bên trong khinh khí cầu trên cao giữa những đám mây.
+Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
 
 #### Prompt
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 423: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
@@ -9813,58 +9804,109 @@ Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính 
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
+### No. 429: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** PSS
+- **Tac gia:** ᴍᴜʀᴘʜʏ
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Mo ta
 
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
+Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên qua Dubai với thành phố là chủ thể chính.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
+### No. 430: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** PSS
+- **Tac gia:** ᴍᴜʀᴘʜʏ
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Mo ta
 
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
+Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên qua Dubai với thành phố là chủ thể chính.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
+### No. 431: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** PSS
+- **Tac gia:** ᴍᴜʀᴘʜʏ
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### Mo ta
 
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
+Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên qua Dubai với thành phố là chủ thể chính.
 
 #### Prompt
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 432: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### Mo ta
+
+Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên qua Dubai với thành phố là chủ thể chính.
+
+#### Prompt
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 433: Các Trận Đấu Bóng Đá: Sân Vận Động, Phạt Đền, Đá Phạt Trực Tiếp
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Can Matrix
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Jomolos/status/2078592344920924658)
+
+#### Mo ta
+
+Video này trình bày ba cảnh bóng đá khác biệt: góc nhìn từ trên không của một sân vận động chật kín người, một cú sút phạt đền căng thẳng, và một bàn thắng đá phạt trực tiếp tuyệt đẹp.
+
+#### Prompt
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24168,7 +24210,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-18T05:17:22.882Z
+> README nay duoc tao tu dong. 2026-07-19T05:14:58.486Z
 
 ## More Atlas Cloud Tools
 

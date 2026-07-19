@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1143** |
+| พรอมต์ทั้งหมด | **1145** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **988** |
-| อัปเดตล่าสุด | **2026-07-18T05:17:22.861Z** |
+| วิดีโอตัวอย่าง | **990** |
+| อัปเดตล่าสุด | **2026-07-19T05:14:58.466Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **431**
+- [`Twitter Community`](#category-1): **433**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (431)
+### Twitter Community (433)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9213,70 +9213,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: ผู้หญิงสง่างามในชุดเรียบง่าย
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### คำอธิบาย
-
-คำสั่งสำหรับสร้างวิดีโอของหญิงสาวผู้มีรสนิยม สวมเสื้อสีขาวและกางเกงสีเบจ
-
-#### พรอมต์
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 401: ผู้หญิงสง่างามในชุดเรียบง่าย
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### คำอธิบาย
-
-คำสั่งสำหรับสร้างวิดีโอของหญิงสาวผู้มีรสนิยม สวมเสื้อสีขาวและกางเกงสีเบจ
-
-#### พรอมต์
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 402: ผู้หญิงสง่างามในชุดเรียบง่าย
-
-- **หมวดหมู่:** `Twitter Community`
-- **แหล่งที่มา:** `x`
-- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
-- **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075265569629388873.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2075265569629388873)
-
-#### คำอธิบาย
-
-คำสั่งสำหรับสร้างวิดีโอของหญิงสาวผู้มีรสนิยม สวมเสื้อสีขาวและกางเกงสีเบจ
-
-#### พรอมต์
-
-```text
-Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance. White fitted sleeveless top, relaxed beige linen trousers, white minimalist
-```
-
-### No. 403: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
+### No. 400: เลียนแบบการถ่ายทำวิดีโอและจังหวะ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9298,7 +9235,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 404: พายเรือคายัคผ่านหุบเขาลับ
+### No. 401: พายเรือคายัคผ่านหุบเขาลับ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9319,7 +9256,7 @@ Main subject: Elegant young woman, mid-20s, sophisticated yet natural appearance
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 405: พายเรือคายัคผ่านหุบเขาลับ
+### No. 402: พายเรือคายัคผ่านหุบเขาลับ
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9340,7 +9277,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 406: การนำทางเว็บไซต์เครื่องมือเอไอ GlobalGPT
+### No. 403: การนำทางเว็บไซต์เครื่องมือเอไอ GlobalGPT
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9361,7 +9298,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 407: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
+### No. 404: การตกลงผ่านเกาะลอยฟ้าและน้ำตกที่เป็นไปไม่ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9382,7 +9319,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 408: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
+### No. 405: สิ่งมีชีวิตดิจิทัลเรืองแสงแบกโลก
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9404,7 +9341,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 409: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
+### No. 406: การดำดิ่งสู่ขุนเขาในแสงทองแห่งภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9425,7 +9362,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 410: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
+### No. 407: บาร์บนดาดฟ้าแห่งอนาคตในสายฝนเรืองแสง
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9444,7 +9381,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 411: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+### No. 408: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9471,7 +9408,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 412: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
+### No. 409: การต่อสู้บนดาดฟ้าในสายฝนแห่งโลกไซเบอร์พังก์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9498,7 +9435,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 413: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 410: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9519,7 +9456,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 414: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 411: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9540,7 +9477,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 415: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
+### No. 412: สไตล์วินเทจสมมาตร แฟนตาซีคลาสสิกแบบเวส แอนเดอร์สัน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9561,7 +9498,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 416: วิดีโอเอไอของดาราฟุตบอลโลกคนโปรด
+### No. 413: วิดีโอเอไอของดาราฟุตบอลโลกคนโปรด
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
@@ -9577,6 +9514,69 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 
 ```text
 Create an original AI video featuring your favorite 2026 World Cup star
+```
+
+### No. 414: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+
+#### พรอมต์
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 415: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+
+#### พรอมต์
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+```
+
+### No. 416: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** BMX
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+
+#### คำอธิบาย
+
+คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+
+#### พรอมต์
+
+```text
+Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
 ### No. 417: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
@@ -9642,67 +9642,58 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+### No. 420: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
+- **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 421: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+### No. 421: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
+- **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 422: มุมมองบุคคลที่หนึ่งจากบอลลูนอากาศร้อน
+### No. 422: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** BMX
+- **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/bmx_ai13/status/2078040509902401754)
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างภาพวิดีโอสมาร์ทโฟนที่มีความสมจริงสูงสุดจากภายในบอลลูนอากาศร้อนเหนือก้อนเมฆ
+คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
 
 #### พรอมต์
 
 ```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
+Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
 ### No. 423: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
@@ -9813,58 +9804,109 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
 ```
 
-### No. 429: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
+### No. 429: การเดินทางทางอากาศผ่านดูไบในรูปแบบภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
+คำอธิบายสำหรับวิดีโอที่แสดงภาพการบินโดรนสมจริงผ่านเมืองดูไบ โดยมีตัวเมืองเป็นหัวเรื่องหลัก
 
 #### พรอมต์
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
+### No. 430: การเดินทางทางอากาศผ่านดูไบในรูปแบบภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
+คำอธิบายสำหรับวิดีโอที่แสดงภาพการบินโดรนสมจริงผ่านเมืองดูไบ โดยมีตัวเมืองเป็นหัวเรื่องหลัก
 
 #### พรอมต์
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: ภาพยนตร์สั้นทำอาหารแอนิเมชั่น 3 มิติแบบสนุกสนาน
+### No. 431: การเดินทางทางอากาศผ่านดูไบในรูปแบบภาพยนตร์
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
-- **ผู้เขียน:** PSS
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2078130090601308329)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2078405756701798645)
 
 #### คำอธิบาย
 
-คำสั่งสำหรับสร้างแอนิเมชั่น 3 มิติแบบอบอุ่นและมีบรรยากาศภาพยนตร์ของขั้นตอนการทำอาหาร ในสไตล์ที่เป็นมิตรกับครอบครัว
+คำอธิบายสำหรับวิดีโอที่แสดงภาพการบินโดรนสมจริงผ่านเมืองดูไบ โดยมีตัวเมืองเป็นหัวเรื่องหลัก
 
 #### พรอมต์
 
 ```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 432: การเดินทางทางอากาศผ่านดูไบในรูปแบบภาพยนตร์
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ᴍᴜʀᴘʜʏ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078405756701798645.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Diplomeme/status/2078405756701798645)
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับวิดีโอที่แสดงภาพการบินโดรนสมจริงผ่านเมืองดูไบ โดยมีตัวเมืองเป็นหัวเรื่องหลัก
+
+#### พรอมต์
+
+```text
+Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
+```
+
+### No. 433: การแข่งขันฟุตบอล: สนามกีฬา, การยิงจุดโทษ, การยิงฟรีคิก
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Can Matrix
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078592344920924658.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Jomolos/status/2078592344920924658)
+
+#### คำอธิบาย
+
+วิดีโอนี้นำเสนอสามฉากฟุตบอลที่แตกต่างกัน: มุมมองทางอากาศของสนามกีฬาที่เต็มไปด้วยผู้ชม, การยิงจุดโทษที่เข้มข้น, และการยิงฟรีคิกที่สวยงามจนได้ประตู
+
+#### พรอมต์
+
+```text
+Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
 <a id="category-2"></a>
@@ -24168,7 +24210,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-18T05:17:22.861Z
+> README นี้สร้างอัตโนมัติ 2026-07-19T05:14:58.466Z
 
 ## More Atlas Cloud Tools
 

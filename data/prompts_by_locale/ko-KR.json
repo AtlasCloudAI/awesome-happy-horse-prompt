@@ -13914,5 +13914,35 @@
       "images": [],
       "video": "media/happy-horse/x_2078405756701798645.mp4"
     }
+  },
+  {
+    "id": "x_2078895866941685761",
+    "title": "좌초된 거대 우주선 앞에 선 소녀",
+    "description": "황량한 평원에 좌초된 거대하고 파손된 우주선 앞에 서 있는 한 소녀를 묘사하는 장면에 대한 프롬프트입니다.",
+    "prompt": "At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "ZeFred.AI",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/ZefredAi/status/2078895866941685761",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078713882554810424",
+    "title": "녹색 비단 옷을 입은 송나라 극장 무용수",
+    "description": "송나라 극장 무대에서 공연하는 아름다운 녹색 비단 옷의 무용수를 생성하기 위한 비디오 프롬프트입니다.",
+    "prompt": "宋代戲院 青紗的美女正在台上跳舞",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4",
+    "author_name": "The Anxious Mind",
+    "source_platform": "x",
+    "language": "ko-KR",
+    "source_link": "https://x.com/drjoetw/status/2078713882554810424",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078713882554810424.mp4"
+    }
   }
 ]

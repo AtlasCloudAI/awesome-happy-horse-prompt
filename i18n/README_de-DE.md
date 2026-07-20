@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Eine kuratierte Sammlung von Happy Horse 1.0 Prompts aus dem AtlasCloud Prompt-Okosystem.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrik | Anzahl |
 |--------|-------|
-| Prompts Insgesamt | **1145** |
+| Prompts Insgesamt | **1147** |
 | Kategorien | **13** |
-| Vorschauvideos | **990** |
-| Zuletzt aktualisiert | **2026-07-19T05:14:58.563Z** |
+| Vorschauvideos | **991** |
+| Zuletzt aktualisiert | **2026-07-20T06:03:05.360Z** |
 
 ## 🏷️ Nach Kategorie durchsuchen
 
-- [`Twitter Community`](#category-1): **345**
+- [`Twitter Community`](#category-1): **347**
 - [`HappyHorse Kreativsammlung`](#category-2): **240**
 - [`Twitter-Community`](#category-3): **88**
 - [`Audio & Sprachsynthese`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (345)
+### Twitter Community (347)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8148,6 +8148,45 @@ Dieses Video zeigt drei verschiedene Fußballszenen: eine Luftaufnahme eines vol
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 346: Song-Dynastie-Theatertänzerin in grünem Gaze
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** The Anxious Mind
+- **Sprache:** `de-DE`
+- **Video:** [Ansehen](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **Quelllink:** [Ansehen](https://x.com/drjoetw/status/2078713882554810424)
+
+#### Beschreibung
+
+Eine Eingabeaufforderung zur Erzeugung eines Videos einer schönen Tänzerin in grünem Gaze, die auf der Bühne eines Theaters der Song-Dynastie auftritt.
+
+#### Prompt
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 347: Mädchen vor einem gestrandeten riesigen Raumschiff
+
+- **Kategorie:** `Twitter Community`
+- **Quelle:** `x`
+- **Autor:** ZeFred.AI
+- **Sprache:** `de-DE`
+- **Quelllink:** [Ansehen](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### Beschreibung
+
+Eine Eingabeaufforderung für eine Szene, die ein kleines Mädchen zeigt, das vor einem massiven, zerstörten Raumschiff auf einer öden Ebene steht.
+
+#### Prompt
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24271,7 +24310,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-07-19T05:14:58.563Z
+> Diese README wird automatisch erzeugt. 2026-07-20T06:03:05.360Z
 
 ## More Atlas Cloud Tools
 

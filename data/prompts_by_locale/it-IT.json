@@ -13914,5 +13914,35 @@
       "images": [],
       "video": "media/happy-horse/x_2078405756701798645.mp4"
     }
+  },
+  {
+    "id": "x_2078895866941685761",
+    "title": "Ragazza Davanti a un Colossale Velivolo Spaziale Arenato",
+    "description": "Una richiesta per una scena che raffigura una bambina in piedi davanti a un'enorme astronave in rovina su una pianura desolata.",
+    "prompt": "At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "ZeFred.AI",
+    "source_platform": "x",
+    "language": "it-IT",
+    "source_link": "https://x.com/ZefredAi/status/2078895866941685761",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078713882554810424",
+    "title": "Danzerina del teatro della Dinastia Song in garza verde",
+    "description": "Una richiesta per generare un video di una bellissima danzatrice in garza verde che si esibisce sul palco di un teatro della Dinastia Song.",
+    "prompt": "宋代戲院 青紗的美女正在台上跳舞",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4",
+    "author_name": "The Anxious Mind",
+    "source_platform": "x",
+    "language": "it-IT",
+    "source_link": "https://x.com/drjoetw/status/2078713882554810424",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078713882554810424.mp4"
+    }
   }
 ]

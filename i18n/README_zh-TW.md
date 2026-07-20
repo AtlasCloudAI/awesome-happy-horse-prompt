@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **1145** |
+| 提示詞總數 | **1147** |
 | 分類數 | **13** |
-| 預覽影片數 | **990** |
-| 最後更新 | **2026-07-19T05:14:58.398Z** |
+| 預覽影片數 | **991** |
+| 最後更新 | **2026-07-20T06:03:05.190Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`Twitter Community`](#category-1): **345**
+- [`Twitter Community`](#category-1): **347**
 - [`HappyHorse 創意批次`](#category-2): **240**
 - [`Twitter 社群`](#category-3): **88**
 - [`音訊與語音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 <a id="category-1"></a>
 
-### Twitter Community (345)
+### Twitter Community (347)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8148,6 +8148,45 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 346: 身著綠紗的宋代劇院舞者
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** The Anxious Mind
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/drjoetw/status/2078713882554810424)
+
+#### 描述
+
+一個用於生成影片的提示，內容為一名身著綠紗的美麗舞者，正在宋代劇院的舞台上表演。
+
+#### 提示詞
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 347: 女孩佇立於擱淺的巨型太空船前
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** ZeFred.AI
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### 描述
+
+一個場景提示，描繪一名小女孩站在荒涼平原上，面對一艘巨大且損毀的太空船。
+
+#### 提示詞
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24215,7 +24254,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-19T05:14:58.398Z
+> 此 README 為自動生成。 2026-07-20T06:03:05.190Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1145** |
+| Total de Prompts | **1147** |
 | Categorias | **13** |
-| Videos de Previa | **990** |
-| Ultima Atualizacao | **2026-07-19T05:14:58.618Z** |
+| Videos de Previa | **991** |
+| Ultima Atualizacao | **2026-07-20T06:03:05.421Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **345**
+- [`Twitter Community`](#category-1): **347**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (345)
+### Twitter Community (347)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8148,6 +8148,45 @@ Este vídeo apresenta três cenas distintas de futebol: uma vista aérea de um e
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 346: Dançarina de teatro da Dinastia Song em gaze verde
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** The Anxious Mind
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/drjoetw/status/2078713882554810424)
+
+#### Descricao
+
+Um prompt para gerar um vídeo de uma bela dançarina vestindo gaze verde, se apresentando no palco de um teatro da Dinastia Song.
+
+#### Prompt
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 347: Garota Diante de uma Nave Espacial Colossal Encallada
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** ZeFred.AI
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### Descricao
+
+Um prompt para uma cena que retrata uma menina pequena em pé diante de uma nave espacial massiva e avariada em uma planície desolada.
+
+#### Prompt
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24271,7 +24310,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-07-19T05:14:58.618Z
+> Este README e gerado automaticamente. 2026-07-20T06:03:05.421Z
 
 ## More Atlas Cloud Tools
 

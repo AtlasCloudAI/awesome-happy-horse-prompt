@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1145** |
+| Kul Prompts | **1147** |
 | Categories | **12** |
-| Preview Videos | **990** |
-| Aakhri Update | **2026-07-19T05:14:58.507Z** |
+| Preview Videos | **991** |
+| Aakhri Update | **2026-07-20T06:03:05.302Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **433**
+- [`Twitter Community`](#category-1): **435**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (433)
+### Twitter Community (435)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9907,6 +9907,45 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 434: हरे जालीदार वस्त्र में सोंग राजवंश की नाट्य नृत्यांगना
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** The Anxious Mind
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/drjoetw/status/2078713882554810424)
+
+#### Varnan
+
+सोंग राजवंश के रंगमंच पर मंच पर प्रदर्शन कर रही हरे जालीदार वस्त्र में एक सुंदर नृत्यांगना का वीडियो जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 435: एक अटके हुए विशाल अंतरिक्ष यान के सामने खड़ी लड़की
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ZeFred.AI
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### Varnan
+
+एक सुनसान मैदान पर एक विशाल, टूटे-फूटे अंतरिक्ष यान के सामने खड़ी एक छोटी लड़की को दर्शाते दृश्य के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24210,7 +24249,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-19T05:14:58.507Z
+> Yeh README auto-generated hai. 2026-07-20T06:03:05.302Z
 
 ## More Atlas Cloud Tools
 

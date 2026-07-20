@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una raccolta curata di prompt Happy Horse 1.0 provenienti dall'ecosistema di prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt Totali | **1145** |
+| Prompt Totali | **1147** |
 | Categorie | **12** |
-| Video di Anteprima | **990** |
-| Ultimo Aggiornamento | **2026-07-19T05:14:58.600Z** |
+| Video di Anteprima | **991** |
+| Ultimo Aggiornamento | **2026-07-20T06:03:05.399Z** |
 
 ## 🏷️ Sfoglia per Categoria
 
-- [`Twitter Community`](#category-1): **433**
+- [`Twitter Community`](#category-1): **435**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (433)
+### Twitter Community (435)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9907,6 +9907,45 @@ Questo video presenta tre scene calcistiche distinte: una vista aerea di uno sta
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 434: Danzerina del teatro della Dinastia Song in garza verde
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** The Anxious Mind
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/drjoetw/status/2078713882554810424)
+
+#### Descrizione
+
+Una richiesta per generare un video di una bellissima danzatrice in garza verde che si esibisce sul palco di un teatro della Dinastia Song.
+
+#### Prompt
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 435: Ragazza Davanti a un Colossale Velivolo Spaziale Arenato
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** ZeFred.AI
+- **Lingua:** `it-IT`
+- **Link Sorgente:** [Vedi](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### Descrizione
+
+Una richiesta per una scena che raffigura una bambina in piedi davanti a un'enorme astronave in rovina su una pianura desolata.
+
+#### Prompt
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24210,7 +24249,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-07-19T05:14:58.600Z
+> Questo README e generato automaticamente. 2026-07-20T06:03:05.399Z
 
 ## More Atlas Cloud Tools
 

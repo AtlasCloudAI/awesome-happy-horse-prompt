@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1145** |
+| 総プロンプト数 | **1147** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **990** |
-| 最終更新 | **2026-07-19T05:14:58.419Z** |
+| プレビュー動画数 | **991** |
+| 最終更新 | **2026-07-20T06:03:05.214Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **433**
+- [`Twitter Community`](#category-1): **435**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (433)
+### Twitter Community (435)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9907,6 +9907,45 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 434: 宋代劇場の薄緑のガウゼ衣装をまとった舞姫
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** The Anxious Mind
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/drjoetw/status/2078713882554810424)
+
+#### 説明
+
+宋代の劇場の舞台で、薄緑のガウゼ衣装をまとった美しい舞姫が舞を披露する映像を生成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 435: 巨大な難破宇宙船の前に立つ少女
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** ZeFred.AI
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### 説明
+
+荒涼とした平原に横たわる巨大な難破宇宙船の前に、小さな少女が佇む情景を描くプロンプトです。
+
+#### プロンプト
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24290,7 +24329,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-19T05:14:58.419Z
+> この README は自動生成です。 2026-07-20T06:03:05.214Z
 
 ## More Atlas Cloud Tools
 

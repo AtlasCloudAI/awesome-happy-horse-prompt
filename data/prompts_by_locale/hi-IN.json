@@ -13914,5 +13914,35 @@
       "images": [],
       "video": "media/happy-horse/x_2078405756701798645.mp4"
     }
+  },
+  {
+    "id": "x_2078895866941685761",
+    "title": "एक अटके हुए विशाल अंतरिक्ष यान के सामने खड़ी लड़की",
+    "description": "एक सुनसान मैदान पर एक विशाल, टूटे-फूटे अंतरिक्ष यान के सामने खड़ी एक छोटी लड़की को दर्शाते दृश्य के लिए एक प्रॉम्प्ट।",
+    "prompt": "At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "ZeFred.AI",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/ZefredAi/status/2078895866941685761",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078713882554810424",
+    "title": "हरे जालीदार वस्त्र में सोंग राजवंश की नाट्य नृत्यांगना",
+    "description": "सोंग राजवंश के रंगमंच पर मंच पर प्रदर्शन कर रही हरे जालीदार वस्त्र में एक सुंदर नृत्यांगना का वीडियो जनरेट करने के लिए एक प्रॉम्प्ट।",
+    "prompt": "宋代戲院 青紗的美女正在台上跳舞",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4",
+    "author_name": "The Anxious Mind",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/drjoetw/status/2078713882554810424",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078713882554810424.mp4"
+    }
   }
 ]

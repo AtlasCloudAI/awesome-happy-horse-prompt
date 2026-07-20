@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1145** |
+| 전체 프롬프트 | **1147** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **990** |
-| 마지막 업데이트 | **2026-07-19T05:14:58.442Z** |
+| 미리보기 비디오 | **991** |
+| 마지막 업데이트 | **2026-07-20T06:03:05.236Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **433**
+- [`Twitter Community`](#category-1): **435**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (433)
+### Twitter Community (435)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9907,6 +9907,45 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 434: 녹색 비단 옷을 입은 송나라 극장 무용수
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** The Anxious Mind
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/drjoetw/status/2078713882554810424)
+
+#### 설명
+
+송나라 극장 무대에서 공연하는 아름다운 녹색 비단 옷의 무용수를 생성하기 위한 비디오 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 435: 좌초된 거대 우주선 앞에 선 소녀
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** ZeFred.AI
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### 설명
+
+황량한 평원에 좌초된 거대하고 파손된 우주선 앞에 서 있는 한 소녀를 묘사하는 장면에 대한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24290,7 +24329,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-19T05:14:58.442Z
+> 이 README는 자동 생성됩니다. 2026-07-20T06:03:05.236Z
 
 ## More Atlas Cloud Tools
 

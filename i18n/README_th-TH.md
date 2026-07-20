@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1145%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1145** |
+| พรอมต์ทั้งหมด | **1147** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **990** |
-| อัปเดตล่าสุด | **2026-07-19T05:14:58.466Z** |
+| วิดีโอตัวอย่าง | **991** |
+| อัปเดตล่าสุด | **2026-07-20T06:03:05.260Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **433**
+- [`Twitter Community`](#category-1): **435**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (433)
+### Twitter Community (435)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9907,6 +9907,45 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 
 ```text
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
+```
+
+### No. 434: นักเต้นละครสมัยซ่งในชุดผ้าแพรสีเขียว
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** The Anxious Mind
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/drjoetw/status/2078713882554810424)
+
+#### คำอธิบาย
+
+คำอธิบายสำหรับสร้างวิดีโอของนักเต้นสวยงามในชุดผ้าแพรสีเขียว กำลังแสดงบนเวทีในโรงละครสมัยราชวงศ์ซ่ง
+
+#### พรอมต์
+
+```text
+宋代戲院 青紗的美女正在台上跳舞
+```
+
+### No. 435: เด็กหญิงยืนอยู่เบื้องหน้ายานอวกาศยักษ์ที่เกยตื้น
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** ZeFred.AI
+- **ภาษา:** `th-TH`
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/ZefredAi/status/2078895866941685761)
+
+#### คำอธิบาย
+
+คำอธิบายฉากสำหรับสร้างภาพเด็กหญิงตัวเล็กๆ ยืนอยู่เบื้องหน้ายานอวกาศขนาดมหึมาที่พังเสียหายบนที่ราบอันแห้งแล้ง
+
+#### พรอมต์
+
+```text
+At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
 <a id="category-2"></a>
@@ -24210,7 +24249,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-19T05:14:58.466Z
+> README นี้สร้างอัตโนมัติ 2026-07-20T06:03:05.260Z
 
 ## More Atlas Cloud Tools
 

@@ -13914,5 +13914,35 @@
       "images": [],
       "video": "media/happy-horse/x_2078405756701798645.mp4"
     }
+  },
+  {
+    "id": "x_2078895866941685761",
+    "title": "Niña ante una Nave Espacial Colosal Varada",
+    "description": "Una indicación para una escena que muestra a una niña pequeña de pie frente a una nave espacial masiva y destrozada en una llanura desolada.",
+    "prompt": "At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "ZeFred.AI",
+    "source_platform": "x",
+    "language": "es-419",
+    "source_link": "https://x.com/ZefredAi/status/2078895866941685761",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2078713882554810424",
+    "title": "Bailarina de teatro de la Dinastía Song en gasa verde",
+    "description": "Una indicación para generar un video de una hermosa bailarina en gasa verde actuando en el escenario de un teatro de la Dinastía Song.",
+    "prompt": "宋代戲院 青紗的美女正在台上跳舞",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2078713882554810424.mp4",
+    "author_name": "The Anxious Mind",
+    "source_platform": "x",
+    "language": "es-419",
+    "source_link": "https://x.com/drjoetw/status/2078713882554810424",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2078713882554810424.mp4"
+    }
   }
 ]

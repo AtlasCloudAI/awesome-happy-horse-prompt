@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ecosystem se sankalit Happy Horse 1.0 video prompts ka curated collection.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Suchak | Ginti |
 |--------|-------|
-| Kul Prompts | **1147** |
+| Kul Prompts | **1151** |
 | Categories | **12** |
-| Preview Videos | **991** |
-| Aakhri Update | **2026-07-20T06:03:05.302Z** |
+| Preview Videos | **993** |
+| Aakhri Update | **2026-07-21T06:15:52.373Z** |
 
 ## 🏷️ Category ke anusar dekhen
 
-- [`Twitter Community`](#category-1): **435**
+- [`Twitter Community`](#category-1): **439**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (435)
+### Twitter Community (439)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9642,169 +9642,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 421: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 422: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 423: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 424: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 425: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 426: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 427: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 428: मनोरंजक 3डी एनिमेटेड खाना पकाने की लघु फिल्म
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Bhasha:** `hi-IN`
-- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Varnan
-
-एक परिवार-मित्रवत शैली में खाना पकाने के दृश्य का एक गर्म, सिनेमाई 3डी एनीमेशन बनाने के लिए एक प्रॉम्प्ट।
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 429: दुबई के माध्यम से सिनेमाई हवाई यात्रा
+### No. 420: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9825,7 +9663,7 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: दुबई के माध्यम से सिनेमाई हवाई यात्रा
+### No. 421: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9846,7 +9684,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: दुबई के माध्यम से सिनेमाई हवाई यात्रा
+### No. 422: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9867,7 +9705,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 432: दुबई के माध्यम से सिनेमाई हवाई यात्रा
+### No. 423: दुबई के माध्यम से सिनेमाई हवाई यात्रा
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9888,7 +9726,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 433: फुटबॉल मैच: स्टेडियम, पेनल्टी, फ्री किक
+### No. 424: फुटबॉल मैच: स्टेडियम, पेनल्टी, फ्री किक
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9909,7 +9747,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 434: हरे जालीदार वस्त्र में सोंग राजवंश की नाट्य नृत्यांगना
+### No. 425: हरे जालीदार वस्त्र में सोंग राजवंश की नाट्य नृत्यांगना
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9930,7 +9768,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 435: एक अटके हुए विशाल अंतरिक्ष यान के सामने खड़ी लड़की
+### No. 426: एक अटके हुए विशाल अंतरिक्ष यान के सामने खड़ी लड़की
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9946,6 +9784,246 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 427: स्काई ड्रीम्स की पुस्तक
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Zidan 子丹
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### Varnan
+
+एक काल्पनिक साहसी एक जादुई किताब से एक जादुई बादल शहर का खुलासा करता है, जो फाख्ता और प्राचीन पांडुलिपियों को पेस्टल आसमान में छोड़ता है।
+
+#### Prompt
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 428: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 429: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 430: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 431: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 432: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 433: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 434: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 435: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 436: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 437: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 438: सिनेमैटिक मिक्स्ड मीडिया कॉमेडी वीडियो
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Bhasha:** `hi-IN`
+- **Source Link:** [Dekhen](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Varnan
+
+सिंक्रोनाइज़ डायलॉग के साथ 15-सेकंड का मिक्स्ड-मीडिया कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 439: स्पेन ने अर्जेंटीना को हराकर विश्व कप जीता
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mira Sterling
+- **Bhasha:** `hi-IN`
+- **Video:** [Dekhen](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [Dekhen](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### Varnan
+
+फुटबॉल फाइनल के नाटकीय पलों का गवाह बनें, एक अद्भुत गोल से लेकर विजयी ट्रॉफी उठाने तक।
+
+#### Prompt
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24249,7 +24327,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Yeh README auto-generated hai. 2026-07-20T06:03:05.302Z
+> Yeh README auto-generated hai. 2026-07-21T06:15:52.373Z
 
 ## More Atlas Cloud Tools
 

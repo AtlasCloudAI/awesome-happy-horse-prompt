@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1147** |
+| Toplam Prompt | **1151** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **991** |
-| Son Guncelleme | **2026-07-20T06:03:05.465Z** |
+| Onizleme Videolari | **993** |
+| Son Guncelleme | **2026-07-21T06:15:52.533Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **347**
+- [`Twitter Community`](#category-1): **351**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (347)
+### Twitter Community (351)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7883,169 +7883,7 @@ Bulutların üzerindeki bir sıcak hava balonunun içinden, ultra gerçekçi ak�
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 333: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 334: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 335: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 336: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 337: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 338: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 339: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 340: Eğlenceli 3D Animasyonlu Yemek Pişirme Kısa Filmi
-
-- **Kategori:** `Twitter Community`
-- **Kaynak:** `x`
-- **Yazar:** PSS
-- **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Aciklama
-
-Aile dostu bir tarzda, sıcak ve sinematik bir yemek pişirme sahnesini oluşturmak için bir prompt.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 341: Dubai Üzerinden Sinematik Havadan Yolculuk
+### No. 332: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8066,7 +7904,7 @@ Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleye
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: Dubai Üzerinden Sinematik Havadan Yolculuk
+### No. 333: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8087,7 +7925,7 @@ Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleye
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: Dubai Üzerinden Sinematik Havadan Yolculuk
+### No. 334: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8108,7 +7946,7 @@ Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleye
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 344: Dubai Üzerinden Sinematik Havadan Yolculuk
+### No. 335: Dubai Üzerinden Sinematik Havadan Yolculuk
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8129,7 +7967,7 @@ Ana konusu şehir olan, Dubai üzerinde gerçekçi bir drone uçuşunu betimleye
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 345: Futbol Maçları: Stadyum, Penaltı, Serbest Vuruş
+### No. 336: Futbol Maçları: Stadyum, Penaltı, Serbest Vuruş
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8150,7 +7988,7 @@ Bu video, üç farklı futbol sahnesini sergiliyor: dolu bir stadyumun havadan g
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 346: Yeşil İpek Tül İçindeki Song Hanedanı Tiyatro Dansçısı
+### No. 337: Yeşil İpek Tül İçindeki Song Hanedanı Tiyatro Dansçısı
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8171,7 +8009,7 @@ Song Hanedanı tiyatrosunda sahnede performans sergileyen, yeşil ipek tül içi
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 347: Karaya Oturmuş Devasa Bir Uzay Gemisi Önündeki Kız
+### No. 338: Karaya Oturmuş Devasa Bir Uzay Gemisi Önündeki Kız
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
@@ -8187,6 +8025,246 @@ Issız bir ovada, devasa ve harap olmuş bir uzay gemisi önünde duran küçük
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 339: Gökyüzü Rüyalarının Kitabı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Zidan 子丹
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### Aciklama
+
+Fantastik bir maceracı, büyülü bir kitaptan sihirli bir bulut şehrini ortaya çıkarır ve pastel gökyüzüne güvercinler ve parşömenler salar.
+
+#### Prompt
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 340: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 341: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 342: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 343: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 344: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 345: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 346: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 347: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 348: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 349: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 350: Sinematik Karma Medya Komedi Videosu
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Aciklama
+
+Senkronize diyaloglarla, 15 saniyelik karma medya tarzında bir komedi videosu oluşturmak için bir istem.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 351: İspanya, Arjantin'i Yenerek Dünya Kupası'nı Kazandı
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Mira Sterling
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### Aciklama
+
+Bir futbol finalinin dramatik anlarına tanık olun; fantastik bir golden, zaferle kaldırılan kupaya kadar.
+
+#### Prompt
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24254,7 +24332,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-20T06:03:05.465Z
+> Bu README otomatik uretilmistir. 2026-07-21T06:15:52.533Z
 
 ## More Atlas Cloud Tools
 

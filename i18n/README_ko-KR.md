@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1147** |
+| 전체 프롬프트 | **1151** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **991** |
-| 마지막 업데이트 | **2026-07-20T06:03:05.236Z** |
+| 미리보기 비디오 | **993** |
+| 마지막 업데이트 | **2026-07-21T06:15:52.309Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **435**
+- [`Twitter Community`](#category-1): **439**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (435)
+### Twitter Community (439)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9642,169 +9642,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 421: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 422: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 423: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 424: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 425: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 426: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 427: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 428: 장난기 가득한 3D 애니메이션 요리 단편 영화
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 설명
-
-가족 친화적인 스타일로 요리 과정을 담은 따뜻하고 영화적인 3D 애니메이션 시퀀스를 생성하기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 429: 두바이를 가로지르는 영화적 항공 여정
+### No. 420: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9825,7 +9663,7 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: 두바이를 가로지르는 영화적 항공 여정
+### No. 421: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9846,7 +9684,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: 두바이를 가로지르는 영화적 항공 여정
+### No. 422: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9867,7 +9705,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 432: 두바이를 가로지르는 영화적 항공 여정
+### No. 423: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9888,7 +9726,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 433: 축구 경기: 경기장, 페널티킥, 프리킥
+### No. 424: 축구 경기: 경기장, 페널티킥, 프리킥
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9909,7 +9747,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 434: 녹색 비단 옷을 입은 송나라 극장 무용수
+### No. 425: 녹색 비단 옷을 입은 송나라 극장 무용수
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9930,7 +9768,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 435: 좌초된 거대 우주선 앞에 선 소녀
+### No. 426: 좌초된 거대 우주선 앞에 선 소녀
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9946,6 +9784,246 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 427: 하늘 꿈의 책
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zidan 子丹
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### 설명
+
+환상적인 모험가가 마법의 책에서 마법의 구름 도시를 드러내며, 과거로 비둘기와 두루마리를 페이스텔 하늘로 날려보냅니다.
+
+#### 프롬프트
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 428: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 429: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 430: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 431: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 432: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 433: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 434: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 435: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 436: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 437: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 438: 시네마틱 믹스드 미디어 코미디 영상
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 설명
+
+동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 439: 스페인, 아르헨티나를 꺾고 월드컵 우승
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Mira Sterling
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### 설명
+
+환상적인 골에서 우승 트로피를 들어올리는 순간까지, 축구 결승전의 극적인 장면들을 목격하세요.
+
+#### 프롬프트
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24329,7 +24407,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-20T06:03:05.236Z
+> 이 README는 자동 생성됩니다. 2026-07-21T06:15:52.309Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > A curated collection of Happy Horse 1.0 prompts with real previews generated via Atlas Cloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **1147** |
+| Total Prompts | **1151** |
 | Categories | **12** |
-| Preview Videos | **991** |
-| Last Updated | **2026-07-20T06:03:05.134Z** |
+| Preview Videos | **993** |
+| Last Updated | **2026-07-21T06:15:52.209Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **435**
+- [`Twitter Community`](#category-1): **439**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (435)
+### Twitter Community (439)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9642,169 +9642,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 421: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 422: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 423: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 424: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 425: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 426: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 427: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 428: Playful 3D Animated Cooking Short Film
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Description
-
-A prompt to generate a warm, cinematic 3D animation of a cooking sequence in a family-friendly style.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 429: Cinematic Aerial Journey Through Dubai
+### No. 420: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9825,7 +9663,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: Cinematic Aerial Journey Through Dubai
+### No. 421: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9846,7 +9684,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: Cinematic Aerial Journey Through Dubai
+### No. 422: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9867,7 +9705,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 432: Cinematic Aerial Journey Through Dubai
+### No. 423: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9888,7 +9726,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 433: Football Matches: Stadium, Penalty, Free Kick
+### No. 424: Football Matches: Stadium, Penalty, Free Kick
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9909,7 +9747,7 @@ This video showcases three distinct football scenes: an aerial view of a packed 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 434: Song Dynasty theater dancer in green gauze
+### No. 425: Song Dynasty theater dancer in green gauze
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9930,7 +9768,7 @@ A prompt for generating a video of a beautiful dancer in green gauze performing 
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 435: Girl Before a Stranded Colossal Spacecraft
+### No. 426: Girl Before a Stranded Colossal Spacecraft
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9946,6 +9784,246 @@ A prompt for a scene depicting a small girl standing before a massive, wrecked s
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 427: The Book of Sky Dreams
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Zidan 子丹
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### Description
+
+A fantastical adventurer unveils a magical cloud city from an enchanted book, releasing doves and scrolls into the pastel sky.
+
+#### Prompt
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 428: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 429: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 430: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 431: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 432: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 433: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 434: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 435: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 436: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 437: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 438: Cinematic Mixed Media Comedy Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Description
+
+A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 439: Spain Wins World Cup Against Argentina
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mira Sterling
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### Description
+
+Witness the dramatic moments of a soccer final, from a fantastical goal to a triumphant trophy lift.
+
+#### Prompt
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24249,7 +24327,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T06:03:05.134Z
+> This README is auto-generated. 2026-07-21T06:15:52.209Z
 
 ## More Atlas Cloud Tools
 

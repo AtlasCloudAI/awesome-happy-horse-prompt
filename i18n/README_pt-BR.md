@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1147** |
+| Total de Prompts | **1151** |
 | Categorias | **13** |
-| Videos de Previa | **991** |
-| Ultima Atualizacao | **2026-07-20T06:03:05.421Z** |
+| Videos de Previa | **993** |
+| Ultima Atualizacao | **2026-07-21T06:15:52.496Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **347**
+- [`Twitter Community`](#category-1): **351**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (347)
+### Twitter Community (351)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7883,169 +7883,7 @@ Um prompt para gerar filmagens ultra-realistas, como se feitas por smartphone, d
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 333: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 334: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 335: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 336: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 337: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 338: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 339: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 340: Curta-Metagem Animado em 3D sobre Culinária de Forma Lúdica
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-BR`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Descricao
-
-Um prompt para gerar uma animação 3D cinematográfica e acolhedora de uma sequência de culinária, em um estilo familiar e amigável.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 341: Jornada Aérea Cinematográfica por Dubai
+### No. 332: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8066,7 +7904,7 @@ Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: Jornada Aérea Cinematográfica por Dubai
+### No. 333: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8087,7 +7925,7 @@ Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: Jornada Aérea Cinematográfica por Dubai
+### No. 334: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8108,7 +7946,7 @@ Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 344: Jornada Aérea Cinematográfica por Dubai
+### No. 335: Jornada Aérea Cinematográfica por Dubai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8129,7 +7967,7 @@ Um prompt para um vídeo que retrata um voo de drone realista por Dubai, com a c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 345: Partidas de Futebol: Estádio, Pênalti, Cobrança de Falta
+### No. 336: Partidas de Futebol: Estádio, Pênalti, Cobrança de Falta
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8150,7 +7988,7 @@ Este vídeo apresenta três cenas distintas de futebol: uma vista aérea de um e
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 346: Dançarina de teatro da Dinastia Song em gaze verde
+### No. 337: Dançarina de teatro da Dinastia Song em gaze verde
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8171,7 +8009,7 @@ Um prompt para gerar um vídeo de uma bela dançarina vestindo gaze verde, se ap
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 347: Garota Diante de uma Nave Espacial Colossal Encallada
+### No. 338: Garota Diante de uma Nave Espacial Colossal Encallada
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8187,6 +8025,246 @@ Um prompt para uma cena que retrata uma menina pequena em pé diante de uma nave
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 339: O Livro dos Sonhos do Céu
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zidan 子丹
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### Descricao
+
+Uma aventureira fantástica revela uma cidade nas nuvens mágica de um livro encantado, libertando pombas e pergaminhos no céu pastel.
+
+#### Prompt
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 340: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 341: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 342: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 343: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 344: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 345: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 346: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 347: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 348: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 349: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 350: Vídeo Cômico de Mídia Mista Cinematográfico
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-BR`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Descricao
+
+Um prompt para criar um vídeo cômico de mídia mista com 15 segundos de duração, com diálogo sincronizado.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 351: Espanha Vence a Copa do Mundo Contra a Argentina
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Mira Sterling
+- **Idioma:** `pt-BR`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### Descricao
+
+Testemunhe os momentos dramáticos de uma final de futebol, desde um gol fantástico até o levantamento triunfante do troféu.
+
+#### Prompt
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24310,7 +24388,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-07-20T06:03:05.421Z
+> Este README e gerado automaticamente. 2026-07-21T06:15:52.496Z
 
 ## More Atlas Cloud Tools
 

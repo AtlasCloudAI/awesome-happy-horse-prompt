@@ -13944,5 +13944,67 @@
       "images": [],
       "video": "media/happy-horse/x_2078713882554810424.mp4"
     }
+  },
+  {
+    "id": "x_2079342105114415458",
+    "title": "西班牙战胜阿根廷赢得世界杯",
+    "description": "见证这场足球决赛的戏剧性时刻，从梦幻般的进球到胜利的奖杯高举。",
+    "prompt": "A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4",
+    "author_name": "Mira Sterling",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/Chaemate_/status/2079342105114415458",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079342105114415458.mp4"
+    }
+  },
+  {
+    "id": "x_2079293557442060314",
+    "title": "照片级真实感UGC美妆视频提示",
+    "description": "一个用于创作15秒竖版、照片级真实感的用户生成美妆视频的提示，风格类似TikTok。",
+    "prompt": "Create a 15-second vertical 9:16 photorealistic UGC beauty video with TikTok-style",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/PromptSin/status/2079293557442060314",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079122983436603862",
+    "title": "电影级混合媒体喜剧视频",
+    "description": "一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。",
+    "prompt": "Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/PromptSin/status/2079122983436603862",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079074495110001011",
+    "title": "《天空之梦书》",
+    "description": "一位奇幻冒险家从一本魔法书中揭开一座神奇的云中城市，将白鸽与卷轴释放到柔和的天空中。",
+    "prompt": "A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4",
+    "author_name": "Zidan 子丹",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/liluocheng13/status/2079074495110001011",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079074495110001011.mp4"
+    }
   }
 ]

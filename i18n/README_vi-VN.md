@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1147** |
+| Tong so Prompt | **1151** |
 | So danh muc | **12** |
-| Video xem truoc | **991** |
-| Cap nhat lan cuoi | **2026-07-20T06:03:05.281Z** |
+| Video xem truoc | **993** |
+| Cap nhat lan cuoi | **2026-07-21T06:15:52.352Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **435**
+- [`Twitter Community`](#category-1): **439**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (435)
+### Twitter Community (439)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9642,169 +9642,7 @@ Một gợi ý để tạo ra cảnh quay siêu thực từ điện thoại thô
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 421: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 422: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 423: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 424: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 425: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 426: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 427: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 428: Phim Ngắn Hoạt Hình 3D Nấu Ăn Vui Nhộn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2078130090601308329)
-
-#### Mo ta
-
-Một gợi ý để tạo ra đoạn phim hoạt hình 3D ấm áp, mang tính điện ảnh về quá trình nấu ăn theo phong cách thân thiện với gia đình.
-
-#### Prompt
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 429: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
+### No. 420: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9825,7 +9663,7 @@ Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
+### No. 421: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9846,7 +9684,7 @@ Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
+### No. 422: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9867,7 +9705,7 @@ Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 432: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
+### No. 423: Hành Trình Trên Không Điện Ảnh Xuyên Qua Dubai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9888,7 +9726,7 @@ Một gợi ý cho video mô tả chuyến bay bằng drone chân thực xuyên 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 433: Các Trận Đấu Bóng Đá: Sân Vận Động, Phạt Đền, Đá Phạt Trực Tiếp
+### No. 424: Các Trận Đấu Bóng Đá: Sân Vận Động, Phạt Đền, Đá Phạt Trực Tiếp
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9909,7 +9747,7 @@ Video này trình bày ba cảnh bóng đá khác biệt: góc nhìn từ trên 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 434: Vũ Công Sân Khấu Triều Tống Trong Lụa Xanh
+### No. 425: Vũ Công Sân Khấu Triều Tống Trong Lụa Xanh
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9930,7 +9768,7 @@ Một gợi ý để tạo video về một vũ công xinh đẹp trong trang ph
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 435: Cô Bé Trước Con Tàu Vũ Trụ Khổng Lồ Mắc Cạn
+### No. 426: Cô Bé Trước Con Tàu Vũ Trụ Khổng Lồ Mắc Cạn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9946,6 +9784,246 @@ Một gợi ý cho cảnh tượng mô tả một cô bé nhỏ bé đứng trư
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 427: Cuốn Sách Về Những Giấc Mơ Bầu Trời
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Zidan 子丹
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### Mo ta
+
+Một nhà thám hiểm kỳ ảo mở ra một thành phố mây ma thuật từ cuốn sách phép thuật, thả bồ câu và những cuộn giấy bay lên bầu trời màu pastel.
+
+#### Prompt
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 428: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 429: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 430: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 431: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 432: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 433: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 434: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 435: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 436: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 437: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 438: Video Hài Kịch Đa Phương Tiện Mang Tính Điện Ảnh
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079122983436603862)
+
+#### Mo ta
+
+Một gợi ý để tạo video hài kịch đa phương tiện dài 15 giây với đoạn hội thoại được đồng bộ hóa.
+
+#### Prompt
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 439: Tây Ban Nha Đánh Bại Argentina Để Vô Địch World Cup
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Mira Sterling
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### Mo ta
+
+Chứng kiến những khoảnh khắc kịch tính của trận chung kết bóng đá, từ một bàn thắng ngoạn mục đến khoảnh khắc nâng cao chiếc cúp trong niềm vui chiến thắng.
+
+#### Prompt
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24249,7 +24327,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-20T06:03:05.281Z
+> README nay duoc tao tu dong. 2026-07-21T06:15:52.352Z
 
 ## More Atlas Cloud Tools
 

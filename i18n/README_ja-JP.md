@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1147** |
+| 総プロンプト数 | **1151** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **991** |
-| 最終更新 | **2026-07-20T06:03:05.214Z** |
+| プレビュー動画数 | **993** |
+| 最終更新 | **2026-07-21T06:15:52.286Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **435**
+- [`Twitter Community`](#category-1): **439**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (435)
+### Twitter Community (439)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9642,169 +9642,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 421: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 422: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 423: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 424: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 425: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 426: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 427: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 428: 遊び心あふれる3Dアニメーション料理ショートフィルム
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 説明
-
-家族向けの温かみのある映画的な3Dアニメーションで、料理シーケンスを生成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 429: ドバイを巡る映画的な空中の旅
+### No. 420: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9825,7 +9663,7 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 430: ドバイを巡る映画的な空中の旅
+### No. 421: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9846,7 +9684,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 431: ドバイを巡る映画的な空中の旅
+### No. 422: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9867,7 +9705,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 432: ドバイを巡る映画的な空中の旅
+### No. 423: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9888,7 +9726,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 433: サッカーの試合：スタジアム、ペナルティーキック、フリーキック
+### No. 424: サッカーの試合：スタジアム、ペナルティーキック、フリーキック
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9909,7 +9747,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 434: 宋代劇場の薄緑のガウゼ衣装をまとった舞姫
+### No. 425: 宋代劇場の薄緑のガウゼ衣装をまとった舞姫
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9930,7 +9768,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 435: 巨大な難破宇宙船の前に立つ少女
+### No. 426: 巨大な難破宇宙船の前に立つ少女
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9946,6 +9784,246 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 427: 空夢の書
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Zidan 子丹
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### 説明
+
+空想の冒険者が魔法の書から幻想的な雲の都市を現出させ、鳩と巻物をパステルカラーの空へ解き放つ。
+
+#### プロンプト
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 428: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 429: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 430: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 431: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 432: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 433: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 434: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 435: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 436: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 437: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 438: シネマティック・ミックスメディア・コメディ動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 説明
+
+同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 439: スペイン、アルゼンチンを破りワールドカップ優勝
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Mira Sterling
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### 説明
+
+サッカーファイナルの劇的な瞬間、幻想的なゴールから勝利のトロフィー掲げる瞬間までをご覧ください。
+
+#### プロンプト
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24329,7 +24407,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-20T06:03:05.214Z
+> この README は自動生成です。 2026-07-21T06:15:52.286Z
 
 ## More Atlas Cloud Tools
 

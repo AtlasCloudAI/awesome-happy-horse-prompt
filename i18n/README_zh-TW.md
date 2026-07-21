@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1147%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **1147** |
+| 提示詞總數 | **1151** |
 | 分類數 | **13** |
-| 預覽影片數 | **991** |
-| 最後更新 | **2026-07-20T06:03:05.190Z** |
+| 預覽影片數 | **993** |
+| 最後更新 | **2026-07-21T06:15:52.261Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`Twitter Community`](#category-1): **347**
+- [`Twitter Community`](#category-1): **351**
 - [`HappyHorse 創意批次`](#category-2): **240**
 - [`Twitter 社群`](#category-3): **88**
 - [`音訊與語音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 <a id="category-1"></a>
 
-### Twitter Community (347)
+### Twitter Community (351)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7883,169 +7883,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 333: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 334: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 335: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 336: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 337: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 338: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 339: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 340: 俏皮3D動畫烹飪短片
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2078130090601308329)
-
-#### 描述
-
-一個用於生成溫馨、電影感3D動畫烹飪序列的提示，採用家庭友善風格。
-
-#### 提示詞
-
-```text
-Create a 15-second 3D animated cooking short film in a playful family-animation style, with warm cinematic
-```
-
-### No. 341: 杜拜電影式空中之旅
+### No. 332: 杜拜電影式空中之旅
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8066,7 +7904,7 @@ Create a 15-second 3D animated cooking short film in a playful family-animation 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 342: 杜拜電影式空中之旅
+### No. 333: 杜拜電影式空中之旅
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8087,7 +7925,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 343: 杜拜電影式空中之旅
+### No. 334: 杜拜電影式空中之旅
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8108,7 +7946,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 344: 杜拜電影式空中之旅
+### No. 335: 杜拜電影式空中之旅
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8129,7 +7967,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 345: 足球賽事：體育場、罰球、自由球
+### No. 336: 足球賽事：體育場、罰球、自由球
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8150,7 +7988,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 346: 身著綠紗的宋代劇院舞者
+### No. 337: 身著綠紗的宋代劇院舞者
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8171,7 +8009,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 347: 女孩佇立於擱淺的巨型太空船前
+### No. 338: 女孩佇立於擱淺的巨型太空船前
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -8187,6 +8025,246 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 
 ```text
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
+```
+
+### No. 339: 天空夢境之書
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Zidan 子丹
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/liluocheng13/status/2079074495110001011)
+
+#### 描述
+
+一位奇幻冒險家從一本魔法書中揭示了一座神奇的雲端城市，將鴿子和卷軸釋放到粉彩色的天空中。
+
+#### 提示詞
+
+```text
+A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
+```
+
+### No. 340: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 341: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 342: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 343: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 344: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 345: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 346: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 347: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 348: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 349: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 350: 電影感混合媒體喜劇影片
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079122983436603862)
+
+#### 描述
+
+一個用於創作15秒混合媒體喜劇影片的提示，包含同步對話。
+
+#### 提示詞
+
+```text
+Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
+```
+
+### No. 351: 西班牙擊敗阿根廷贏得世界盃
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Mira Sterling
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079342105114415458.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/Chaemate_/status/2079342105114415458)
+
+#### 描述
+
+見證足球決賽的戲劇性時刻，從夢幻般的進球到勝利的獎盃高舉。
+
+#### 提示詞
+
+```text
+A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
 <a id="category-2"></a>
@@ -24254,7 +24332,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-20T06:03:05.190Z
+> 此 README 為自動生成。 2026-07-21T06:15:52.261Z
 
 ## More Atlas Cloud Tools
 

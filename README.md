@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > A curated collection of Happy Horse 1.0 prompts with real previews generated via Atlas Cloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **1151** |
+| Total Prompts | **1155** |
 | Categories | **12** |
-| Preview Videos | **993** |
-| Last Updated | **2026-07-21T06:15:52.209Z** |
+| Preview Videos | **995** |
+| Last Updated | **2026-07-22T04:17:31.228Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **439**
+- [`Twitter Community`](#category-1): **443**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (439)
+### Twitter Community (443)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -8299,283 +8299,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 361: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 362: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 363: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 364: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 365: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 366: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 367: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 368: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 369: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 370: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 371: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 372: 9Th Place At The Ai Film Festival Monaco
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Alibaba Cloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### Description
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### Prompt
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 373: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 361: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8593,7 +8317,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 374: Title: "The Promise Above The Clouds " Created
+### No. 362: Title: "The Promise Above The Clouds " Created
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8623,7 +8347,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 375: Title: "The Promise Above The Clouds " Created
+### No. 363: Title: "The Promise Above The Clouds " Created
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8653,7 +8377,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 376: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 364: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8671,7 +8395,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 377: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 365: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8706,7 +8430,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 378: The Infrastructure Behind This Is The Real Story
+### No. 366: The Infrastructure Behind This Is The Real Story
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8724,7 +8448,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 379: Meta Just Crashed Into The Video Ai Rankings
+### No. 367: Meta Just Crashed Into The Video Ai Rankings
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8747,7 +8471,7 @@ It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro,
 But the real question is
 ```
 
-### No. 380: Have You Heard That Ufo Have Been Spotted
+### No. 368: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8770,7 +8494,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 381: Have You Heard That Ufo Have Been Spotted
+### No. 369: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8793,7 +8517,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 382: Have You Heard That Ufo Have Been Spotted
+### No. 370: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8816,7 +8540,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 383: Have You Heard That Ufo Have Been Spotted
+### No. 371: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8839,7 +8563,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 384: Have You Heard That Ufo Have Been Spotted
+### No. 372: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8862,7 +8586,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 385: Have You Heard That Ufo Have Been Spotted
+### No. 373: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8885,7 +8609,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 386: Have You Heard That Ufo Have Been Spotted
+### No. 374: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8908,7 +8632,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 387: Have You Heard That Ufo Have Been Spotted
+### No. 375: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8931,7 +8655,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 388: Have You Heard That Ufo Have Been Spotted
+### No. 376: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8954,7 +8678,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 389: Have You Heard That Ufo Have Been Spotted
+### No. 377: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8977,7 +8701,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 390: Have You Heard That Ufo Have Been Spotted
+### No. 378: Have You Heard That Ufo Have Been Spotted
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9000,7 +8724,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 391: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 379: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9018,7 +8742,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 392: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 380: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9036,7 +8760,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 393: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 381: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9057,7 +8781,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 394: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 382: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9080,7 +8804,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 395: 色々アレっぽくなった😅
+### No. 383: 色々アレっぽくなった😅
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9103,7 +8827,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 396: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 384: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9123,7 +8847,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 397: Models Available On (Byok Friendly) Video Models Gemini
+### No. 385: Models Available On (Byok Friendly) Video Models Gemini
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9165,7 +8889,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 398: What Model Will You Choose For Ai Video
+### No. 386: What Model Will You Choose For Ai Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9192,7 +8916,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 399: Motorcycle Chase on Collapsing Bridge
+### No. 387: Motorcycle Chase on Collapsing Bridge
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9213,7 +8937,7 @@ A cinematic video prompt of a rider speeding across a collapsing suspension brid
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: Replicate Video Cinematography and Rhythm
+### No. 388: Replicate Video Cinematography and Rhythm
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9235,7 +8959,7 @@ A prompt instructing to replicate the cinematography, shot types, background mus
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 401: Kayaking Through a Hidden Canyon
+### No. 389: Kayaking Through a Hidden Canyon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9256,7 +8980,7 @@ A hyper-realistic scene of a solo kayaker navigating a narrow sandstone canyon.
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 402: Kayaking Through a Hidden Canyon
+### No. 390: Kayaking Through a Hidden Canyon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9277,7 +9001,7 @@ A hyper-realistic scene of a solo kayaker navigating a narrow sandstone canyon.
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 403: GlobalGPT AI Tools Website Navigation
+### No. 391: GlobalGPT AI Tools Website Navigation
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9298,7 +9022,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 404: Falling through floating islands and impossible waterfalls
+### No. 392: Falling through floating islands and impossible waterfalls
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9319,7 +9043,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 405: Luminous Digital Being Carrying Worlds
+### No. 393: Luminous Digital Being Carrying Worlds
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9341,7 +9065,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 406: Cinematic Golden Hour Mountain Dive
+### No. 394: Cinematic Golden Hour Mountain Dive
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9362,7 +9086,7 @@ An epic cinematic aerial dive shot captures a vast mountain landscape bathed in 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 407: Futuristic Rooftop Bar in Neon Rain
+### No. 395: Futuristic Rooftop Bar in Neon Rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9381,7 +9105,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 408: Cyberpunk rooftop battle in heavy rain
+### No. 396: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9408,7 +9132,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 409: Cyberpunk rooftop battle in heavy rain
+### No. 397: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9435,7 +9159,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 410: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 398: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9456,7 +9180,7 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 411: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 399: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9477,7 +9201,7 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 412: Symmetrical Vintage Whimsical Anderson Aesthetics
+### No. 400: Symmetrical Vintage Whimsical Anderson Aesthetics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9498,7 +9222,7 @@ A prompt for a short film with symmetrical framing, vintage soft tones, and clas
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 413: AI Video of Favorite World Cup Star
+### No. 401: AI Video of Favorite World Cup Star
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9516,7 +9240,7 @@ An AI video prompt to create an original video featuring a favorite 2026 World C
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 414: First Person Hot Air Balloon POV Shot
+### No. 402: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9537,7 +9261,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 415: First Person Hot Air Balloon POV Shot
+### No. 403: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9558,7 +9282,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 416: First Person Hot Air Balloon POV Shot
+### No. 404: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9579,7 +9303,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 417: First Person Hot Air Balloon POV Shot
+### No. 405: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9600,7 +9324,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: First Person Hot Air Balloon POV Shot
+### No. 406: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9621,7 +9345,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: First Person Hot Air Balloon POV Shot
+### No. 407: First Person Hot Air Balloon POV Shot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9642,7 +9366,7 @@ A prompt for generating ultra-realistic smartphone footage from inside a hot air
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: Cinematic Aerial Journey Through Dubai
+### No. 408: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9663,7 +9387,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 421: Cinematic Aerial Journey Through Dubai
+### No. 409: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9684,7 +9408,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 422: Cinematic Aerial Journey Through Dubai
+### No. 410: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9705,7 +9429,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 423: Cinematic Aerial Journey Through Dubai
+### No. 411: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9726,7 +9450,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 424: Football Matches: Stadium, Penalty, Free Kick
+### No. 412: Football Matches: Stadium, Penalty, Free Kick
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9747,7 +9471,7 @@ This video showcases three distinct football scenes: an aerial view of a packed 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 425: Song Dynasty theater dancer in green gauze
+### No. 413: Song Dynasty theater dancer in green gauze
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9768,7 +9492,7 @@ A prompt for generating a video of a beautiful dancer in green gauze performing 
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 426: Girl Before a Stranded Colossal Spacecraft
+### No. 414: Girl Before a Stranded Colossal Spacecraft
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9786,7 +9510,7 @@ A prompt for a scene depicting a small girl standing before a massive, wrecked s
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 427: The Book of Sky Dreams
+### No. 415: The Book of Sky Dreams
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9807,205 +9531,7 @@ A fantastical adventurer unveils a magical cloud city from an enchanted book, re
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 428: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 429: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 430: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 431: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 432: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 433: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 434: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 435: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 436: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 437: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 438: Cinematic Mixed Media Comedy Video
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/PromptSin/status/2079122983436603862)
-
-#### Description
-
-A prompt for creating a 15-second mixed-media comedy video with synchronized dialogue.
-
-#### Prompt
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 439: Spain Wins World Cup Against Argentina
+### No. 416: Spain Wins World Cup Against Argentina
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -10024,6 +9550,534 @@ Witness the dramatic moments of a soccer final, from a fantastical goal to a tri
 
 ```text
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
+```
+
+### No. 417: Lego Stop Motion Soccer Match Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sharon Riley
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Just_sharon7/status/2079404472493629757)
+
+#### Description
+
+A prompt for creating a vibrant Lego stop-motion animation of a dramatic soccer match.
+
+#### Prompt
+
+```text
+Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
+```
+
+### No. 418: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 419: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 420: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 421: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 422: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 423: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 424: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 425: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 426: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 427: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 428: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 429: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 430: Portable Laundry Breakthrough
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alibaba Cloud
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### Description
+
+A Japanese man cycles to work with a spinning portable clothes dryer on his back, showcasing a scientific breakthrough for on-the-go laundry.
+
+#### Prompt
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 431: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 432: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 433: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 434: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 435: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 436: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 437: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 438: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 439: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 440: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 441: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 442: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 443: Cinematic Mixed Media Travel Comedy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2079612089073619198)
+
+#### Description
+
+A prompt for a 15-second vertical video combining hand-drawn and photorealistic elements in a travel comedy.
+
+#### Prompt
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
 ```
 
 <a id="category-2"></a>
@@ -24327,7 +24381,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T06:15:52.209Z
+> This README is auto-generated. 2026-07-22T04:17:31.228Z
 
 ## More Atlas Cloud Tools
 

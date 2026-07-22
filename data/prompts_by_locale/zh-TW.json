@@ -14006,5 +14006,66 @@
       "images": [],
       "video": "media/happy-horse/x_2079074495110001011.mp4"
     }
+  },
+  {
+    "id": "x_2079641331660419283",
+    "title": "寫實風格拉斯維加斯賭場慶典",
+    "description": "一段連續、從慢動作轉為即時畫面的影片提示，描繪一位時尚角色在一間虛構的拉斯維加斯賭場中。",
+    "prompt": "Create a spectacular photorealistic casino celebration in a fictional Las Vegas casino, using one continuous unbroken take and a deliberate transition from slow motion back to real-time speed.\n\nCHARACTER:\nA stylish",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2079641331660419283",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079612089073619198",
+    "title": "電影感混合媒體旅行喜劇",
+    "description": "一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。",
+    "prompt": "Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2079612089073619198",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079499930159247403",
+    "title": "便攜式洗衣新突破",
+    "description": "一名日本男子騎單車上班，背上背著一台旋轉的便攜式衣物烘乾機，展示了一項為移動中洗衣設計的科學突破。",
+    "prompt": "A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12",
+    "author_name": "Alibaba Cloud",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/alibaba_cloud/status/2079499930159247403",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079499930159247403.mp4"
+    }
+  },
+  {
+    "id": "x_2079404472493629757",
+    "title": "樂高定格動畫足球賽影片",
+    "description": "一個用於創作充滿活力的樂高定格動畫的提示，內容是一場戲劇性的足球比賽。",
+    "prompt": "Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4",
+    "author_name": "Sharon Riley",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/Just_sharon7/status/2079404472493629757",
+    "needs_preview": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079404472493629757.mp4"
+    }
   }
 ]

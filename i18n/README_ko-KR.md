@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1151** |
+| 전체 프롬프트 | **1155** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **993** |
-| 마지막 업데이트 | **2026-07-21T06:15:52.309Z** |
+| 미리보기 비디오 | **995** |
+| 마지막 업데이트 | **2026-07-22T04:17:31.321Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **439**
+- [`Twitter Community`](#category-1): **443**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (439)
+### Twitter Community (443)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -8299,283 +8299,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 361: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 362: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 363: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 364: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 365: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 366: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 367: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 368: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 369: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 370: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 371: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 372: 9Th Place At The Ai Film Festival Monaco
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 설명
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 프롬프트
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 373: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 361: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8593,7 +8317,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 374: Title: "The Promise Above The Clouds " Created
+### No. 362: Title: "The Promise Above The Clouds " Created
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8623,7 +8347,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 375: Title: "The Promise Above The Clouds " Created
+### No. 363: Title: "The Promise Above The Clouds " Created
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8653,7 +8377,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 376: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 364: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8671,7 +8395,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 377: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 365: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8706,7 +8430,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 378: The Infrastructure Behind This Is The Real Story
+### No. 366: The Infrastructure Behind This Is The Real Story
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8724,7 +8448,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 379: Meta Just Crashed Into The Video Ai Rankings
+### No. 367: Meta Just Crashed Into The Video Ai Rankings
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8747,7 +8471,7 @@ It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro,
 But the real question is
 ```
 
-### No. 380: Have You Heard That Ufo Have Been Spotted
+### No. 368: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8770,7 +8494,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 381: Have You Heard That Ufo Have Been Spotted
+### No. 369: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8793,7 +8517,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 382: Have You Heard That Ufo Have Been Spotted
+### No. 370: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8816,7 +8540,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 383: Have You Heard That Ufo Have Been Spotted
+### No. 371: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8839,7 +8563,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 384: Have You Heard That Ufo Have Been Spotted
+### No. 372: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8862,7 +8586,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 385: Have You Heard That Ufo Have Been Spotted
+### No. 373: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8885,7 +8609,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 386: Have You Heard That Ufo Have Been Spotted
+### No. 374: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8908,7 +8632,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 387: Have You Heard That Ufo Have Been Spotted
+### No. 375: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8931,7 +8655,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 388: Have You Heard That Ufo Have Been Spotted
+### No. 376: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8954,7 +8678,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 389: Have You Heard That Ufo Have Been Spotted
+### No. 377: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8977,7 +8701,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 390: Have You Heard That Ufo Have Been Spotted
+### No. 378: Have You Heard That Ufo Have Been Spotted
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9000,7 +8724,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 391: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 379: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9018,7 +8742,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 392: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 380: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9036,7 +8760,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 393: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 381: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9057,7 +8781,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 394: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 382: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9080,7 +8804,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 395: 色々アレっぽくなった😅
+### No. 383: 色々アレっぽくなった😅
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9103,7 +8827,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 396: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 384: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9123,7 +8847,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 397: Models Available On (Byok Friendly) Video Models Gemini
+### No. 385: Models Available On (Byok Friendly) Video Models Gemini
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9165,7 +8889,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 398: What Model Will You Choose For Ai Video
+### No. 386: What Model Will You Choose For Ai Video
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9192,7 +8916,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 399: 무너지는 다리 위 오토바이 추격전
+### No. 387: 무너지는 다리 위 오토바이 추격전
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9213,7 +8937,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: 참조 영상의 촬영 기법과 리듬 재현
+### No. 388: 참조 영상의 촬영 기법과 리듬 재현
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9235,7 +8959,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 401: 숨겨진 협곡 카약 탐험
+### No. 389: 숨겨진 협곡 카약 탐험
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9256,7 +8980,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 402: 숨겨진 협곡 카약 탐험
+### No. 390: 숨겨진 협곡 카약 탐험
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9277,7 +9001,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 403: GlobalGPT AI Tools Website Navigation
+### No. 391: GlobalGPT AI Tools Website Navigation
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9298,7 +9022,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 404: Falling through floating islands and impossible waterfalls
+### No. 392: Falling through floating islands and impossible waterfalls
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9319,7 +9043,7 @@ A first-person view of falling through a surreal landscape of floating islands, 
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 405: Luminous Digital Being Carrying Worlds
+### No. 393: Luminous Digital Being Carrying Worlds
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9341,7 +9065,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 406: 황금빛 시간의 산악 다이브 (시네마틱)
+### No. 394: 황금빛 시간의 산악 다이브 (시네마틱)
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9362,7 +9086,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 407: 네온 빛 비 속의 미래형 루프탑 바
+### No. 395: 네온 빛 비 속의 미래형 루프탑 바
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9381,7 +9105,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 408: 폭우 속 사이버펑크 옥상 전투
+### No. 396: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9408,7 +9132,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 409: 폭우 속 사이버펑크 옥상 전투
+### No. 397: 폭우 속 사이버펑크 옥상 전투
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9435,7 +9159,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 410: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 398: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9456,7 +9180,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 411: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 399: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9477,7 +9201,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 412: 대칭적 빈티지 기발한 앤더슨 미학
+### No. 400: 대칭적 빈티지 기발한 앤더슨 미학
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9498,7 +9222,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 413: 가장 좋아하는 월드컵 스타의 AI 영상
+### No. 401: 가장 좋아하는 월드컵 스타의 AI 영상
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9516,7 +9240,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 414: 1인칭 열기구 탑승자 시점 샷
+### No. 402: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9537,7 +9261,7 @@ Create an original AI video featuring your favorite 2026 World Cup star
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 415: 1인칭 열기구 탑승자 시점 샷
+### No. 403: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9558,7 +9282,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 416: 1인칭 열기구 탑승자 시점 샷
+### No. 404: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9579,7 +9303,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 417: 1인칭 열기구 탑승자 시점 샷
+### No. 405: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9600,7 +9324,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: 1인칭 열기구 탑승자 시점 샷
+### No. 406: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9621,7 +9345,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: 1인칭 열기구 탑승자 시점 샷
+### No. 407: 1인칭 열기구 탑승자 시점 샷
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9642,7 +9366,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: 두바이를 가로지르는 영화적 항공 여정
+### No. 408: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9663,7 +9387,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 421: 두바이를 가로지르는 영화적 항공 여정
+### No. 409: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9684,7 +9408,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 422: 두바이를 가로지르는 영화적 항공 여정
+### No. 410: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9705,7 +9429,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 423: 두바이를 가로지르는 영화적 항공 여정
+### No. 411: 두바이를 가로지르는 영화적 항공 여정
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9726,7 +9450,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 424: 축구 경기: 경기장, 페널티킥, 프리킥
+### No. 412: 축구 경기: 경기장, 페널티킥, 프리킥
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9747,7 +9471,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 425: 녹색 비단 옷을 입은 송나라 극장 무용수
+### No. 413: 녹색 비단 옷을 입은 송나라 극장 무용수
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9768,7 +9492,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 426: 좌초된 거대 우주선 앞에 선 소녀
+### No. 414: 좌초된 거대 우주선 앞에 선 소녀
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9786,7 +9510,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 427: 하늘 꿈의 책
+### No. 415: 하늘 꿈의 책
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9807,205 +9531,7 @@ At the foot of a colossal spacecraft stranded across a barren plain, a lone youn
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 428: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 429: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 430: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 431: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 432: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 433: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 434: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 435: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 436: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 437: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 438: 시네마틱 믹스드 미디어 코미디 영상
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 설명
-
-동기화된 대화가 포함된 15초 분량의 믹스드 미디어 코미디 영상을 만들기 위한 프롬프트입니다.
-
-#### 프롬프트
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 439: 스페인, 아르헨티나를 꺾고 월드컵 우승
+### No. 416: 스페인, 아르헨티나를 꺾고 월드컵 우승
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10024,6 +9550,534 @@ Create a 15-second cinematic mixed-media comedy video with synchronized English 
 
 ```text
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
+```
+
+### No. 417: 레고 스톱 모션 축구 경기 비디오
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sharon Riley
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Just_sharon7/status/2079404472493629757)
+
+#### 설명
+
+극적인 축구 경기를 생동감 넘치는 레고 스톱 모션 애니메이션으로 제작하기 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
+```
+
+### No. 418: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 419: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 420: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 421: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 422: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 423: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 424: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 425: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 426: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 427: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 428: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 429: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 430: 휴대용 세탁 기술의 돌파구
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Alibaba Cloud
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 설명
+
+일본 남성이 등에 회전식 휴대용 의류 건조기를 메고 출근하며, 이동 중 세탁을 위한 과학적 돌파구를 보여줍니다.
+
+#### 프롬프트
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 431: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 432: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 433: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 434: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 435: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 436: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 437: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 438: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 439: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 440: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 441: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 442: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 443: 영화적 믹스 미디어 여행 코미디
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 설명
+
+여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+
+#### 프롬프트
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
 ```
 
 <a id="category-2"></a>
@@ -24407,7 +24461,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-21T06:15:52.309Z
+> 이 README는 자동 생성됩니다. 2026-07-22T04:17:31.321Z
 
 ## More Atlas Cloud Tools
 

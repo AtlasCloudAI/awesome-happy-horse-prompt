@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1151** |
+| 総プロンプト数 | **1155** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **993** |
-| 最終更新 | **2026-07-21T06:15:52.286Z** |
+| プレビュー動画数 | **995** |
+| 最終更新 | **2026-07-22T04:17:31.299Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **439**
+- [`Twitter Community`](#category-1): **443**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (439)
+### Twitter Community (443)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -8299,283 +8299,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 361: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 362: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 363: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 364: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 365: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 366: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 367: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 368: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 369: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 370: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 371: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 372: 9Th Place At The Ai Film Festival Monaco
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** Alibaba Cloud
-- **言語:** `ja-JP`
-- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 説明
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### プロンプト
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 373: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 361: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8593,7 +8317,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 374: Title: "The Promise Above The Clouds " Created
+### No. 362: Title: "The Promise Above The Clouds " Created
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8623,7 +8347,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 375: Title: "The Promise Above The Clouds " Created
+### No. 363: Title: "The Promise Above The Clouds " Created
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8653,7 +8377,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 376: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 364: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8671,7 +8395,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 377: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 365: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8706,7 +8430,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 378: The Infrastructure Behind This Is The Real Story
+### No. 366: The Infrastructure Behind This Is The Real Story
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8724,7 +8448,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 379: Meta Just Crashed Into The Video Ai Rankings
+### No. 367: Meta Just Crashed Into The Video Ai Rankings
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8747,7 +8471,7 @@ It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro,
 But the real question is
 ```
 
-### No. 380: Have You Heard That Ufo Have Been Spotted
+### No. 368: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8770,7 +8494,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 381: Have You Heard That Ufo Have Been Spotted
+### No. 369: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8793,7 +8517,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 382: Have You Heard That Ufo Have Been Spotted
+### No. 370: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8816,7 +8540,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 383: Have You Heard That Ufo Have Been Spotted
+### No. 371: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8839,7 +8563,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 384: Have You Heard That Ufo Have Been Spotted
+### No. 372: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8862,7 +8586,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 385: Have You Heard That Ufo Have Been Spotted
+### No. 373: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8885,7 +8609,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 386: Have You Heard That Ufo Have Been Spotted
+### No. 374: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8908,7 +8632,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 387: Have You Heard That Ufo Have Been Spotted
+### No. 375: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8931,7 +8655,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 388: Have You Heard That Ufo Have Been Spotted
+### No. 376: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8954,7 +8678,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 389: Have You Heard That Ufo Have Been Spotted
+### No. 377: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -8977,7 +8701,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 390: Have You Heard That Ufo Have Been Spotted
+### No. 378: Have You Heard That Ufo Have Been Spotted
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9000,7 +8724,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 391: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 379: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9018,7 +8742,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 392: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 380: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9036,7 +8760,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 393: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 381: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9057,7 +8781,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 394: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 382: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9080,7 +8804,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 395: 色々アレっぽくなった😅
+### No. 383: 色々アレっぽくなった😅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9103,7 +8827,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 396: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 384: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9123,7 +8847,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 397: Models Available On (Byok Friendly) Video Models Gemini
+### No. 385: Models Available On (Byok Friendly) Video Models Gemini
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9165,7 +8889,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 398: What Model Will You Choose For Ai Video
+### No. 386: What Model Will You Choose For Ai Video
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9192,7 +8916,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 399: 崩落する橋でのバイクチェイス
+### No. 387: 崩落する橋でのバイクチェイス
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9213,7 +8937,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 400: 参照動画の撮影技法とリズムを再現
+### No. 388: 参照動画の撮影技法とリズムを再現
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9235,7 +8959,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 401: 隠された峡谷をカヤックで進む
+### No. 389: 隠された峡谷をカヤックで進む
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9256,7 +8980,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 402: 隠された峡谷をカヤックで進む
+### No. 390: 隠された峡谷をカヤックで進む
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9277,7 +9001,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 403: GlobalGPT AIツールウェブサイトナビゲーション
+### No. 391: GlobalGPT AIツールウェブサイトナビゲーション
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9298,7 +9022,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 404: 浮遊島と不可能な滝を落下する
+### No. 392: 浮遊島と不可能な滝を落下する
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9319,7 +9043,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 405: 世界を運ぶ発光するデジタル生命体
+### No. 393: 世界を運ぶ発光するデジタル生命体
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9341,7 +9065,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 406: 映画的な黄金時刻の山岳ダイブ
+### No. 394: 映画的な黄金時刻の山岳ダイブ
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9362,7 +9086,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 407: ネオンの雨に包まれた未来型ルーフトップバー
+### No. 395: ネオンの雨に包まれた未来型ルーフトップバー
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9381,7 +9105,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 408: サイバーパンクの屋上バトル、豪雨の中
+### No. 396: サイバーパンクの屋上バトル、豪雨の中
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9408,7 +9132,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 409: サイバーパンクの屋上バトル、豪雨の中
+### No. 397: サイバーパンクの屋上バトル、豪雨の中
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9435,7 +9159,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 410: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 398: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9456,7 +9180,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 411: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 399: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9477,7 +9201,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 412: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
+### No. 400: 対称的なヴィンテージ・ウィムジカル アンダーソン美学
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9498,7 +9222,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 413: お気に入りのワールドカップスターのAIビデオ
+### No. 401: お気に入りのワールドカップスターのAIビデオ
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9516,7 +9240,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 414: 一人称視点の熱気球POVショット
+### No. 402: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9537,7 +9261,7 @@ Create an original AI video featuring your favorite 2026 World Cup star
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 415: 一人称視点の熱気球POVショット
+### No. 403: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9558,7 +9282,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 416: 一人称視点の熱気球POVショット
+### No. 404: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9579,7 +9303,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 417: 一人称視点の熱気球POVショット
+### No. 405: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9600,7 +9324,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 418: 一人称視点の熱気球POVショット
+### No. 406: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9621,7 +9345,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 419: 一人称視点の熱気球POVショット
+### No. 407: 一人称視点の熱気球POVショット
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9642,7 +9366,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 420: ドバイを巡る映画的な空中の旅
+### No. 408: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9663,7 +9387,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 421: ドバイを巡る映画的な空中の旅
+### No. 409: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9684,7 +9408,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 422: ドバイを巡る映画的な空中の旅
+### No. 410: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9705,7 +9429,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 423: ドバイを巡る映画的な空中の旅
+### No. 411: ドバイを巡る映画的な空中の旅
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9726,7 +9450,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 424: サッカーの試合：スタジアム、ペナルティーキック、フリーキック
+### No. 412: サッカーの試合：スタジアム、ペナルティーキック、フリーキック
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9747,7 +9471,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 425: 宋代劇場の薄緑のガウゼ衣装をまとった舞姫
+### No. 413: 宋代劇場の薄緑のガウゼ衣装をまとった舞姫
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9768,7 +9492,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 426: 巨大な難破宇宙船の前に立つ少女
+### No. 414: 巨大な難破宇宙船の前に立つ少女
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9786,7 +9510,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 427: 空夢の書
+### No. 415: 空夢の書
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -9807,205 +9531,7 @@ At the foot of a colossal spacecraft stranded across a barren plain, a lone youn
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 428: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 429: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 430: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 431: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 432: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 433: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 434: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 435: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 436: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 437: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 438: シネマティック・ミックスメディア・コメディ動画
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 説明
-
-同期した台詞付きの15秒ミックスメディア・コメディ動画を作成するためのプロンプトです。
-
-#### プロンプト
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 439: スペイン、アルゼンチンを破りワールドカップ優勝
+### No. 416: スペイン、アルゼンチンを破りワールドカップ優勝
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -10024,6 +9550,534 @@ Create a 15-second cinematic mixed-media comedy video with synchronized English 
 
 ```text
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
+```
+
+### No. 417: レゴストップモーションサッカー試合動画
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Sharon Riley
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/Just_sharon7/status/2079404472493629757)
+
+#### 説明
+
+ドラマチックなサッカー試合を、鮮やかなレゴのストップモーションアニメーションで作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
+```
+
+### No. 418: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 419: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 420: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 421: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 422: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 423: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 424: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 425: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 426: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 427: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 428: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 429: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 430: ポータブル洗濯のブレークスルー
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Alibaba Cloud
+- **言語:** `ja-JP`
+- **動画:** [表示](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 説明
+
+日本人男性が背中に回転式ポータブル衣類乾燥機を背負って自転車通勤し、移動中の洗濯のための科学的ブレークスルーを紹介しています。
+
+#### プロンプト
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 431: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 432: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 433: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 434: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 435: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 436: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 437: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 438: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 439: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 440: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 441: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 442: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 443: 映画的ミックスメディア旅行コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 説明
+
+手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+
+#### プロンプト
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
 ```
 
 <a id="category-2"></a>
@@ -24407,7 +24461,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-21T06:15:52.286Z
+> この README は自動生成です。 2026-07-22T04:17:31.299Z
 
 ## More Atlas Cloud Tools
 

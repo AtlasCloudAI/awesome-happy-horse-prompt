@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1151%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1151** |
+| 提示词总数 | **1155** |
 | 分类数 | **13** |
-| 预览视频数 | **993** |
-| 最后更新 | **2026-07-21T06:15:52.238Z** |
+| 预览视频数 | **995** |
+| 最后更新 | **2026-07-22T04:17:31.256Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **351**
+- [`Twitter Community`](#category-1): **355**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (351)
+### Twitter Community (355)
 
 ### No. 1: Neon-lit city street at night
 
@@ -6540,283 +6540,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 273: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 274: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 275: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 276: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 277: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 278: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 279: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 280: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 281: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 282: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 283: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 284: 9Th Place At The Ai Film Festival Monaco
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Alibaba Cloud
-- **语言:** `zh-CN`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074695104137224242.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2074695104137224242)
-
-#### 描述
-
-9th Place at the AI Film Festival Monaco Hackathon!
-
-#### 提示词
-
-```text
-9th Place at the AI Film Festival Monaco Hackathon!
-
-🎬 《Between》 by Davit Jijavadze — a delicate watercolor animation where a wildflower cracks through an office floor, jolting a man out of the life he was told to live—crafted with Alibaba Cloud Model Studio &amp; Happy Horse
-```
-
-### No. 285: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 273: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6834,7 +6558,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 286: Title: "The Promise Above The Clouds " Created
+### No. 274: Title: "The Promise Above The Clouds " Created
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6864,7 +6588,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 287: Title: "The Promise Above The Clouds " Created
+### No. 275: Title: "The Promise Above The Clouds " Created
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6894,7 +6618,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 288: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 276: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6912,7 +6636,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 289: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 277: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6947,7 +6671,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 290: The Infrastructure Behind This Is The Real Story
+### No. 278: The Infrastructure Behind This Is The Real Story
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6965,7 +6689,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 291: Meta Just Crashed Into The Video Ai Rankings
+### No. 279: Meta Just Crashed Into The Video Ai Rankings
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -6988,7 +6712,7 @@ It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro,
 But the real question is
 ```
 
-### No. 292: Have You Heard That Ufo Have Been Spotted
+### No. 280: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7011,7 +6735,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 293: Have You Heard That Ufo Have Been Spotted
+### No. 281: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7034,7 +6758,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 294: Have You Heard That Ufo Have Been Spotted
+### No. 282: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7057,7 +6781,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 295: Have You Heard That Ufo Have Been Spotted
+### No. 283: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7080,7 +6804,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 296: Have You Heard That Ufo Have Been Spotted
+### No. 284: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7103,7 +6827,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 297: Have You Heard That Ufo Have Been Spotted
+### No. 285: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7126,7 +6850,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 298: Have You Heard That Ufo Have Been Spotted
+### No. 286: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7149,7 +6873,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 299: Have You Heard That Ufo Have Been Spotted
+### No. 287: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7172,7 +6896,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 300: Have You Heard That Ufo Have Been Spotted
+### No. 288: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7195,7 +6919,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 301: Have You Heard That Ufo Have Been Spotted
+### No. 289: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7218,7 +6942,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 302: Have You Heard That Ufo Have Been Spotted
+### No. 290: Have You Heard That Ufo Have Been Spotted
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7241,7 +6965,7 @@ Have you heard that UFO have been spotted again recently? 🫣 I have evidence..
 #happyhorse #ai #UFO #alien
 ```
 
-### No. 303: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 291: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7259,7 +6983,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 304: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 292: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7277,7 +7001,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 305: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 293: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7298,7 +7022,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 306: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 294: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7321,7 +7045,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 307: 色々アレっぽくなった😅
+### No. 295: 色々アレっぽくなった😅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7344,7 +7068,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 308: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 296: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7364,7 +7088,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 309: Models Available On (Byok Friendly) Video Models Gemini
+### No. 297: Models Available On (Byok Friendly) Video Models Gemini
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7406,7 +7130,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 310: What Model Will You Choose For Ai Video
+### No. 298: What Model Will You Choose For Ai Video
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7433,7 +7157,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 311: 坍塌桥上的摩托车追逐
+### No. 299: 坍塌桥上的摩托车追逐
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7454,7 +7178,7 @@ Comment down your answers
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 312: 复刻视频的摄影手法与节奏
+### No. 300: 复刻视频的摄影手法与节奏
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7476,7 +7200,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 313: 穿越隐秘峡谷的皮划艇之旅
+### No. 301: 穿越隐秘峡谷的皮划艇之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7497,7 +7221,7 @@ A rider speeds across a collapsing suspension bridge as debris flies, with cinem
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 314: 穿越隐秘峡谷的皮划艇之旅
+### No. 302: 穿越隐秘峡谷的皮划艇之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7518,7 +7242,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 315: GlobalGPT AI工具网站导航
+### No. 303: GlobalGPT AI工具网站导航
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7539,7 +7263,7 @@ A hyper-realistic live-action adventure documentary. A solo kayaker wearing auth
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 316: 坠入浮空岛屿与不可能瀑布
+### No. 304: 坠入浮空岛屿与不可能瀑布
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7560,7 +7284,7 @@ A screen recording of a web browser displaying the GlobalGPT website. The user n
 POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
 ```
 
-### No. 317: 承载世界的光之数字生命体
+### No. 305: 承载世界的光之数字生命体
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7582,7 +7306,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 318: 电影感黄金时刻山间俯冲
+### No. 306: 电影感黄金时刻山间俯冲
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7603,7 +7327,7 @@ A luminous digital being that carries worlds in its body and leaks them into rea
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 319: 霓虹雨中的未来主义屋顶酒吧
+### No. 307: 霓虹雨中的未来主义屋顶酒吧
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7622,7 +7346,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 320: 暴雨中的赛博朋克屋顶激战
+### No. 308: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7649,7 +7373,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 321: 暴雨中的赛博朋克屋顶激战
+### No. 309: 暴雨中的赛博朋克屋顶激战
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7676,7 +7400,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 322: 对称复古奇幻安德森美学
+### No. 310: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7697,7 +7421,7 @@ storm
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 323: 对称复古奇幻安德森美学
+### No. 311: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7718,7 +7442,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 324: 对称复古奇幻安德森美学
+### No. 312: 对称复古奇幻安德森美学
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7739,7 +7463,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
 ```
 
-### No. 325: 最喜爱世界杯球星的AI视频
+### No. 313: 最喜爱世界杯球星的AI视频
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7757,7 +7481,7 @@ Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aest
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 326: 第一人称热气球主观视角镜头
+### No. 314: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7778,7 +7502,7 @@ Create an original AI video featuring your favorite 2026 World Cup star
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 327: 第一人称热气球主观视角镜头
+### No. 315: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7799,7 +7523,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 328: 第一人称热气球主观视角镜头
+### No. 316: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7820,7 +7544,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 329: 第一人称热气球主观视角镜头
+### No. 317: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7841,7 +7565,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 330: 第一人称热气球主观视角镜头
+### No. 318: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7862,7 +7586,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 331: 第一人称热气球主观视角镜头
+### No. 319: 第一人称热气球主观视角镜头
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7883,7 +7607,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
 ```
 
-### No. 332: 穿越迪拜的电影感空中之旅
+### No. 320: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7904,7 +7628,7 @@ Ultra realistic viral smartphone footage, filmed as one continuous first person 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 333: 穿越迪拜的电影感空中之旅
+### No. 321: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7925,7 +7649,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 334: 穿越迪拜的电影感空中之旅
+### No. 322: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7946,7 +7670,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 335: 穿越迪拜的电影感空中之旅
+### No. 323: 穿越迪拜的电影感空中之旅
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7967,7 +7691,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 336: 足球比赛：球场、点球、任意球
+### No. 324: 足球比赛：球场、点球、任意球
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -7988,7 +7712,7 @@ Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 337: 身着绿纱的宋代剧场舞者
+### No. 325: 身着绿纱的宋代剧场舞者
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -8009,7 +7733,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 338: 女孩伫立于搁浅的巨型宇宙飞船前
+### No. 326: 女孩伫立于搁浅的巨型宇宙飞船前
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -8027,7 +7751,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 339: 《天空之梦书》
+### No. 327: 《天空之梦书》
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -8048,205 +7772,7 @@ At the foot of a colossal spacecraft stranded across a barren plain, a lone youn
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 340: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 341: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 342: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 343: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 344: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 345: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 346: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 347: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 348: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 349: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 350: 电影级混合媒体喜剧视频
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-CN`
-- **原始链接:** [查看](https://x.com/PromptSin/status/2079122983436603862)
-
-#### 描述
-
-一个用于创作15秒混合媒体喜剧视频的提示，包含同步对话。
-
-#### 提示词
-
-```text
-Create a 15-second cinematic mixed-media comedy video with synchronized English dialogue.
-```
-
-### No. 351: 西班牙战胜阿根廷赢得世界杯
+### No. 328: 西班牙战胜阿根廷赢得世界杯
 
 - **分类:** `Twitter Community`
 - **来源:** `x`
@@ -8265,6 +7791,534 @@ Create a 15-second cinematic mixed-media comedy video with synchronized English 
 
 ```text
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
+```
+
+### No. 329: 乐高定格动画足球赛视频
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Sharon Riley
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2079403416334270465/vid/avc1/2560x1440/A1Kb5A8EDtA2xJih.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Just_sharon7/status/2079404472493629757)
+
+#### 描述
+
+一个用于创作充满活力的乐高定格动画的提示，描绘一场戏剧性的足球比赛。
+
+#### 提示词
+
+```text
+Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
+```
+
+### No. 330: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 331: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 332: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 333: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 334: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 335: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 336: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 337: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 338: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 339: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 340: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 341: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 342: 便携式洗衣新突破
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Alibaba Cloud
+- **语言:** `zh-CN`
+- **视频:** [查看](https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12)
+
+<video src="https://video.twimg.com/ext_tw_video/2079499909489680384/pu/vid/avc1/1280x720/3lXmuNCX-0RGdjiu.mp4?tag=12" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/alibaba_cloud/status/2079499930159247403)
+
+#### 描述
+
+一位日本男子骑车上班，背上背着一个旋转的便携式衣物烘干机，展示了这项便于移动洗衣的科学突破。
+
+#### 提示词
+
+```text
+A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
+```
+
+### No. 343: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 344: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 345: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 346: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 347: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 348: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 349: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 350: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 351: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 352: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 353: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 354: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+```
+
+### No. 355: 电影级混合媒体旅行喜剧
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-CN`
+- **原始链接:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+
+#### 描述
+
+一个15秒竖屏视频的提示，结合手绘和照片级真实感元素，呈现一部旅行喜剧。
+
+#### 提示词
+
+```text
+Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
 ```
 
 <a id="category-2"></a>
@@ -24332,7 +24386,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-21T06:15:52.238Z
+> 此 README 为自动生成。 2026-07-22T04:17:31.256Z
 
 ## More Atlas Cloud Tools
 

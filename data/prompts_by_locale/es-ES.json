@@ -14067,5 +14067,80 @@
       "images": [],
       "video": "media/happy-horse/x_2079404472493629757.mp4"
     }
+  },
+  {
+    "id": "x_2080118524643541460",
+    "title": "Carretera Costera Brumosa y Bota bajo la Lluvia",
+    "description": "Un vídeo dramático y melancólico muestra a una figura solitaria en una carretera costera azotada por la lluvia, con vistas a un mar brumoso y tormentoso, que concluye con un primer plano de una bota pisando un charco.",
+    "prompt": "A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4",
+    "author_name": "EZ",
+    "source_platform": "x",
+    "language": "es-ES",
+    "source_link": "https://x.com/EZheng66099/status/2080118524643541460",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2080118524643541460.mp4"
+    }
+  },
+  {
+    "id": "x_2080009410609353099",
+    "title": "Prompt para Vídeo de Comedia CGI 3D Cinematográfico",
+    "description": "Un prompt para crear un vídeo de comedia CGI 3D pulido, con materiales realistas y una transformación de antes y después.",
+    "prompt": "Create a polished cinematic 3D CGI comedy video with realistic materials, expressive caricature and a clear before-and-after transformation. REFERENCE: [CHARACTER_SHEET] is the only character reference. Preserve the",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "es-ES",
+    "source_link": "https://x.com/PromptSin/status/2080009410609353099",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079853100001525776",
+    "title": "Hombre Paseando a su Perro en una Mañana de Nueva York",
+    "description": "Un prompt para un vídeo fotorrealista de un hombre latino paseando a su perro en un barrio de Nueva York.",
+    "prompt": "Create a lively photorealistic morning video of a man walking his dog through a residential New York neighborhood.\n\nCHARACTER:\nA Latino man around 32 with short wavy dark hair, light stubble, navy bomber jacket,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "es-ES",
+    "source_link": "https://x.com/PromptSin/status/2079853100001525776",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827285956247638",
+    "title": "Vídeo de Comedia en un Acogedor Restaurante Italiano",
+    "description": "Un prompt para generar un cortometraje de comedia en 3D ambientado en un acogedor restaurante italiano en Roma.",
+    "prompt": "Create a 15-second cinematic 3D comedy video in a cozy Italian restaurant in Rome with",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "es-ES",
+    "source_link": "https://x.com/PromptSin/status/2079827285956247638",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827263055384669",
+    "title": "El Chef Salva la Pasta",
+    "description": "Una encantadora animación 3D muestra la consternación cómica y el eventual triunfo de un chef italiano cuando una comensal le pone kétchup a su pasta.",
+    "prompt": "A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "es-ES",
+    "source_link": "https://x.com/PromptSin/status/2079827263055384669",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079827263055384669.mp4"
+    }
   }
 ]

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1155** |
+| Tong so Prompt | **1160** |
 | So danh muc | **12** |
-| Video xem truoc | **995** |
-| Cap nhat lan cuoi | **2026-07-22T04:17:31.365Z** |
+| Video xem truoc | **1013** |
+| Cap nhat lan cuoi | **2026-07-23T05:59:01.002Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **443**
+- [`Twitter Community`](#category-1): **448**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (443)
+### Twitter Community (448)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9846,238 +9846,382 @@ Một người đàn ông Nhật Bản đạp xe đi làm với một máy sấy
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 431: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 431: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 432: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 432: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 433: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 433: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 434: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 434: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 435: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 435: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 436: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 436: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 437: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 437: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 438: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 438: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 439: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 439: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 440: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 440: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 441: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 441: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 442: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 442: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 443: Hài Kịch Du Lịch Đa Phương Tiện Điện Ảnh
+### No. 443: Đầu Bếp Cứu Món Mỳ Ý
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
 - **Tac gia:** PSS
 - **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Mo ta
 
-Một gợi ý cho video dọc 15 giây kết hợp các yếu tố vẽ tay và chân thực như ảnh chụp trong một bộ phim hài du lịch.
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 444: Đầu Bếp Cứu Món Mỳ Ý
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Mo ta
+
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 445: Đầu Bếp Cứu Món Mỳ Ý
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Mo ta
+
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 446: Đầu Bếp Cứu Món Mỳ Ý
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Mo ta
+
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 447: Đầu Bếp Cứu Món Mỳ Ý
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Mo ta
+
+Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 448: Con Đường Ven Biển Mù Sương và Đôi Ủng Trong Mưa
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** EZ
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### Mo ta
+
+Một video đầy kịch tính và u ám mô tả một bóng hình cô độc trên con đường cao tốc ven biển ướt đẫm mưa, nhìn ra biển mù sương và bão tố, kết thúc bằng cảnh cận cảnh một chiếc ủng bước vào vũng nước.
+
+#### Prompt
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24381,7 +24525,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-07-22T04:17:31.365Z
+> README nay duoc tao tu dong. 2026-07-23T05:59:01.002Z
 
 ## More Atlas Cloud Tools
 

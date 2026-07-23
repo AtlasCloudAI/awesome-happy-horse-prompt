@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1155** |
+| Nombre Total de Prompts | **1160** |
 | Categories | **13** |
-| Videos d'Apercu | **995** |
-| Derniere Mise a Jour | **2026-07-22T04:17:31.462Z** |
+| Videos d'Apercu | **1013** |
+| Derniere Mise a Jour | **2026-07-23T05:59:01.097Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **355**
+- [`Twitter Community`](#category-1): **360**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (355)
+### Twitter Community (360)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8087,238 +8087,382 @@ Un Japonais se rend au travail à vélo avec un sèche-linge portable en rotatio
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 343: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 343: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 344: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 344: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 345: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 345: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 346: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 346: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 347: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 347: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 348: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 348: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 349: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 349: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 350: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 350: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 351: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 351: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 352: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 352: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 353: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 353: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 354: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 354: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 355: Comédie de Voyage Cinématographique en Médias Mixtes
+### No. 355: Le Chef Sauve les Pâtes
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Description
 
-Une description pour une vidéo verticale de 15 secondes combinant des éléments dessinés à la main et photoréalistes dans une comédie de voyage.
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 356: Le Chef Sauve les Pâtes
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Description
+
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 357: Le Chef Sauve les Pâtes
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Description
+
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 358: Le Chef Sauve les Pâtes
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Description
+
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 359: Le Chef Sauve les Pâtes
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Description
+
+Une délicieuse animation 3D dépeint la consternation comique puis le triomphe final d'un chef italien lorsqu'une cliente met du ketchup sur ses pâtes.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 360: Route Côtière Brumeuse et Botte de Pluie
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** EZ
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### Description
+
+Une vidéo dramatique et atmosphérique dépeint une silhouette solitaire sur une autoroute côtière détrempée par la pluie surplombant une mer brumeuse et orageuse, se concluant par un gros-plan d'une botte s'enfonçant dans une flaque.
+
+#### Prompt
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24442,7 +24586,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-07-22T04:17:31.462Z
+> Ce README est genere automatiquement. 2026-07-23T05:59:01.097Z
 
 ## More Atlas Cloud Tools
 

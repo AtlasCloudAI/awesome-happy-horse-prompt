@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1155** |
+| 総プロンプト数 | **1160** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **995** |
-| 最終更新 | **2026-07-22T04:17:31.299Z** |
+| プレビュー動画数 | **1013** |
+| 最終更新 | **2026-07-23T05:59:00.937Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **443**
+- [`Twitter Community`](#category-1): **448**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (443)
+### Twitter Community (448)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -9846,238 +9846,382 @@ A young Japanese businessman in a suit commutes on a bicycle down a sunny, quain
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 431: 映画的ミックスメディア旅行コメディ
+### No. 431: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 432: 映画的ミックスメディア旅行コメディ
+### No. 432: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 433: 映画的ミックスメディア旅行コメディ
+### No. 433: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 434: 映画的ミックスメディア旅行コメディ
+### No. 434: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 435: 映画的ミックスメディア旅行コメディ
+### No. 435: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 436: 映画的ミックスメディア旅行コメディ
+### No. 436: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 437: 映画的ミックスメディア旅行コメディ
+### No. 437: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 438: 映画的ミックスメディア旅行コメディ
+### No. 438: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 439: 映画的ミックスメディア旅行コメディ
+### No. 439: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 440: 映画的ミックスメディア旅行コメディ
+### No. 440: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 441: 映画的ミックスメディア旅行コメディ
+### No. 441: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 442: 映画的ミックスメディア旅行コメディ
+### No. 442: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 443: 映画的ミックスメディア旅行コメディ
+### No. 443: シェフ、パスタを救う
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
 - **作者:** PSS
 - **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2079612089073619198)
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 説明
 
-手描きと写真のようにリアルな要素を組み合わせた、縦型15秒動画の旅行コメディを作成するためのプロンプトです。
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
 
 #### プロンプト
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 444: シェフ、パスタを救う
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 説明
+
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
+
+#### プロンプト
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 445: シェフ、パスタを救う
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 説明
+
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
+
+#### プロンプト
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 446: シェフ、パスタを救う
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 説明
+
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
+
+#### プロンプト
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 447: シェフ、パスタを救う
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 説明
+
+客がパスタにケチャップをかけたことに、イタリア人シェフが喜劇的な落胆を見せ、最終的には勝利を収める楽しい3Dアニメーション。
+
+#### プロンプト
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 448: 霧深い海岸道路と雨に濡れたブーツ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** EZ
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### 説明
+
+霧が立ち込め、荒れた海を見下ろす雨に濡れた海岸道路で、孤独な人影を描いた劇的で陰鬱な映像。水たまりに足を踏み入れるブーツのクローズアップで締めくくられる。
+
+#### プロンプト
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24461,7 +24605,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-07-22T04:17:31.299Z
+> この README は自動生成です。 2026-07-23T05:59:00.937Z
 
 ## More Atlas Cloud Tools
 

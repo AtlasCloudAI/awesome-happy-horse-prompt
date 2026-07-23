@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **1155** |
+| 提示詞總數 | **1160** |
 | 分類數 | **13** |
-| 預覽影片數 | **995** |
-| 最後更新 | **2026-07-22T04:17:31.277Z** |
+| 預覽影片數 | **1013** |
+| 最後更新 | **2026-07-23T05:59:00.913Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`Twitter Community`](#category-1): **355**
+- [`Twitter Community`](#category-1): **360**
 - [`HappyHorse 創意批次`](#category-2): **240**
 - [`Twitter 社群`](#category-3): **88**
 - [`音訊與語音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 <a id="category-1"></a>
 
-### Twitter Community (355)
+### Twitter Community (360)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8087,238 +8087,382 @@ A young Japanese businessman in a suit commutes on a bicycle down a sunny, quain
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 343: 電影感混合媒體旅行喜劇
+### No. 343: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 344: 電影感混合媒體旅行喜劇
+### No. 344: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 345: 電影感混合媒體旅行喜劇
+### No. 345: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 346: 電影感混合媒體旅行喜劇
+### No. 346: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 347: 電影感混合媒體旅行喜劇
+### No. 347: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 348: 電影感混合媒體旅行喜劇
+### No. 348: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 349: 電影感混合媒體旅行喜劇
+### No. 349: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 350: 電影感混合媒體旅行喜劇
+### No. 350: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 351: 電影感混合媒體旅行喜劇
+### No. 351: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 352: 電影感混合媒體旅行喜劇
+### No. 352: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 353: 電影感混合媒體旅行喜劇
+### No. 353: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 354: 電影感混合媒體旅行喜劇
+### No. 354: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 355: 電影感混合媒體旅行喜劇
+### No. 355: 主廚拯救義大利麵
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2079612089073619198)
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 描述
 
-一段15秒垂直影片的提示，結合手繪與寫實元素，呈現一部旅行喜劇。
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
 
 #### 提示詞
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 356: 主廚拯救義大利麵
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 描述
+
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
+
+#### 提示詞
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 357: 主廚拯救義大利麵
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 描述
+
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
+
+#### 提示詞
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 358: 主廚拯救義大利麵
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 描述
+
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
+
+#### 提示詞
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 359: 主廚拯救義大利麵
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 描述
+
+一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。
+
+#### 提示詞
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 360: 霧濛濛的沿海公路與雨中的靴子
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** EZ
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### 描述
+
+一部戲劇性且氛圍感十足的影片，描繪了一個孤獨的身影站在一條被雨水浸透的沿海公路上，俯瞰著霧氣瀰漫、風暴將至的大海，最後以一隻靴子踏入水坑的特寫鏡頭作結。
+
+#### 提示詞
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24386,7 +24530,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-22T04:17:31.277Z
+> 此 README 為自動生成。 2026-07-23T05:59:00.913Z
 
 ## More Atlas Cloud Tools
 

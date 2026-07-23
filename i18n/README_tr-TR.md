@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1155** |
+| Toplam Prompt | **1160** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **995** |
-| Son Guncelleme | **2026-07-22T04:17:31.538Z** |
+| Onizleme Videolari | **1013** |
+| Son Guncelleme | **2026-07-23T05:59:01.171Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **355**
+- [`Twitter Community`](#category-1): **360**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (355)
+### Twitter Community (360)
 
 ### No. 1: Neon-lit city street at night
 
@@ -8087,238 +8087,382 @@ Bir Japon adam, sırtında dönen taşınabilir bir çamaşır kurutucuyla işe 
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 343: Sinematografik Karma Medya Seyahat Komedisi
+### No. 343: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 344: Sinematografik Karma Medya Seyahat Komedisi
+### No. 344: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 345: Sinematografik Karma Medya Seyahat Komedisi
+### No. 345: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 346: Sinematografik Karma Medya Seyahat Komedisi
+### No. 346: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 347: Sinematografik Karma Medya Seyahat Komedisi
+### No. 347: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 348: Sinematografik Karma Medya Seyahat Komedisi
+### No. 348: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 349: Sinematografik Karma Medya Seyahat Komedisi
+### No. 349: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 350: Sinematografik Karma Medya Seyahat Komedisi
+### No. 350: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 351: Sinematografik Karma Medya Seyahat Komedisi
+### No. 351: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 352: Sinematografik Karma Medya Seyahat Komedisi
+### No. 352: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 353: Sinematografik Karma Medya Seyahat Komedisi
+### No. 353: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 354: Sinematografik Karma Medya Seyahat Komedisi
+### No. 354: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 355: Sinematografik Karma Medya Seyahat Komedisi
+### No. 355: Şef Makarnayı Kurtarıyor
 
 - **Kategori:** `Twitter Community`
 - **Kaynak:** `x`
 - **Yazar:** PSS
 - **Dil:** `tr-TR`
-- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079612089073619198)
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
 
 #### Aciklama
 
-Bir seyahat komedisinde el çizimi ve fotogerçekçi unsurları birleştiren 15 saniyelik dikey bir video için bir prompt.
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
 
 #### Prompt
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 356: Şef Makarnayı Kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Aciklama
+
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 357: Şef Makarnayı Kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Aciklama
+
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 358: Şef Makarnayı Kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Aciklama
+
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 359: Şef Makarnayı Kurtarıyor
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** PSS
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/PromptSin/status/2079827263055384669)
+
+#### Aciklama
+
+Eğlenceli bir 3D animasyon, bir müşteri makarnasına ketçap koyduğunda bir İtalyan şefin komik dehşetini ve nihai zaferini gösteriyor.
+
+#### Prompt
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 360: Sisli Sahil Yolu ve Yağmurlu Bot
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** EZ
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### Aciklama
+
+Dramatik ve kasvetli bir video, sisli ve fırtınalı bir denize bakan, yağmurla ıslanmış bir sahil otoyolunda yalnız bir figürü betimliyor ve bir su birikintisine basan bir botun yakın çekimiyle sona eriyor.
+
+#### Prompt
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24386,7 +24530,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-07-22T04:17:31.538Z
+> Bu README otomatik uretilmistir. 2026-07-23T05:59:01.171Z
 
 ## More Atlas Cloud Tools
 

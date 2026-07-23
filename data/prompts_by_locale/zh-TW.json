@@ -14067,5 +14067,80 @@
       "images": [],
       "video": "media/happy-horse/x_2079404472493629757.mp4"
     }
+  },
+  {
+    "id": "x_2080118524643541460",
+    "title": "霧濛濛的沿海公路與雨中的靴子",
+    "description": "一部戲劇性且氛圍感十足的影片，描繪了一個孤獨的身影站在一條被雨水浸透的沿海公路上，俯瞰著霧氣瀰漫、風暴將至的大海，最後以一隻靴子踏入水坑的特寫鏡頭作結。",
+    "prompt": "A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4",
+    "author_name": "EZ",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/EZheng66099/status/2080118524643541460",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2080118524643541460.mp4"
+    }
+  },
+  {
+    "id": "x_2080009410609353099",
+    "title": "電影級3D CGI喜劇影片提示",
+    "description": "一個用於創作精緻3D CGI喜劇影片的提示，強調逼真的材質與前後對比的轉變效果。",
+    "prompt": "Create a polished cinematic 3D CGI comedy video with realistic materials, expressive caricature and a clear before-and-after transformation. REFERENCE: [CHARACTER_SHEET] is the only character reference. Preserve the",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2080009410609353099",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079853100001525776",
+    "title": "紐約清晨遛狗的男人",
+    "description": "一個用於生成照片級真實影片的提示，內容為一名拉丁裔男子在紐約街區遛狗。",
+    "prompt": "Create a lively photorealistic morning video of a man walking his dog through a residential New York neighborhood.\n\nCHARACTER:\nA Latino man around 32 with short wavy dark hair, light stubble, navy bomber jacket,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2079853100001525776",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827285956247638",
+    "title": "溫馨義大利餐廳喜劇影片",
+    "description": "一個用於生成短篇3D喜劇影片的提示，場景設定在羅馬一家溫馨的義大利餐廳。",
+    "prompt": "Create a 15-second cinematic 3D comedy video in a cozy Italian restaurant in Rome with",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2079827285956247638",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827263055384669",
+    "title": "主廚拯救義大利麵",
+    "description": "一部令人愉悅的3D動畫，描繪了一位義大利主廚看到顧客將番茄醬擠在她的義大利麵上時，從戲劇性的沮喪到最終勝利的喜劇過程。",
+    "prompt": "A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "zh-TW",
+    "source_link": "https://x.com/PromptSin/status/2079827263055384669",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079827263055384669.mp4"
+    }
   }
 ]

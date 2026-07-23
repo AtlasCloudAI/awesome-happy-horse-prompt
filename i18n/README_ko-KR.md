@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1155** |
+| 전체 프롬프트 | **1160** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **995** |
-| 마지막 업데이트 | **2026-07-22T04:17:31.321Z** |
+| 미리보기 비디오 | **1013** |
+| 마지막 업데이트 | **2026-07-23T05:59:00.957Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **443**
+- [`Twitter Community`](#category-1): **448**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (443)
+### Twitter Community (448)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -9846,238 +9846,382 @@ A young Japanese businessman in a suit commutes on a bicycle down a sunny, quain
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 431: 영화적 믹스 미디어 여행 코미디
+### No. 431: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 432: 영화적 믹스 미디어 여행 코미디
+### No. 432: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 433: 영화적 믹스 미디어 여행 코미디
+### No. 433: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 434: 영화적 믹스 미디어 여행 코미디
+### No. 434: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 435: 영화적 믹스 미디어 여행 코미디
+### No. 435: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 436: 영화적 믹스 미디어 여행 코미디
+### No. 436: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 437: 영화적 믹스 미디어 여행 코미디
+### No. 437: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 438: 영화적 믹스 미디어 여행 코미디
+### No. 438: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 439: 영화적 믹스 미디어 여행 코미디
+### No. 439: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 440: 영화적 믹스 미디어 여행 코미디
+### No. 440: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 441: 영화적 믹스 미디어 여행 코미디
+### No. 441: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 442: 영화적 믹스 미디어 여행 코미디
+### No. 442: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 443: 영화적 믹스 미디어 여행 코미디
+### No. 443: 셰프의 파스타 구하기
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2079612089073619198)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
 
 #### 설명
 
-여행 코미디를 주제로 손그림과 사실적 요소를 결합한 15초 세로 비디오를 위한 프롬프트입니다.
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
 
 #### 프롬프트
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 444: 셰프의 파스타 구하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 설명
+
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
+
+#### 프롬프트
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 445: 셰프의 파스타 구하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 설명
+
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
+
+#### 프롬프트
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 446: 셰프의 파스타 구하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 설명
+
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
+
+#### 프롬프트
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 447: 셰프의 파스타 구하기
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2079827263055384669)
+
+#### 설명
+
+한 식객이 자신의 파스타에 케첩을 뿌리자 이탈리아 셰프가 보이는 코믹한 절망과 결국 승리하는 순간을 담은 유쾌한 3D 애니메이션입니다.
+
+#### 프롬프트
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 448: 안개 낀 해안 도로와 비 맞는 부츠
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** EZ
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### 설명
+
+우중충하고 극적인 분위기의 영상으로, 안개가 자욱하고 폭풍우가 몰아치는 바다를 내려다보는 비에 흠뻑 젖은 해안 고속도로에서 홀로 서 있는 인물을 묘사하며, 마지막에는 물웅덩이를 밟는 부츠의 클로즈업 장면으로 끝납니다.
+
+#### 프롬프트
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24461,7 +24605,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-07-22T04:17:31.321Z
+> 이 README는 자동 생성됩니다. 2026-07-23T05:59:00.957Z
 
 ## More Atlas Cloud Tools
 

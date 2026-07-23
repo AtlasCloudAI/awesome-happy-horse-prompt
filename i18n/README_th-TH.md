@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1155%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1155** |
+| พรอมต์ทั้งหมด | **1160** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **995** |
-| อัปเดตล่าสุด | **2026-07-22T04:17:31.345Z** |
+| วิดีโอตัวอย่าง | **1013** |
+| อัปเดตล่าสุด | **2026-07-23T05:59:00.982Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **443**
+- [`Twitter Community`](#category-1): **448**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (443)
+### Twitter Community (448)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9846,238 +9846,382 @@ A young Japanese businessman in a suit commutes on a bicycle down a sunny, quain
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 431: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 431: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 432: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 432: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 433: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 433: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 434: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 434: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 435: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 435: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 436: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 436: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 437: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 437: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 438: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 438: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 439: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 439: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 440: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 440: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 441: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 441: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 442: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 442: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
 ```
 
-### No. 443: ภาพยนตร์ตลกท่องเที่ยวสื่อผสม
+### No. 443: เชฟช่วยพาสต้าไว้ได้
 
 - **หมวดหมู่:** `Twitter Community`
 - **แหล่งที่มา:** `x`
 - **ผู้เขียน:** PSS
 - **ภาษา:** `th-TH`
-- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079612089073619198)
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
 
 #### คำอธิบาย
 
-คำอธิบายสำหรับวิดีโอแนวตั้งความยาว 15 วินาที ที่ผสมผสานองค์ประกอบวาดมือและภาพเหมือนจริงในเรื่องตลกเกี่ยวกับการท่องเที่ยว
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
 
 #### พรอมต์
 
 ```text
-Create a 15-second vertical 9:16 cinematic mixed-media travel comedy with synchronized English dialogue.
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 444: เชฟช่วยพาสต้าไว้ได้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
+
+#### คำอธิบาย
+
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
+
+#### พรอมต์
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 445: เชฟช่วยพาสต้าไว้ได้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
+
+#### คำอธิบาย
+
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
+
+#### พรอมต์
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 446: เชฟช่วยพาสต้าไว้ได้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
+
+#### คำอธิบาย
+
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
+
+#### พรอมต์
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 447: เชฟช่วยพาสต้าไว้ได้
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** PSS
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/PromptSin/status/2079827263055384669)
+
+#### คำอธิบาย
+
+แอนิเมชัน 3D ที่น่ารักสดใส แสดงความผิดหวังแบบขบขันและชัยชนะในที่สุดของเชฟชาวอิตาเลียน เมื่อลูกค้าสาวราดซอสมะเขือเทศลงบนพาสต้าของเธอ
+
+#### พรอมต์
+
+```text
+A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
+```
+
+### No. 448: ถนนเลียบชายฝั่งอันมัวหมองและรองเท้าบูทในสายฝน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** EZ
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/EZheng66099/status/2080118524643541460)
+
+#### คำอธิบาย
+
+วิดีโอที่ดราม่าและเต็มไปด้วยอารมณ์ความรู้สึก แสดงภาพบุคคลโดดเดี่ยวบนทางหลวงเลียบชายฝั่งที่เปียกโชกจากฝน มองลงไปยังทะเลที่หมอกหนาและมีพายุ ลงท้ายด้วยภาพคลอสอัพของรองเท้าบูทที่ก้าวลงไปในแอ่งน้ำ
+
+#### พรอมต์
+
+```text
+A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
 ```
 
 <a id="category-2"></a>
@@ -24381,7 +24525,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-07-22T04:17:31.345Z
+> README นี้สร้างอัตโนมัติ 2026-07-23T05:59:00.982Z
 
 ## More Atlas Cloud Tools
 

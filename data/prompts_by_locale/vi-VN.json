@@ -14067,5 +14067,80 @@
       "images": [],
       "video": "media/happy-horse/x_2079404472493629757.mp4"
     }
+  },
+  {
+    "id": "x_2080118524643541460",
+    "title": "Con Đường Ven Biển Mù Sương và Đôi Ủng Trong Mưa",
+    "description": "Một video đầy kịch tính và u ám mô tả một bóng hình cô độc trên con đường cao tốc ven biển ướt đẫm mưa, nhìn ra biển mù sương và bão tố, kết thúc bằng cảnh cận cảnh một chiếc ủng bước vào vũng nước.",
+    "prompt": "A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2080118524643541460.mp4",
+    "author_name": "EZ",
+    "source_platform": "x",
+    "language": "vi-VN",
+    "source_link": "https://x.com/EZheng66099/status/2080118524643541460",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2080118524643541460.mp4"
+    }
+  },
+  {
+    "id": "x_2080009410609353099",
+    "title": "Đề Xuất Video Hài CGI 3D Điện Ảnh",
+    "description": "Một đề xuất để tạo ra một video hài CGI 3D chuyên nghiệp với chất liệu thực tế và sự chuyển đổi trước và sau.",
+    "prompt": "Create a polished cinematic 3D CGI comedy video with realistic materials, expressive caricature and a clear before-and-after transformation. REFERENCE: [CHARACTER_SHEET] is the only character reference. Preserve the",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "vi-VN",
+    "source_link": "https://x.com/PromptSin/status/2080009410609353099",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079853100001525776",
+    "title": "Người Đàn Ông Dắt Chó Đi Dạo Buổi Sáng Ở New York",
+    "description": "Một đề xuất video siêu thực về một người đàn ông gốc Latinh dắt chó đi dạo trong một khu phố ở New York.",
+    "prompt": "Create a lively photorealistic morning video of a man walking his dog through a residential New York neighborhood.\n\nCHARACTER:\nA Latino man around 32 with short wavy dark hair, light stubble, navy bomber jacket,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "vi-VN",
+    "source_link": "https://x.com/PromptSin/status/2079853100001525776",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827285956247638",
+    "title": "Video Hài Nhà Hàng Ý Ấm Cúng",
+    "description": "Một đề xuất để tạo ra một video hài 3D ngắn đặt trong một nhà hàng Ý ấm cúng ở Rome.",
+    "prompt": "Create a 15-second cinematic 3D comedy video in a cozy Italian restaurant in Rome with",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "vi-VN",
+    "source_link": "https://x.com/PromptSin/status/2079827285956247638",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2079827263055384669",
+    "title": "Đầu Bếp Cứu Món Mỳ Ý",
+    "description": "Một đoạn hoạt hình 3D thú vị mô tả sự bất bình hài hước và cuối cùng là chiến thắng của một đầu bếp Ý khi một thực khách đổ tương cà lên đĩa mỳ Ý của cô ấy.",
+    "prompt": "A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "vi-VN",
+    "source_link": "https://x.com/PromptSin/status/2079827263055384669",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2079827263055384669.mp4"
+    }
   }
 ]

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1244%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1160** |
+| Tong so Prompt | **1244** |
 | So danh muc | **12** |
-| Video xem truoc | **995** |
-| Cap nhat lan cuoi | **2026-08-03T07:24:14.105Z** |
+| Video xem truoc | **1045** |
+| Cap nhat lan cuoi | **2026-08-03T07:24:26.633Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **448**
+- [`Twitter Community`](#category-1): **532**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (448)
+### Twitter Community (532)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -9191,7 +9191,70 @@ AI. No camera. No lens. Just light.
 Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
-### No. 402: Kling And Google Omni Aren’T The Only Options
+### No. 402: Every Diamond Holds A Universe. We Filmed Inside
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### Mo ta
+
+Every diamond holds a universe.
+
+#### Prompt
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
+```
+
+### No. 403: 🚨 News Update About Video Model 🚨 The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** IDK
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Gdthainakub/status/2082236773472842052)
+
+#### Mo ta
+
+🚨 News Update about video model 🚨
+
+The information revealed in this leak
+
+-Hailuo 3 &gt; July 29th (Looking forward to tomorrow.)
+
+-Flux 3 &gt; (It's a public release.)
+
+-Wan 3 &gt; (I expect them to 
+
+#### Prompt
+
+```text
+🚨 News Update about video model 🚨
+
+The information revealed in this leak
+
+-Hailuo 3 &gt; July 29th (Looking forward to tomorrow.)
+
+-Flux 3 &gt; (It's a public release.)
+
+-Wan 3 &gt; (I expect them to have the same like happyhorse or even better)
+
+-Seedance 2.5 The exact information
+```
+
+### No. 404: Kling And Google Omni Aren’T The Only Options
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9218,7 +9281,52 @@ If you’re building an AI video workflow, this one is worth adding to your test
 Try it here:
 ```
 
-### No. 403: Ugc Is Basically Everywhere Now And Anyone Can
+### No. 405: Kling And Google Omni Aren’T The Only Options
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Feyber | AI Creator
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### Mo ta
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### Prompt
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
+### No. 406: Últimamente Uso Happy Horse Ai Y Me Está
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Grey le pewl
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/GPewl/status/2082288885002817759)
+
+#### Mo ta
+
+Últimamente uso Happy Horse AI y me está gustando mucho.
+
+#### Prompt
+
+```text
+Últimamente uso Happy Horse AI y me está gustando mucho. Te lo comparto.
+```
+
+### No. 407: Ugc Is Basically Everywhere Now And Anyone Can
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9236,7 +9344,75 @@ UGC is basically everywhere now and anyone can generate it.
 @oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
 ```
 
-### No. 404: Repotting A Plant On The Terrace 🪴 Created
+### No. 408: Ugc Is Basically Everywhere Now And Anyone Can
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2082350656921174450)
+
+#### Mo ta
+
+UGC is basically everywhere now and anyone can generate it.
+
+#### Prompt
+
+```text
+@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
+```
+
+### No. 409: Ugc Is Basically Everywhere Now And Anyone Can
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2082350656921174450)
+
+#### Mo ta
+
+UGC is basically everywhere now and anyone can generate it.
+
+#### Prompt
+
+```text
+@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
+```
+
+### No. 410: Why Juggle Multiple Ai Tools? 🤯 Bo Now
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ancher
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/AncherAI/status/2082370060900032588)
+
+#### Mo ta
+
+Why juggle multiple AI tools?
+
+#### Prompt
+
+```text
+Why juggle multiple AI tools? 🤯
+
+BO now creates Short-form Videos​ featuring 5 of the world's leading AI models in one seamless workspace:
+
+🌟 Seedance 2.0
+
+🌟 Kling 3.0 Omni
+
+🌟 Grok Video
+
+🌟 Vidu Q3 Turbo
+
+🌟 HappyHorse 1.1
+
+From Cinematic to Anime, Product Ads to 3D Cartoons
+```
+
+### No. 411: Repotting A Plant On The Terrace 🪴 Created
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9268,180 +9444,36 @@ Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt an
 Location: Rooftop
 ```
 
-### No. 405: If Annoying Mosquitoes In Summer Had The Appearance
+### No. 412: Repotting A Plant On The Terrace 🪴 Created
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
-- **Tac gia:** HappyHorse
+- **Tac gia:** 𝐌
 - **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Strength04_X/status/2082382615055929548)
 
 #### Mo ta
 
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+Repotting a Plant on the Terrace 🪴
+
+Created this using Happyhorse 1.1 on 
+
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, di
 
 #### Prompt
 
 ```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
+Repotting a Plant on the Terrace 🪴
 
-### No. 406: If Annoying Mosquitoes In Summer Had The Appearance
+Created this using Happyhorse 1.1 on @HappyHorseATH
 
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 407: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 408: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 409: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 410: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 411: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
-```
-
-### No. 412: If Annoying Mosquitoes In Summer Had The Appearance
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** HappyHorse
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
-
-#### Mo ta
-
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
-
-#### Prompt
-
-```text
-If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
-#happyhorse #ai #summer
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, dirt-smudged hands, focused content expression.
+Location: Rooftop
 ```
 
 ### No. 413: If Annoying Mosquitoes In Summer Had The Appearance
@@ -9510,7 +9542,401 @@ If annoying mosquitoes in summer had the appearance of cute kittens, would you s
 #happyhorse #ai #summer
 ```
 
-### No. 416: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 416: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 417: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 418: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 419: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 420: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 421: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 422: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 423: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 424: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 425: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 426: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 427: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 428: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 429: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 430: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 431: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 432: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** HappyHorse
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Mo ta
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 433: Happyhorse For The Win 😊 Beautiful Video Pss
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Michelle
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Chelle_Ai_/status/2082406917935096173)
+
+#### Mo ta
+
+HappyHorse for the win 😊
+Beautiful video PSS 💜
+
+#### Prompt
+
+```text
+@PromptSin HappyHorse for the win 😊
+Beautiful video PSS 💜
+```
+
+### No. 434: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9528,7 +9954,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 417: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 435: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9546,7 +9972,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 418: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 436: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9564,7 +9990,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 419: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 437: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9582,7 +10008,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 420: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 438: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9600,7 +10026,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 421: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 439: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9618,7 +10044,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 422: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 440: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9636,7 +10062,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 423: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 441: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9654,7 +10080,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 424: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 442: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9672,7 +10098,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 425: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 443: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9690,7 +10116,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 426: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 444: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9708,7 +10134,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 427: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 445: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9726,7 +10152,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 428: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 446: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9744,7 +10170,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 429: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 447: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9762,7 +10188,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 430: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 448: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9780,7 +10206,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 431: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 449: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9798,7 +10224,7 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 432: Kling 3 Is A Good Model, Perhaps 'Old'
+### No. 450: Kling 3 Is A Good Model, Perhaps 'Old'
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9816,7 +10242,370 @@ Kling 3 is a good model, perhaps 'old' considering how quickly everything evolve
 @manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
 ```
 
-### No. 433: World Cup Ai Challenge —Featured Works
+### No. 451: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Mo ta
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 452: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Mo ta
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 453: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Mo ta
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 454: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Edimakor Taiwan
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### Mo ta
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### Prompt
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
+```
+
+### No. 455: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Edimakor Taiwan
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### Mo ta
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### Prompt
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
+```
+
+### No. 456: Today I Tested The Same 1980S-Style Commercial Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** STΛRJUPI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/StarjupiAI/status/2082470356242055611)
+
+#### Mo ta
+
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
+
+#### Prompt
+
+```text
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
+
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
+```
+
+### No. 457: Today I Tested The Same 1980S-Style Commercial Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** STΛRJUPI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/StarjupiAI/status/2082470356242055611)
+
+#### Mo ta
+
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
+
+#### Prompt
+
+```text
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
+
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
+```
+
+### No. 458: Happyhorse 1.1 Is Now Available On 🐎🎬✨ Generate
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Lilidi · AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082492066710356240.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082492066710356240.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2082492066710356240)
+
+#### Mo ta
+
+HappyHorse 1.1 is now available on  🐎🎬✨
+
+Generate cinematic AI videos from text prompts with:
+
+⏱️ 3–15 second duration
+🎥 720p and 1080p
+🌊 Realistic motion
+⚡ One unified Lilidi credit balance
+Try it no
+
+#### Prompt
+
+```text
+HappyHorse 1.1 is now available on  🐎🎬✨
+
+Generate cinematic AI videos from text prompts with:
+
+⏱️ 3–15 second duration
+🎥 720p and 1080p
+🌊 Realistic motion
+⚡ One unified Lilidi credit balance
+Try it now 🚀
+
+
+Powered through
+```
+
+### No. 459: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Yolanda M
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/manriyoyo/status/2082508945898238446)
+
+#### Mo ta
+
+Totalment d'acord.
+
+#### Prompt
+
+```text
+@PromptSin Totalment d'acord. M'ha sorprès també la consistencia facial que aconsegueix. En un video en moviment la identitat marca la diferència i Happy Horse ho resol. Bona prova!!😍😍💪💪
+```
+
+### No. 460: I Recently Ordered A Custom Playstation 5 Pro
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ben Geskin
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082518108523114626.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082518108523114626.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/BenGeskin/status/2082518108523114626)
+
+#### Mo ta
+
+I recently ordered a custom PlayStation 5 Pro from ColorWare and the website showed two images of how my custom Jet Black Matte PS5 Pro + Retro Light Gray / Black DualSense would look, but I wanted to
+
+#### Prompt
+
+```text
+I recently ordered a custom PlayStation 5 Pro from ColorWare and the website showed two images of how my custom Jet Black Matte PS5 Pro + Retro Light Gray / Black DualSense would look, but I wanted to see the design from more angles. 
+
+So I used AI to turn those renders into a
+```
+
+### No. 461: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sparkful
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Mo ta
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 462: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sparkful
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Mo ta
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 463: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sparkful
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Mo ta
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 464: 新作Aiアニメ 『テクノデリック・ロリータ 〜Chocolate Mint Lullaby〜』 予告1St ティザー。 本編は7月31日深夜、
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BrainBuster Studio【公式】
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/brainbuster_st/status/2082626403896598695)
+
+#### Mo ta
+
+新作AIアニメ
+『テクノデリック・ロリータ
+　〜chocolate mint lullaby〜』
+予告1st ティザー。
+
+#### Prompt
+
+```text
+新作AIアニメ
+『テクノデリック・ロリータ
+　〜chocolate mint lullaby〜』
+予告1st ティザー。
+
+本編は7月31日深夜、
+公開予定。
+
+今回のティザーの映像部分は、
+全てHappy Horse 1.1で生成しました。
+こういうスピーディなカットは、さすがHappy Horse様々です🙇
+
+TECHNODELIC LOLITA
+〜chocolate
+```
+
+### No. 465: Guys, Which Ai Model For Which Type Of
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Krishna Aggarwal
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Krishna_agg_/status/2082637147790848489)
+
+#### Mo ta
+
+Guys, which Ai Model for which type of video?
+
+#### Prompt
+
+```text
+Guys, which Ai Model for which type of video?
+
+Kling
+Seedance
+Gemini
+Happy horse
+Grok Imagine
+Google Veo
+Wan
+```
+
+### No. 466: World Cup Ai Challenge —Featured Works
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9838,7 +10627,7 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 434: World Cup Ai Challenge —Featured Works
+### No. 467: World Cup Ai Challenge —Featured Works
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9860,7 +10649,7 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 435: World Cup Ai Challenge —Featured Works
+### No. 468: World Cup Ai Challenge —Featured Works
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9882,7 +10671,161 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 436: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 469: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 470: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 471: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 472: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 473: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 474: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 475: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 476: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9902,7 +10845,108 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 437: Be Careful What You Keep Watering. Created With
+### No. 477: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 藤川裕一🤖アリババAIエンジニア
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/fujiyuu75e/status/2082670009222881346)
+
+#### Mo ta
+
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
+
+#### Prompt
+
+```text
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
+```
+
+### No. 478: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 藤川裕一🤖アリババAIエンジニア
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/fujiyuu75e/status/2082670009222881346)
+
+#### Mo ta
+
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
+
+#### Prompt
+
+```text
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
+```
+
+### No. 479: Ace Data Cloud App Is Now Live In
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AceDataCloud
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082677008652218426.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082677008652218426.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/acedatacloud/status/2082677008652218426)
+
+#### Mo ta
+
+Ace Data Cloud app is now live in our Discord.
+
+#### Prompt
+
+```text
+Ace Data Cloud app is now live in our Discord.
+
+Type video, image or music into the studio channel with a description of what you want, and it comes back in the channel. No model to choose and nothing to configure.
+
+If you do want to choose, video runs on Veo, Kling, Luma,
+```
+
+### No. 480: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 過去問
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Tutorial_Short/status/2082728733778321789)
+
+#### Mo ta
+
+そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
+
+#### Prompt
+
+```text
+そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
+```
+
+### No. 481: Cinematic Ai Video Creation Just Got Easier Happyhorse
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** alonewolf
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/alonewolff21/status/2082743141753593937)
+
+#### Mo ta
+
+Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
+
+#### Prompt
+
+```text
+@lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
+```
+
+### No. 482: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9923,7 +10967,7 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 438: Be Careful What You Keep Watering. Created With
+### No. 483: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9944,7 +10988,7 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 439: Be Careful What You Keep Watering. Created With
+### No. 484: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9965,7 +11009,7 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 440: Be Careful What You Keep Watering. Created With
+### No. 485: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9986,7 +11030,7 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 441: Be Careful What You Keep Watering. Created With
+### No. 486: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10007,7 +11051,7 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 442: Be Careful What You Keep Watering. Created With
+### No. 487: Be Careful What You Keep Watering. Created With
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10028,7 +11072,176 @@ Be Careful What You Keep Watering.
 Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
 ```
 
-### No. 443: Google'S Gemini Omni Flash Debuts At On The
+### No. 488: Be Careful What You Keep Watering. Created With
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Mo ta
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 489: Be Careful What You Keep Watering. Created With
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Mo ta
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 490: Be Careful What You Keep Watering. Created With
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Mo ta
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 491: Experimented With Image-Driven Sound Performances And Had Great
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Boris Eldagsen
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082848351549100457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082848351549100457.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/BorisEldagsen/status/2082848351549100457)
+
+#### Mo ta
+
+Experimented with image-driven sound performances and had great fun with the new  omni video model.
+
+#### Prompt
+
+```text
+Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
+```
+
+### No. 492: Good Mornyan Sweet Sacchi, Them Better Of Been
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** xTechnoKitten 🍅, 🍓🪽
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/xTechnoKittenx/status/2082879321027612781)
+
+#### Mo ta
+
+Good mornyan sweet Sacchi, them better of been happy horse video years !
+
+#### Prompt
+
+```text
+@saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
+```
+
+### No. 493: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Noor_Official
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/NoorUllahN65980/status/2082905458315268296)
+
+#### Mo ta
+
+Try HappyHorse 1.1 for cinematic AI videos now online.
+
+#### Prompt
+
+```text
+@lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
+```
+
+### No. 494: Would You Step Into A Beautiful Painting... If
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Catlynx
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082908393459556445.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082908393459556445.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/catlynx_/status/2082908393459556445)
+
+#### Mo ta
+
+Would you step into a beautiful painting...
+
+#### Prompt
+
+```text
+Would you step into a beautiful painting... if you knew you could never return?
+🥀 Beyond the Veil: A Painted Prison
+An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
+```
+
+### No. 495: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** techs_targe
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/techs44576/status/2082969955897893285)
+
+#### Mo ta
+
+エージェント収集レポート
+Executive Report 2026.7.31
+
+今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
+
+#### Prompt
+
+```text
+エージェント収集レポート
+Executive Report 2026.7.31
+
+今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
+
+■セキュリティ・AI Safety関連
+```
+
+### No. 496: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10053,7 +11266,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 444: Google'S Gemini Omni Flash Debuts At On The
+### No. 497: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10078,7 +11291,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 445: Google'S Gemini Omni Flash Debuts At On The
+### No. 498: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10103,7 +11316,176 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 446: With Minimal Prompt I Guess Happy Horse Is
+### No. 499: Google'S Gemini Omni Flash Debuts At On The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artificial Analysis
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Mo ta
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 500: Google'S Gemini Omni Flash Debuts At On The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artificial Analysis
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Mo ta
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 501: Google'S Gemini Omni Flash Debuts At On The
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Artificial Analysis
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Mo ta
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 502: What If A Premium Matcha Commercial Could Be
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Synthia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2083043744253882689)
+
+#### Mo ta
+
+What if a premium matcha commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium matcha commercial could be created from a single storyboard? 🍵
+
+@HappyHorseATH
+
+This is a Matcha Latte concept ad created entirely with HappyHorse 1.1. Instead of planning an expensive commercial shoot, I started with a storyboard reference that defined the
+```
+
+### No. 503: No Massive Studio Budget, Just Pure Ai. 🎬
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Heisenberg
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083047223017742363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083047223017742363.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/rovvmut_/status/2083047223017742363)
+
+#### Mo ta
+
+No massive studio budget, just pure AI.
+
+#### Prompt
+
+```text
+No massive studio budget, just pure AI. 🎬
+
+I generated this epic, trending high-fantasy cinematic sequence entirely with Happy Horse 1.1
+
+The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
+```
+
+### No. 504: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** FeiZ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Fei2411/status/2083061790896992704)
+
+#### Mo ta
+
+MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视频模型开源！
+
+#### Prompt
+
+```text
+MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视频模型开源！
+
+这个视频模型在 Artificial Analysis 排行榜上杀疯了：
+
+视频编辑第1
+文生视频第2
+图生视频第3
+
+它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
+```
+
+### No. 505: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 日経クロステック（xTECH）
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/NIKKEIxTECH/status/2083067854421938496)
+
+#### Mo ta
+
+アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+
+#### Prompt
+
+```text
+アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+```
+
+### No. 506: With Minimal Prompt I Guess Happy Horse Is
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10124,7 +11506,47 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 447: Everyone Talks About Ai Video Quality. I Wanted
+### No. 507: With Minimal Prompt I Guess Happy Horse Is
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** tako_bot
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/tako_bots/status/2083103980411072921)
+
+#### Mo ta
+
+with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+
+#### Prompt
+
+```text
+@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+```
+
+### No. 508: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AI观察者 | 平行世界
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/ppmmzzcn/status/2083121017099055519)
+
+#### Mo ta
+
+💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
+
+#### Prompt
+
+```text
+💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
+新华社德黑兰7月30日电
+```
+
+### No. 509: Everyone Talks About Ai Video Quality. I Wanted
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10153,7 +11575,276 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 448: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+### No. 510: Everyone Talks About Ai Video Quality. I Wanted
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** RAVI KUMAR SAHU
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
+
+#### Mo ta
+
+Everyone talks about AI video quality.
+
+#### Prompt
+
+```text
+Everyone talks about AI video quality.
+
+I wanted to test something a bit harder:
+
+Can AI actually handle complex human movement?
+
+So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
+
+The first test was a professional ballet performance
+```
+
+### No. 511: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PR TIMESテクノロジー
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/PRTIMES_TECH/status/2083162521503150542)
+
+#### Mo ta
+
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
+
+#### Prompt
+
+```text
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
+```
+
+### No. 512: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** OpenBMB
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083190954178032017.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083190954178032017.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/OpenBMB/status/2083190954178032017)
+
+#### Mo ta
+
+🎙️Build with VoxCPM2: Creating Consistent AI Character Voices for Short Films 🎬
+
+A developer  in our community created an AI short film with VoxCPM2 powering the character voice generation.🥳
+
+In AI-ge
+
+#### Prompt
+
+```text
+🎙️Build with VoxCPM2: Creating Consistent AI Character Voices for Short Films 🎬
+
+A developer @xiaofenggan in our community created an AI short film with VoxCPM2 powering the character voice generation.🥳
+
+In AI-generated content, keeping the same character voice across different
+```
+
+### No. 513: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 相互フォローを希望＠ウーパー
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Stephan48479410/status/2083386908432834986)
+
+#### Mo ta
+
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
+
+#### Prompt
+
+```text
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
+```
+
+### No. 514: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Fable5 AI News Select !!｜AIニュース検証🔍&解説
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/marklimitless/status/2083441154083954956)
+
+#### Mo ta
+
+「MiniMax H3」登場 !!!
+
+#### Prompt
+
+```text
+「MiniMax H3」登場 !!! 動画編集AIの独立評価で世界1位に😳
+MiniMax H3 tops Artificial Analysis video editing chart
+
+Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
+```
+
+### No. 515: I'Ve Been Testing Happyhorse 1.1, And The Results
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Oogie
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083542415059845332.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083542415059845332.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/oggii_0/status/2083542415059845332)
+
+#### Mo ta
+
+I've been testing HappyHorse 1.1, and the results are seriously impressive.
+
+#### Prompt
+
+```text
+I've been testing HappyHorse 1.1, and the results are seriously impressive.
+
+From cinematic camera movements to consistent characters and smooth motion, it's built for creating production-ready AI videos without the usual hassle.
+
+Whether you're making ads, social content, or
+```
+
+### No. 516: How To Clone Animated Ads Using Ai In
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Wanderson Jackson
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083550309176017063.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083550309176017063.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/jackson99ai/status/2083550309176017063)
+
+#### Mo ta
+
+How to clone animated ads using AI in director mode on 
+in this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version.
+
+#### Prompt
+
+```text
+How to clone animated ads using AI in director mode on @avocadoai_co,
+in this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version. Check it out
+
+Tools use: avocadoai dot co
+Models used: GPT Image 2, Seedance 2.0 and
+```
+
+### No. 517: How To Clone Animated Ads Using Ai In
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Avocado AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083554245001781555.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083554245001781555.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/avocadoai_co/status/2083554245001781555)
+
+#### Mo ta
+
+How to clone animated ads using AI in director mode(still in early preview) on 
+In this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own vers
+
+#### Prompt
+
+```text
+How to clone animated ads using AI in director mode(still in early preview) on @avocadoai_co,
+In this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version. Check it out
+
+Tools use: avocadoai do co
+Models used: GPT
+```
+
+### No. 518: The Bottleneck Just Moved Again Bytedance’S Seed Team
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Adarsh | Founder
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/AdarshR39234037/status/2083618454037508414)
+
+#### Mo ta
+
+The bottleneck just moved again
+
+ByteDance’s Seed team just launched Seedance 2.0, a next gen model with director level control, multimodal references, built in editing, and a keep filming extension.
+
+#### Prompt
+
+```text
+The bottleneck just moved again
+
+ByteDance’s Seed team just launched Seedance 2.0, a next gen model with director level control, multimodal references, built in editing, and a keep filming extension.
+
+Video generation just got a lot easier.
+
+HappyHorse 1.0 climbed to No. 1 on the
+```
+
+### No. 519: First Slide; Reference Video Prompt; Replace The Guy
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mayowa 🍀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083647401567432976.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083647401567432976.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2083647401567432976)
+
+#### Mo ta
+
+First slide; reference video
+
+Prompt; Replace the guy in the reference video with this other semi albino American guy without altering the video ( image attached )
+
+Second slide: Results for both ( Kl
+
+#### Prompt
+
+```text
+First slide; reference video
+
+Prompt; Replace the guy in the reference video with this other semi albino American guy without altering the video ( image attached )
+
+Second slide: Results for both ( Kling up, happy horse down )
+```
+
+### No. 520: Is Now Back To The Creative Model Battle
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Xiaowei - ShallWe Tech
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Xiaoweisuper6/status/2083678337981927510)
+
+#### Mo ta
+
+is now back to the Creative Model Battle Ground!
+
+#### Prompt
+
+```text
+#MiniMax is now back to the Creative Model Battle Ground!
+
+Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's Kling, Alibaba's HappyHorse and MiniMax's H3) battle with #Google Gemini
+
+This week, MiniMax launched their Text/Image-to-Video model: MiniMax
+```
+
+### No. 521: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10177,6 +11868,256 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
 
 ② HappyHorse：Klingより自然に直せるようになった
+```
+
+### No. 522: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/outsourcePM/status/2083694266946375765)
+
+#### Mo ta
+
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+#### Prompt
+
+```text
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+② HappyHorse：Klingより自然に直せるようになった
+```
+
+### No. 523: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 雨雲(Amagumo)806 ｜ AI Animer
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/ai_animer/status/2083722829187756102)
+
+#### Mo ta
+
+14社参加してますね
+元々エンジニアでなのでAIツールをいじくるのが好きなんです
+もちらん、作品作りも好きです
+Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
+
+#### Prompt
+
+```text
+@santome_yontome 14社参加してますね
+元々エンジニアでなのでAIツールをいじくるのが好きなんです
+もちらん、作品作りも好きです
+Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
+```
+
+### No. 524: It'S A Good Time For Video Models Lately
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Jin.B
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083754427127878043.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083754427127878043.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/opener_ai/status/2083754427127878043)
+
+#### Mo ta
+
+It's a good time for video models lately gotta find that sweet spot between good models and good prices 🤔.
+
+#### Prompt
+
+```text
+It's a good time for video models lately gotta find that sweet spot between good models and good prices 🤔. Happyhorse 1.1 is just out and doing some tests, seems to have its own thing going on! @HappyHorseATH 
+
+Prompt
+
+Overview
+Beauty-commercial portrait, one continuous shot:
+```
+
+### No. 525: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Mo ta
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 526: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Mo ta
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 527: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Mo ta
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 528: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 王大少的笔记
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083888794005323936.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083888794005323936.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/leirenwangz/status/2083888794005323936)
+
+#### Mo ta
+
+我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
+
+#### Prompt
+
+```text
+我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
+```
+
+### No. 529: A Wonderful Prompt Happy Horse 1.1 Has Good
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** GETitDONE🦅
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/cryptohubhome/status/2083977708384510076)
+
+#### Mo ta
+
+A wonderful prompt 
+Happy horse 1.1 has good quality
+
+#### Prompt
+
+```text
+@bmx_ai13 @HappyHorseATH A wonderful prompt 
+Happy horse 1.1 has good quality
+```
+
+### No. 530: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ren Rose 321
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/RenRose321/status/2084016595609833752)
+
+#### Mo ta
+
+Ai Art Prompt Share Party 🎨👇🏻 
+
+Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
+
+#### Prompt
+
+```text
+Ai Art Prompt Share Party 🎨👇🏻 
+
+Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
+```
+
+### No. 531: Seedance 2.5 Has High Sensitivity To Fighting Actions
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Nisho 👦🏻🙀
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/AiMeowing/status/2084032009408582051)
+
+#### Mo ta
+
+Seedance 2.5 has high sensitivity to fighting actions and dangerous actions.
+
+#### Prompt
+
+```text
+Seedance 2.5 has high sensitivity to fighting actions and dangerous actions.
+Changed prompt 6 times,faild. then I gave up. 
+Same prompt works from 1st time at H3, Happy horse, Grok 
+But didn't post them. 
+Need to change actions to cuteness videos
+```
+
+### No. 532: Cette Vidéo A Été Générée À L'Aide Du
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Edimakor France
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084101538851733694.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084101538851733694.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/edimakorfr/status/2084101538851733694)
+
+#### Mo ta
+
+Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor.
+
+#### Prompt
+
+```text
+Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. Qu'en pensez-vous ?
+
+#edimakor #happyhorse #modeleia
 ```
 
 <a id="category-2"></a>
@@ -24480,7 +26421,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-08-03T07:24:14.105Z
+> README nay duoc tao tu dong. 2026-08-03T07:24:26.633Z
 
 ## More Atlas Cloud Tools
 

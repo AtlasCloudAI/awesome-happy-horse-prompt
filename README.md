@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1160%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1244%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > A curated collection of Happy Horse 1.0 prompts with real previews generated via Atlas Cloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **1160** |
+| Total Prompts | **1244** |
 | Categories | **12** |
-| Preview Videos | **1013** |
-| Last Updated | **2026-08-03T07:24:13.814Z** |
+| Preview Videos | **1045** |
+| Last Updated | **2026-08-03T07:24:26.315Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **448**
+- [`Twitter Community`](#category-1): **532**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (448)
+### Twitter Community (532)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -2111,28 +2111,7 @@ A broken light bulb glows brightly against the backdrop of a vast star-filled ga
 a glowing light bulb inside a broken red casing, viewed through a circular window with a starry galaxy and nebula in the background, cinematic lighting, sci-fi atmosphere
 ```
 
-### No. 102: Blurred indoor scene
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** RAVI KUMAR SAHU
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065429300069933520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/RAVIKUMARSAHU78/status/2065429300069933520)
-
-#### Description
-
-A softly focused image of a person in a brightly lit indoor environment with warm tones.
-
-#### Prompt
-
-```text
-blurry image of a person in a bright indoor setting, soft focus, warm lighting, indistinct background
-```
-
-### No. 103: Big Ben views
+### No. 102: Big Ben views
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2151,6 +2130,27 @@ Two images of Big Ben from different angles under a cloudy sky.
 
 ```text
 A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows tracing a path around the scene
+```
+
+### No. 103: Big Ben views
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Riya Ai
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Riya96Ai/status/2065581960810930318)
+
+#### Description
+
+Two images of Big Ben from different perspectives under a cloudy sky.
+
+#### Prompt
+
+```text
+a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
 ```
 
 ### No. 104: Big Ben views
@@ -2174,25 +2174,25 @@ Two images of Big Ben from different perspectives under a cloudy sky.
 a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
 ```
 
-### No. 105: Big Ben views
+### No. 105: Blurred abstract background
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
-- **Author:** Riya Ai
+- **Author:** Kalsoom (ghotai )
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4)
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065581960810930318.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Riya96Ai/status/2065581960810930318)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/AIwithGhotai/status/2065652453467644197)
 
 #### Description
 
-Two images of Big Ben from different perspectives under a cloudy sky.
+A softly blurred image with warm tones and a logo in the corner.
 
 #### Prompt
 
 ```text
-a low-angle view of Big Ben with a cloudy sky, and a wide shot of the Palace of Westminster and the River Thames with a red arrow pointing to Big Ben
+abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
 ```
 
 ### No. 106: Blurred abstract background
@@ -2216,28 +2216,7 @@ A softly blurred image with warm tones and a logo in the corner.
 abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
 ```
 
-### No. 107: Blurred abstract background
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Kalsoom (ghotai )
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065652453467644197.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AIwithGhotai/status/2065652453467644197)
-
-#### Description
-
-A softly blurred image with warm tones and a logo in the corner.
-
-#### Prompt
-
-```text
-abstract blurred background with warm orange and brown tones, soft focus, motion blur effect, GlobalGPT logo in bottom right corner
-```
-
-### No. 108: Couple at Sunset Beach
+### No. 107: Couple at Sunset Beach
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2258,7 +2237,7 @@ A man and woman stand together on a rocky beach during a golden sunset with the 
 a man and woman standing on a rocky beach at sunset, golden light illuminating the scene, ocean waves in the background, cinematic lighting, high detail, realistic photography
 ```
 
-### No. 109: Woman Boxing on Beach
+### No. 108: Woman Boxing on Beach
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2279,7 +2258,7 @@ A woman in athletic gear punches a sand-filled bag on a beach during sunset.
 a woman boxing on a beach at sunset, wearing red boxing gloves and athletic wear, hitting a punching bag with sand splashing, golden hour lighting, dynamic action shot
 ```
 
-### No. 110: Celebrities at World Cup
+### No. 109: Celebrities at World Cup
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2300,7 +2279,7 @@ A group of celebrities, including Taylor Swift and Kanye West, watch a live Worl
 a crowd of people watching a live sports event, with Taylor Swift and Kanye West seated together in the front row, surrounded by other celebrities and officials, under bright stadium lighting, with a scoreboard showing 'LIVE WORLD CUP CHA 78:34 2 1 FRA' at the top, realistic style, high detail
 ```
 
-### No. 111: Global AI Hackathon
+### No. 110: Global AI Hackathon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2318,7 +2297,7 @@ A promotional graphic for a global AI hackathon series by Qwen Cloud featuring f
 A futuristic digital illustration promoting an AI hackathon series, featuring a glowing purple and blue gradient background with abstract light effects. Prominent text reads 'Global AI Hackathon Series' in bold black and purple fonts. The image includes 3D icons: a play button, a notebook, a film reel, and a transparent video player interface. The Qwen Cloud logo is in the top left corner. The style is modern, sleek, and tech-oriented with a clean, professional layout.
 ```
 
-### No. 112: Microscopic Detail Photography Prompt
+### No. 111: Microscopic Detail Photography Prompt
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2336,7 +2315,7 @@ A prompt for generating detailed, non-artificial images of natural subjects like
 insectos, flores, texturas naturales, minerales, gotas de agua, piel, cualquier sujeto donde el detalle microscópico es el protagonista. Elimina el look limpio y artificial de IA. El resultado debe pasar por una fotografía
 ```
 
-### No. 113: cowboy on horseback
+### No. 112: cowboy on horseback
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2357,7 +2336,7 @@ A rugged cowboy rides a horse through the ruins of a desert town under a hazy sk
 a man in a wide-brimmed hat and ornate jacket riding a brown horse with a white blaze, standing in a dusty, ruined town, cinematic lighting, detailed textures, 4k
 ```
 
-### No. 114: AI transformation comparison
+### No. 113: AI transformation comparison
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2378,7 +2357,7 @@ A side-by-side comparison of AI models transforming a casual outdoor scene into 
 A man in a white shirt and shorts holding a stick in a grassy field, transformed into a dark figure with a red lightsaber in a futuristic, war-torn environment with smoke, fire, and flying ships, cinematic lighting, high detail, 8k
 ```
 
-### No. 115: SousakuAI Campaign
+### No. 114: SousakuAI Campaign
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2396,7 +2375,7 @@ A vibrant anime-style promotional poster celebrating a milestone and summer camp
 anime-style female character with teal hair and blue traditional outfit, dynamic pose, comic book panel layout, Japanese text, promotional advertisement, bold typography, vibrant colors, action scene, digital art
 ```
 
-### No. 116: Blue motion blur
+### No. 115: Blue motion blur
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2417,7 +2396,7 @@ A dynamic abstract image featuring flowing blue gradients and motion blur effect
 abstract blue motion blur with gradient and light streaks, digital art style
 ```
 
-### No. 117: Woman and Robot Encounter
+### No. 116: Woman and Robot Encounter
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2438,7 +2417,7 @@ A woman and a robot share a tender moment in a sunlit cityscape.
 a woman and a robot standing face to face in a sunlit urban setting, warm golden hour lighting, cinematic composition, detailed textures, realistic lighting, emotional connection, high detail, 8k resolution
 ```
 
-### No. 118: GlobalGPT Website Screenshot
+### No. 117: GlobalGPT Website Screenshot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2457,6 +2436,27 @@ A vibrant screenshot of the GlobalGPT website showcasing AI tools and a promotio
 
 ```text
 A screenshot of the GlobalGPT website homepage with a colorful abstract background, showing AI tools and models like GPT-5.5, Claude Opus, Gemini 3.1 Pro, and Grok 4.1 Fast, with a banner celebrating 2 years and offering up to 50% off, displayed in a modern browser window.
+```
+
+### No. 118: Big Ben views
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Nayeem Sheikh
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HeyNayeem/status/2065887930179358757)
+
+#### Description
+
+Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
+
+#### Prompt
+
+```text
+A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
 ```
 
 ### No. 119: Big Ben views
@@ -2480,28 +2480,7 @@ Two contrasting views of Big Ben under overcast skies, one close-up and one wide
 A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
 ```
 
-### No. 120: Big Ben views
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Nayeem Sheikh
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2065887930179358757.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HeyNayeem/status/2065887930179358757)
-
-#### Description
-
-Two contrasting views of Big Ben under overcast skies, one close-up and one wide-angle with added motion arrows.
-
-#### Prompt
-
-```text
-A low-angle view of Big Ben with a cloudy sky, and a wide shot of the Elizabeth Tower and Houses of Parliament from across the River Thames, with red arrows indicating movement around the scene
-```
-
-### No. 121: Helicopter Over Ocean
+### No. 120: Helicopter Over Ocean
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2522,7 +2501,7 @@ A helicopter flies over the ocean with motion blur, capturing a dynamic aerial s
 a helicopter flying over the ocean with motion blur, a person standing on a platform below, bright blue sky and clouds, dynamic action shot
 ```
 
-### No. 122: Woman Running from Train
+### No. 121: Woman Running from Train
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2543,7 +2522,7 @@ A woman with red hair runs through a dusty desert as sparks fly from a nearby tr
 a woman with red hair running in a desert, holding a gun, wearing a beige shirt and jeans, with sparks and smoke from a train behind her, cinematic lighting, high detail
 ```
 
-### No. 123: The Realtor
+### No. 122: The Realtor
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2564,7 +2543,7 @@ A man stands victorious in a chaotic office filled with fallen colleagues and fl
 a dramatic movie poster of a man in a black suit standing confidently in a chaotic office with people lying on the ground, papers flying, and a city skyline in the background, cinematic lighting, high detail, 8k
 ```
 
-### No. 124: Futuristic smartphone design
+### No. 123: Futuristic smartphone design
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2585,7 +2564,7 @@ A sleek smartphone with glowing camera modules and side buttons is showcased in 
 close-up of a futuristic smartphone with glowing camera lenses and side buttons, dark background, cinematic lighting
 ```
 
-### No. 125: GlobalGPT AI Tools Website UI Showcase
+### No. 124: GlobalGPT AI Tools Website UI Showcase
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2606,7 +2585,7 @@ The video demonstrates a user navigating through different sections and features
 A static high-quality screen recording of a web browser displaying the GlobalGPT AI tools website. A mouse cursor navigates the website, scrolling down and up the homepage, then clicking on 'Models & Tools', 'Image', 'Video', and 'Audio' in the sidebar to view those sections. The cursor then clicks on 'Wan 2.7' and scrolls through its content. The background behind the browser is a vibrant, abstract gradient desktop wallpaper.
 ```
 
-### No. 126: Shirtless man playing guitar by campfire
+### No. 125: Shirtless man playing guitar by campfire
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2627,7 +2606,7 @@ A detailed prompt for generating a video of a muscular man playing guitar by a c
 A handsome muscular shirtless man with cute modern haircut sits by the campfire playing the guitar in the evening, sweaty, ripped, bulging muscles
 ```
 
-### No. 127: 【最速比較】Ai動画の新王者！Seedance 2.0 Mini Vs Grok 1.5 Vs Happy
+### No. 126: 【最速比較】Ai動画の新王者！Seedance 2.0 Mini Vs Grok 1.5 Vs Happy
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2653,7 +2632,7 @@ A handsome muscular shirtless man with cute modern haircut sits by the campfire 
 一方で Seedance
 ```
 
-### No. 128: Happyhorse 1.1 &Amp; Kling 3.0 Are Now On
+### No. 127: Happyhorse 1.1 &Amp; Kling 3.0 Are Now On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2675,33 +2654,7 @@ HappyHorse 1.1 &amp; Kling 3.0 are now on CometAPI!
 #CometAPI #HappyHorse #Kling #VideoAI #AI #API
 ```
 
-### No. 129: 不自然な動きが減ってAiだけで実用動画が作りやすくなった Happyhorse 1.1が物理法則に沿った自然な動きを実現。広告やUgc向けの動画生成が変わった。
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/outsourcePM/status/2070463621352833165)
-
-#### Description
-
-不自然な動きが減ってAIだけで実用動画が作りやすくなった
-HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
-
-#### Prompt
-
-```text
-不自然な動きが減ってAIだけで実用動画が作りやすくなった
-HappyHorse 1.1が物理法則に沿った自然な動きを実現。広告やUGC向けの動画生成が変わった。
-
-✅ HappyHorse 1.1の動きが自然
-
-✅ 自分で高品質動画を量産しやすくなる
-
-✅ 今まで手直しが必要だった部分が最初から直る
-```
-
-### No. 130: The Next Generation Of Ai Video Is Here
+### No. 128: The Next Generation Of Ai Video Is Here
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2726,7 +2679,7 @@ HappyHorse 1.1 is now available through Omixa API — built for creators, develo
 Generate powerful AI videos from text, images, or visual references with
 ```
 
-### No. 131: In Builderstudio 2.0.1 You Can Generate Videos Like
+### No. 129: In Builderstudio 2.0.1 You Can Generate Videos Like
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2755,7 +2708,7 @@ Try out our new workflows feature today ⬇️
 #ai #videogen #happyhorse #nanobanana #aivideo #ios #videomaker #aivideomaker
 ```
 
-### No. 132: Ai Is Getting Scary Good... 🤯🐜 This Animated
+### No. 130: Ai Is Getting Scary Good... 🤯🐜 This Animated
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2781,7 +2734,7 @@ This animated ant comedy was brought to life with HappyHorse 1.1 -where tiny ant
 Super excited to create my next AI film!
 ```
 
-### No. 133: In 2025, I Had 6 Ai Provider Accounts
+### No. 131: In 2025, I Had 6 Ai Provider Accounts
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2807,7 +2760,7 @@ Every time I wanted to test a new model, I had to sign up somewhere new, add a c
 It
 ```
 
-### No. 134: 5. 🎥 Alibaba Becomes Ai Video'S Unexpected Challenger
+### No. 132: 5. 🎥 Alibaba Becomes Ai Video'S Unexpected Challenger
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2827,7 +2780,7 @@ It
 Alibaba's HappyHorse 1.1 moved into second place on AI video rankings after a surprising series of competitor setbacks. OpenAI's Sora is being discontinued, while ByteDance's Seedance faces copyright-related challenges.
 ```
 
-### No. 135: The Biggest Improvement For Jupiter Was Instruction Following
+### No. 133: The Biggest Improvement For Jupiter Was Instruction Following
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2849,7 +2802,7 @@ The film jumps between generations, ideas, and symbolic moments. Keeping those c
 Happy Horse 1.1 does a much better job maintaining context and understanding the intent
 ```
 
-### No. 136: 7 New Models Just Dropped On Atlas Cloud.🏄‍♀️
+### No. 134: 7 New Models Just Dropped On Atlas Cloud.🏄‍♀️
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2871,6 +2824,52 @@ Kling 3.0 Turbo (4K for3.0 &amp; Omni 3 ), Seedance 2.0 4K&amp; Mini, HappyHorse
 One API key. 300+ models. 
 
 🧵 Details &amp; direct
+```
+
+### No. 135: June In Ai Art. A Lot Happened. →
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** FloyoAI
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### Description
+
+June in AI art.
+
+#### Prompt
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
+```
+
+### No. 136: June In Ai Art. A Lot Happened. →
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** FloyoAI
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/FloyoAI/status/2070522474064982229)
+
+#### Description
+
+June in AI art.
+
+#### Prompt
+
+```text
+June in AI art. A lot happened.
+
+→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
+
+→ AI video's big month. Four drops:
+• Happy Horse 1.1 by @AlibabaGroup: synced audio,
 ```
 
 ### No. 137: June In Ai Art. A Lot Happened. →
@@ -2896,53 +2895,7 @@ June in AI art. A lot happened.
 • Happy Horse 1.1 by @AlibabaGroup: synced audio,
 ```
 
-### No. 138: June In Ai Art. A Lot Happened. →
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** FloyoAI
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/FloyoAI/status/2070522474064982229)
-
-#### Description
-
-June in AI art.
-
-#### Prompt
-
-```text
-June in AI art. A lot happened.
-
-→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
-
-→ AI video's big month. Four drops:
-• Happy Horse 1.1 by @AlibabaGroup: synced audio,
-```
-
-### No. 139: June In Ai Art. A Lot Happened. →
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** FloyoAI
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/FloyoAI/status/2070522474064982229)
-
-#### Description
-
-June in AI art.
-
-#### Prompt
-
-```text
-June in AI art. A lot happened.
-
-→ Two image models went open-weights: Krea 2 (2K in 2 sec) and @ideogram_ai 4 (great open model for in-image text). The open/closed gap closing so fast.
-
-→ AI video's big month. Four drops:
-• Happy Horse 1.1 by @AlibabaGroup: synced audio,
-```
-
-### No. 140: Happyhorse 1.0 And 1.1 Are Now Available On
+### No. 138: Happyhorse 1.0 And 1.1 Are Now Available On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2968,7 +2921,7 @@ Try them now 👇
 →1.1 Image to Video:
 ```
 
-### No. 141: Managing Different Api Accounts Just To Build One
+### No. 139: Managing Different Api Accounts Just To Build One
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -2995,7 +2948,7 @@ What’s inside 🙌
 → Nano Banana 2 (25%
 ```
 
-### No. 142: Thanks Mate! Used The Happy Horse 1.1 Reference
+### No. 140: Thanks Mate! Used The Happy Horse 1.1 Reference
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3011,6 +2964,56 @@ Thanks mate!
 
 ```text
 @idrisscodes Thanks mate! Used the happy horse 1.1 reference to video model, seems pretty decent for the price!
+```
+
+### No. 141: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Theinfralab
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### Description
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### Prompt
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
+```
+
+### No. 142: 🎉 Just In: Gimini 3.5 Flash And Claude
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Theinfralab
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Logical_Girll/status/2070558752970072108)
+
+#### Description
+
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+#### Prompt
+
+```text
+🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
+
+Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
+
+No limits. No regional
 ```
 
 ### No. 143: 🎉 Just In: Gimini 3.5 Flash And Claude
@@ -3038,57 +3041,7 @@ Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and
 No limits. No regional
 ```
 
-### No. 144: 🎉 Just In: Gimini 3.5 Flash And Claude
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Theinfralab
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Logical_Girll/status/2070558752970072108)
-
-#### Description
-
-🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
-
-#### Prompt
-
-```text
-🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
-
-Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
-
-No limits. No regional
-```
-
-### No. 145: 🎉 Just In: Gimini 3.5 Flash And Claude
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Theinfralab
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2070558689430487040/vid/avc1/1280x720/GlOWiZ_Lq-c1aNwm.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Logical_Girll/status/2070558752970072108)
-
-#### Description
-
-🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
-
-#### Prompt
-
-```text
-🎉 JUST IN: Gimini 3.5 Flash and Claude Opus 4.8 now available on GlobalGPT — free to try!
-
-Create AI videos with dynamic comic IPs, lively ads, energetic dance videos, and unique running videos in various styles, all powered by Happy Horse and Seedance.
-
-No limits. No regional
-```
-
-### No. 146: Gerei O Mesmo Prompt Em 2 Modelos Diferentes
+### No. 144: Gerei O Mesmo Prompt Em 2 Modelos Diferentes
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3115,7 +3068,7 @@ Prompt usado:
 "Um astronauta caminhando lentamente sobre uma montanha nevada à noite. Uma placa de neon azul brilha ao fundo com a frase 'O FUTURO É AGORA'. Um planeta com anéis enormes nasce no
 ```
 
-### No. 147: The Best Of Both Worlds: Access The Latest
+### No. 145: The Best Of Both Worlds: Access The Latest
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3136,7 +3089,7 @@ The best of both worlds: Access the latest frontier partner video models like Se
 @Sogni_Protocol The best of both worlds: Access the latest frontier partner video models like Seedance 2.0 and Happy Horse 1.1 at discounted pay-as-you-go rates. Without an additional subscription.
 ```
 
-### No. 148: Happy Horse 1.1 By Alibaba Is Live On
+### No. 146: Happy Horse 1.1 By Alibaba Is Live On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3159,34 +3112,7 @@ Happy Horse 1.1 by  Alibaba is live on AI FILMS Studio. One change from version 
 Like most of the video models it comes with text to
 ```
 
-### No. 149: 🜲 Happyhorse 1.1 Prompt Share 🜲 Ugc Style
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Feyber | AI Creator
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2070636693041106944/vid/avc1/1080x1920/uR_BEU2glwXbrPtl.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/woleswoosh/status/2070637304557998517)
-
-#### Description
-
-🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
-
-UGC STYLE:
-Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing.
-
-#### Prompt
-
-```text
-🜲 HAPPYHORSE 1.1 PROMPT SHARE 🜲
-
-UGC STYLE:
-Character says: Hi guys, wanna says something special today, Now you can create UGC style video with Happy Horse 1.1 without camera and minimum editing. More Dynamic Motion, Stronger Consistency, and Higher Visual Fidelity. The
-```
-
-### No. 150: Day 6: Ai Video Contests Can Easily Get
+### No. 147: Day 6: Ai Video Contests Can Easily Get
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3226,7 +3152,7 @@ take action!👇
 &gt; Link:
 ```
 
-### No. 151: What If The Greatest Escape Wasn'T From The
+### No. 148: What If The Greatest Escape Wasn'T From The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3249,7 +3175,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic action, post-apocalyptic https://t.co/JpQeiolr1v
 ```
 
-### No. 152: The Goal That Belonged To Everyone Created With
+### No. 149: The Goal That Belonged To Everyone Created With
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3275,7 +3201,7 @@ Prompt:
 15-second ultra-realistic cinematic football commercial, 4K HDR, 60fps, natural human motion, realistic football physics, golden-hour lighting, packed stadium atmosphere, smooth gimbal https://t.co/q0KUReJrEF
 ```
 
-### No. 153: Benchmarking Video Models In A Public Arena Is
+### No. 150: Benchmarking Video Models In A Public Arena Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3293,7 +3219,7 @@ Benchmarking video models in a public arena is one of the best ways to push the 
 @arena @HappyHorseATH Benchmarking video models in a public arena is one of the best ways to push the space forward. Curious to see how HappyHorse 1.1 performs against the current leaders.
 ```
 
-### No. 154: Venice Doing Interesting Things In Decentralized Ai Space
+### No. 151: Venice Doing Interesting Things In Decentralized Ai Space
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3317,7 +3243,7 @@ venice doing interesting things in decentralized ai space
 product velocity is real—just added seedance 2.0 4K video
 ```
 
-### No. 155: The Track Is Powered By Happyhorse 1.1 —
+### No. 152: The Track Is Powered By Happyhorse 1.1 —
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3343,7 +3269,7 @@ Not to be confused with the original HappyHorse — this is a major upgrade, alr
 Here's what
 ```
 
-### No. 156: The Track Is Powered By Happyhorse 1.1 —
+### No. 153: The Track Is Powered By Happyhorse 1.1 —
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3369,7 +3295,7 @@ Not to be confused with the original HappyHorse — this is a major upgrade, alr
 Here's what
 ```
 
-### No. 157: So Many Ships: Here'S Another Demo Of The
+### No. 154: So Many Ships: Here'S Another Demo Of The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3392,7 +3318,7 @@ So Many Ships: here's another demo of the new HappyHorse 1.1 video model in nati
 AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
 ```
 
-### No. 158: So Many Ships: Here'S Another Demo Of The
+### No. 155: So Many Ships: Here'S Another Demo Of The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3415,7 +3341,7 @@ So Many Ships: here's another demo of the new HappyHorse 1.1 video model in nati
 AI Sc-Fi movie clip: Midjourney image + HappyHorse 1.1 video #HappyHorseAI
 ```
 
-### No. 159: What A Crazy Week In Ai! 🚀 Wan
+### No. 156: What A Crazy Week In Ai! 🚀 Wan
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3450,7 +3376,7 @@ Autodata
 Watch the full recap:
 ```
 
-### No. 160: From Holding Onto A Golden Pole On Carousel
+### No. 157: From Holding Onto A Golden Pole On Carousel
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3473,7 +3399,7 @@ The things we loved as kids often shape who we become.
 SECTION 1 https://t.co/weyCcHGFrb
 ```
 
-### No. 161: Happy Horse 1.1 Is Now Available On It
+### No. 158: Happy Horse 1.1 Is Now Available On It
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3500,7 +3426,7 @@ It has smoother motion and more expressive character performances than v1.
 It also handles artistic styles well. This clip was done using text to video and it has rendered the painterly style I requested very well.
 ```
 
-### No. 162: Quick Hits Alibaba Released Happy Horse 1.1, An
+### No. 159: Quick Hits Alibaba Released Happy Horse 1.1, An
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3524,7 +3450,7 @@ Alibaba released Happy Horse 1.1, an upgrade to their video model with improved 
 Krea 2 is now open weights and one of the most uncensored
 ```
 
-### No. 163: まいどです。 本日の生成Aiニュース+テクノロジー情報です。 『Gpt-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Stre
+### No. 160: まいどです。 本日の生成Aiニュース+テクノロジー情報です。 『Gpt-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Stre
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3545,7 +3471,7 @@ Krea 2 is now open weights and one of the most uncensored
 『GPT-5.6 Sol』『Grok 4.5』『Happy Horse 1.1』『Wan-Streamer v0.1』『Krea 2 Conditioning Control』『LanPaint』『EditAnything』『3DREAL』『KER』『Step Into Set™ Motion
 ```
 
-### No. 164: That’S A Beautiful Full-Circle Arc — From Carousel
+### No. 161: That’S A Beautiful Full-Circle Arc — From Carousel
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3567,7 +3493,7 @@ Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
 Want me to tighten that prompt for HappyHorse so it hits harder in 45s?
 ```
 
-### No. 165: 🚀 This Week At Vanikya: 🎬 Happy Horse
+### No. 162: 🚀 This Week At Vanikya: 🎬 Happy Horse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3604,7 +3530,7 @@ Create at Vanikya AI
 #AI
 ```
 
-### No. 166: An Idea That I Can'T Get To Work
+### No. 163: An Idea That I Can'T Get To Work
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3628,7 +3554,7 @@ Concept: A woman drinks an energy drink that makes her grow in size rapidly.  Th
 Part of what I don't get is the behavior of changing size causes it to
 ```
 
-### No. 167: Been Using Happyhorse Since But 1.1 Is Crazy!!!
+### No. 164: Been Using Happyhorse Since But 1.1 Is Crazy!!!
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3653,7 +3579,7 @@ I made a Sakuga-level Battle scene for my HORSEPOWER AI Cinema Awards entry - en
 The character, the  hit, the frames: locked in. That's the R2V upgrade
 ```
 
-### No. 168: Happyhorse 1.1 Everyone 🙌🐎 Prompt: Poke Bowl Building
+### No. 165: Happyhorse 1.1 Everyone 🙌🐎 Prompt: Poke Bowl Building
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3682,7 +3608,7 @@ POKE BOWL BUILDING
 Create a crisp, clean infographic / storyboard style poster for VIBRANT POKE BOWL BUILDING. Wide 16:9 layout, white background, black borders, bold black typography, premium 3D stylized rendering, bright https://t.co/DJJxkCY3Vc
 ```
 
-### No. 169: Models Include , , , Wan, Veo
+### No. 166: Models Include , , , Wan, Veo
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3702,7 +3628,7 @@ Models include @Kling_ai , #SeeDance , @PixVerse_ , Wan, Veo, @imagine , Flux, N
 We’re looking for early users who actually create with AI and can give honest feedback.
 ```
 
-### No. 170: 🐱国内海外228个Ai大模型一站式体验！ “我一开始以为Ucloud国际站只是又一个云厂商，结果点进去差点没出来。” Astraflow星图这个Ai平台，有点超
+### No. 167: 🐱国内海外228个Ai大模型一站式体验！ “我一开始以为Ucloud国际站只是又一个云厂商，结果点进去差点没出来。” Astraflow星图这个Ai平台，有点超
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3729,7 +3655,7 @@ AstraFlow星图这个AI平台，有点超出预期👇
 📊 模型日志 / API /
 ```
 
-### No. 171: $Avo Weekly Recap 🥑 A Strong Week For
+### No. 168: $Avo Weekly Recap 🥑 A Strong Week For
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3761,7 +3687,7 @@ This week may have been quieter on the surface, but progress continued behind th
 • Happy Horse 1.1 officially launched, bringing better motion, improved consistency, and
 ```
 
-### No. 172: A Simple Carousel Ride Became A Journey Beyond
+### No. 169: A Simple Carousel Ride Became A Journey Beyond
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3782,7 +3708,7 @@ A simple carousel ride became a journey beyond reality.
 15-Second AI Video https://t.co/Wg2lFqDCFg
 ```
 
-### No. 173: # 🤖 Ai Teknoloji Radar — 29 Haziran
+### No. 170: # 🤖 Ai Teknoloji Radar — 29 Haziran
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3808,7 +3734,7 @@ OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti
 OpenAI bu hafta GPT-5.6 serisini (Sol, Terra, Luna) duyurdu ancak ABD hükümeti isteğiyle yalnızca "güvenilir ortaklara" açtı — bu, AI'ın artık bir savunma ve jeopolitik konu olduğunun en net işareti.
 ```
 
-### No. 174: Animation Filmmakers Worried About Ai Taking Their Jobs
+### No. 171: Animation Filmmakers Worried About Ai Taking Their Jobs
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3826,7 +3752,7 @@ Animation filmmakers worried about AI taking their jobs, they should talk to sho
 @Polymarket Animation filmmakers worried about AI taking their jobs, they should talk to short drama creators. With tools like SeedDance and HappyHorse, 30-sec episodes are already dominated by AI. Hollywood is next.
 ```
 
-### No. 175: Been Testing A Bunch Of Ai Models, And
+### No. 172: Been Testing A Bunch Of Ai Models, And
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3853,7 +3779,7 @@ Every time I wanted to try a new model, I ended up with another API key, another
 While looking for a simpler
 ```
 
-### No. 176: Been Testing A Bunch Of Ai Models, And
+### No. 173: Been Testing A Bunch Of Ai Models, And
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3880,7 +3806,7 @@ Every time I wanted to try a new model, I ended up with another API key, another
 While looking for a simpler
 ```
 
-### No. 177: Been Testing A Bunch Of Ai Models, And
+### No. 174: Been Testing A Bunch Of Ai Models, And
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3907,7 +3833,7 @@ Every time I wanted to try a new model, I ended up with another API key, another
 While looking for a simpler
 ```
 
-### No. 178: Cool Ai Video! That Carousel Horse Turning Into
+### No. 175: Cool Ai Video! That Carousel Horse Turning Into
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -3925,69 +3851,69 @@ Cool AI video!
 @Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
 The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
 Nice share—definitely bookmarking for
+```
+
+### No. 176: Cool Ai Video! That Carousel Horse Turning Into
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Nancy Diazz
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Nancy__Diazz/status/2071520263171379617)
+
+#### Description
+
+Cool AI video!
+
+#### Prompt
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
+The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
+Nice share—definitely bookmarking for
+```
+
+### No. 177: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Bella 🌷
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### Description
+
+Cool dragon transformation!
+
+#### Prompt
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
+```
+
+### No. 178: Cool Dragon Transformation! That Smooth Morph From Carousel
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Bella 🌷
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/vibe_with_mryam/status/2071520542247759893)
+
+#### Description
+
+Cool dragon transformation!
+
+#### Prompt
+
+```text
+@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
+Love the cinematic vibe and fire effects – made me want to hop on that ride.
+Great prompt work with HappyHorse, epic stuff!
 ```
 
 ### No. 179: Cool Ai Video! That Carousel Horse Turning Into
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Nancy Diazz
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/Nancy__Diazz/status/2071520263171379617)
-
-#### Description
-
-Cool AI video!
-
-#### Prompt
-
-```text
-@Stonic_AI @itsPolloAI @HappyHorseATH Cool AI video! That carousel horse turning into a roaring dragon with fire and wings is straight out of a fantasy movie.
-The smooth transformation and epic prompt details really show how good Pollo AI's HappyHorse is getting at this stuff.
-Nice share—definitely bookmarking for
-```
-
-### No. 180: Cool Dragon Transformation! That Smooth Morph From Carousel
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Bella 🌷
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/vibe_with_mryam/status/2071520542247759893)
-
-#### Description
-
-Cool dragon transformation!
-
-#### Prompt
-
-```text
-@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
-Love the cinematic vibe and fire effects – made me want to hop on that ride.
-Great prompt work with HappyHorse, epic stuff!
-```
-
-### No. 181: Cool Dragon Transformation! That Smooth Morph From Carousel
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Bella 🌷
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/vibe_with_mryam/status/2071520542247759893)
-
-#### Description
-
-Cool dragon transformation!
-
-#### Prompt
-
-```text
-@Stonic_AI @itsPolloAI @HappyHorseATH Cool dragon transformation! That smooth morph from carousel horse is next-level AI magic. 
-Love the cinematic vibe and fire effects – made me want to hop on that ride.
-Great prompt work with HappyHorse, epic stuff!
-```
-
-### No. 182: Cool Ai Video! That Carousel Horse Turning Into
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4007,7 +3933,7 @@ The smooth transformation and epic prompt details really show how good Pollo AI'
 Nice share—definitely bookmarking for
 ```
 
-### No. 183: Ai Lip-Sync Never Looked This Good! Happy Horse
+### No. 180: Ai Lip-Sync Never Looked This Good! Happy Horse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4032,7 +3958,7 @@ Happy Horse 1.1 is now on Segmind
 prompt 👇🏻
 ```
 
-### No. 184: Ran My Old Video Script Through Happyhorse 1.1
+### No. 181: Ran My Old Video Script Through Happyhorse 1.1
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4053,7 +3979,7 @@ ran my old video script through HappyHorse 1.1, and overall it worked pretty wel
 ran my old video script through HappyHorse 1.1, and overall it worked pretty well.
 ```
 
-### No. 185: From A Tiny Carousel Pony To An Unstoppable
+### No. 182: From A Tiny Carousel Pony To An Unstoppable
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4082,6 +4008,75 @@ Created with HappyHorse on
 #PolloHappyHorseChallenge
 ```
 
+### No. 183: Most People Think Ai Video Is Just For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Z-Coder
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
+
+#### Description
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### Prompt
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 184: Most People Think Ai Video Is Just For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Z-Coder
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
+
+#### Description
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### Prompt
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
+### No. 185: Most People Think Ai Video Is Just For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Z-Coder
+- **Language:** `en`
+- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
+
+#### Description
+
+Most people think AI video is just for big studios with massive budgets.
+
+#### Prompt
+
+```text
+Most people think AI video is just for big studios with massive budgets.
+
+Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
+```
+
 ### No. 186: Most People Think Ai Video Is Just For
 
 - **Category:** `Twitter Community`
@@ -4105,76 +4100,7 @@ Most people think AI video is just for big studios with massive budgets.
 Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
 ```
 
-### No. 187: Most People Think Ai Video Is Just For
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Z-Coder
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
-
-#### Description
-
-Most people think AI video is just for big studios with massive budgets.
-
-#### Prompt
-
-```text
-Most people think AI video is just for big studios with massive budgets.
-
-Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
-```
-
-### No. 188: Most People Think Ai Video Is Just For
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Z-Coder
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
-
-#### Description
-
-Most people think AI video is just for big studios with massive budgets.
-
-#### Prompt
-
-```text
-Most people think AI video is just for big studios with massive budgets.
-
-Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
-```
-
-### No. 189: Most People Think Ai Video Is Just For
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Z-Coder
-- **Language:** `en`
-- **Video:** [View](https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2071551909018869760/vid/avc1/1966x1080/Z_fU9iEPal9_5_Df.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/codedailyML/status/2071577543057252635)
-
-#### Description
-
-Most people think AI video is just for big studios with massive budgets.
-
-#### Prompt
-
-```text
-Most people think AI video is just for big studios with massive budgets.
-
-Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone willing to build.
-```
-
-### No. 190: 制作フロー： 1. Chatgptでテーマと構成を整理 2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成 3. 
+### No. 187: 制作フロー： 1. Chatgptでテーマと構成を整理 2. 「四季を駆け抜ける幻獣」というコンセプトをもとに、リファレンス画像とストーリーボードを作成 3. 
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4198,7 +4124,7 @@ Alibaba just proved otherwise with HappyHorse 1.1 and a $10,000 prize for anyone
 BGM:Suno
 ```
 
-### No. 191: What A Crazy Week In Ai! Wan Streamer
+### No. 188: What A Crazy Week In Ai! Wan Streamer
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4216,7 +4142,7 @@ What a crazy week in AI!
 What a crazy week in AI! Wan Streamer Domain Shuttle Ornith Arbor DanceOPD Seedance 2.5 HappyHorse 1.1 Krea 2 GPT-5.6 Autodata &amp; more! Watch the full recap:  Real progress needs reproducible results, not buzzword bingo. #AI #Tech
 ```
 
-### No. 192: Can We Start Calling Ai Film To Just
+### No. 189: Can We Start Calling Ai Film To Just
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4241,7 +4167,7 @@ HappyHorse 1.1 just launched today and its Insane!
 #happyhorse #happyhorse1.1 #AIfilm  #ai
 ```
 
-### No. 193: Fear The Dark. Fear The Shadow. Fear The
+### No. 190: Fear The Dark. Fear The Shadow. Fear The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4271,7 +4197,7 @@ The Midnight Library was made with HappyHorse 1.1
 #happyhorse #happyhorse1.1  #ai
 ```
 
-### No. 194: Yes, I Still Make Sure I Try The
+### No. 191: Yes, I Still Make Sure I Try The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4290,7 +4216,7 @@ Yes, I still make sure I try the new models, cause that is important.
 I think Happy Horse 1.1 is great with animation, but not with realism. Which other new video models you are exploring
 ```
 
-### No. 195: Happy Horse 1.1 Is Available To All Gmi
+### No. 192: Happy Horse 1.1 Is Available To All Gmi
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4319,7 +4245,7 @@ including r2v, t2v, and i2v
 another reference to video choice, on top of Seedance, Pixverse v6, and Kling Omni
 ```
 
-### No. 196: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
+### No. 193: 【Qiita Zine公開】単純なプロンプトでも高クオリティ。アリババ動画生成Ai「Happy Horse」をQiitaデザイナーがレビュー！ 劇的な進化を遂げ
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4339,26 +4265,7 @@ another reference to video choice, on top of Seedance, Pixverse v6, and Kling Om
 劇的な進化を遂げる動画生成AI。今回はQiitaのデザイナーが、マルチモーダル動画生成AI「Happy
 ```
 
-### No. 197: 明日から始まるIvsに行きます！QwenやWanやHappyhorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系Aiてどう
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 藤川裕一🤖アリババAIエンジニア
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/fujiyuu75e/status/2071835876141719871)
-
-#### Description
-
-明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
-
-#### Prompt
-
-```text
-明日から始まるIVSに行きます！QwenやWanやHappyHorseに興味のある方、アリババクラウドと連携してビジネスを加速したい方、そもそも中国系AIてどうなの、と興味がある方などなど、ぜひ多くの方と繋がれると嬉しいです！よろしくお願い致します！
-#IVS #IVS2026
-```
-
-### No. 198: Xai Has Released Grok Imagine Video 1.5, Its
+### No. 194: Xai Has Released Grok Imagine Video 1.5, Its
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4378,7 +4285,7 @@ xAI has released Grok Imagine Video 1.5, its new AI video generation model, and 
 It fixes many common AI video problems, such as unrealistic
 ```
 
-### No. 199: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
+### No. 195: Featured Video Model: Happyhorse 1.1. Alibaba'S Latest Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4405,7 +4312,7 @@ Alibaba's latest video generation model with support for Text-to-Video, Image-to
 The latest update also brings smoother motion, stronger
 ```
 
-### No. 200: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
+### No. 196: 2.核心定位: Ai Content-Marketing Agent 口号 : Let'Suse Alto
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4433,7 +4340,7 @@ Create一内容创作Agent
 ·
 ```
 
-### No. 201: "A Young Man Enters A Tea Shop, Sits
+### No. 197: "A Young Man Enters A Tea Shop, Sits
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4456,7 +4363,7 @@ Create一内容创作Agent
 @HappyHorseATH #HappyHorseAI
 ```
 
-### No. 202: "A Young Man Enters A Tea Shop, Sits
+### No. 198: "A Young Man Enters A Tea Shop, Sits
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4479,7 +4386,7 @@ Create一内容创作Agent
 @HappyHorseATH #HappyHorseAI
 ```
 
-### No. 203: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
+### No. 199: The Featured Model Is Happyhorse 1.1, Alibaba Cloud'S
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4504,7 +4411,7 @@ This is the 1.1 release, a major upgrade over the original, not the legacy versi
 Alibaba reports gains in motion, subject consistency across references, instruction following, and audio
 ```
 
-### No. 204: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
+### No. 200: 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4525,7 +4432,7 @@ Alibaba reports gains in motion, subject consistency across references, instruct
 『2030年ワールドカップで優勝する夢を見る、気持ちの切り替えが早いポジティブダックス』
 ```
 
-### No. 205: Generate The Video 1. Open Gmi Cloud Playground
+### No. 201: Generate The Video 1. Open Gmi Cloud Playground
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4552,7 +4459,7 @@ Generate the Video
 Create a cinematic live-action video about
 ```
 
-### No. 206: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
+### No. 202: Ai 視頻創作者来活了 阿里巴巴 Qwen Cloud 全球 Ai 黑客松的
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4579,7 +4486,7 @@ AI 視頻創作者来活了
 賽道評分聚焦創新與 AI 創意 30%、技術深度 30%、問題價值 25% 及呈現
 ```
 
-### No. 207: Intriguing End To End Pipeline With Happyhorse 1.1
+### No. 203: Intriguing End To End Pipeline With Happyhorse 1.1
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4597,7 +4504,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 @two3pro Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point about script to post production flow
 ```
 
-### No. 208: 1.0 Wins The Grand Prize In Monaco 🎬
+### No. 204: 1.0 Wins The Grand Prize In Monaco 🎬
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4624,7 +4531,7 @@ Intriguing end to end pipeline with HappyHorse 1.1 AI Showrunner race point abou
 The story is set
 ```
 
-### No. 209: I Created Three Versions Using The Same Prompt
+### No. 205: I Created Three Versions Using The Same Prompt
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4657,7 +4564,7 @@ Happy Horse 1.1
 Which one do you think produces the most epic result?
 ```
 
-### No. 210: Tried Happyhorse 1.1 By For A Luxury Supercar
+### No. 206: Tried Happyhorse 1.1 By For A Luxury Supercar
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4684,7 +4591,7 @@ Luxury mood, moving shots, cinematic car energy — all from one prompt.
 What do you guys think, pass or still needs work? #happyhorse
 ```
 
-### No. 211: Every Spin Tells A New Story. 🎠✨ Created
+### No. 207: Every Spin Tells A New Story. 🎠✨ Created
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4707,6 +4614,106 @@ Every spin tells a new story. 🎠✨
 Created with the Happy Horse model in Pollo AI. Planned with a Master Sheet to keep every transformation smooth, connected, and visually consistent.
 
 #PolloHappyHorseChallenge @itsPolloAI @HappyHorseATH
+```
+
+### No. 208: The Future Of Cinematic Storytelling Has Arrived With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KATE
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### Description
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### Prompt
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 209: The Future Of Cinematic Storytelling Has Arrived With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KATE
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### Description
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### Prompt
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 210: The Future Of Cinematic Storytelling Has Arrived With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KATE
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### Description
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### Prompt
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
+```
+
+### No. 211: The Future Of Cinematic Storytelling Has Arrived With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** KATE
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
+
+#### Description
+
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+#### Prompt
+
+```text
+The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
+
+Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
+
+Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
 ### No. 212: The Future Of Cinematic Storytelling Has Arrived With
@@ -4734,107 +4741,7 @@ Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
 Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
 ```
 
-### No. 213: The Future Of Cinematic Storytelling Has Arrived With
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** KATE
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### Description
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### Prompt
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 214: The Future Of Cinematic Storytelling Has Arrived With
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** KATE
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### Description
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### Prompt
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 215: The Future Of Cinematic Storytelling Has Arrived With
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** KATE
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### Description
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### Prompt
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 216: The Future Of Cinematic Storytelling Has Arrived With
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** KATE
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2071991464171827639.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/kate_osita_/status/2071991464171827639)
-
-#### Description
-
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-#### Prompt
-
-```text
-The future of cinematic storytelling has arrived with the Qwen Cloud Global AI Hackathon.
-
-Harness Alibaba Cloud’s HappyHorse 1.1 to build end-to-end video pipelines.
-
-Whether you are a filmmaker or a developer, this is your stage to redefine digital media now.
-```
-
-### No. 217: Happy Horse 1.1 Just Landed On Fotor —
+### No. 213: Happy Horse 1.1 Just Landed On Fotor —
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4857,76 +4764,7 @@ Happy Horse 1.1 just landed on Fotor — and every frame hits different now.
 Smoother motion. More expressive characters. Real dynamic energy that makes scenes feel alive, not animated. Plus built-in foley &amp; ambient sound, so your clip arrives already scored — no extra dubbing
 ```
 
-### No. 218: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Artificial Analysis
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2072022131056267534)
-
-#### Description
-
-Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-#### Prompt
-
-```text
-Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
-```
-
-### No. 219: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Artificial Analysis
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2072022131056267534)
-
-#### Description
-
-Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-#### Prompt
-
-```text
-Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
-```
-
-### No. 220: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Artificial Analysis
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072022131056267534.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2072022131056267534)
-
-#### Description
-
-Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-#### Prompt
-
-```text
-Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0!
-
-HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same unified transformer
-```
-
-### No. 221: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
+### No. 214: 🔥Happyhorse 1.1 Is Live On Aisa Api Gateway
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4955,7 +4793,7 @@ The result shows why image/video generation models are becoming a serious creati
 Now ready for use on AIsa.
 ```
 
-### No. 222: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
+### No. 215: 🐎Happyhorse 1.1 Is Officially Live On The Aisa
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -4979,7 +4817,7 @@ It creates high-quality video and native sound effects together in a single pass
 You should give it a try
 ```
 
-### No. 223: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
+### No. 216: Comparison Video Models Gemini-Omni-Flash Vs Happy Horse V1.1
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5012,7 +4850,7 @@ check prompt in the replies👇
 Created with @gmi_cloud
 ```
 
-### No. 224: Anathema Studio [ Is Now Live. I Don'T
+### No. 217: Anathema Studio [ Is Now Live. I Don'T
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5035,7 +4873,7 @@ Anathema Studio [ is now live.
 I don't know what else to say other than watch this video and go check it out. We've got Google Veo 3.1, HappyHorse, Seedance, Flux image generation models, state of the art music and voice generation models, basically
 ```
 
-### No. 225: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+### No. 218: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5058,7 +4896,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 226: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
+### No. 219: Tested Happyhorse 1.1 T2V For Our Upcoming Independence
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5081,7 +4919,7 @@ The prompt used the Cause &amp; Effect Chain structure: Initiation → Reaction 
 Flag text rendered
 ```
 
-### No. 227: Hello,This Is Morefree, A Cloud Service Manager At
+### No. 220: Hello,This Is Morefree, A Cloud Service Manager At
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5101,7 +4939,7 @@ Seeing your achievements in AI production, we at Alibaba Cloud recently launched
 Would you be interested in learning more?
 ```
 
-### No. 228: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
+### No. 221: Amazing, Google Is Pushing The Cost-Speed-Quality Frontier On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5124,7 +4962,7 @@ Amazing, Google is pushing the cost-speed-quality frontier on both image and vid
 - Gemini Omni Flash leads video editing ELO, 1087
 ```
 
-### No. 229: Gemini Omni Flash Debuted At On Arena’S Video
+### No. 222: Gemini Omni Flash Debuted At On Arena’S Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5144,7 +4982,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 230: Gemini Omni Flash Debuted At On Arena’S Video
+### No. 223: Gemini Omni Flash Debuted At On Arena’S Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5164,7 +5002,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 231: Gemini Omni Flash Debuted At On Arena’S Video
+### No. 224: Gemini Omni Flash Debuted At On Arena’S Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5184,7 +5022,7 @@ Gemini Omni Flash debuted at #2 on Arena’s Video Edit leaderboard with a score
 Only Dreamina Seedance-2.0 sits higher at 1,377.
 ```
 
-### No. 232: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
+### No. 225: 鏡越しの自撮り📸 赤のキャミワンピがパツパツで恥ずかしい…🫣 AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が一番ヤバい🔥 他
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5213,7 +5051,7 @@ AllkeyならKlingやSeedreamも使えるけど、独占の「1.6モデル」が�
 #Kling #Seedream #HappyHorse #Sora #AI美女 #AI動画
 ```
 
-### No. 233: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
+### No. 226: Alibaba’S Happyhorse 1.1 Pushes Its Video Generation Closer
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5235,7 +5073,7 @@ Stronger character consistency by better using multiple reference images, so pro
 More expressive
 ```
 
-### No. 234: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
+### No. 227: Introducing Globalgpt All-In-One Ai Workspace 👉 Chat: Gpt-5.5
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5270,7 +5108,7 @@ Agents: GlobalClaw
 100+ models $10/mo
 ```
 
-### No. 235: New Gemini Omni Flash Vs Seedance 2.0 Vs
+### No. 228: New Gemini Omni Flash Vs Seedance 2.0 Vs
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5293,7 +5131,7 @@ gemini omni flash dropped recently.
 a single continuous fpv drone shot. opens low inside https://t.co/16O6Pv35k3 https://t.co/BVp4B0vUTF
 ```
 
-### No. 236: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
+### No. 229: Joypixで、喧嘩風景を動画にしてみました。 二人が横並びで座る画像から、「アバター会話」で動画生成。 さらに、出来た動画を使って「Ai動画編集」おためし。 
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5324,7 +5162,7 @@ JoyPixで、喧嘩風景を動画にしてみました。
 動画編集時は HappyHorse 1.0 か Wan 2.7 が選べます。
 ```
 
-### No. 237: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+### No. 230: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5342,7 +5180,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 238: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+### No. 231: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5360,7 +5198,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 239: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+### No. 232: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5378,7 +5216,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 240: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
+### No. 233: Amazing Happyhorse 1.1 Landed. Cinematic Ai, Now Builder
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5396,7 +5234,7 @@ Amazing HappyHorse 1.1 landed.
 @AIsaOneHQ @HappyHorseATH Amazing HappyHorse 1.1 landed. Cinematic AI, now builder ready
 ```
 
-### No. 241: 🎬 Happy Horse 1.1 Is Now Available From
+### No. 234: 🎬 Happy Horse 1.1 Is Now Available From
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5422,7 +5260,7 @@ Generate stunning AI videos with natural motion, rich visual detail, and high-qu
 Try it now 👉
 ```
 
-### No. 242: 🎨 Ai Art &Amp; Visuals Roundup — July
+### No. 235: 🎨 Ai Art &Amp; Visuals Roundup — July
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5448,7 +5286,7 @@ June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video gen
 June AI added Happy Horse 1.1 to its platform, bringing fast cinematic video generation from plain text prompts. The model delivers natural motion, rich visual detail,
 ```
 
-### No. 243: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
+### No. 236: Alibaba'S Happy Horse Dropped. Anonymous Chinese Video Model
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5471,7 +5309,7 @@ Anonymous Chinese video model. Cracked the Artificial Analysis Video Arena blind
 #AI #AINews
 ```
 
-### No. 244: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
+### No. 237: Aiモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、Happyhorse(アリババ)の動画生成
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5492,7 +5330,7 @@ AIモデルの比較・分析サイトArtificial Analysisの、テキスト→�
 AIモデルの比較・分析サイトArtificial Analysisの、テキスト→動画生成と画像→動画生成ランキングで、HappyHorse(アリババ)の動画生成AIモデル「HappyHorse 1.1」が2位にランクインしました。
 ```
 
-### No. 245: Excited To Announce My Journey As A Creator
+### No. 238: Excited To Announce My Journey As A Creator
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5523,7 +5361,7 @@ Prompt in comment 👇
 #HappyhorseCPP
 ```
 
-### No. 246: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 239: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5546,7 +5384,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 247: Style: High-End Stylized 2.5D Animation With Deep 3D
+### No. 240: Style: High-End Stylized 2.5D Animation With Deep 3D
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5569,7 +5407,7 @@ STYLE:
 High-end stylized 2.5D animation with deep 3D parallax layers, cinematic 2.5D splash art aesthetics, xianxia visual style, traditional Chinese ink wash splatter effects, floating gold dust particles, smoke effects, ethereal volumetric lighting. Maintain the flat 2D
 ```
 
-### No. 248: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
+### No. 241: Letzgoooo!! The Horsepower Ai Cinema Awards Are Officially
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5596,7 +5434,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 ✅Superior
 ```
 
-### No. 249: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
+### No. 242: 🎬 Ai動画生成の最新まとめ ・Seedance Vs Happy Horse 比較 ・Aiで作るフルーツ喋る動画🍎
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5624,7 +5462,7 @@ The HORSEPOWER AI Cinema Awards are officially open for entries - and HappyHorse
 🔗記事一覧はこちら
 ```
 
-### No. 250: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
+### No. 243: 💙 Jm Privacy-First, Multi-Model Ai 💙 Happy Horse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5662,7 +5500,7 @@ Happy Horse 1.1 is now @askjuneai
 #HappyHorse #JuneAI #AIVideo
 ```
 
-### No. 251: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+### No. 244: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5682,7 +5520,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 252: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+### No. 245: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5702,7 +5540,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 253: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+### No. 246: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5722,7 +5560,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 254: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+### No. 247: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5742,7 +5580,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 255: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
+### No. 248: Evet, Grok Olarak Güvenilirim. Xai Tarafından Geliştirildim, Gerçeği
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5762,7 +5600,7 @@ Evet, Grok olarak güvenilirim.
 HappyHorse 1.1 hakkında mı sormak istedin yoksa genel mi?
 ```
 
-### No. 256: Happy Horse 1.1 Is Now Live! Turn Simple
+### No. 249: Happy Horse 1.1 Is Now Live! Turn Simple
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5788,7 +5626,7 @@ Turn simple prompts into cinematic AI videos in seconds.
 Try it now:
 ```
 
-### No. 257: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
+### No. 250: 動画生成Aiはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5809,7 +5647,7 @@ Try it now:
 動画生成AIはスポーツシーンの描写が苦手なことが多い印象ですが、6/23にリリースされたHappy Horse 1.1で猫に卓球やらせてみたらちゃんと球打ってて破綻少ないの生成できて驚き(編集無しの10秒ポン出し) #happyhorse @HappyHorseATH #猫 #卓球 #tabletennis #ai動画
 ```
 
-### No. 258: Created This Video Using Happyhorse 1.1 Model. Prompt
+### No. 251: Created This Video Using Happyhorse 1.1 Model. Prompt
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5830,7 +5668,7 @@ Created this video using  HappyHorse 1.1 model.
 Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old female influencer making breakfast in a bright, modern apartment kitchen during golden morning light. Keep the same character https://t.co/eDNaCNd53t
 ```
 
-### No. 259: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
+### No. 252: 快手旗下 Ai 视频生成模型「可灵Ai」即将完成一轮超 30 亿美元的独立融资，投后估值达 180 亿美元。中东背景基金或将领投，腾讯、阿里、红杉等潜在投资人也
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5850,7 +5688,7 @@ Create a 15-second ultra-realistic cinematic lifestyle vlog of a 22-year-old fem
 分拆融资背后是算力成本重压与巨头资金鸿沟。2026
 ```
 
-### No. 260: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 253: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5877,7 +5715,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 261: Tried Creating An Action-Packed Anime Video Inspired By
+### No. 254: Tried Creating An Action-Packed Anime Video Inspired By
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5904,7 +5742,7 @@ What do you think of the video? I'd love to hear your thoughts
 #HappyHorse
 ```
 
-### No. 262: Introduction For Long Videos: A Prompt (Introducing The
+### No. 255: Introduction For Long Videos: A Prompt (Introducing The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5935,7 +5773,7 @@ That’s all it takes with
 50 seconds, but you can do 2, 5, or 10 minutes just budget.
 ```
 
-### No. 263: Sound Up And Enjoy 😍 Song And Lyrics
+### No. 256: Sound Up And Enjoy 😍 Song And Lyrics
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5967,7 +5805,7 @@ And @Filmora_Editor
 #HappyHorse
 ```
 
-### No. 264: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
+### No. 257: Ai Boxing Championship🏆 Created Using Happy Horse 1.1
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -5993,36 +5831,7 @@ LINK IN BIO📎
 #aitools #aivideogenerators #creativefabrica
 ```
 
-### No. 265: Sogni Unlimited Is Live 🚀 Fair-Use Creation Across
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Sogni.ai
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2072748176843645275.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2072748176843645275.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Sogni_Protocol/status/2072748176843645275)
-
-#### Description
-
-Sogni Unlimited is live 🚀
-
-Fair-use creation across image, video, music, chat, agents &amp; APIs - powered by our distributed GPU network.
-
-#### Prompt
-
-```text
-Sogni Unlimited is live 🚀
-
-Fair-use creation across image, video, music, chat, agents &amp; APIs - powered by our distributed GPU network.
-
-New models/workflows: Krea 2 Turbo, Seedance 2.0 Mini + 4K, Happy Horse, LTX 2.3, A Step 1.5 XL.
-
-Secure your 3-day free trial of unlimited
-```
-
-### No. 266: Confused About When To Use Happyhorse 1.0, Omni
+### No. 258: Confused About When To Use Happyhorse 1.0, Omni
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6040,7 +5849,7 @@ Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5?
 Confused about when to use HappyHorse 1.0, Omni Flash or Gen-4.5? Video AI models are being added constantly. Modelglass captures live pricing, benchmark data, capability ratings and closest competitors across  90+ Image \ LLM \ Video &amp; Audio models.
 ```
 
-### No. 267: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
+### No. 259: Lights, Camera, Action! 🎬 Happyhorse V1.1 &Amp; Nano
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6061,7 +5870,7 @@ Lights, camera, action!
 Lights, camera, action! 🎬 HappyHorse v1.1 &amp; Nano Banana 2 Lite are here to elevate your influencer content in AI Influencer Studio 🌟 Get ready to generate cinematic videos and watermark-free images with your AI Influencers 🚀 Let's create some magic!
 ```
 
-### No. 268: Same Prompt, Different Ai Engines. Putting Happy Horse
+### No. 260: Same Prompt, Different Ai Engines. Putting Happy Horse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6088,7 +5897,7 @@ The differences in how they render textures, light, and motion consistency are w
 Who do you think won?
 ```
 
-### No. 269: Made This With Happy Horse Prompt Below
+### No. 261: Made This With Happy Horse Prompt Below
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6113,7 +5922,7 @@ Made this with Happy Horse
 Prompt below:
 ```
 
-### No. 270: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
+### No. 262: Kling Ai Lève Jusqu’À 3 Milliards De Dollars
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6137,7 +5946,7 @@ Même secteur. Même semaine. Deux verdicts opposés.
 Kling, c’est le spin-off vidéo
 ```
 
-### No. 271: Ai Isn'T Here To Talk Anymore. It'S Here
+### No. 263: Ai Isn'T Here To Talk Anymore. It'S Here
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6160,7 +5969,7 @@ These 5 updates dropped recently and most people scrolled right past them 👇
 2️⃣ HappyHorse 1.1 by Alibaba -
 ```
 
-### No. 272: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 264: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6194,7 +6003,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 273: Qwencloud Is Running Its First Global Ai Hackathon
+### No. 265: Qwencloud Is Running Its First Global Ai Hackathon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6228,7 +6037,7 @@ QwenCloud is running its first Global AI Hackathon with over $70,000 in prizes a
 Build with Qwen Cloud APIs, deploy on Alibaba Cloud. Build period runs through July 8, submissions
 ```
 
-### No. 274: Excited To See Qwen Pushing Agent Capabilities And
+### No. 266: Excited To See Qwen Pushing Agent Capabilities And
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6246,7 +6055,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @dani_avila7 Excited to see Qwen pushing agent capabilities and video gen with HappyHorse! The AI Showrunner track sounds perfect for experimenting with full autonomous content pipelines. Anyone else planning to join?
 ```
 
-### No. 275: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
+### No. 267: أتفق أن Happyhorse يُقدم نتائج مذهلة في الفيديو
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6264,7 +6073,7 @@ Excited to see Qwen pushing agent capabilities and video gen with HappyHorse!
 @aziz4ai @LeonardoAi أتفق أن happyhorse يُقدم نتائج مذهلة في الفيديو التوليدي، ومشاركة راكان تُجسد مستقبل الفن الرقمي المخصص #AI #DigitalArt Cc
 ```
 
-### No. 276: Made The Most Of My 66 Sign Up
+### No. 268: Made The Most Of My 66 Sign Up
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6295,7 +6104,7 @@ Images made with @FlowbyGoogle.
 Tested scenes for my upcoming mini series.
 ```
 
-### No. 277: What An Amazing Video For Little Rakan! The
+### No. 269: What An Amazing Video For Little Rakan! The
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6313,7 +6122,7 @@ what an amazing video for little Rakan!
 @aziz4ai @LeonardoAi what an amazing video for little Rakan!  The way you blended him with Lightning McQueen is spot on, he must be over the moon. Great job with HappyHorse on Leonardo AI!
 ```
 
-### No. 278: Every Great Scene Starts With A Single Line
+### No. 270: Every Great Scene Starts With A Single Line
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6335,7 +6144,7 @@ The Scene tab in Cineyx Cinematic Studio is where your story becomes moving imag
 Under the hood you have a full lineup: Veo 3.1 Lite,
 ```
 
-### No. 279: 🎬 Happy Horse 1.1 : La Révolution De
+### No. 271: 🎬 Happy Horse 1.1 : La Révolution De
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6359,7 +6168,7 @@ Et si la production de vos contenus vidéo et audio de qualité professionnelle 
 #KingLand #IA #HappyHorse #Automation #Productivite #Video #Audio #Workflow #Technologie #Innovation
 ```
 
-### No. 280: Grandma'S Final Dance Created With Happyhorse 1.1 On
+### No. 272: Grandma'S Final Dance Created With Happyhorse 1.1 On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6388,7 +6197,7 @@ Created with HappyHorse 1.1 on @budgetpixel
 Prompt below 🧵
 ```
 
-### No. 281: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 273: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6415,7 +6224,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 282: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 274: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6442,7 +6251,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 283: Jm 💙 Juners Last Week, Kept Shipping Across
+### No. 275: Jm 💙 Juners Last Week, Kept Shipping Across
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6469,30 +6278,7 @@ From new AI models to video intelligence and developer features, each update pus
 🔹 New models including Minimax
 ```
 
-### No. 284: I Edited The Prompt A Bit Ai: Happy
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** tako_bot
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2073387710346383710.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2073387710346383710.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/tako_bots/status/2073387710346383710)
-
-#### Description
-
-i edited the prompt a bit
-ai: happy horse left  vs grok on the right
-
-#### Prompt
-
-```text
-i edited the prompt a bit
-ai: happy horse left  vs grok on the right
-```
-
-### No. 285: I Have Been Using Happy Horse Ai Lately
+### No. 276: I Have Been Using Happy Horse Ai Lately
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6510,7 +6296,7 @@ I have been using Happy Horse AI lately and it is worth trying.
 I have been using Happy Horse AI lately and it is worth trying. Sharing it with you here.
 ```
 
-### No. 286: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 277: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6538,7 +6324,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 287: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
+### No. 278: The Powerhouse Lineup On 𝐉𝐮𝐧𝐞 Just Keeps Getting
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6566,7 +6352,7 @@ Privacy-focused. Multi-model. 🛡️ @askjuneai
 Try now at  🌐
 ```
 
-### No. 288: The Reason Most Ai-Generated Stories Fail Is That
+### No. 279: The Reason Most Ai-Generated Stories Fail Is That
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6584,7 +6370,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 289: The Reason Most Ai-Generated Stories Fail Is That
+### No. 280: The Reason Most Ai-Generated Stories Fail Is That
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6602,7 +6388,7 @@ the reason most ai-generated stories fail is that they rely on tropes, not actua
 @nusratsid1 @budgetpixel the reason most ai-generated stories fail is that they rely on tropes, not actual character development or dialogue. happyhorse-1.1 might churn out some entertaining banter, but it's missing the messy uncertainty of human interactions.
 ```
 
-### No. 290: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
+### No. 281: AicuマガジンVol25ペーパーバック版はこちらから 本の概要 ゲームは人類最後のクリエイションの砦！ 京都で開催されたインディゲームの祭典「Bitsummi
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6630,7 +6416,7 @@ AICUマガジンVol25ペーパーバック版はこちらから
 OpenAI Codex / Unity AI
 ```
 
-### No. 291: Your Window To Lock In 50% Off Is
+### No. 282: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6654,7 +6440,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 292: Your Window To Lock In 50% Off Is
+### No. 283: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6678,7 +6464,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 293: Your Window To Lock In 50% Off Is
+### No. 284: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6702,7 +6488,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 294: Your Window To Lock In 50% Off Is
+### No. 285: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6726,7 +6512,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 295: Your Window To Lock In 50% Off Is
+### No. 286: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6750,7 +6536,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 296: Your Window To Lock In 50% Off Is
+### No. 287: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6774,7 +6560,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 297: Your Window To Lock In 50% Off Is
+### No. 288: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6798,7 +6584,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 298: Your Window To Lock In 50% Off Is
+### No. 289: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6822,7 +6608,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 299: Your Window To Lock In 50% Off Is
+### No. 290: Your Window To Lock In 50% Off Is
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6846,7 +6632,7 @@ Get 50% off HappyHorse 1.1 video generations in Studio AI. Scale your production
 → Generate now:
 ```
 
-### No. 300: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 291: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6866,7 +6652,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 301: 50% Off Happyhorse 1.1 Is Huge Perfect Time
+### No. 292: 50% Off Happyhorse 1.1 Is Huge Perfect Time
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6886,7 +6672,7 @@ Perfect time to scale video production and test more ideas
 Perfect time to scale video production and test more ideas
 ```
 
-### No. 302: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
+### No. 293: Alibaba'S Happyhorse 1.1 Lands At On The Artificial
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6904,7 +6690,7 @@ Alibaba's HappyHorse 1.1 lands at  on the Artificial Analysis Text to Video and 
 Alibaba's HappyHorse 1.1 lands at #2 on the Artificial Analysis Text to Video and Image to Video leaderboards, behind only ByteDance’s Seedance 2.0! HappyHorse 1.1 is the latest version of Alibaba's video generation model, a refinement of 1.0 on the same - LinkedIn
 ```
 
-### No. 303: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
+### No. 294: 🎬 Chinese Ai Video Is Exploding: Kuaishou'S Kling
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6930,7 +6716,7 @@ Alibaba's Happy Horse 1.0 and Meta's Muse Spark are pushing multimodal generatio
 The video AI race is the next frontier.
 ```
 
-### No. 304: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 295: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6954,7 +6740,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 305: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
+### No. 296: Which Stairway Would You Choose? 🌸🧇🍫🧊 Created With
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6978,7 +6764,7 @@ Created with HappyHorse 1.0 on Pollo AI.
 @itsPolloAI @polloai_creator
 ```
 
-### No. 306: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
+### No. 297: Kuaishou'S Video Generation Model Kling Ai (可灵) Has
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -6996,33 +6782,7 @@ Kuaishou's video generation model Kling AI (可灵) has completed a $3B external
 Kuaishou's video generation model Kling AI (可灵) has completed a $3B external funding round at an $18B post-money valuation, led by CPE Yuanfeng, Tencent, Alibaba Cloud, Baidu, and others. Kuaishou bills it as the largest single financing for a global video large model company.
 ```
 
-### No. 307: Made This Short Clip With Happyhorse 1.1 On
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 𝐌
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074062942115598663.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074062942115598663.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Strength04_X/status/2074062942115598663)
-
-#### Description
-
-Made this short clip with HappyHorse 1.1 on OpenartArt 
-
-Prompt : Main Subject:
-Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, energetic and talkative personality.
-
-#### Prompt
-
-```text
-Main Subject:
-Young Korean woman, early 20s, light windbreaker, ponytail, small backpack, energetic and talkative personality.
-Location : Riverside cycling path in Seoul during a breezy afternoon. River view, https://t.co/HhrKm2ab4Y https://t.co/NqatGYxXdF
-```
-
-### No. 308: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
+### No. 298: 据36氪报道，Seedance2.0单月收入超过10亿元，日均Token消耗量仍在以约40%的月环比增长。"Ai普瑞斯”的统计称，按日均算力消耗占比测算， Se
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7041,7 +6801,7 @@ Location : Riverside cycling path in Seoul during a breezy afternoon. River view
 怪不得快乐马 5 折都卖不动，原来是本来就没人用。
 ```
 
-### No. 309: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 299: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7066,7 +6826,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 310: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 300: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7091,7 +6851,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 311: Happyhorse 1.1 Is Here: Bigger Better, And Faster
+### No. 301: Happyhorse 1.1 Is Here: Bigger Better, And Faster
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7116,7 +6876,7 @@ Happyhorse 1.1 is Here: Bigger Better, and Faster | HappyHorseATH
 Main Subject: Young Chinese woman, early 20s, natural everyday appearance, realistic skin, minimal makeup, black hair in a loose ponytail with soft bangs, wearing a light beige linen shirt, loose blue jeans, white
 ```
 
-### No. 312: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
+### No. 302: Hollywood Studios Publicly Demanded Bytedance Halt Its Ai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7136,7 +6896,7 @@ Hollywood studios publicly demanded ByteDance halt its AI video tool after a fak
 The Motion Picture Association condemned the viral 15-second clip of Brad Pitt and Tom
 ```
 
-### No. 313: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
+### No. 303: 動画生成Aiについて、時間をしっかり確保して探究したいと思っていたところだった！ 話題の動画生成Ai Happyhorseまだ試せていない方は一緒に試そう！！
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7155,7 +6915,7 @@ The Motion Picture Association condemned the viral 15-second clip of Brad Pitt a
 話題の動画生成AI HappyHorseまだ試せていない方は一緒に試そう！！
 ```
 
-### No. 314: How I Built This In Happyhorse 1.1 —
+### No. 304: How I Built This In Happyhorse 1.1 —
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7175,6 +6935,246 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 
 4 modes, 1 clear rule: Text builds from scratch. First Frame locks the starting frame. Reference Mode uses images as creative guidance. Video Editing modifies an existing clip.
+```
+
+### No. 305: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 306: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 307: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 308: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 309: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 310: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 311: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 312: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 313: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
+```
+
+### No. 314: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ryo Yoshiike 吉池諒
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
+
+#### Description
+
+はじめまして！
+
+#### Prompt
+
+```text
+@Kagura_AI_Shin9 はじめまして！
+こちらのポスト見て、お送りしました！
+来週開催のハッカソンのご案内をさせてください！
+7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
+参加無料、夕食＆賞金有です🔥
+
+ぜひ下記Lumaからご確認ください✨️
 ```
 
 ### No. 315: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
@@ -7297,247 +7297,7 @@ How I built this in HappyHorse 1.1 — a breakdown for fellow CPP creators 🧵
 ぜひ下記Lumaからご確認ください✨️
 ```
 
-### No. 320: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 321: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 322: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 323: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 324: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 325: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 326: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 327: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 328: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 329: はじめまして！ こちらのポスト見て、お送りしました！ 来週開催のハッカソンのご案内をさせてください！ 7/13(月)品川区大崎で、動画生成Ai『Happyhor
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ryo Yoshiike 吉池諒
-- **Language:** `en`
-- **Source Link:** [View](https://x.com/ryo_japan1997/status/2074111852154630382)
-
-#### Description
-
-はじめまして！
-
-#### Prompt
-
-```text
-@Kagura_AI_Shin9 はじめまして！
-こちらのポスト見て、お送りしました！
-来週開催のハッカソンのご案内をさせてください！
-7/13(月)品川区大崎で、動画生成AI『HappyHorse 1.1』を体験するハッカソン開催します！
-参加無料、夕食＆賞金有です🔥
-
-ぜひ下記Lumaからご確認ください✨️
-```
-
-### No. 330: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
+### No. 320: Vytvořte Profi Videoreklamu Dřív, Než Dopijete Kávu! ☕
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7560,7 +7320,7 @@ Vytvořte profi videoreklamu dřív, než dopijete kávu! ☕ Nové workflow Hap
 Reálné ukázky a prompty najdete v novém článku:
 ```
 
-### No. 331: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
+### No. 321: 【音声モデル+Aiアバター】 Seedaudio1.0で下記のセリフを作成 「TopviewではSeedance2.0やHappyhorseといった最新の動画モ
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7589,7 +7349,7 @@ SeedAudio1.0で下記のセリフを作成
 「TopViewではSeedance2.0やHappyHorseといった最新の動画モデルの追加の早さはもちろんですが、音声モデルの追加もしっかりされていて、既にSeedAudio1.0も使えるんです」
 ```
 
-### No. 332: Two Models The Industry Is Completely Sleeping On
+### No. 322: Two Models The Industry Is Completely Sleeping On
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7613,7 +7373,7 @@ Seedance 2.0 — accepts text, image, audio AND video as simultaneous inputs. ~$
 HappyHorse-1.0 — current #1 overall benchmark. 7-language lip-sync. API only via fal. ai
 ```
 
-### No. 333: 🐎 Happy Horse 1.0 Is Now 30% Off
+### No. 323: 🐎 Happy Horse 1.0 Is Now 30% Off
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7637,7 +7397,7 @@ Try it in your next music video. 🎬
 #Cremi #HappyHorse10
 ```
 
-### No. 334: Most Text-To-Video Gives You One Continuous Take, And
+### No. 324: Most Text-To-Video Gives You One Continuous Take, And
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7662,7 +7422,7 @@ HappyHorse 1.1 reads the cuts from the prompt. Write "Begin with... Cut to... En
 Same baker, same eight seconds. Left is a
 ```
 
-### No. 335: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
+### No. 325: Stardust &Amp; The Dreamer Ai-Generated Short Film Produced
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7685,7 +7445,7 @@ Stardust &amp; The Dreamer
 AI-generated short film  Produced by: Ghost Engine Films Created with: Happy Horse  Beyond the Veil: Crafting Your Otherworld - #horseinspodump #happyhorse #HorsepowerAICinema, @HappyHorseATH , @happyhorseai
 ```
 
-### No. 336: 🚀 Product Update 1.61 Is Live On Cabina
+### No. 326: 🚀 Product Update 1.61 Is Live On Cabina
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7713,7 +7473,7 @@ Discover new platform features and the latest AI models - all in one place.
 • Cabina Skills + Brainstorm 3x – reusable AI workflows &amp;
 ```
 
-### No. 337: This Is The Last Normal Walk She Takes
+### No. 327: This Is The Last Normal Walk She Takes
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7737,7 +7497,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 338: This Is The Last Normal Walk She Takes
+### No. 328: This Is The Last Normal Walk She Takes
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7761,7 +7521,7 @@ Would you keep walking into the unknown?
 #HorsepowerAICinema #spain #ai
 ```
 
-### No. 339: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 329: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7787,7 +7547,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 340: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 330: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7813,7 +7573,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 341: Then We Tested Alibaba’S Happy Horse 1.0. This
+### No. 331: Then We Tested Alibaba’S Happy Horse 1.0. This
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7839,7 +7599,7 @@ Even better: the docs explicitly say 1–9 image refs, using character1, charact
 Exactly the kind of thing we wanted.
 ```
 
-### No. 342: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 332: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7859,7 +7619,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 343: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
+### No. 333: Alibaba Unveils Happyhorse 1.1🎥—An Upgraded Video Generation Model
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7879,7 +7639,7 @@ Alibaba unveils HappyHorse 1.1🎥—an upgraded video generation model designed
 Now with improved instruction following for better user input understanding!
 ```
 
-### No. 344: Happy Horse 1.1 Is Available On Turn Simple
+### No. 334: Happy Horse 1.1 Is Available On Turn Simple
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7903,7 +7663,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #JuneAI #AIModel #AI
 ```
 
-### No. 345: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
+### No. 335: 【出展情報‼🚀】ゲーム国内最大級カンファレンス 📅7.22(水)～24(金) 📍パシフィコ横浜ノース＋オンライン💻 🎫 🟢展示ブース 現場のニーズに直結する
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7937,7 +7697,7 @@ Turn simple text prompts into stunning AI-generated videos with natural motion, 
 #ゲーム開発 現場のニーズに直結する
 ```
 
-### No. 346: If You’Re Building With Ai Right Now, Chances
+### No. 336: If You’Re Building With Ai Right Now, Chances
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7960,7 +7720,7 @@ If you’re building with AI right now, chances are you’re using more than one
 Maybe GPT for one task, Claude for another, Gemini for research, or a video/image model for creative workflows. The problem is that managing separate API keys, billing dashboards, and
 ```
 
-### No. 347: Everyone Thinks The Watch Is The Mystery... It
+### No. 337: Everyone Thinks The Watch Is The Mystery... It
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -7989,7 +7749,7 @@ here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-pa
 every camera move, every environment, every sound was
 ```
 
-### No. 348: Everyone Thinks The Watch Is The Mystery... It
+### No. 338: Everyone Thinks The Watch Is The Mystery... It
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8018,7 +7778,7 @@ here's my latest AI cinematic short, The Lost Things - a handcrafted 2.5D oil-pa
 every camera move, every environment, every sound was
 ```
 
-### No. 349: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
+### No. 339: Happyhorse 1.1 Is Wild For Reference-Heavy Video Ideas
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8039,7 +7799,7 @@ HappyHorse 1.1 is wild for reference-heavy video ideas.
 HappyHorse 1.1 is wild for reference-heavy video ideas. You can feed up to 9 images on getimg
 ```
 
-### No. 350: Meta Muse Video Just Entered The Video Arena
+### No. 340: Meta Muse Video Just Entered The Video Arena
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8063,7 +7823,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 351: Meta Muse Video Just Entered The Video Arena
+### No. 341: Meta Muse Video Just Entered The Video Arena
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8087,7 +7847,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 352: Meta Muse Video Just Entered The Video Arena
+### No. 342: Meta Muse Video Just Entered The Video Arena
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8111,7 +7871,7 @@ Meta Muse Video just entered the Video Arena at #3.
 Meta has now reached the video AI
 ```
 
-### No. 353: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 343: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8134,7 +7894,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 354: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 344: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8157,7 +7917,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 355: 8/ Happy Horse (Alibaba) — The Stealth Assassin
+### No. 345: 8/ Happy Horse (Alibaba) — The Stealth Assassin
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8180,7 +7940,7 @@ Appeared ANONYMOUSLY on the Artificial Analysis Arena in April. Hit #1 in text-t
 ✅ Joint audio-video in one pass, 7-language lip-sync, physics-respecting
 ```
 
-### No. 356: Happyhorse 1.1 Shows How Prompt Precision Drives Video
+### No. 346: Happyhorse 1.1 Shows How Prompt Precision Drives Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8198,7 +7958,7 @@ happyhorse 1.1 shows how prompt precision drives video output.
 @alibaba_cloud happyhorse 1.1 shows how prompt precision drives video output. We see parallel gains when quantum-inspired ordering tightens transaction finality in our chain. Same substrate shift from classical limits.
 ```
 
-### No. 357: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
+### No. 347: Happy Horse × Tapnow：自由な発想で夢を創る「Ai Mvドリーム・コンテスト」にて「優良ノミネート賞」を頂きました！ これも小さな一歩かなと考
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8218,7 +7978,7 @@ Happy Horse × TapNow：自由な発想で夢を創る「AI MVドリーム・コ
 今後もどうぞよろしくお願い致します。
 ```
 
-### No. 358: A Professional Latin Dance Clip Created With Happyhorse
+### No. 348: A Professional Latin Dance Clip Created With Happyhorse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8245,7 +8005,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 359: A Professional Latin Dance Clip Created With Happyhorse
+### No. 349: A Professional Latin Dance Clip Created With Happyhorse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8272,7 +8032,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 360: A Professional Latin Dance Clip Created With Happyhorse
+### No. 350: A Professional Latin Dance Clip Created With Happyhorse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8299,7 +8059,7 @@ Try it on Clipfly!
 Step-by-step
 ```
 
-### No. 361: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
+### No. 351: Meta’S New Muse Video Model Beats Alibaba’S Happyhorse
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8317,7 +8077,7 @@ Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, So
 Meta’s new Muse Video model beats Alibaba’s HappyHorse 1.0, Grok Imagine, Sora 2 Pro, and Google Veo-3.1.
 ```
 
-### No. 362: Title: "The Promise Above The Clouds " Created
+### No. 352: Title: "The Promise Above The Clouds " Created
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8347,7 +8107,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 363: Title: "The Promise Above The Clouds " Created
+### No. 353: Title: "The Promise Above The Clouds " Created
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8377,7 +8137,7 @@ Duration: 15 Seconds
 Style: Ultra-realistic cinematic, photorealistic, 9:16 vertical, 4K HDR, golden hour, soft lens flare, dynamic drone movements, emotional storytelling, gentle wind, https://t.co/WupoQIXHS3
 ```
 
-### No. 364: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
+### No. 354: Alibaba'S Happy Horse 1.0 Wins 5Th At Ai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8395,7 +8155,7 @@ Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco!
 Alibaba's Happy Horse 1.0 wins 5th at AI Film Festival Monaco! AI isn't just automation - it's augmentation, helping filmmakers create faster. #AI #Filmmaking #Innovation
 ```
 
-### No. 365: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
+### No. 355: Spirit Possession - 狐憑き 動画生成Ai スタディ 94 Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8430,7 +8190,7 @@ Music: Logic Pro
 #aivideo #aiart #aimovie #happyhorse #fox #japanesefilm #abstractmovie #abstractmusic  #experimentalmovie #experimentalmusic
 ```
 
-### No. 366: The Infrastructure Behind This Is The Real Story
+### No. 356: The Infrastructure Behind This Is The Real Story
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8448,7 +8208,7 @@ The infrastructure behind this is the real story.
 @alibaba_cloud The infrastructure behind this is the real story. Utilizing the ap-southeast-1 region for custom model training shows how mature AI pipelines have become. When the underlying platform handles the multi-modal heavy lifting, it frees architects to focus on the unique logic of tools
 ```
 
-### No. 367: Meta Just Crashed Into The Video Ai Rankings
+### No. 357: Meta Just Crashed Into The Video Ai Rankings
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8471,260 +8231,7 @@ It beats Alibaba’s HappyHorse 1.0 by +30 points and ranks ahead of Sora 2 Pro,
 But the real question is
 ```
 
-### No. 368: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 369: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 370: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 371: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 372: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 373: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 374: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 375: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 376: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 377: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 378: Have You Heard That Ufo Have Been Spotted
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** HappyHorse
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074862588098392277.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/HappyHorseATH/status/2074862588098392277)
-
-#### Description
-
-Have you heard that UFO have been spotted again recently?
-
-#### Prompt
-
-```text
-Have you heard that UFO have been spotted again recently? 🫣 I have evidence...
-
-#happyhorse #ai #UFO #alien
-```
-
-### No. 379: Hey, For Video Editing With Happyhorse 1.1, What
+### No. 358: Hey, For Video Editing With Happyhorse 1.1, What
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8742,7 +8249,7 @@ Hey, for video editing with HappyHorse 1.1, what is the max size of video file a
 @HappyHorseATH Hey, for video editing with HappyHorse 1.1, what is the max size of video file and length in minutes or seconds you can upload?
 ```
 
-### No. 380: The Seedance 2 And Happyhorse 1.1 Ai Video
+### No. 359: The Seedance 2 And Happyhorse 1.1 Ai Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8760,7 +8267,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 381: Lofi Anime Prompt I Tried. I Gotta Learn
+### No. 360: Lofi Anime Prompt I Tried. I Gotta Learn
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8781,7 +8288,7 @@ LoFi anime prompt i tried.
 #Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
 ```
 
-### No. 382: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 361: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8804,7 +8311,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 383: 色々アレっぽくなった😅
+### No. 362: 色々アレっぽくなった😅
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8827,7 +8334,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 384: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 363: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8847,7 +8354,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 385: Models Available On (Byok Friendly) Video Models Gemini
+### No. 364: Models Available On (Byok Friendly) Video Models Gemini
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8889,7 +8396,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 386: What Model Will You Choose For Ai Video
+### No. 365: What Model Will You Choose For Ai Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8916,7 +8423,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 387: Motorcycle Chase on Collapsing Bridge
+### No. 366: Motorcycle Chase on Collapsing Bridge
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8937,7 +8444,7 @@ A cinematic video prompt of a rider speeding across a collapsing suspension brid
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 388: Replicate Video Cinematography and Rhythm
+### No. 367: Replicate Video Cinematography and Rhythm
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8959,7 +8466,7 @@ A prompt instructing to replicate the cinematography, shot types, background mus
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
 ```
 
-### No. 389: Kayaking Through a Hidden Canyon
+### No. 368: Kayaking Through a Hidden Canyon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -8980,7 +8487,7 @@ A hyper-realistic scene of a solo kayaker navigating a narrow sandstone canyon.
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 390: Kayaking Through a Hidden Canyon
+### No. 369: Kayaking Through a Hidden Canyon
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9001,7 +8508,7 @@ A hyper-realistic scene of a solo kayaker navigating a narrow sandstone canyon.
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 391: GlobalGPT AI Tools Website Navigation
+### No. 370: GlobalGPT AI Tools Website Navigation
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9022,28 +8529,7 @@ This video captures a user navigating the GlobalGPT website, showcasing its vari
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 392: Falling through floating islands and impossible waterfalls
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2076819740668920279.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2076819740668920279.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Bic_Revelation/status/2076819740668920279)
-
-#### Description
-
-A first-person view of falling through a surreal landscape of floating islands, waterfalls, and dissolving light.
-
-#### Prompt
-
-```text
-POV falling through floating islands, impossible waterfalls, and layers of a world that dissolves into light — then the fall begins again.
-```
-
-### No. 393: Luminous Digital Being Carrying Worlds
+### No. 371: Luminous Digital Being Carrying Worlds
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9065,7 +8551,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 394: Cinematic Golden Hour Mountain Dive
+### No. 372: Cinematic Golden Hour Mountain Dive
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9086,7 +8572,7 @@ An epic cinematic aerial dive shot captures a vast mountain landscape bathed in 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 395: Futuristic Rooftop Bar in Neon Rain
+### No. 373: Futuristic Rooftop Bar in Neon Rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9105,7 +8591,7 @@ Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
 ```
 
-### No. 396: Cyberpunk rooftop battle in heavy rain
+### No. 374: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9132,7 +8618,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 397: Cyberpunk rooftop battle in heavy rain
+### No. 375: Cyberpunk rooftop battle in heavy rain
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9159,70 +8645,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 398: Symmetrical Vintage Whimsical Anderson Aesthetics
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** VivaReel
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/VivaReelna1/status/2077353658443055170)
-
-#### Description
-
-A prompt for a short film with symmetrical framing, vintage soft tones, and classic Wes Anderson whimsical style.
-
-#### Prompt
-
-```text
-Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
-```
-
-### No. 399: Symmetrical Vintage Whimsical Anderson Aesthetics
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** VivaReel
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/VivaReelna1/status/2077353658443055170)
-
-#### Description
-
-A prompt for a short film with symmetrical framing, vintage soft tones, and classic Wes Anderson whimsical style.
-
-#### Prompt
-
-```text
-Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
-```
-
-### No. 400: Symmetrical Vintage Whimsical Anderson Aesthetics
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** VivaReel
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077353658443055170.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/VivaReelna1/status/2077353658443055170)
-
-#### Description
-
-A prompt for a short film with symmetrical framing, vintage soft tones, and classic Wes Anderson whimsical style.
-
-#### Prompt
-
-```text
-Perfectly symmetrical frame, vintage soft tones, classic Anderson whimsical aesthetics.
-```
-
-### No. 401: AI Video of Favorite World Cup Star
+### No. 376: AI Video of Favorite World Cup Star
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9240,133 +8663,7 @@ An AI video prompt to create an original video featuring a favorite 2026 World C
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 402: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 403: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 404: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 405: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 406: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 407: First Person Hot Air Balloon POV Shot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** BMX
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2078040509902401754.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/bmx_ai13/status/2078040509902401754)
-
-#### Description
-
-A prompt for generating ultra-realistic smartphone footage from inside a hot air balloon above clouds.
-
-#### Prompt
-
-```text
-Ultra realistic viral smartphone footage, filmed as one continuous first person POV shot from inside a colorful hot air balloon basket thousands of feet above a vast sea of clouds. Bright late afternoon
-```
-
-### No. 408: Cinematic Aerial Journey Through Dubai
+### No. 377: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9387,7 +8684,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 409: Cinematic Aerial Journey Through Dubai
+### No. 378: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9408,7 +8705,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 410: Cinematic Aerial Journey Through Dubai
+### No. 379: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9429,7 +8726,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 411: Cinematic Aerial Journey Through Dubai
+### No. 380: Cinematic Aerial Journey Through Dubai
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9450,7 +8747,7 @@ A prompt for a video depicting a realistic drone flight through Dubai with the c
 Main Subject: A cinematic aerial journey through Dubai, UAE. The city itself is the protagonist. Maintain perfect geographical continuity with realistic drone movement throughout the video. Location: Downtown Dubai, Burj
 ```
 
-### No. 412: Football Matches: Stadium, Penalty, Free Kick
+### No. 381: Football Matches: Stadium, Penalty, Free Kick
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9471,7 +8768,7 @@ This video showcases three distinct football scenes: an aerial view of a packed 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 413: Song Dynasty theater dancer in green gauze
+### No. 382: Song Dynasty theater dancer in green gauze
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9492,7 +8789,7 @@ A prompt for generating a video of a beautiful dancer in green gauze performing 
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 414: Girl Before a Stranded Colossal Spacecraft
+### No. 383: Girl Before a Stranded Colossal Spacecraft
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9510,7 +8807,7 @@ A prompt for a scene depicting a small girl standing before a massive, wrecked s
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 415: The Book of Sky Dreams
+### No. 384: The Book of Sky Dreams
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9531,7 +8828,7 @@ A fantastical adventurer unveils a magical cloud city from an enchanted book, re
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 416: Spain Wins World Cup Against Argentina
+### No. 385: Spain Wins World Cup Against Argentina
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9552,7 +8849,7 @@ Witness the dramatic moments of a soccer final, from a fantastical goal to a tri
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
-### No. 417: Lego Stop Motion Soccer Match Video
+### No. 386: Lego Stop Motion Soccer Match Video
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9573,7 +8870,7 @@ A prompt for creating a vibrant Lego stop-motion animation of a dramatic soccer 
 Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
 ```
 
-### No. 418: Portable Laundry Breakthrough
+### No. 387: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9594,7 +8891,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 419: Portable Laundry Breakthrough
+### No. 388: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9615,7 +8912,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 420: Portable Laundry Breakthrough
+### No. 389: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9636,7 +8933,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 421: Portable Laundry Breakthrough
+### No. 390: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9657,7 +8954,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 422: Portable Laundry Breakthrough
+### No. 391: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9678,7 +8975,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 423: Portable Laundry Breakthrough
+### No. 392: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9699,7 +8996,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 424: Portable Laundry Breakthrough
+### No. 393: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9720,7 +9017,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 425: Portable Laundry Breakthrough
+### No. 394: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9741,7 +9038,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 426: Portable Laundry Breakthrough
+### No. 395: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9762,7 +9059,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 427: Portable Laundry Breakthrough
+### No. 396: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9783,7 +9080,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 428: Portable Laundry Breakthrough
+### No. 397: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9804,7 +9101,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 429: Portable Laundry Breakthrough
+### No. 398: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9825,7 +9122,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 430: Portable Laundry Breakthrough
+### No. 399: Portable Laundry Breakthrough
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -9846,364 +9143,7 @@ A Japanese man cycles to work with a spinning portable clothes dryer on his back
 A young Japanese businessman in a suit commutes on a bicycle down a sunny, quaint residential street in Japan. He wears a large, white, spherical portable washing machine on his back, which spins rapidly. The camera follows him from behind, then pans to a front shot as he looks back intently. The scene shifts to an older professor in a lab coat explaining centrifugal force on a blackboard, then back to the businessman proudly holding a clean white shirt and giving a thumbs up outside a building. Bright, cinematic, commercial style.
 ```
 
-### No. 431: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 432: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 433: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 434: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 435: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 436: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 437: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 438: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 439: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 440: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 441: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 442: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 443: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 444: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 445: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 446: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 447: Chef Saves the Pasta
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** PSS
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079827263055384669.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/PromptSin/status/2079827263055384669)
-
-#### Description
-
-A delightful 3D animation depicts an Italian chef's comedic dismay and eventual triumph when a diner puts ketchup on her pasta.
-
-#### Prompt
-
-```text
-A charming, Pixar-style 3D animated scene in a lively Italian restaurant. A happy young woman sits at a table with her date, surrounded by other diners. An expressive Italian chef observes as the woman enthusiastically squirts a large amount of ketchup onto her pasta, then gives a cheerful thumbs-up. The chef reacts with comical horror, clutching his head, and intervenes. He gently removes the ketchup-covered pasta and expertly garnishes a new plate with traditional tomato sauce, fresh basil, and parmesan cheese. The woman tastes the enhanced pasta, her eyes widening in delighted surprise, and shares a smile with her date. The proud chef grins, arms crossed, as other diners in the background clap. The camera smoothly transitions from a medium shot of the couple to a close-up on the pasta and the chef's face, ending with a wider shot showing the happy resolution.
-```
-
-### No. 448: Misty Coastal Road and Rainy Boot
+### No. 400: Misty Coastal Road and Rainy Boot
 
 - **Category:** `Twitter Community`
 - **Source:** `x`
@@ -10222,6 +9162,2962 @@ A dramatic and moody video depicts a solitary figure on a rain-drenched coastal 
 
 ```text
 A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
+```
+
+### No. 401: Every Diamond Holds A Universe. We Filmed Inside
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### Description
+
+Every diamond holds a universe.
+
+#### Prompt
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
+```
+
+### No. 402: Every Diamond Holds A Universe. We Filmed Inside
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### Description
+
+Every diamond holds a universe.
+
+#### Prompt
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
+```
+
+### No. 403: 🚨 News Update About Video Model 🚨 The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** IDK
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Gdthainakub/status/2082236773472842052)
+
+#### Description
+
+🚨 News Update about video model 🚨
+
+The information revealed in this leak
+
+-Hailuo 3 &gt; July 29th (Looking forward to tomorrow.)
+
+-Flux 3 &gt; (It's a public release.)
+
+-Wan 3 &gt; (I expect them to 
+
+#### Prompt
+
+```text
+🚨 News Update about video model 🚨
+
+The information revealed in this leak
+
+-Hailuo 3 &gt; July 29th (Looking forward to tomorrow.)
+
+-Flux 3 &gt; (It's a public release.)
+
+-Wan 3 &gt; (I expect them to have the same like happyhorse or even better)
+
+-Seedance 2.5 The exact information
+```
+
+### No. 404: Kling And Google Omni Aren’T The Only Options
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Feyber | AI Creator
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### Description
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### Prompt
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
+### No. 405: Kling And Google Omni Aren’T The Only Options
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Feyber | AI Creator
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### Description
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### Prompt
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
+### No. 406: Últimamente Uso Happy Horse Ai Y Me Está
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grey le pewl
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/GPewl/status/2082288885002817759)
+
+#### Description
+
+Últimamente uso Happy Horse AI y me está gustando mucho.
+
+#### Prompt
+
+```text
+Últimamente uso Happy Horse AI y me está gustando mucho. Te lo comparto.
+```
+
+### No. 407: Ugc Is Basically Everywhere Now And Anyone Can
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sogni.ai
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Sogni_Protocol/status/2082350656921174450)
+
+#### Description
+
+UGC is basically everywhere now and anyone can generate it.
+
+#### Prompt
+
+```text
+@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
+```
+
+### No. 408: Ugc Is Basically Everywhere Now And Anyone Can
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sogni.ai
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Sogni_Protocol/status/2082350656921174450)
+
+#### Description
+
+UGC is basically everywhere now and anyone can generate it.
+
+#### Prompt
+
+```text
+@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
+```
+
+### No. 409: Ugc Is Basically Everywhere Now And Anyone Can
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sogni.ai
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Sogni_Protocol/status/2082350656921174450)
+
+#### Description
+
+UGC is basically everywhere now and anyone can generate it.
+
+#### Prompt
+
+```text
+@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
+```
+
+### No. 410: Why Juggle Multiple Ai Tools? 🤯 Bo Now
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ancher
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/AncherAI/status/2082370060900032588)
+
+#### Description
+
+Why juggle multiple AI tools?
+
+#### Prompt
+
+```text
+Why juggle multiple AI tools? 🤯
+
+BO now creates Short-form Videos​ featuring 5 of the world's leading AI models in one seamless workspace:
+
+🌟 Seedance 2.0
+
+🌟 Kling 3.0 Omni
+
+🌟 Grok Video
+
+🌟 Vidu Q3 Turbo
+
+🌟 HappyHorse 1.1
+
+From Cinematic to Anime, Product Ads to 3D Cartoons
+```
+
+### No. 411: Repotting A Plant On The Terrace 🪴 Created
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Strength04_X/status/2082382615055929548)
+
+#### Description
+
+Repotting a Plant on the Terrace 🪴
+
+Created this using Happyhorse 1.1 on 
+
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, di
+
+#### Prompt
+
+```text
+Repotting a Plant on the Terrace 🪴
+
+Created this using Happyhorse 1.1 on @HappyHorseATH
+
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, dirt-smudged hands, focused content expression.
+Location: Rooftop
+```
+
+### No. 412: Repotting A Plant On The Terrace 🪴 Created
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082382615055929548.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Strength04_X/status/2082382615055929548)
+
+#### Description
+
+Repotting a Plant on the Terrace 🪴
+
+Created this using Happyhorse 1.1 on 
+
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, di
+
+#### Prompt
+
+```text
+Repotting a Plant on the Terrace 🪴
+
+Created this using Happyhorse 1.1 on @HappyHorseATH
+
+Prompt -
+Main Subject: Young Korean woman, early 20s, loose linen apron over a t-shirt and shorts, hair tied back messily, dirt-smudged hands, focused content expression.
+Location: Rooftop
+```
+
+### No. 413: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 414: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 415: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 416: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 417: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 418: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 419: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 420: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 421: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 422: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 423: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 424: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 425: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 426: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 427: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 428: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 429: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 430: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 431: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 432: If Annoying Mosquitoes In Summer Had The Appearance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HappyHorse
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082394881683812393.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/HappyHorseATH/status/2082394881683812393)
+
+#### Description
+
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them?
+
+#### Prompt
+
+```text
+If annoying mosquitoes in summer had the appearance of cute kittens, would you still swat them? 😽
+#happyhorse #ai #summer
+```
+
+### No. 433: Happyhorse For The Win 😊 Beautiful Video Pss
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Michelle
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Chelle_Ai_/status/2082406917935096173)
+
+#### Description
+
+HappyHorse for the win 😊
+Beautiful video PSS 💜
+
+#### Prompt
+
+```text
+@PromptSin HappyHorse for the win 😊
+Beautiful video PSS 💜
+```
+
+### No. 434: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 435: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 436: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 437: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 438: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 439: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 440: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 441: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 442: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 443: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 444: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 445: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 446: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 447: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 448: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 449: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 450: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 451: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 452: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 453: Kling 3 Is A Good Model, Perhaps 'Old'
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PSS
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PromptSin/status/2082414299067097584)
+
+#### Description
+
+Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has d
+
+#### Prompt
+
+```text
+@manushak17 Kling 3 is a good model, perhaps 'old' considering how quickly everything evolves, it doesn't do badly, but in this example taken as example the video of the first generation, I think HappyHorse has done better
+```
+
+### No. 454: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Edimakor Taiwan
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### Description
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### Prompt
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
+```
+
+### No. 455: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Edimakor Taiwan
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### Description
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### Prompt
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
+```
+
+### No. 456: Today I Tested The Same 1980S-Style Commercial Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** STΛRJUPI
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/StarjupiAI/status/2082470356242055611)
+
+#### Description
+
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
+
+#### Prompt
+
+```text
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
+
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
+```
+
+### No. 457: Today I Tested The Same 1980S-Style Commercial Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** STΛRJUPI
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/StarjupiAI/status/2082470356242055611)
+
+#### Description
+
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
+
+#### Prompt
+
+```text
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
+
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
+```
+
+### No. 458: Happyhorse 1.1 Is Now Available On 🐎🎬✨ Generate
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Lilidi · AI
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082492066710356240.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082492066710356240.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/lilidiai/status/2082492066710356240)
+
+#### Description
+
+HappyHorse 1.1 is now available on  🐎🎬✨
+
+Generate cinematic AI videos from text prompts with:
+
+⏱️ 3–15 second duration
+🎥 720p and 1080p
+🌊 Realistic motion
+⚡ One unified Lilidi credit balance
+Try it no
+
+#### Prompt
+
+```text
+HappyHorse 1.1 is now available on  🐎🎬✨
+
+Generate cinematic AI videos from text prompts with:
+
+⏱️ 3–15 second duration
+🎥 720p and 1080p
+🌊 Realistic motion
+⚡ One unified Lilidi credit balance
+Try it now 🚀
+
+
+Powered through
+```
+
+### No. 459: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Yolanda M
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/manriyoyo/status/2082508945898238446)
+
+#### Description
+
+Totalment d'acord.
+
+#### Prompt
+
+```text
+@PromptSin Totalment d'acord. M'ha sorprès també la consistencia facial que aconsegueix. En un video en moviment la identitat marca la diferència i Happy Horse ho resol. Bona prova!!😍😍💪💪
+```
+
+### No. 460: I Recently Ordered A Custom Playstation 5 Pro
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ben Geskin
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082518108523114626.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082518108523114626.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/BenGeskin/status/2082518108523114626)
+
+#### Description
+
+I recently ordered a custom PlayStation 5 Pro from ColorWare and the website showed two images of how my custom Jet Black Matte PS5 Pro + Retro Light Gray / Black DualSense would look, but I wanted to
+
+#### Prompt
+
+```text
+I recently ordered a custom PlayStation 5 Pro from ColorWare and the website showed two images of how my custom Jet Black Matte PS5 Pro + Retro Light Gray / Black DualSense would look, but I wanted to see the design from more angles. 
+
+So I used AI to turn those renders into a
+```
+
+### No. 461: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sparkful
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Description
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 462: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sparkful
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Description
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 463: Happy Horse 1.1 Test, Basketball Scene Love The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Sparkful
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/SparkfulArt/status/2082612296887799852)
+
+#### Description
+
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
+
+Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
+```
+
+### No. 464: 新作Aiアニメ 『テクノデリック・ロリータ 〜Chocolate Mint Lullaby〜』 予告1St ティザー。 本編は7月31日深夜、
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BrainBuster Studio【公式】
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/brainbuster_st/status/2082626403896598695)
+
+#### Description
+
+新作AIアニメ
+『テクノデリック・ロリータ
+　〜chocolate mint lullaby〜』
+予告1st ティザー。
+
+#### Prompt
+
+```text
+新作AIアニメ
+『テクノデリック・ロリータ
+　〜chocolate mint lullaby〜』
+予告1st ティザー。
+
+本編は7月31日深夜、
+公開予定。
+
+今回のティザーの映像部分は、
+全てHappy Horse 1.1で生成しました。
+こういうスピーディなカットは、さすがHappy Horse様々です🙇
+
+TECHNODELIC LOLITA
+〜chocolate
+```
+
+### No. 465: Guys, Which Ai Model For Which Type Of
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Krishna Aggarwal
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Krishna_agg_/status/2082637147790848489)
+
+#### Description
+
+Guys, which Ai Model for which type of video?
+
+#### Prompt
+
+```text
+Guys, which Ai Model for which type of video?
+
+Kling
+Seedance
+Gemini
+Happy horse
+Grok Imagine
+Google Veo
+Wan
+```
+
+### No. 466: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 467: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 468: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 469: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 470: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 471: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 472: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 473: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 474: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 475: World Cup Ai Challenge —Featured Works
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VivaReel
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Description
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 476: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 藤川裕一🤖アリババAIエンジニア
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/fujiyuu75e/status/2082670009222881346)
+
+#### Description
+
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
+
+#### Prompt
+
+```text
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
+```
+
+### No. 477: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 藤川裕一🤖アリババAIエンジニア
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/fujiyuu75e/status/2082670009222881346)
+
+#### Description
+
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
+
+#### Prompt
+
+```text
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
+```
+
+### No. 478: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 藤川裕一🤖アリババAIエンジニア
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/fujiyuu75e/status/2082670009222881346)
+
+#### Description
+
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
+
+#### Prompt
+
+```text
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
+```
+
+### No. 479: Ace Data Cloud App Is Now Live In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AceDataCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082677008652218426.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082677008652218426.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/acedatacloud/status/2082677008652218426)
+
+#### Description
+
+Ace Data Cloud app is now live in our Discord.
+
+#### Prompt
+
+```text
+Ace Data Cloud app is now live in our Discord.
+
+Type video, image or music into the studio channel with a description of what you want, and it comes back in the channel. No model to choose and nothing to configure.
+
+If you do want to choose, video runs on Veo, Kling, Luma,
+```
+
+### No. 480: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 過去問
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Tutorial_Short/status/2082728733778321789)
+
+#### Description
+
+そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
+
+#### Prompt
+
+```text
+そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
+```
+
+### No. 481: Cinematic Ai Video Creation Just Got Easier Happyhorse
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** alonewolf
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/alonewolff21/status/2082743141753593937)
+
+#### Description
+
+Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
+
+#### Prompt
+
+```text
+@lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
+```
+
+### No. 482: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 483: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 484: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 485: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 486: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 487: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 488: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 489: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 490: Be Careful What You Keep Watering. Created With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2082829063593373904)
+
+#### Description
+
+Be Careful What You Keep Watering.
+
+#### Prompt
+
+```text
+Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
+```
+
+### No. 491: Experimented With Image-Driven Sound Performances And Had Great
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Boris Eldagsen
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082848351549100457.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082848351549100457.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/BorisEldagsen/status/2082848351549100457)
+
+#### Description
+
+Experimented with image-driven sound performances and had great fun with the new  omni video model.
+
+#### Prompt
+
+```text
+Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
+```
+
+### No. 492: Good Mornyan Sweet Sacchi, Them Better Of Been
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** xTechnoKitten 🍅, 🍓🪽
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/xTechnoKittenx/status/2082879321027612781)
+
+#### Description
+
+Good mornyan sweet Sacchi, them better of been happy horse video years !
+
+#### Prompt
+
+```text
+@saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
+```
+
+### No. 493: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Noor_Official
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/NoorUllahN65980/status/2082905458315268296)
+
+#### Description
+
+Try HappyHorse 1.1 for cinematic AI videos now online.
+
+#### Prompt
+
+```text
+@lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
+```
+
+### No. 494: Would You Step Into A Beautiful Painting... If
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Catlynx
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082908393459556445.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082908393459556445.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/catlynx_/status/2082908393459556445)
+
+#### Description
+
+Would you step into a beautiful painting...
+
+#### Prompt
+
+```text
+Would you step into a beautiful painting... if you knew you could never return?
+🥀 Beyond the Veil: A Painted Prison
+An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
+```
+
+### No. 495: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** techs_targe
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/techs44576/status/2082969955897893285)
+
+#### Description
+
+エージェント収集レポート
+Executive Report 2026.7.31
+
+今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
+
+#### Prompt
+
+```text
+エージェント収集レポート
+Executive Report 2026.7.31
+
+今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
+
+■セキュリティ・AI Safety関連
+```
+
+### No. 496: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 497: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 498: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 499: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 500: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 501: Google'S Gemini Omni Flash Debuts At On The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Artificial Analysis
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Description
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 502: What If A Premium Matcha Commercial Could Be
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Synthia
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/AIwithSynthia/status/2083043744253882689)
+
+#### Description
+
+What if a premium matcha commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium matcha commercial could be created from a single storyboard? 🍵
+
+@HappyHorseATH
+
+This is a Matcha Latte concept ad created entirely with HappyHorse 1.1. Instead of planning an expensive commercial shoot, I started with a storyboard reference that defined the
+```
+
+### No. 503: No Massive Studio Budget, Just Pure Ai. 🎬
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Heisenberg
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083047223017742363.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083047223017742363.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/rovvmut_/status/2083047223017742363)
+
+#### Description
+
+No massive studio budget, just pure AI.
+
+#### Prompt
+
+```text
+No massive studio budget, just pure AI. 🎬
+
+I generated this epic, trending high-fantasy cinematic sequence entirely with Happy Horse 1.1
+
+The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
+```
+
+### No. 504: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** FeiZ
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Fei2411/status/2083061790896992704)
+
+#### Description
+
+MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视频模型开源！
+
+#### Prompt
+
+```text
+MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视频模型开源！
+
+这个视频模型在 Artificial Analysis 排行榜上杀疯了：
+
+视频编辑第1
+文生视频第2
+图生视频第3
+
+它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
+```
+
+### No. 505: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 日経クロステック（xTECH）
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/NIKKEIxTECH/status/2083067854421938496)
+
+#### Description
+
+アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+
+#### Prompt
+
+```text
+アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+```
+
+### No. 506: With Minimal Prompt I Guess Happy Horse Is
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** tako_bot
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/tako_bots/status/2083103980411072921)
+
+#### Description
+
+with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+
+#### Prompt
+
+```text
+@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+```
+
+### No. 507: With Minimal Prompt I Guess Happy Horse Is
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** tako_bot
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/tako_bots/status/2083103980411072921)
+
+#### Description
+
+with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+
+#### Prompt
+
+```text
+@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+```
+
+### No. 508: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI观察者 | 平行世界
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ppmmzzcn/status/2083121017099055519)
+
+#### Description
+
+💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
+
+#### Prompt
+
+```text
+💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
+新华社德黑兰7月30日电
+```
+
+### No. 509: Everyone Talks About Ai Video Quality. I Wanted
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** RAVI KUMAR SAHU
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
+
+#### Description
+
+Everyone talks about AI video quality.
+
+#### Prompt
+
+```text
+Everyone talks about AI video quality.
+
+I wanted to test something a bit harder:
+
+Can AI actually handle complex human movement?
+
+So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
+
+The first test was a professional ballet performance
+```
+
+### No. 510: Everyone Talks About Ai Video Quality. I Wanted
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** RAVI KUMAR SAHU
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
+
+#### Description
+
+Everyone talks about AI video quality.
+
+#### Prompt
+
+```text
+Everyone talks about AI video quality.
+
+I wanted to test something a bit harder:
+
+Can AI actually handle complex human movement?
+
+So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
+
+The first test was a professional ballet performance
+```
+
+### No. 511: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PR TIMESテクノロジー
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/PRTIMES_TECH/status/2083162521503150542)
+
+#### Description
+
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
+
+#### Prompt
+
+```text
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
+```
+
+### No. 512: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** OpenBMB
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083190954178032017.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083190954178032017.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/OpenBMB/status/2083190954178032017)
+
+#### Description
+
+🎙️Build with VoxCPM2: Creating Consistent AI Character Voices for Short Films 🎬
+
+A developer  in our community created an AI short film with VoxCPM2 powering the character voice generation.🥳
+
+In AI-ge
+
+#### Prompt
+
+```text
+🎙️Build with VoxCPM2: Creating Consistent AI Character Voices for Short Films 🎬
+
+A developer @xiaofenggan in our community created an AI short film with VoxCPM2 powering the character voice generation.🥳
+
+In AI-generated content, keeping the same character voice across different
+```
+
+### No. 513: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 相互フォローを希望＠ウーパー
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Stephan48479410/status/2083386908432834986)
+
+#### Description
+
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
+
+#### Prompt
+
+```text
+＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
+```
+
+### No. 514: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Fable5 AI News Select !!｜AIニュース検証🔍&解説
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/marklimitless/status/2083441154083954956)
+
+#### Description
+
+「MiniMax H3」登場 !!!
+
+#### Prompt
+
+```text
+「MiniMax H3」登場 !!! 動画編集AIの独立評価で世界1位に😳
+MiniMax H3 tops Artificial Analysis video editing chart
+
+Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
+```
+
+### No. 515: I'Ve Been Testing Happyhorse 1.1, And The Results
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Oogie
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083542415059845332.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083542415059845332.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/oggii_0/status/2083542415059845332)
+
+#### Description
+
+I've been testing HappyHorse 1.1, and the results are seriously impressive.
+
+#### Prompt
+
+```text
+I've been testing HappyHorse 1.1, and the results are seriously impressive.
+
+From cinematic camera movements to consistent characters and smooth motion, it's built for creating production-ready AI videos without the usual hassle.
+
+Whether you're making ads, social content, or
+```
+
+### No. 516: How To Clone Animated Ads Using Ai In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Wanderson Jackson
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083550309176017063.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083550309176017063.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/jackson99ai/status/2083550309176017063)
+
+#### Description
+
+How to clone animated ads using AI in director mode on 
+in this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version.
+
+#### Prompt
+
+```text
+How to clone animated ads using AI in director mode on @avocadoai_co,
+in this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version. Check it out
+
+Tools use: avocadoai dot co
+Models used: GPT Image 2, Seedance 2.0 and
+```
+
+### No. 517: How To Clone Animated Ads Using Ai In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Avocado AI
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083554245001781555.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083554245001781555.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/avocadoai_co/status/2083554245001781555)
+
+#### Description
+
+How to clone animated ads using AI in director mode(still in early preview) on 
+In this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own vers
+
+#### Prompt
+
+```text
+How to clone animated ads using AI in director mode(still in early preview) on @avocadoai_co,
+In this video I breakdown step by step of how to get a ad reference, grab the winning structure and create your own version. Check it out
+
+Tools use: avocadoai do co
+Models used: GPT
+```
+
+### No. 518: The Bottleneck Just Moved Again Bytedance’S Seed Team
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Adarsh | Founder
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/AdarshR39234037/status/2083618454037508414)
+
+#### Description
+
+The bottleneck just moved again
+
+ByteDance’s Seed team just launched Seedance 2.0, a next gen model with director level control, multimodal references, built in editing, and a keep filming extension.
+
+#### Prompt
+
+```text
+The bottleneck just moved again
+
+ByteDance’s Seed team just launched Seedance 2.0, a next gen model with director level control, multimodal references, built in editing, and a keep filming extension.
+
+Video generation just got a lot easier.
+
+HappyHorse 1.0 climbed to No. 1 on the
+```
+
+### No. 519: First Slide; Reference Video Prompt; Replace The Guy
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** mayowa 🍀
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083647401567432976.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083647401567432976.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bigZUKO_/status/2083647401567432976)
+
+#### Description
+
+First slide; reference video
+
+Prompt; Replace the guy in the reference video with this other semi albino American guy without altering the video ( image attached )
+
+Second slide: Results for both ( Kl
+
+#### Prompt
+
+```text
+First slide; reference video
+
+Prompt; Replace the guy in the reference video with this other semi albino American guy without altering the video ( image attached )
+
+Second slide: Results for both ( Kling up, happy horse down )
+```
+
+### No. 520: Is Now Back To The Creative Model Battle
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Xiaowei - ShallWe Tech
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/Xiaoweisuper6/status/2083678337981927510)
+
+#### Description
+
+is now back to the Creative Model Battle Ground!
+
+#### Prompt
+
+```text
+#MiniMax is now back to the Creative Model Battle Ground!
+
+Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's Kling, Alibaba's HappyHorse and MiniMax's H3) battle with #Google Gemini
+
+This week, MiniMax launched their Text/Image-to-Video model: MiniMax
+```
+
+### No. 521: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/outsourcePM/status/2083694266946375765)
+
+#### Description
+
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+#### Prompt
+
+```text
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+② HappyHorse：Klingより自然に直せるようになった
+```
+
+### No. 522: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/outsourcePM/status/2083694266946375765)
+
+#### Description
+
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+#### Prompt
+
+```text
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+② HappyHorse：Klingより自然に直せるようになった
+```
+
+### No. 523: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 雨雲(Amagumo)806 ｜ AI Animer
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ai_animer/status/2083722829187756102)
+
+#### Description
+
+14社参加してますね
+元々エンジニアでなのでAIツールをいじくるのが好きなんです
+もちらん、作品作りも好きです
+Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
+
+#### Prompt
+
+```text
+@santome_yontome 14社参加してますね
+元々エンジニアでなのでAIツールをいじくるのが好きなんです
+もちらん、作品作りも好きです
+Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
+```
+
+### No. 524: It'S A Good Time For Video Models Lately
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jin.B
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083754427127878043.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083754427127878043.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/opener_ai/status/2083754427127878043)
+
+#### Description
+
+It's a good time for video models lately gotta find that sweet spot between good models and good prices 🤔.
+
+#### Prompt
+
+```text
+It's a good time for video models lately gotta find that sweet spot between good models and good prices 🤔. Happyhorse 1.1 is just out and doing some tests, seems to have its own thing going on! @HappyHorseATH 
+
+Prompt
+
+Overview
+Beauty-commercial portrait, one continuous shot:
+```
+
+### No. 525: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Description
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 526: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Description
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 527: 使用したプロンプトです。 Happyhorse 1.1 / Text-To-Video 15秒・1080P・16:9・Seed 110202 A
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/ailike586860/status/2083796761081209246)
+
+#### Description
+
+使用したプロンプトです。
+
+#### Prompt
+
+```text
+@alibaba_cloud @HappyHorseATH 使用したプロンプトです。
+HappyHorse 1.1 / Text-to-Video
+15秒・1080P・16:9・Seed 110202
+
+A moving 15-second Japanese cinematic short film showing a girl and her cat growing together, shaping each other's lives, and staying family until the cat's peaceful final moment. Three clear
+```
+
+### No. 528: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 王大少的笔记
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2083888794005323936.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083888794005323936.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/leirenwangz/status/2083888794005323936)
+
+#### Description
+
+我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
+
+#### Prompt
+
+```text
+我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
+```
+
+### No. 529: A Wonderful Prompt Happy Horse 1.1 Has Good
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** GETitDONE🦅
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/cryptohubhome/status/2083977708384510076)
+
+#### Description
+
+A wonderful prompt 
+Happy horse 1.1 has good quality
+
+#### Prompt
+
+```text
+@bmx_ai13 @HappyHorseATH A wonderful prompt 
+Happy horse 1.1 has good quality
+```
+
+### No. 530: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ren Rose 321
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/RenRose321/status/2084016595609833752)
+
+#### Description
+
+Ai Art Prompt Share Party 🎨👇🏻 
+
+Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
+
+#### Prompt
+
+```text
+Ai Art Prompt Share Party 🎨👇🏻 
+
+Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
+```
+
+### No. 531: Seedance 2.5 Has High Sensitivity To Fighting Actions
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Nisho 👦🏻🙀
+- **Language:** `en`
+- **Source Link:** [View](https://x.com/AiMeowing/status/2084032009408582051)
+
+#### Description
+
+Seedance 2.5 has high sensitivity to fighting actions and dangerous actions.
+
+#### Prompt
+
+```text
+Seedance 2.5 has high sensitivity to fighting actions and dangerous actions.
+Changed prompt 6 times,faild. then I gave up. 
+Same prompt works from 1st time at H3, Happy horse, Grok 
+But didn't post them. 
+Need to change actions to cuteness videos
+```
+
+### No. 532: Cette Vidéo A Été Générée À L'Aide Du
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Edimakor France
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/prompt/happy-horse/x_2084101538851733694.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084101538851733694.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/edimakorfr/status/2084101538851733694)
+
+#### Description
+
+Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor.
+
+#### Prompt
+
+```text
+Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. Qu'en pensez-vous ?
+
+#edimakor #happyhorse #modeleia
 ```
 
 <a id="category-2"></a>
@@ -24525,7 +26421,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-08-03T07:24:13.814Z
+> This README is auto-generated. 2026-08-03T07:24:26.315Z
 
 ## More Atlas Cloud Tools
 

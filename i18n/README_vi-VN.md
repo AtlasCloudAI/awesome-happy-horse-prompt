@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1303%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1325%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1303** |
+| Tong so Prompt | **1325** |
 | So danh muc | **12** |
-| Video xem truoc | **1041** |
-| Cap nhat lan cuoi | **2026-08-06T06:23:17.136Z** |
+| Video xem truoc | **1078** |
+| Cap nhat lan cuoi | **2026-08-07T06:36:30.138Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **591**
+- [`Twitter Community`](#category-1): **613**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (591)
+### Twitter Community (613)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -8060,28 +8060,7 @@ The Seedance 2 and HappyHorse 1.1 AI video generators are impressive.
 The Seedance 2 and HappyHorse 1.1 AI video generators are impressive. Overall, they demonstrate a greater range of angles and accuracy of audio and better adherence to prompt instructions than others I've tried.
 ```
 
-### No. 351: Lofi Anime Prompt I Tried. I Gotta Learn
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Oprèlia AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2074969683426484589.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2074969683426484589.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/OpreliaAI/status/2074969683426484589)
-
-#### Mo ta
-
-LoFi anime prompt i tried.
-
-#### Prompt
-
-```text
-#Happyhorse LoFi anime prompt i tried. I gotta learn this model better, coz ive seen some ppl do lot more impressive things
-```
-
-### No. 352: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
+### No. 351: Alibaba Meluncurkan Happyhorse 1.1🎥—Model Pembuatan Video Yang Ditingkatkan
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8104,7 +8083,7 @@ Alibaba meluncurkan HappyHorse 1.1🎥—model pembuatan video yang ditingkatkan
 Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang lebih baik!
 ```
 
-### No. 353: 色々アレっぽくなった😅
+### No. 352: 色々アレっぽくなった😅
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8127,7 +8106,7 @@ Kini dengan peningkatan panduan instruksi untuk pemahaman input pengguna yang le
 #HappyHorse #GPTimage2 #動画生成AI
 ```
 
-### No. 354: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
+### No. 353: Congratulations On The Launch Of Happyhorse 1.1! Production-Ready
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8147,7 +8126,7 @@ Production-ready video synthesis with API support is an exciting milestone.
 Looking forward to seeing what creators and developers build with it.
 ```
 
-### No. 355: Models Available On (Byok Friendly) Video Models Gemini
+### No. 354: Models Available On (Byok Friendly) Video Models Gemini
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8189,7 +8168,7 @@ Kling 3.0 Turbo
 Kling 3.0 Omni
 ```
 
-### No. 356: What Model Will You Choose For Ai Video
+### No. 355: What Model Will You Choose For Ai Video
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8216,7 +8195,7 @@ Comment down your answers
 #ai #aiprompts
 ```
 
-### No. 357: Cuộc Rượt Đuổi Xe Máy Trên Cây Cầu Đang Sụp Đổ
+### No. 356: Cuộc Rượt Đuổi Xe Máy Trên Cây Cầu Đang Sụp Đổ
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8237,7 +8216,7 @@ Một gợi ý video điện ảnh về một người lái xe phóng nhanh qua 
 A rider speeds across a collapsing suspension bridge as debris flies, with cinematic camera moves and impressively consistent motion.
 ```
 
-### No. 358: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
+### No. 357: Tái Tạo Kỹ Thuật Quay Phim và Nhịp Điệu Video
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8257,6 +8236,27 @@ Một chỉ dẫn yêu cầu tái tạo kỹ thuật quay phim, loại cảnh qu
 ```text
 1. 画面与运镜对标：
 (a) 完全对标视频【 {{Video 1}} 】，复制全部运镜、景别、背景音乐及卡点节奏。
+```
+
+### No. 358: Chèo Kayak Qua Hẻm Núi Ẩn Mình
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Hannah Ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/nusratsid1/status/2075932474794807658)
+
+#### Mo ta
+
+Một cảnh tượng siêu thực tế về một người chèo kayak đơn độc đang lướt qua một hẻm núi sa thạch hẹp.
+
+#### Prompt
+
+```text
+A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
 ### No. 359: Chèo Kayak Qua Hẻm Núi Ẩn Mình
@@ -8280,28 +8280,7 @@ Một cảnh tượng siêu thực tế về một người chèo kayak đơn đ
 A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
 ```
 
-### No. 360: Chèo Kayak Qua Hẻm Núi Ẩn Mình
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Hannah Ai
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2075932474794807658.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/nusratsid1/status/2075932474794807658)
-
-#### Mo ta
-
-Một cảnh tượng siêu thực tế về một người chèo kayak đơn độc đang lướt qua một hẻm núi sa thạch hẹp.
-
-#### Prompt
-
-```text
-A hyper-realistic live-action adventure documentary. A solo kayaker wearing authentic outdoor gear paddles a bright red kayak through a very narrow sandstone canyon with towering rock walls
-```
-
-### No. 361: Điều Hướng Trang Web Công Cụ AI GlobalGPT
+### No. 360: Điều Hướng Trang Web Công Cụ AI GlobalGPT
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8322,7 +8301,7 @@ Video này ghi lại cảnh người dùng điều hướng trang web GlobalGPT,
 A screen recording of a web browser displaying the GlobalGPT website. The user navigates through the site by scrolling down the homepage to view AI models and features, then clicks on 'Models & Tools', 'Image', 'Video', and 'Audio' in the left sidebar, scrolling through the content on each page. Finally, the user clicks 'Wun 2.7' under 'My Tools' to show a video generator interface. The browser window is centered on a colorful, vibrant desktop background, with a clean and modern UI style.
 ```
 
-### No. 362: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
+### No. 361: Thực Thể Số Phát Quang Mang Theo Các Thế Giới
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8344,7 +8323,7 @@ Aetherpede
 A luminous digital being that carries worlds in its body and leaks them into reality wherever it crawls.
 ```
 
-### No. 363: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
+### No. 362: Cú Lao Xuống Núi Điện Ảnh Trong Giờ Vàng
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8365,7 +8344,7 @@ Cảnh quay trên không mang tính điện ảnh hoành tráng ghi lại một 
 Cinematic aerial dive through misty mountain peaks at golden hour toward a lone figure on a cliff, volumetric light, 35mm anamorphic.
 ```
 
-### No. 364: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
+### No. 363: Quán Bar Tầng Thượng Tương Lai Trong Cơn Mưa Neon
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8382,6 +8361,33 @@ Một gợi ý để tạo cảnh video về một người phụ nữ tại qu�
 ```text
 Scene: A woman standing at a high-tech rooftop bar overlooking a futuristic neon city during a rainy night.
 Setting: An exclusive, sleek rooftop bar with glass surfaces and chrome accents. Background features
+```
+
+### No. 364: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** AIReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2077352728464912868)
+
+#### Mo ta
+
+Một cảnh điện ảnh IMAX siêu thực về trận chiến trên mái nhà trong một thành phố cyberpunk tối tăm vào ban đêm với bầu không khí xám xanh, mưa lớn và các bề mặt ướt phản chiếu.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
+Visual style:
+Grey-green cyberpunk atmosphere,
+heavy rain,
+wet reflective concrete rooftop,
+glass skyscrapers,
+storm
 ```
 
 ### No. 365: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
@@ -8411,34 +8417,7 @@ glass skyscrapers,
 storm
 ```
 
-### No. 366: Trận chiến trên mái nhà trong cơn mưa lớn phong cách Cyberpunk
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** AIReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2077352728464912868.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/AIReelofficial/status/2077352728464912868)
-
-#### Mo ta
-
-Một cảnh điện ảnh IMAX siêu thực về trận chiến trên mái nhà trong một thành phố cyberpunk tối tăm vào ban đêm với bầu không khí xám xanh, mưa lớn và các bề mặt ướt phản chiếu.
-
-#### Prompt
-
-```text
-Ultra-realistic IMAX cinematic rooftop battle in a dark cyberpunk city at night.
-Visual style:
-Grey-green cyberpunk atmosphere,
-heavy rain,
-wet reflective concrete rooftop,
-glass skyscrapers,
-storm
-```
-
-### No. 367: Video AI Về Ngôi Sao Bóng Đá World Cup Yêu Thích
+### No. 366: Video AI Về Ngôi Sao Bóng Đá World Cup Yêu Thích
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8456,7 +8435,7 @@ Một gợi ý video AI để tạo ra một video nguyên bản có sự xuất
 Create an original AI video featuring your favorite 2026 World Cup star
 ```
 
-### No. 368: Các Trận Đấu Bóng Đá: Sân Vận Động, Phạt Đền, Đá Phạt Trực Tiếp
+### No. 367: Các Trận Đấu Bóng Đá: Sân Vận Động, Phạt Đền, Đá Phạt Trực Tiếp
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8477,7 +8456,7 @@ Video này trình bày ba cảnh bóng đá khác biệt: góc nhìn từ trên 
 Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweeping drone shot over a massive, brightly lit stadium packed with fans at night. Transition to a close-up of a player in red taking a penalty kick, the ball striking the net, and the goalkeeper diving. Then, cut to a player in blue executing a free kick, the ball curving into the top corner of the goal as the net ripples. Realistic, vibrant, sports broadcast style.
 ```
 
-### No. 369: Vũ Công Sân Khấu Triều Tống Trong Lụa Xanh
+### No. 368: Vũ Công Sân Khấu Triều Tống Trong Lụa Xanh
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8498,7 +8477,7 @@ Một gợi ý để tạo video về một vũ công xinh đẹp trong trang ph
 宋代戲院 青紗的美女正在台上跳舞
 ```
 
-### No. 370: Cô Bé Trước Con Tàu Vũ Trụ Khổng Lồ Mắc Cạn
+### No. 369: Cô Bé Trước Con Tàu Vũ Trụ Khổng Lồ Mắc Cạn
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8516,7 +8495,7 @@ Một gợi ý cho cảnh tượng mô tả một cô bé nhỏ bé đứng trư
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 371: Cuốn Sách Về Những Giấc Mơ Bầu Trời
+### No. 370: Cuốn Sách Về Những Giấc Mơ Bầu Trời
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8537,7 +8516,7 @@ Một nhà thám hiểm kỳ ảo mở ra một thành phố mây ma thuật t�
 A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
 ```
 
-### No. 372: Tây Ban Nha Đánh Bại Argentina Để Vô Địch World Cup
+### No. 371: Tây Ban Nha Đánh Bại Argentina Để Vô Địch World Cup
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8558,7 +8537,7 @@ Chứng kiến những khoảnh khắc kịch tính của trận chung kết bó
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
-### No. 373: Video Trận Bóng Đá Lego Bằng Kỹ Thuật Stop Motion
+### No. 372: Video Trận Bóng Đá Lego Bằng Kỹ Thuật Stop Motion
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8579,7 +8558,7 @@ Một gợi ý để tạo ra hoạt hình stop motion Lego sống động về 
 Create a fun, dynamic stop-motion style animated video in vibrant Lego bricks and minifigures aesthetic. The entire scene uses colorful plastic Lego construction
 ```
 
-### No. 374: Con Đường Ven Biển Mù Sương và Đôi Ủng Trong Mưa
+### No. 373: Con Đường Ven Biển Mù Sương và Đôi Ủng Trong Mưa
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8598,6 +8577,33 @@ Một video đầy kịch tính và u ám mô tả một bóng hình cô độc 
 
 ```text
 A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
+```
+
+### No. 374: Every Diamond Holds A Universe. We Filmed Inside
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### Mo ta
+
+Every diamond holds a universe.
+
+#### Prompt
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
 ### No. 375: Every Diamond Holds A Universe. We Filmed Inside
@@ -8627,34 +8633,7 @@ AI. No camera. No lens. Just light.
 Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
-### No. 376: Every Diamond Holds A Universe. We Filmed Inside
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Bic_Revelation/status/2082200731252035651)
-
-#### Mo ta
-
-Every diamond holds a universe.
-
-#### Prompt
-
-```text
-Every diamond holds a universe. We filmed inside one. 💎✨
-
-Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
-
-AI. No camera. No lens. Just light.
-
-Made with @itsPolloAI — HappyHorse 1.1.
-```
-
-### No. 377: 🚨 News Update About Video Model 🚨 The
+### No. 376: 🚨 News Update About Video Model 🚨 The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8690,6 +8669,33 @@ The information revealed in this leak
 -Seedance 2.5 The exact information
 ```
 
+### No. 377: Kling And Google Omni Aren’T The Only Options
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Feyber | AI Creator
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### Mo ta
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### Prompt
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
 ### No. 378: Kling And Google Omni Aren’T The Only Options
 
 - **Danh muc:** `Twitter Community`
@@ -8717,34 +8723,7 @@ If you’re building an AI video workflow, this one is worth adding to your test
 Try it here:
 ```
 
-### No. 379: Kling And Google Omni Aren’T The Only Options
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Feyber | AI Creator
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/woleswoosh/status/2082280564011446554)
-
-#### Mo ta
-
-Kling and Google Omni aren’t the only options for AI video editing.
-
-#### Prompt
-
-```text
-Kling and Google Omni aren’t the only options for AI video editing.
-
-@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
-
-If you’re building an AI video workflow, this one is worth adding to your test list.
-
-Try it here:
-```
-
-### No. 380: Últimamente Uso Happy Horse Ai Y Me Está
+### No. 379: Últimamente Uso Happy Horse Ai Y Me Está
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8762,61 +8741,7 @@ Try it here:
 Últimamente uso Happy Horse AI y me está gustando mucho. Te lo comparto.
 ```
 
-### No. 381: Ugc Is Basically Everywhere Now And Anyone Can
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sogni.ai
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2082350656921174450)
-
-#### Mo ta
-
-UGC is basically everywhere now and anyone can generate it.
-
-#### Prompt
-
-```text
-@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
-```
-
-### No. 382: Ugc Is Basically Everywhere Now And Anyone Can
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sogni.ai
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2082350656921174450)
-
-#### Mo ta
-
-UGC is basically everywhere now and anyone can generate it.
-
-#### Prompt
-
-```text
-@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
-```
-
-### No. 383: Ugc Is Basically Everywhere Now And Anyone Can
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Sogni.ai
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2082350656921174450)
-
-#### Mo ta
-
-UGC is basically everywhere now and anyone can generate it.
-
-#### Prompt
-
-```text
-@oliverxmedia UGC is basically everywhere now and anyone can generate it. With Sogni, you only pay for the credits you actually use and you get access to some of the best video models, including Seedance 2.0 (4k &amp; Mini), Happy Horse 1.1 and LTX-2.3. ❤️
-```
-
-### No. 384: Why Juggle Multiple Ai Tools? 🤯 Bo Now
+### No. 380: Why Juggle Multiple Ai Tools? 🤯 Bo Now
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8848,7 +8773,7 @@ BO now creates Short-form Videos​ featuring 5 of the world's leading AI models
 From Cinematic to Anime, Product Ads to 3D Cartoons
 ```
 
-### No. 385: Happyhorse For The Win 😊 Beautiful Video Pss
+### No. 381: Happyhorse For The Win 😊 Beautiful Video Pss
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8868,7 +8793,7 @@ Beautiful video PSS 💜
 Beautiful video PSS 💜
 ```
 
-### No. 386: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+### No. 382: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8893,7 +8818,7 @@ Beautiful video PSS 💜
 #AI換裝 #電商影片 #Edimakor
 ```
 
-### No. 387: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+### No. 383: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8918,7 +8843,7 @@ Beautiful video PSS 💜
 #AI換裝 #電商影片 #Edimakor
 ```
 
-### No. 388: Today I Tested The Same 1980S-Style Commercial Prompt
+### No. 384: Today I Tested The Same 1980S-Style Commercial Prompt
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8941,7 +8866,7 @@ Today I tested the same 1980s-style commercial prompt across three different vid
 First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
-### No. 389: Today I Tested The Same 1980S-Style Commercial Prompt
+### No. 385: Today I Tested The Same 1980S-Style Commercial Prompt
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8964,7 +8889,7 @@ Today I tested the same 1980s-style commercial prompt across three different vid
 First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
-### No. 390: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
+### No. 386: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -8982,7 +8907,7 @@ Totalment d'acord.
 @PromptSin Totalment d'acord. M'ha sorprès també la consistencia facial que aconsegueix. En un video en moviment la identitat marca la diferència i Happy Horse ho resol. Bona prova!!😍😍💪💪
 ```
 
-### No. 391: I Recently Ordered A Custom Playstation 5 Pro
+### No. 387: I Recently Ordered A Custom Playstation 5 Pro
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9005,7 +8930,7 @@ I recently ordered a custom PlayStation 5 Pro from ColorWare and the website sho
 So I used AI to turn those renders into a
 ```
 
-### No. 392: Happy Horse 1.1 Test, Basketball Scene Love The
+### No. 388: Happy Horse 1.1 Test, Basketball Scene Love The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9028,7 +8953,7 @@ Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully
 Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
 ```
 
-### No. 393: Happy Horse 1.1 Test, Basketball Scene Love The
+### No. 389: Happy Horse 1.1 Test, Basketball Scene Love The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9051,7 +8976,7 @@ Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully
 Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
 ```
 
-### No. 394: Happy Horse 1.1 Test, Basketball Scene Love The
+### No. 390: Happy Horse 1.1 Test, Basketball Scene Love The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9074,44 +8999,7 @@ Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully
 Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
 ```
 
-### No. 395: 新作Aiアニメ 『テクノデリック・ロリータ 〜Chocolate Mint Lullaby〜』 予告1St ティザー。 本編は7月31日深夜、
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BrainBuster Studio【公式】
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082626403896598695.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/brainbuster_st/status/2082626403896598695)
-
-#### Mo ta
-
-新作AIアニメ
-『テクノデリック・ロリータ
-　〜chocolate mint lullaby〜』
-予告1st ティザー。
-
-#### Prompt
-
-```text
-新作AIアニメ
-『テクノデリック・ロリータ
-　〜chocolate mint lullaby〜』
-予告1st ティザー。
-
-本編は7月31日深夜、
-公開予定。
-
-今回のティザーの映像部分は、
-全てHappy Horse 1.1で生成しました。
-こういうスピーディなカットは、さすがHappy Horse様々です🙇
-
-TECHNODELIC LOLITA
-〜chocolate
-```
-
-### No. 396: Guys, Which Ai Model For Which Type Of
+### No. 391: Guys, Which Ai Model For Which Type Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9135,6 +9023,116 @@ Happy horse
 Grok Imagine
 Google Veo
 Wan
+```
+
+### No. 392: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 393: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 394: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 395: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 396: World Cup Ai Challenge —Featured Works
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** VivaReel
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Mo ta
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
 ```
 
 ### No. 397: World Cup Ai Challenge —Featured Works
@@ -9247,117 +9245,7 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 402: World Cup Ai Challenge —Featured Works
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VivaReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Mo ta
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 403: World Cup Ai Challenge —Featured Works
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VivaReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Mo ta
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 404: World Cup Ai Challenge —Featured Works
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VivaReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Mo ta
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 405: World Cup Ai Challenge —Featured Works
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VivaReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Mo ta
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 406: World Cup Ai Challenge —Featured Works
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** VivaReel
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Mo ta
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 407: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 402: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9377,7 +9265,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 408: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 403: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9397,7 +9285,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 409: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 404: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9417,7 +9305,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 410: Ace Data Cloud App Is Now Live In
+### No. 405: Ace Data Cloud App Is Now Live In
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9442,7 +9330,7 @@ Type video, image or music into the studio channel with a description of what yo
 If you do want to choose, video runs on Veo, Kling, Luma,
 ```
 
-### No. 411: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+### No. 406: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9460,7 +9348,7 @@ If you do want to choose, video runs on Veo, Kling, Luma,
 そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
 ```
 
-### No. 412: Cinematic Ai Video Creation Just Got Easier Happyhorse
+### No. 407: Cinematic Ai Video Creation Just Got Easier Happyhorse
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9478,196 +9366,7 @@ Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a tota
 @lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
 ```
 
-### No. 413: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 414: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 415: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 416: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 417: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 418: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 419: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 420: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 421: Be Careful What You Keep Watering. Created With
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** BMX
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082829063593373904.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2082829063593373904)
-
-#### Mo ta
-
-Be Careful What You Keep Watering.
-
-#### Prompt
-
-```text
-Create a 15 second photorealistic cinematic social video in 16:9 at 24 fps. The setting is a cozy eclectic living room at night, with a dense gallery wall of framed art, warm table lamps, https://t.co/JjUEn3zPtf
-```
-
-### No. 422: Experimented With Image-Driven Sound Performances And Had Great
+### No. 408: Experimented With Image-Driven Sound Performances And Had Great
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9688,7 +9387,7 @@ Experimented with image-driven sound performances and had great fun with the new
 Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
 ```
 
-### No. 423: Good Mornyan Sweet Sacchi, Them Better Of Been
+### No. 409: Good Mornyan Sweet Sacchi, Them Better Of Been
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9706,7 +9405,7 @@ Good mornyan sweet Sacchi, them better of been happy horse video years !
 @saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
 ```
 
-### No. 424: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+### No. 410: Try Happyhorse 1.1 For Cinematic Ai Videos Now
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9724,7 +9423,7 @@ Try HappyHorse 1.1 for cinematic AI videos now online.
 @lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
 ```
 
-### No. 425: Would You Step Into A Beautiful Painting... If
+### No. 411: Would You Step Into A Beautiful Painting... If
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9747,7 +9446,7 @@ Would you step into a beautiful painting... if you knew you could never return?
 An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
 ```
 
-### No. 426: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+### No. 412: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9773,7 +9472,7 @@ Executive Report 2026.7.31
 ■セキュリティ・AI Safety関連
 ```
 
-### No. 427: Google'S Gemini Omni Flash Debuts At On The
+### No. 413: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9798,7 +9497,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 428: Google'S Gemini Omni Flash Debuts At On The
+### No. 414: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9823,7 +9522,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 429: Google'S Gemini Omni Flash Debuts At On The
+### No. 415: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9848,7 +9547,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 430: Google'S Gemini Omni Flash Debuts At On The
+### No. 416: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9873,7 +9572,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 431: Google'S Gemini Omni Flash Debuts At On The
+### No. 417: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9898,7 +9597,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 432: Google'S Gemini Omni Flash Debuts At On The
+### No. 418: Google'S Gemini Omni Flash Debuts At On The
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9923,32 +9622,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 433: What If A Premium Matcha Commercial Could Be
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Synthia
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083043744253882689.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2083043744253882689)
-
-#### Mo ta
-
-What if a premium matcha commercial could be created from a single storyboard?
-
-#### Prompt
-
-```text
-What if a premium matcha commercial could be created from a single storyboard? 🍵
-
-@HappyHorseATH
-
-This is a Matcha Latte concept ad created entirely with HappyHorse 1.1. Instead of planning an expensive commercial shoot, I started with a storyboard reference that defined the
-```
-
-### No. 434: No Massive Studio Budget, Just Pure Ai. 🎬
+### No. 419: No Massive Studio Budget, Just Pure Ai. 🎬
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9973,7 +9647,7 @@ I generated this epic, trending high-fantasy cinematic sequence entirely with Ha
 The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
 ```
 
-### No. 435: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+### No. 420: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -9999,7 +9673,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
 ```
 
-### No. 436: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+### No. 421: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10017,7 +9691,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
 ```
 
-### No. 437: With Minimal Prompt I Guess Happy Horse Is
+### No. 422: With Minimal Prompt I Guess Happy Horse Is
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10038,7 +9712,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 438: With Minimal Prompt I Guess Happy Horse Is
+### No. 423: With Minimal Prompt I Guess Happy Horse Is
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10059,7 +9733,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 439: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+### No. 424: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10078,7 +9752,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 新华社德黑兰7月30日电
 ```
 
-### No. 440: Everyone Talks About Ai Video Quality. I Wanted
+### No. 425: Everyone Talks About Ai Video Quality. I Wanted
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10107,7 +9781,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 441: Everyone Talks About Ai Video Quality. I Wanted
+### No. 426: Everyone Talks About Ai Video Quality. I Wanted
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10136,7 +9810,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 442: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+### No. 427: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10154,7 +9828,7 @@ The first test was a professional ballet performance
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
 ```
 
-### No. 443: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+### No. 428: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10183,7 +9857,7 @@ A developer @xiaofenggan in our community created an AI short film with VoxCPM2 
 In AI-generated content, keeping the same character voice across different
 ```
 
-### No. 444: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+### No. 429: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10201,7 +9875,7 @@ In AI-generated content, keeping the same character voice across different
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
 ```
 
-### No. 445: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+### No. 430: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10222,7 +9896,7 @@ MiniMax H3 tops Artificial Analysis video editing chart
 Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
 ```
 
-### No. 446: I'Ve Been Testing Happyhorse 1.1, And The Results
+### No. 431: I'Ve Been Testing Happyhorse 1.1, And The Results
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10247,7 +9921,7 @@ From cinematic camera movements to consistent characters and smooth motion, it's
 Whether you're making ads, social content, or
 ```
 
-### No. 447: How To Clone Animated Ads Using Ai In
+### No. 432: How To Clone Animated Ads Using Ai In
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10273,7 +9947,7 @@ Tools use: avocadoai dot co
 Models used: GPT Image 2, Seedance 2.0 and
 ```
 
-### No. 448: How To Clone Animated Ads Using Ai In
+### No. 433: How To Clone Animated Ads Using Ai In
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10299,7 +9973,7 @@ Tools use: avocadoai do co
 Models used: GPT
 ```
 
-### No. 449: The Bottleneck Just Moved Again Bytedance’S Seed Team
+### No. 434: The Bottleneck Just Moved Again Bytedance’S Seed Team
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10325,7 +9999,7 @@ Video generation just got a lot easier.
 HappyHorse 1.0 climbed to No. 1 on the
 ```
 
-### No. 450: Is Now Back To The Creative Model Battle
+### No. 435: Is Now Back To The Creative Model Battle
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10347,7 +10021,7 @@ Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's K
 This week, MiniMax launched their Text/Image-to-Video model: MiniMax
 ```
 
-### No. 451: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+### No. 436: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10373,7 +10047,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 452: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+### No. 437: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10399,7 +10073,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 453: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+### No. 438: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10423,7 +10097,7 @@ Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia�
 Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
 ```
 
-### No. 454: It'S A Good Time For Video Models Lately
+### No. 439: It'S A Good Time For Video Models Lately
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10449,7 +10123,7 @@ Overview
 Beauty-commercial portrait, one continuous shot:
 ```
 
-### No. 455: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+### No. 440: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10470,7 +10144,7 @@ Beauty-commercial portrait, one continuous shot:
 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
 ```
 
-### No. 456: A Wonderful Prompt Happy Horse 1.1 Has Good
+### No. 441: A Wonderful Prompt Happy Horse 1.1 Has Good
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10490,7 +10164,7 @@ Happy horse 1.1 has good quality
 Happy horse 1.1 has good quality
 ```
 
-### No. 457: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+### No. 442: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10512,7 +10186,7 @@ Ai Art Prompt Share Party 🎨👇🏻
 Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
 ```
 
-### No. 458: Seedance 2.5 Has High Sensitivity To Fighting Actions
+### No. 443: Seedance 2.5 Has High Sensitivity To Fighting Actions
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10534,7 +10208,7 @@ But didn't post them.
 Need to change actions to cuteness videos
 ```
 
-### No. 459: Cette Vidéo A Été Générée À L'Aide Du
+### No. 444: Cette Vidéo A Été Générée À L'Aide Du
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10557,7 +10231,7 @@ Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. 
 #edimakor #happyhorse #modeleia
 ```
 
-### No. 460: 3/ Then The Logo Animation. The Agent Strips
+### No. 445: 3/ Then The Logo Animation. The Agent Strips
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10587,7 +10261,7 @@ HappyHorse 1.1 takes both refs and freestyles.
 One brief,
 ```
 
-### No. 461: Happyhorse Is Becoming One Of My Favorite Ai
+### No. 446: Happyhorse Is Becoming One Of My Favorite Ai
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10605,7 +10279,7 @@ HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and ser
 @HappyHorseATH HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and seriously fun to use! 🐴🔥🎬
 ```
 
-### No. 462: My Dad Grows Cherries. My Mom Makes Cherry
+### No. 447: My Dad Grows Cherries. My Mom Makes Cherry
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10634,7 +10308,7 @@ No film crew. No studio. One prompt in @HappyHorseATH 1.1 and an afternoon.
 Real jam from a tiny
 ```
 
-### No. 463: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
+### No. 448: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10652,7 +10326,7 @@ HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visua
 HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visual Brands  via @LinkedI
 ```
 
-### No. 464: I Think Version 1.1 Put Happy Horse Right
+### No. 449: I Think Version 1.1 Put Happy Horse Right
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10672,7 +10346,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 465: I Think Version 1.1 Put Happy Horse Right
+### No. 450: I Think Version 1.1 Put Happy Horse Right
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10692,7 +10366,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 466: Is Happy Horse Free? And Also Can Drop
+### No. 451: Is Happy Horse Free? And Also Can Drop
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10710,7 +10384,7 @@ Is happy horse free?
 @BatsouElef @HappyHorseATH Is happy horse free? And also can drop the prompt?
 ```
 
-### No. 467: Same Prompt. Two Videos. Can You Tell Which
+### No. 452: Same Prompt. Two Videos. Can You Tell Which
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10732,7 +10406,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 468: Same Prompt. Two Videos. Can You Tell Which
+### No. 453: Same Prompt. Two Videos. Can You Tell Which
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10754,7 +10428,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 469: Same Prompt. Two Videos. Can You Tell Which
+### No. 454: Same Prompt. Two Videos. Can You Tell Which
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10776,7 +10450,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 470: Same Prompt. Two Videos. Can You Tell Which
+### No. 455: Same Prompt. Two Videos. Can You Tell Which
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10798,7 +10472,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 471: Same Prompt. Two Videos. Can You Tell Which
+### No. 456: Same Prompt. Two Videos. Can You Tell Which
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10820,7 +10494,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 472: Episode 4 Of My New Series, Anime Ads
+### No. 457: Episode 4 Of My New Series, Anime Ads
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10845,7 +10519,7 @@ What if a courier company launched an anime commercial instead of a traditional 
 Meet Kai, an express courier racing against time to deliver an urgent package. From accepting the job to navigating the city and
 ```
 
-### No. 473: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
+### No. 458: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10878,7 +10552,7 @@ qwen3.7-plus         Text, Reasoning, Vision
 qwen3.7-max          Text,
 ```
 
-### No. 474: This Night Marked Soulscape'S Evolution From A Global
+### No. 459: This Night Marked Soulscape'S Evolution From A Global
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10898,7 +10572,7 @@ This night marked Soulscape's evolution from a global creative community into a 
 Last week in Los Angeles, we brought together NVIDIA, Alibaba Cloud, WAN, Happy Horse, and 130 leaders across Hollywood and
 ```
 
-### No. 475: Happy Horse’S Is A Decent Video Model If
+### No. 460: Happy Horse’S Is A Decent Video Model If
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10916,7 +10590,7 @@ Happy horse’s is a decent video model if u use the correct video prompt built 
 @HappyHorseATH Happy horse’s is a decent video model if u use the correct video prompt built to work with it.. Right now seedance, happy horse, minimax H3 best models out
 ```
 
-### No. 476: You Uploaded One Photo Of Your Car. 6
+### No. 461: You Uploaded One Photo Of Your Car. 6
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10943,7 +10617,7 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 477: You Uploaded One Photo Of Your Car. 6
+### No. 462: You Uploaded One Photo Of Your Car. 6
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10970,7 +10644,7 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 478: Tested The Same Text-To-Video Action Prompt On Happyhorse
+### No. 463: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -10994,7 +10668,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 479: Tested The Same Text-To-Video Action Prompt On Happyhorse
+### No. 464: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11018,7 +10692,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 480: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
+### No. 465: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11041,7 +10715,7 @@ Side-by-side comparison of stomping videos.
 踩踏视频的横向对比，HappyHorse/Sora2/Seedance。
 ```
 
-### No. 481: What Started As An Experiment Turned Into A
+### No. 466: What Started As An Experiment Turned Into A
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11065,177 +10739,7 @@ Created entirely with HappyHorse, exploring storytelling, motion, and visual ima
 #horseinspodump #happyhorse #AIFilmmaking #GenerativeAI
 ```
 
-### No. 482: Pizza With Coca Cola Ugc 15 Seconds Advertisement
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2084588258089169003)
-
-#### Mo ta
-
-Pizza with Coca Cola UGC 15 seconds Advertisement with Happy Horse 1.1 on  
-
-Try it with prompt : TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Nat
-
-#### Prompt
-
-```text
-TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Native smartphone audio
-
-CONCEPT
-A creator has been impatiently https://t.co/hkAQ1a7Ppr
-```
-
-### No. 483: Pizza With Coca Cola Ugc 15 Seconds Advertisement
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2084588258089169003)
-
-#### Mo ta
-
-Pizza with Coca Cola UGC 15 seconds Advertisement with Happy Horse 1.1 on  
-
-Try it with prompt : TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Nat
-
-#### Prompt
-
-```text
-TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Native smartphone audio
-
-CONCEPT
-A creator has been impatiently https://t.co/hkAQ1a7Ppr
-```
-
-### No. 484: Pizza With Coca Cola Ugc 15 Seconds Advertisement
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2084588258089169003)
-
-#### Mo ta
-
-Pizza with Coca Cola UGC 15 seconds Advertisement with Happy Horse 1.1 on  
-
-Try it with prompt : TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Nat
-
-#### Prompt
-
-```text
-TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Native smartphone audio
-
-CONCEPT
-A creator has been impatiently https://t.co/hkAQ1a7Ppr
-```
-
-### No. 485: Pizza With Coca Cola Ugc 15 Seconds Advertisement
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2084588258089169003)
-
-#### Mo ta
-
-Pizza with Coca Cola UGC 15 seconds Advertisement with Happy Horse 1.1 on  
-
-Try it with prompt : TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Nat
-
-#### Prompt
-
-```text
-TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Native smartphone audio
-
-CONCEPT
-A creator has been impatiently https://t.co/hkAQ1a7Ppr
-```
-
-### No. 486: Pizza With Coca Cola Ugc 15 Seconds Advertisement
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** ᴍᴜʀᴘʜʏ
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084588258089169003.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2084588258089169003)
-
-#### Mo ta
-
-Pizza with Coca Cola UGC 15 seconds Advertisement with Happy Horse 1.1 on  
-
-Try it with prompt : TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Nat
-
-#### Prompt
-
-```text
-TITLE
-POV: The Pizza Finally Arrived
-
-FORMAT
-15 seconds | 16:9 | Hyper-realistic live-action UGC | Native smartphone audio
-
-CONCEPT
-A creator has been impatiently https://t.co/hkAQ1a7Ppr
-```
-
-### No. 487: Big One ☮️ Is Heading To Venice This
+### No. 467: Big One ☮️ Is Heading To Venice This
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11257,7 +10761,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 488: Big One ☮️ Is Heading To Venice This
+### No. 468: Big One ☮️ Is Heading To Venice This
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11279,7 +10783,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 489: Anyway, More River Floating. This Is Getting Really
+### No. 469: Anyway, More River Floating. This Is Getting Really
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11303,7 +10807,7 @@ All my images, and the majority of my non-grok videos are generated locally on m
 Most video models,
 ```
 
-### No. 490: Just Pushed An Update To [Anathema]( That Enables
+### No. 470: Just Pushed An Update To [Anathema]( That Enables
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11321,7 +10825,7 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 491: Just Pushed An Update To [Anathema]( That Enables
+### No. 471: Just Pushed An Update To [Anathema]( That Enables
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11339,7 +10843,7 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 492: No Ai Model Is Perfect. Fast-Motion Physics And
+### No. 472: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11363,7 +10867,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 493: No Ai Model Is Perfect. Fast-Motion Physics And
+### No. 473: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11387,7 +10891,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 494: Craziest Week For Video Models: Minimax H3 Seedance
+### No. 474: Craziest Week For Video Models: Minimax H3 Seedance
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11415,7 +10919,7 @@ Flux 3
 WAN 3.0/HappyHorse 2?!
 ```
 
-### No. 495: Do Not Sleep On Im Building An Entire
+### No. 475: Do Not Sleep On Im Building An Entire
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11442,7 +10946,7 @@ im building an entire library of VJ clips using happyhorse!
 possibly the most underrated video model yet
 ```
 
-### No. 496: Ai Can Make Learning Colors Much More Engaging
+### No. 476: Ai Can Make Learning Colors Much More Engaging
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11471,7 +10975,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 497: Ai Can Make Learning Colors Much More Engaging
+### No. 477: Ai Can Make Learning Colors Much More Engaging
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11500,7 +11004,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 498: Ai Can Make Learning Colors Much More Engaging
+### No. 478: Ai Can Make Learning Colors Much More Engaging
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11529,7 +11033,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 499: Ai Can Make Learning Colors Much More Engaging
+### No. 479: Ai Can Make Learning Colors Much More Engaging
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11558,88 +11062,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 500: I'Ve Been Exploring Multishot Angles For Scenes And
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** mayowa 🍀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2084919289790800377)
-
-#### Mo ta
-
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure the
-
-#### Prompt
-
-```text
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure these scenes feel very realistic like what we watch on the TV.
-
-One scene /
-```
-
-### No. 501: I'Ve Been Exploring Multishot Angles For Scenes And
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** mayowa 🍀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2084919289790800377)
-
-#### Mo ta
-
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure the
-
-#### Prompt
-
-```text
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure these scenes feel very realistic like what we watch on the TV.
-
-One scene /
-```
-
-### No. 502: I'Ve Been Exploring Multishot Angles For Scenes And
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** mayowa 🍀
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084919289790800377.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2084919289790800377)
-
-#### Mo ta
-
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure the
-
-#### Prompt
-
-```text
-I've been exploring multishot angles for scenes and here's what I discovered;
-
-I want to be able to shoot a single scene of like 5-10 seconds but with at least 3-4 major camera angles to make sure these scenes feel very realistic like what we watch on the TV.
-
-One scene /
-```
-
-### No. 503: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 480: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11665,7 +11088,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 504: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 481: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11691,7 +11114,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 505: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 482: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11717,7 +11140,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 506: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 483: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11743,7 +11166,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 507: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 484: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11769,7 +11192,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 508: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 485: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11795,7 +11218,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 509: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 486: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11821,7 +11244,7 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 510: Congratulations To All The Winners And Participants Of
+### No. 487: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11841,7 +11264,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 511: Congratulations To All The Winners And Participants Of
+### No. 488: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11861,7 +11284,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 512: Congratulations To All The Winners And Participants Of
+### No. 489: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11881,7 +11304,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 513: Congratulations To All The Winners And Participants Of
+### No. 490: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11901,7 +11324,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 514: Congratulations To All The Winners And Participants Of
+### No. 491: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11921,7 +11344,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 515: Congratulations To All The Winners And Participants Of
+### No. 492: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11941,7 +11364,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 516: Congratulations To All The Winners And Participants Of
+### No. 493: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11961,7 +11384,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 517: Congratulations To All The Winners And Participants Of
+### No. 494: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -11981,7 +11404,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 518: Congratulations To All The Winners And Participants Of
+### No. 495: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12001,7 +11424,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 519: Congratulations To All The Winners And Participants Of
+### No. 496: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12021,7 +11444,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 520: Congratulations To All The Winners And Participants Of
+### No. 497: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12041,7 +11464,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 521: Congratulations To All The Winners And Participants Of
+### No. 498: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12061,7 +11484,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 522: Congratulations To All The Winners And Participants Of
+### No. 499: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12081,7 +11504,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 523: Congratulations To All The Winners And Participants Of
+### No. 500: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12101,7 +11524,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 524: Congratulations To All The Winners And Participants Of
+### No. 501: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12121,7 +11544,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 525: Congratulations To All The Winners And Participants Of
+### No. 502: Congratulations To All The Winners And Participants Of
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12141,7 +11564,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 526: It Is Been Of The Busiest Weeks In
+### No. 503: It Is Been Of The Busiest Weeks In
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12159,7 +11582,7 @@ It is been of the busiest weeks in Gen AI video space.
 It is been of the busiest weeks in Gen AI video space. One of most common questions I get asked is, how much does 10 seconds of AI video cost. here's the answer 👇🏻
 ```
 
-### No. 527: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
+### No. 504: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12188,7 +11611,7 @@ I2V
 #HappyHorseCPP #AIFilmmaking #AIVideo #GenerativeAI
 ```
 
-### No. 528: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
+### No. 505: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12217,38 +11640,7 @@ I2V
 #HappyHorseCPP #AIFilmmaking #AIVideo #GenerativeAI
 ```
 
-### No. 529: My First-Ever Video Prompt Using I Just Tried
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084976623468830836.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084976623468830836.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/jin_okiru/status/2084976623468830836)
-
-#### Mo ta
-
-My first-ever video prompt using  
-
-I just tried it to see if HappyHorse AI really makes your request more imaginable, and it does!
-
-#### Prompt
-
-```text
-My first-ever video prompt using @HappyHorseATH 
-
-I just tried it to see if HappyHorse AI really makes your request more imaginable, and it does!
-
-You can visit this one too: 
-
-#happyhorseai
-
-Prompt in the comment section 👇
-```
-
-### No. 530: 5) Generate The Entire Video Based On Your
+### No. 506: 5) Generate The Entire Video Based On Your
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12269,7 +11661,7 @@ Video : happyhorse
 Enjoy long video !
 ```
 
-### No. 531: 5) Generate The Entire Video Based On Your
+### No. 507: 5) Generate The Entire Video Based On Your
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12290,73 +11682,7 @@ Video : happyhorse
 Enjoy long video !
 ```
 
-### No. 532: 🎬 Same Prompt. Two Different Ai Video Models
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Lilidi · AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084988624420966553.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084988624420966553.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2084988624420966553)
-
-#### Mo ta
-
-🎬 Same prompt.
-
-#### Prompt
-
-```text
-🎬 Same prompt. Two different AI video models.
-
-Left: HappyHorse i2v
-Right: Grok Video 1.5
-
-Which one do you prefer? 👀
-
-Vote below 👇
-
-❤️ HappyHorse from @alibaba_cloud 
-🔁 @grok  Video 1.5
-
-#AI #GenerativeAI #AIvideo #Grok #HappyHorse #LilidiAI
-```
-
-### No. 533: 🎬 Same Prompt. Two Different Ai Video Models
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** Lilidi · AI
-- **Ngon ngu:** `vi-VN`
-- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2084988624420966553.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084988624420966553.mp4" controls muted playsinline width="720"></video>
-- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2084988624420966553)
-
-#### Mo ta
-
-🎬 Same prompt.
-
-#### Prompt
-
-```text
-🎬 Same prompt. Two different AI video models.
-
-Left: HappyHorse i2v
-Right: Grok Video 1.5
-
-Which one do you prefer? 👀
-
-Vote below 👇
-
-❤️ HappyHorse from @alibaba_cloud 
-🔁 @grok  Video 1.5
-
-#AI #GenerativeAI #AIvideo #Grok #HappyHorse #LilidiAI
-```
-
-### No. 534: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 508: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12374,7 +11700,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 535: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 509: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12392,7 +11718,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 536: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 510: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12410,7 +11736,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 537: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 511: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12428,7 +11754,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 538: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 512: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12446,7 +11772,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 539: Grok Video 1.5 Edges It For Me. Cleaner
+### No. 513: Grok Video 1.5 Edges It For Me. Cleaner
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12464,7 +11790,7 @@ Grok Video 1.5 edges it for me.
 @lilidiai @alibaba_cloud Grok Video 1.5 edges it for me. Cleaner lighting, more natural skin tones, and smoother camera movement. The product stays sharp without the dissolve overlays. HappyHorse has stronger lipstick-application action, but the overall cinematic consistency favors the right side.
 ```
 
-### No. 540: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
+### No. 514: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -12494,601 +11820,7 @@ Grok Video 1.5 edges it for me.
 6 Kling 3.0 1080p
 ```
 
-### No. 541: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 542: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 543: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 544: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 545: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 546: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 547: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 548: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 549: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 550: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 551: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 552: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 553: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 554: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 555: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 556: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 557: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 558: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 559: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 560: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 561: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 562: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 563: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 564: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 565: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 566: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 567: This Is The Prompt That Opened The Mystery
-
-- **Danh muc:** `Twitter Community`
-- **Nguon:** `x`
-- **Tac gia:** PSS
-- **Ngon ngu:** `vi-VN`
-- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085006716559868290)
-
-#### Mo ta
-
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue.
-
-#### Prompt
-
-```text
-This is the prompt that opened the mystery 👇
-
-Create a 15-second ultra-realistic vertical 9:16 smartphone vlog in one continuous handheld take with synchronized English dialogue. Use [Image1] as Leila Haddad's strict identity reference and [Image2] as the exact apartment
-```
-
-### No. 568: 🎥 Best Ai Video Generators In The World
+### No. 515: 🎥 Best Ai Video Generators In The World
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13114,7 +11846,7 @@ Top contenders right now:
 • Google Veo 3.1 – Frequently ranked among the best overall for photorealism, prompt adherence, native audio
 ```
 
-### No. 569: My Buddy Made A Cover Of Midnight Star
+### No. 516: My Buddy Made A Cover Of Midnight Star
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13137,7 +11869,7 @@ My buddy made a cover of Midnight Star, so I made an anime version with @HappyHo
 #happyhorse #pixversecpp #pixversecreator
 ```
 
-### No. 570: Why Did It Make A Motorcycle Noise Lol
+### No. 517: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13155,7 +11887,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 571: Why Did It Make A Motorcycle Noise Lol
+### No. 518: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13173,7 +11905,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 572: Why Did It Make A Motorcycle Noise Lol
+### No. 519: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13191,7 +11923,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 573: Why Did It Make A Motorcycle Noise Lol
+### No. 520: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13209,7 +11941,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 574: Why Did It Make A Motorcycle Noise Lol
+### No. 521: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13227,7 +11959,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 575: Why Did It Make A Motorcycle Noise Lol
+### No. 522: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13245,7 +11977,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 576: Why Did It Make A Motorcycle Noise Lol
+### No. 523: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13263,7 +11995,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 577: Why Did It Make A Motorcycle Noise Lol
+### No. 524: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13281,7 +12013,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 578: Why Did It Make A Motorcycle Noise Lol
+### No. 525: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13299,7 +12031,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 579: Why Did It Make A Motorcycle Noise Lol
+### No. 526: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13317,7 +12049,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 580: Why Did It Make A Motorcycle Noise Lol
+### No. 527: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13335,7 +12067,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 581: Why Did It Make A Motorcycle Noise Lol
+### No. 528: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13353,7 +12085,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 582: Why Did It Make A Motorcycle Noise Lol
+### No. 529: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13371,7 +12103,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 583: Why Did It Make A Motorcycle Noise Lol
+### No. 530: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13389,7 +12121,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 584: Why Did It Make A Motorcycle Noise Lol
+### No. 531: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13407,7 +12139,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 585: Why Did It Make A Motorcycle Noise Lol
+### No. 532: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13425,7 +12157,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 586: Why Did It Make A Motorcycle Noise Lol
+### No. 533: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13443,7 +12175,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 587: Why Did It Make A Motorcycle Noise Lol
+### No. 534: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13461,7 +12193,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 588: Why Did It Make A Motorcycle Noise Lol
+### No. 535: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13479,7 +12211,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 589: Why Did It Make A Motorcycle Noise Lol
+### No. 536: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13497,7 +12229,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 590: Why Did It Make A Motorcycle Noise Lol
+### No. 537: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13515,7 +12247,7 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
 ```
 
-### No. 591: Why Did It Make A Motorcycle Noise Lol
+### No. 538: Why Did It Make A Motorcycle Noise Lol
 
 - **Danh muc:** `Twitter Community`
 - **Nguon:** `x`
@@ -13531,6 +12263,1944 @@ Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 an
 
 ```text
 @xiaomiaode5383 Why did it make a motorcycle noise LOL 😂😂😂 (Maybe try HappyHorse 1.1 and add a prompt "As the food began to spin, the phonograph emitted music.")
+```
+
+### No. 539: I Am Creating This Ai Video Using With
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Acell
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/recehtuitt/status/2085206670754627603)
+
+#### Mo ta
+
+I am creating this AI video using  with HappyHorse 1.1 R2V models.
+
+#### Prompt
+
+```text
+I am creating this AI video using @VivaReelai with HappyHorse 1.1 R2V models.
+
+The video was submitted as VivaReel × Wan3.0 AI Creator Festival 2026.
+```
+
+### No. 540: Never Give A Bored Office Worker A Red
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Mo ta
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 541: Never Give A Bored Office Worker A Red
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Mo ta
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 542: Never Give A Bored Office Worker A Red
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Mo ta
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 543: Never Give A Bored Office Worker A Red
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Mo ta
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 544: Never Give A Bored Office Worker A Red
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Sogni.ai
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Mo ta
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 545: When The Cat Joins The Board Meeting Made
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085234378255614220.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085234378255614220.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/jin_okiru/status/2085234378255614220)
+
+#### Mo ta
+
+When the Cat Joins the Board Meeting
+
+Made by  1.1 720p upscale to 1080P
+
+ Prompt below 👇
+
+#### Prompt
+
+```text
+When the Cat Joins the Board Meeting
+
+Made by @HappyHorseATH 1.1 720p upscale to 1080P
+
+ Prompt below 👇
+
+#happyhorse
+```
+
+### No. 546: When The Cat Joins The Board Meeting Made
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085234378255614220.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085234378255614220.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/jin_okiru/status/2085234378255614220)
+
+#### Mo ta
+
+When the Cat Joins the Board Meeting
+
+Made by  1.1 720p upscale to 1080P
+
+ Prompt below 👇
+
+#### Prompt
+
+```text
+When the Cat Joins the Board Meeting
+
+Made by @HappyHorseATH 1.1 720p upscale to 1080P
+
+ Prompt below 👇
+
+#happyhorse
+```
+
+### No. 547: 5000 Free Credits To Give Wan3.0 And Happyhorse
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Ben Makinen
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/BmakinMusic/status/2085251678417142070)
+
+#### Mo ta
+
+5000 free credits to give Wan3.0 and HappyHorse a spin: prizes and awards!
+
+#### Prompt
+
+```text
+5000 free credits to give Wan3.0 and HappyHorse a spin: prizes and awards! Use Invite Code: "BIAIFFS5" to Register at  #vivareel #biaiff #ai #filmfestival #wan3.0 #happyhorse #filmchallenge
+```
+
+### No. 548: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** LOVE YOU RECORDS JAPAN公式
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/loveyourecords/status/2085336184889454693)
+
+#### Mo ta
+
+予熱警視の新曲「遊園地で会った人（feat.Charming）」がワンコーラスフルで聴ける！！！
+
+#### Prompt
+
+```text
+予熱警視の新曲「遊園地で会った人（feat.Charming）」がワンコーラスフルで聴ける！！！
+是非視聴を！！
+Short Music Film『I had this dream. こんな夢を観た 』【Happy Horse × TapNow：「AI MV...  @YouTubeより 
+
+#予熱警視
+#happyhorse #tapnow #TapTV #alibabacloud
+```
+
+### No. 549: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Lilidi · AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2085338845327843675)
+
+#### Mo ta
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
+```
+
+### No. 550: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Lilidi · AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2085338845327843675)
+
+#### Mo ta
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
+```
+
+### No. 551: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Lilidi · AI
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/lilidiai/status/2085338845327843675)
+
+#### Mo ta
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
+```
+
+### No. 552: この度、Tapnow様より 『Happy Horse × Tapnow：自由な発想で夢を創るAi Mvドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きま
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BrainBuster Studio【公式】
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/brainbuster_st/status/2085340469907886136)
+
+#### Mo ta
+
+この度、TapNow様より
+ 『Happy Horse × TapNow：自由な発想で夢を創るAI MVドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きました作品
+『I had this dream.
+
+#### Prompt
+
+```text
+この度、TapNow様より
+ 『Happy Horse × TapNow：自由な発想で夢を創るAI MVドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きました作品
+『I had this dream. _ こんな夢を観た _ 』をいつでも視聴頂けるようYouTubeにて配信開始いたしました❗️
+お暇な時間に大画面で是非。
+```
+
+### No. 553: この度、Tapnow様より 『Happy Horse × Tapnow：自由な発想で夢を創るAi Mvドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きま
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BrainBuster Studio【公式】
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/brainbuster_st/status/2085340469907886136)
+
+#### Mo ta
+
+この度、TapNow様より
+ 『Happy Horse × TapNow：自由な発想で夢を創るAI MVドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きました作品
+『I had this dream.
+
+#### Prompt
+
+```text
+この度、TapNow様より
+ 『Happy Horse × TapNow：自由な発想で夢を創るAI MVドリーム・コンテスト』で傑出ノミネート賞を受賞させて頂きました作品
+『I had this dream. _ こんな夢を観た _ 』をいつでも視聴頂けるようYouTubeにて配信開始いたしました❗️
+お暇な時間に大画面で是非。
+```
+
+### No. 554: What If A Premium Beauty Commercial Could Be
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Synthia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2085342061625290857)
+
+#### Mo ta
+
+What if a premium beauty commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium beauty commercial could be created from a single storyboard? 💄✨
+
+@HappyHorseATH
+
+This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
+```
+
+### No. 555: What If A Premium Beauty Commercial Could Be
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Synthia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2085342061625290857)
+
+#### Mo ta
+
+What if a premium beauty commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium beauty commercial could be created from a single storyboard? 💄✨
+
+@HappyHorseATH
+
+This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
+```
+
+### No. 556: What If A Premium Beauty Commercial Could Be
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Synthia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2085342061625290857)
+
+#### Mo ta
+
+What if a premium beauty commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium beauty commercial could be created from a single storyboard? 💄✨
+
+@HappyHorseATH
+
+This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
+```
+
+### No. 557: What If A Premium Beauty Commercial Could Be
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Synthia
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085342061625290857.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/AIwithSynthia/status/2085342061625290857)
+
+#### Mo ta
+
+What if a premium beauty commercial could be created from a single storyboard?
+
+#### Prompt
+
+```text
+What if a premium beauty commercial could be created from a single storyboard? 💄✨
+
+@HappyHorseATH
+
+This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
+```
+
+### No. 558: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 559: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 560: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 561: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 562: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 563: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 564: Excited To Share That Happyhorse Is Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** ᴍᴜʀᴘʜʏ
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Diplomeme/status/2085345218145194444)
+
+#### Mo ta
+
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
+
+AI filmmaking
+```
+
+### No. 565: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** 月川拓海
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085362276052414753.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085362276052414753.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/tsukikawa2/status/2085362276052414753)
+
+#### Mo ta
+
+Midjourneyで生成したアジア女性の画像を５種類のAIで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴音や小鳥のさえずりが聞こえ、Wan 2.7とPixVerse V6では女性が勝手にセリフをしゃべっていて、驚きました。
+
+#### Prompt
+
+```text
+Midjourneyで生成したアジア女性の画像を５種類のAIで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴音や小鳥のさえずりが聞こえ、Wan 2.7とPixVerse V6では女性が勝手にセリフをしゃべっていて、驚きました。#AI動画 #Midjourney
+```
+
+### No. 566: This Is Best Happyhorse Video Model Creation I
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Chizzydigital
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/Chizzydigital/status/2085415519167922400)
+
+#### Mo ta
+
+This is best Happyhorse video model creation i have seen.
+
+#### Prompt
+
+```text
+This is best Happyhorse video model creation i have seen.
+
+That little jump scare 😂
+```
+
+### No. 567: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 568: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 569: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 570: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 571: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 572: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 573: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 574: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 575: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 576: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 577: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 578: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 579: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 580: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 581: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 582: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 583: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 584: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 585: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 586: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 587: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 588: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 589: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 590: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 591: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 592: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 593: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 594: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 595: Can Ai Make You Taste A Video? 🍯
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** PSS
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085421922268172652.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/PromptSin/status/2085421922268172652)
+
+#### Mo ta
+
+Can AI make you taste a video?
+
+#### Prompt
+
+```text
+Can AI make you taste a video? 🍯
+
+Dew-covered wildflowers, warm toast and a ribbon of liquid gold turn one quiet sunrise into a luxury honey commercial.
+
+Would this make you reach for the jar? 👇
+
+Created with Happy Horse 1.1
+@HappyHorseATH #happyhorse #AIVideo
+```
+
+### No. 596: Got To Know That Will Be Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mayowa 🍀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2085424367538778517)
+
+#### Mo ta
+
+Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
+```
+
+### No. 597: Got To Know That Will Be Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mayowa 🍀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2085424367538778517)
+
+#### Mo ta
+
+Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
+```
+
+### No. 598: Got To Know That Will Be Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mayowa 🍀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2085424367538778517)
+
+#### Mo ta
+
+Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
+```
+
+### No. 599: Got To Know That Will Be Heading To
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mayowa 🍀
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bigZUKO_/status/2085424367538778517)
+
+#### Mo ta
+
+Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
+```
+
+### No. 600: A Short Film "Jing Tong &Amp; The Noodle
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Oprèlia AI
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/OpreliaAI/status/2085431566730145983)
+
+#### Mo ta
+
+A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun project + includes some of the  workflow.
+
+#### Prompt
+
+```text
+A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
+```
+
+### No. 601: A Short Film "Jing Tong &Amp; The Noodle
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Oprèlia AI
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/OpreliaAI/status/2085431566730145983)
+
+#### Mo ta
+
+A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun project + includes some of the  workflow.
+
+#### Prompt
+
+```text
+A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
+```
+
+### No. 602: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** mage.space
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085465790178820244.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085465790178820244.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/MageSpace_/status/2085465790178820244)
+
+#### Mo ta
+
+Introducing Plum Video 
+
+📽️ Seedance 2 &amp; Happy Horse-level quality videos
+🌶 Excels at sensual themes 
+🔊 Strong native audio generation 
+👫 Compatible with Characters, References &amp; Character Voi
+
+#### Prompt
+
+```text
+Introducing Plum Video 
+
+📽️ Seedance 2 &amp; Happy Horse-level quality videos
+🌶 Excels at sensual themes 
+🔊 Strong native audio generation 
+👫 Compatible with Characters, References &amp; Character Voices
+∞ Unlimited Generations for Max
+
+Let's dive in 👇
+```
+
+### No. 603: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Mankyu | AI動画生成
+- **Ngon ngu:** `vi-VN`
+- **Lien ket nguon:** [Xem](https://x.com/manaimovie/status/2085524953882132911)
+
+#### Mo ta
+
+また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『AI Cinema Forum』でTapNowと『10,000 Parallel Universes』からAIを活用した選りすぐりの作品群を上映するみたいです。
+
+#### Prompt
+
+```text
+また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『AI Cinema Forum』でTapNowと『10,000 Parallel Universes』からAIを活用した選りすぐりの作品群を上映するみたいです。
+もちろんHappy Horseを用いて作品も含まれています。
+ヴェネツィアいきたいですね☺️
+```
+
+### No. 604: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 605: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 606: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 607: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 608: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 609: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 610: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 611: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 612: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
+```
+
+### No. 613: This Video Created With Happyhorse 1.1 On Prompt
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** BMX
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085550243366453599.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/bmx_ai13/status/2085550243366453599)
+
+#### Mo ta
+
+This Video created with HappyHorse 1.1 on  
+
+Prompt: Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+#### Prompt
+
+```text
+Style: Inspirational emotional drama with restrained intensity, dialogue driven climax.
+
+Create a 15 second scene behind a dark runway curtain moments before Maya publicly presents evidence against the company https://t.co/FZLL5DfZ3A
 ```
 
 <a id="category-2"></a>
@@ -27834,7 +28504,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-08-06T06:23:17.136Z
+> README nay duoc tao tu dong. 2026-08-07T06:36:30.138Z
 
 ## More Atlas Cloud Tools
 

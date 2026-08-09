@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1348%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1362%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1348** |
+| Total de Prompts | **1362** |
 | Categorias | **13** |
-| Videos de Previa | **1086** |
-| Ultima Atualizacao | **2026-08-08T05:48:48.223Z** |
+| Videos de Previa | **1088** |
+| Ultima Atualizacao | **2026-08-09T06:57:27.433Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **548**
+- [`Twitter Community`](#category-1): **562**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (548)
+### Twitter Community (562)
 
 ### No. 1: Neon-lit city street at night
 
@@ -7150,76 +7150,7 @@ I recently ordered a custom PlayStation 5 Pro from ColorWare and the website sho
 So I used AI to turn those renders into a
 ```
 
-### No. 299: Happy Horse 1.1 Test, Basketball Scene Love The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sparkful
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2082612296887799852)
-
-#### Descricao
-
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
-
-#### Prompt
-
-```text
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
-
-Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
-```
-
-### No. 300: Happy Horse 1.1 Test, Basketball Scene Love The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sparkful
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2082612296887799852)
-
-#### Descricao
-
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
-
-#### Prompt
-
-```text
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
-
-Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
-```
-
-### No. 301: Happy Horse 1.1 Test, Basketball Scene Love The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sparkful
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082612296887799852.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2082612296887799852)
-
-#### Descricao
-
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural.
-
-#### Prompt
-
-```text
-Happy Horse 1.1 test, basketball scene love the face animation here, wonderfully natural. Dialogue pops out without prompting, will try negative prompt to avoid issues.
-
-Action seem to be capable in moderation, with some rough edges, sound effects will need tune up. #happyhorse
-```
-
-### No. 302: Guys, Which Ai Model For Which Type Of
+### No. 299: Guys, Which Ai Model For Which Type Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7243,6 +7174,72 @@ Happy horse
 Grok Imagine
 Google Veo
 Wan
+```
+
+### No. 300: World Cup Ai Challenge —Featured Works
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Descricao
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 301: World Cup Ai Challenge —Featured Works
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Descricao
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
+```
+
+### No. 302: World Cup Ai Challenge —Featured Works
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Descricao
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
 ```
 
 ### No. 303: World Cup Ai Challenge —Featured Works
@@ -7399,73 +7396,7 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 310: World Cup Ai Challenge —Featured Works
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** VivaReel
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Descricao
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 311: World Cup Ai Challenge —Featured Works
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** VivaReel
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Descricao
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 312: World Cup Ai Challenge —Featured Works
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** VivaReel
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
-
-#### Descricao
-
-World Cup AI challenge —Featured works
-
-#### Prompt
-
-```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
-```
-
-### No. 313: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 310: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7485,7 +7416,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 314: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 311: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7505,7 +7436,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 315: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
+### No. 312: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7525,7 +7456,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 316: Ace Data Cloud App Is Now Live In
+### No. 313: Ace Data Cloud App Is Now Live In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7550,7 +7481,7 @@ Type video, image or music into the studio channel with a description of what yo
 If you do want to choose, video runs on Veo, Kling, Luma,
 ```
 
-### No. 317: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+### No. 314: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7568,7 +7499,7 @@ If you do want to choose, video runs on Veo, Kling, Luma,
 そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
 ```
 
-### No. 318: Cinematic Ai Video Creation Just Got Easier Happyhorse
+### No. 315: Cinematic Ai Video Creation Just Got Easier Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7586,7 +7517,7 @@ Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a tota
 @lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
 ```
 
-### No. 319: Experimented With Image-Driven Sound Performances And Had Great
+### No. 316: Experimented With Image-Driven Sound Performances And Had Great
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7607,7 +7538,7 @@ Experimented with image-driven sound performances and had great fun with the new
 Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
 ```
 
-### No. 320: Good Mornyan Sweet Sacchi, Them Better Of Been
+### No. 317: Good Mornyan Sweet Sacchi, Them Better Of Been
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7625,7 +7556,7 @@ Good mornyan sweet Sacchi, them better of been happy horse video years !
 @saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
 ```
 
-### No. 321: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+### No. 318: Try Happyhorse 1.1 For Cinematic Ai Videos Now
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7643,7 +7574,7 @@ Try HappyHorse 1.1 for cinematic AI videos now online.
 @lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
 ```
 
-### No. 322: Would You Step Into A Beautiful Painting... If
+### No. 319: Would You Step Into A Beautiful Painting... If
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7666,7 +7597,7 @@ Would you step into a beautiful painting... if you knew you could never return?
 An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
 ```
 
-### No. 323: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+### No. 320: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7690,6 +7621,81 @@ Executive Report 2026.7.31
 今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
 
 ■セキュリティ・AI Safety関連
+```
+
+### No. 321: Google'S Gemini Omni Flash Debuts At On The
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Artificial Analysis
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Descricao
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 322: Google'S Gemini Omni Flash Debuts At On The
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Artificial Analysis
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Descricao
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
+```
+
+### No. 323: Google'S Gemini Omni Flash Debuts At On The
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Artificial Analysis
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Descricao
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
 ### No. 324: Google'S Gemini Omni Flash Debuts At On The
@@ -7767,82 +7773,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 327: Google'S Gemini Omni Flash Debuts At On The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artificial Analysis
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
-
-#### Descricao
-
-Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conve
-
-#### Prompt
-
-```text
-Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
-```
-
-### No. 328: Google'S Gemini Omni Flash Debuts At On The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artificial Analysis
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
-
-#### Descricao
-
-Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conve
-
-#### Prompt
-
-```text
-Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
-```
-
-### No. 329: Google'S Gemini Omni Flash Debuts At On The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artificial Analysis
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
-
-#### Descricao
-
-Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conve
-
-#### Prompt
-
-```text
-Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
-```
-
-### No. 330: No Massive Studio Budget, Just Pure Ai. 🎬
+### No. 327: No Massive Studio Budget, Just Pure Ai. 🎬
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7867,7 +7798,7 @@ I generated this epic, trending high-fantasy cinematic sequence entirely with Ha
 The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
 ```
 
-### No. 331: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+### No. 328: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7893,7 +7824,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
 ```
 
-### No. 332: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+### No. 329: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7911,7 +7842,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
 ```
 
-### No. 333: With Minimal Prompt I Guess Happy Horse Is
+### No. 330: With Minimal Prompt I Guess Happy Horse Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7932,7 +7863,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 334: With Minimal Prompt I Guess Happy Horse Is
+### No. 331: With Minimal Prompt I Guess Happy Horse Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7953,7 +7884,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 335: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+### No. 332: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7972,7 +7903,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 新华社德黑兰7月30日电
 ```
 
-### No. 336: Everyone Talks About Ai Video Quality. I Wanted
+### No. 333: Everyone Talks About Ai Video Quality. I Wanted
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8001,7 +7932,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 337: Everyone Talks About Ai Video Quality. I Wanted
+### No. 334: Everyone Talks About Ai Video Quality. I Wanted
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8030,7 +7961,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 338: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+### No. 335: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8048,7 +7979,7 @@ The first test was a professional ballet performance
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
 ```
 
-### No. 339: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+### No. 336: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8077,7 +8008,7 @@ A developer @xiaofenggan in our community created an AI short film with VoxCPM2 
 In AI-generated content, keeping the same character voice across different
 ```
 
-### No. 340: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+### No. 337: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8095,7 +8026,7 @@ In AI-generated content, keeping the same character voice across different
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
 ```
 
-### No. 341: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+### No. 338: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8116,7 +8047,7 @@ MiniMax H3 tops Artificial Analysis video editing chart
 Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
 ```
 
-### No. 342: I'Ve Been Testing Happyhorse 1.1, And The Results
+### No. 339: I'Ve Been Testing Happyhorse 1.1, And The Results
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8141,7 +8072,7 @@ From cinematic camera movements to consistent characters and smooth motion, it's
 Whether you're making ads, social content, or
 ```
 
-### No. 343: How To Clone Animated Ads Using Ai In
+### No. 340: How To Clone Animated Ads Using Ai In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8167,7 +8098,7 @@ Tools use: avocadoai dot co
 Models used: GPT Image 2, Seedance 2.0 and
 ```
 
-### No. 344: How To Clone Animated Ads Using Ai In
+### No. 341: How To Clone Animated Ads Using Ai In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8193,7 +8124,7 @@ Tools use: avocadoai do co
 Models used: GPT
 ```
 
-### No. 345: The Bottleneck Just Moved Again Bytedance’S Seed Team
+### No. 342: The Bottleneck Just Moved Again Bytedance’S Seed Team
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8219,7 +8150,7 @@ Video generation just got a lot easier.
 HappyHorse 1.0 climbed to No. 1 on the
 ```
 
-### No. 346: Is Now Back To The Creative Model Battle
+### No. 343: Is Now Back To The Creative Model Battle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8241,7 +8172,7 @@ Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's K
 This week, MiniMax launched their Text/Image-to-Video model: MiniMax
 ```
 
-### No. 347: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+### No. 344: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8267,7 +8198,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 348: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+### No. 345: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8293,7 +8224,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 349: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+### No. 346: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8317,7 +8248,7 @@ Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia�
 Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
 ```
 
-### No. 350: It'S A Good Time For Video Models Lately
+### No. 347: It'S A Good Time For Video Models Lately
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8343,7 +8274,7 @@ Overview
 Beauty-commercial portrait, one continuous shot:
 ```
 
-### No. 351: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+### No. 348: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8364,7 +8295,7 @@ Beauty-commercial portrait, one continuous shot:
 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
 ```
 
-### No. 352: A Wonderful Prompt Happy Horse 1.1 Has Good
+### No. 349: A Wonderful Prompt Happy Horse 1.1 Has Good
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8384,7 +8315,7 @@ Happy horse 1.1 has good quality
 Happy horse 1.1 has good quality
 ```
 
-### No. 353: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+### No. 350: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8406,7 +8337,7 @@ Ai Art Prompt Share Party 🎨👇🏻
 Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
 ```
 
-### No. 354: Seedance 2.5 Has High Sensitivity To Fighting Actions
+### No. 351: Seedance 2.5 Has High Sensitivity To Fighting Actions
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8428,7 +8359,7 @@ But didn't post them.
 Need to change actions to cuteness videos
 ```
 
-### No. 355: Cette Vidéo A Été Générée À L'Aide Du
+### No. 352: Cette Vidéo A Été Générée À L'Aide Du
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8451,7 +8382,7 @@ Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. 
 #edimakor #happyhorse #modeleia
 ```
 
-### No. 356: 3/ Then The Logo Animation. The Agent Strips
+### No. 353: 3/ Then The Logo Animation. The Agent Strips
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8481,7 +8412,7 @@ HappyHorse 1.1 takes both refs and freestyles.
 One brief,
 ```
 
-### No. 357: Happyhorse Is Becoming One Of My Favorite Ai
+### No. 354: Happyhorse Is Becoming One Of My Favorite Ai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8499,7 +8430,7 @@ HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and ser
 @HappyHorseATH HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and seriously fun to use! 🐴🔥🎬
 ```
 
-### No. 358: My Dad Grows Cherries. My Mom Makes Cherry
+### No. 355: My Dad Grows Cherries. My Mom Makes Cherry
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8528,7 +8459,7 @@ No film crew. No studio. One prompt in @HappyHorseATH 1.1 and an afternoon.
 Real jam from a tiny
 ```
 
-### No. 359: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
+### No. 356: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8546,7 +8477,7 @@ HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visua
 HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visual Brands  via @LinkedI
 ```
 
-### No. 360: I Think Version 1.1 Put Happy Horse Right
+### No. 357: I Think Version 1.1 Put Happy Horse Right
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8566,7 +8497,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 361: I Think Version 1.1 Put Happy Horse Right
+### No. 358: I Think Version 1.1 Put Happy Horse Right
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8586,7 +8517,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 362: Is Happy Horse Free? And Also Can Drop
+### No. 359: Is Happy Horse Free? And Also Can Drop
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8602,6 +8533,72 @@ Is happy horse free?
 
 ```text
 @BatsouElef @HappyHorseATH Is happy horse free? And also can drop the prompt?
+```
+
+### No. 360: Same Prompt. Two Videos. Can You Tell Which
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** POWER AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
+
+#### Descricao
+
+Same prompt.
+
+#### Prompt
+
+```text
+Same prompt. Two videos.
+Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
+```
+
+### No. 361: Same Prompt. Two Videos. Can You Tell Which
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** POWER AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
+
+#### Descricao
+
+Same prompt.
+
+#### Prompt
+
+```text
+Same prompt. Two videos.
+Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
+```
+
+### No. 362: Same Prompt. Two Videos. Can You Tell Which
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** POWER AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
+
+#### Descricao
+
+Same prompt.
+
+#### Prompt
+
+```text
+Same prompt. Two videos.
+Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
 ### No. 363: Same Prompt. Two Videos. Can You Tell Which
@@ -8648,73 +8645,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 365: Same Prompt. Two Videos. Can You Tell Which
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** POWER AI
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
-
-#### Descricao
-
-Same prompt.
-
-#### Prompt
-
-```text
-Same prompt. Two videos.
-Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
-```
-
-### No. 366: Same Prompt. Two Videos. Can You Tell Which
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** POWER AI
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
-
-#### Descricao
-
-Same prompt.
-
-#### Prompt
-
-```text
-Same prompt. Two videos.
-Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
-```
-
-### No. 367: Same Prompt. Two Videos. Can You Tell Which
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** POWER AI
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
-
-#### Descricao
-
-Same prompt.
-
-#### Prompt
-
-```text
-Same prompt. Two videos.
-Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
-```
-
-### No. 368: Episode 4 Of My New Series, Anime Ads
+### No. 365: Episode 4 Of My New Series, Anime Ads
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8739,7 +8670,7 @@ What if a courier company launched an anime commercial instead of a traditional 
 Meet Kai, an express courier racing against time to deliver an urgent package. From accepting the job to navigating the city and
 ```
 
-### No. 369: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
+### No. 366: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8772,7 +8703,7 @@ qwen3.7-plus         Text, Reasoning, Vision
 qwen3.7-max          Text,
 ```
 
-### No. 370: This Night Marked Soulscape'S Evolution From A Global
+### No. 367: This Night Marked Soulscape'S Evolution From A Global
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8792,7 +8723,7 @@ This night marked Soulscape's evolution from a global creative community into a 
 Last week in Los Angeles, we brought together NVIDIA, Alibaba Cloud, WAN, Happy Horse, and 130 leaders across Hollywood and
 ```
 
-### No. 371: Happy Horse’S Is A Decent Video Model If
+### No. 368: Happy Horse’S Is A Decent Video Model If
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8810,7 +8741,7 @@ Happy horse’s is a decent video model if u use the correct video prompt built 
 @HappyHorseATH Happy horse’s is a decent video model if u use the correct video prompt built to work with it.. Right now seedance, happy horse, minimax H3 best models out
 ```
 
-### No. 372: You Uploaded One Photo Of Your Car. 6
+### No. 369: You Uploaded One Photo Of Your Car. 6
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8837,7 +8768,7 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 373: You Uploaded One Photo Of Your Car. 6
+### No. 370: You Uploaded One Photo Of Your Car. 6
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8864,7 +8795,7 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 374: Tested The Same Text-To-Video Action Prompt On Happyhorse
+### No. 371: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8888,7 +8819,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 375: Tested The Same Text-To-Video Action Prompt On Happyhorse
+### No. 372: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8912,7 +8843,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 376: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
+### No. 373: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8935,31 +8866,7 @@ Side-by-side comparison of stomping videos.
 踩踏视频的横向对比，HappyHorse/Sora2/Seedance。
 ```
 
-### No. 377: What Started As An Experiment Turned Into A
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** CineAi Studio
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084573657305858172.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084573657305858172.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Cineai3/status/2084573657305858172)
-
-#### Descricao
-
-What started as an experiment turned into a cinematic AI journey.
-
-#### Prompt
-
-```text
-What started as an experiment turned into a cinematic AI journey.
-Created entirely with HappyHorse, exploring storytelling, motion, and visual imagination through AI-powered filmmaking.
-@HappyHorseATH @happyhorseai
-#horseinspodump #happyhorse #AIFilmmaking #GenerativeAI
-```
-
-### No. 378: Big One ☮️ Is Heading To Venice This
+### No. 374: Big One ☮️ Is Heading To Venice This
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8981,7 +8888,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 379: Big One ☮️ Is Heading To Venice This
+### No. 375: Big One ☮️ Is Heading To Venice This
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9003,7 +8910,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 380: Anyway, More River Floating. This Is Getting Really
+### No. 376: Anyway, More River Floating. This Is Getting Really
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9027,7 +8934,7 @@ All my images, and the majority of my non-grok videos are generated locally on m
 Most video models,
 ```
 
-### No. 381: Just Pushed An Update To [Anathema]( That Enables
+### No. 377: Just Pushed An Update To [Anathema]( That Enables
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9045,7 +8952,7 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 382: Just Pushed An Update To [Anathema]( That Enables
+### No. 378: Just Pushed An Update To [Anathema]( That Enables
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9063,7 +8970,7 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 383: No Ai Model Is Perfect. Fast-Motion Physics And
+### No. 379: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9087,7 +8994,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 384: No Ai Model Is Perfect. Fast-Motion Physics And
+### No. 380: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9111,7 +9018,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 385: Craziest Week For Video Models: Minimax H3 Seedance
+### No. 381: Craziest Week For Video Models: Minimax H3 Seedance
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9139,7 +9046,7 @@ Flux 3
 WAN 3.0/HappyHorse 2?!
 ```
 
-### No. 386: Do Not Sleep On Im Building An Entire
+### No. 382: Do Not Sleep On Im Building An Entire
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9166,7 +9073,7 @@ im building an entire library of VJ clips using happyhorse!
 possibly the most underrated video model yet
 ```
 
-### No. 387: Ai Can Make Learning Colors Much More Engaging
+### No. 383: Ai Can Make Learning Colors Much More Engaging
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9195,7 +9102,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 388: Ai Can Make Learning Colors Much More Engaging
+### No. 384: Ai Can Make Learning Colors Much More Engaging
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9224,7 +9131,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 389: Ai Can Make Learning Colors Much More Engaging
+### No. 385: Ai Can Make Learning Colors Much More Engaging
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9253,7 +9160,7 @@ Made with HappyHorse 1.1 on @HappyHorseATH
 Prompt below 👇🏻
 ```
 
-### No. 390: Ai Can Make Learning Colors Much More Engaging
+### No. 386: Ai Can Make Learning Colors Much More Engaging
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9280,6 +9187,110 @@ AI can make learning colors much more engaging for kids 🎨
 Made with HappyHorse 1.1 on @HappyHorseATH
 
 Prompt below 👇🏻
+```
+
+### No. 387: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+
+#### Descricao
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### Prompt
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
+```
+
+### No. 388: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+
+#### Descricao
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### Prompt
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
+```
+
+### No. 389: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+
+#### Descricao
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### Prompt
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
+```
+
+### No. 390: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+
+#### Descricao
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### Prompt
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
 ```
 
 ### No. 391: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
@@ -9360,108 +9371,84 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 394: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 394: Congratulations To All The Winners And Participants Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Autor:** Alibaba Cloud
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### Descricao
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### Prompt
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 395: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 395: Congratulations To All The Winners And Participants Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Autor:** Alibaba Cloud
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### Descricao
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### Prompt
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 396: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 396: Congratulations To All The Winners And Participants Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Autor:** Alibaba Cloud
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### Descricao
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### Prompt
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 397: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 397: Congratulations To All The Winners And Participants Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Autor:** Alibaba Cloud
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### Descricao
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### Prompt
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
 ### No. 398: Congratulations To All The Winners And Participants Of
@@ -9704,87 +9691,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 410: Congratulations To All The Winners And Participants Of
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alibaba Cloud
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### Descricao
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### Prompt
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 411: Congratulations To All The Winners And Participants Of
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alibaba Cloud
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### Descricao
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### Prompt
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 412: Congratulations To All The Winners And Participants Of
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alibaba Cloud
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### Descricao
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### Prompt
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 413: Congratulations To All The Winners And Participants Of
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alibaba Cloud
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### Descricao
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### Prompt
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 414: It Is Been Of The Busiest Weeks In
+### No. 410: It Is Been Of The Busiest Weeks In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9802,107 +9709,7 @@ It is been of the busiest weeks in Gen AI video space.
 It is been of the busiest weeks in Gen AI video space. One of most common questions I get asked is, how much does 10 seconds of AI video cost. here's the answer 👇🏻
 ```
 
-### No. 415: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Manish Bhati
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084953373850357906.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084953373850357906.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/mahivisuals/status/2084953373850357906)
-
-#### Descricao
-
-Testing AI-generated sports cinematics.
-
-#### Prompt
-
-```text
-Testing AI-generated sports cinematics. 🥊
-
-Exploring realistic wrestling action, crowd energy, live commentary, and broadcast-style visuals one experiment at a time.
-
-Crafted in @HappyHorseATH
-Happy Horse 1.1
-I2V
-
-#HappyHorseCPP #AIFilmmaking #AIVideo #GenerativeAI
-```
-
-### No. 416: Testing Ai-Generated Sports Cinematics. 🥊 Exploring Realistic Wrestling
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Manish Bhati
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084953373850357906.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084953373850357906.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/mahivisuals/status/2084953373850357906)
-
-#### Descricao
-
-Testing AI-generated sports cinematics.
-
-#### Prompt
-
-```text
-Testing AI-generated sports cinematics. 🥊
-
-Exploring realistic wrestling action, crowd energy, live commentary, and broadcast-style visuals one experiment at a time.
-
-Crafted in @HappyHorseATH
-Happy Horse 1.1
-I2V
-
-#HappyHorseCPP #AIFilmmaking #AIVideo #GenerativeAI
-```
-
-### No. 417: 5) Generate The Entire Video Based On Your
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kliptix AI
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/kliptixai/status/2084985102459707791)
-
-#### Descricao
-
-5) Generate the entire video based on your desired duration and the template.
-
-#### Prompt
-
-```text
-5) Generate the entire video based on your desired duration and the template.
-Image : seedance
-Video : happyhorse 
-Enjoy long video !
-```
-
-### No. 418: 5) Generate The Entire Video Based On Your
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Kliptix AI
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/kliptixai/status/2084985102459707791)
-
-#### Descricao
-
-5) Generate the entire video based on your desired duration and the template.
-
-#### Prompt
-
-```text
-5) Generate the entire video based on your desired duration and the template.
-Image : seedance
-Video : happyhorse 
-Enjoy long video !
-```
-
-### No. 419: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
+### No. 411: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9932,7 +9739,7 @@ Enjoy long video !
 6 Kling 3.0 1080p
 ```
 
-### No. 420: 🎥 Best Ai Video Generators In The World
+### No. 412: 🎥 Best Ai Video Generators In The World
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9958,7 +9765,7 @@ Top contenders right now:
 • Google Veo 3.1 – Frequently ranked among the best overall for photorealism, prompt adherence, native audio
 ```
 
-### No. 421: My Buddy Made A Cover Of Midnight Star
+### No. 413: My Buddy Made A Cover Of Midnight Star
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9981,7 +9788,7 @@ My buddy made a cover of Midnight Star, so I made an anime version with @HappyHo
 #happyhorse #pixversecpp #pixversecreator
 ```
 
-### No. 422: I Am Creating This Ai Video Using With
+### No. 414: I Am Creating This Ai Video Using With
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10004,7 +9811,7 @@ I am creating this AI video using @VivaReelai with HappyHorse 1.1 R2V models.
 The video was submitted as VivaReel × Wan3.0 AI Creator Festival 2026.
 ```
 
-### No. 423: Never Give A Bored Office Worker A Red
+### No. 415: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10029,7 +9836,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 424: Never Give A Bored Office Worker A Red
+### No. 416: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10054,7 +9861,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 425: Never Give A Bored Office Worker A Red
+### No. 417: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10079,7 +9886,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 426: Never Give A Bored Office Worker A Red
+### No. 418: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10104,7 +9911,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 427: Never Give A Bored Office Worker A Red
+### No. 419: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10129,7 +9936,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 428: 5000 Free Credits To Give Wan3.0 And Happyhorse
+### No. 420: 5000 Free Credits To Give Wan3.0 And Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10147,7 +9954,7 @@ Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. 
 5000 free credits to give Wan3.0 and HappyHorse a spin: prizes and awards! Use Invite Code: "BIAIFFS5" to Register at  #vivareel #biaiff #ai #filmfestival #wan3.0 #happyhorse #filmchallenge
 ```
 
-### No. 429: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
+### No. 421: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10170,7 +9977,7 @@ Short Music Film『I had this dream. こんな夢を観た 』【Happy Horse × 
 #happyhorse #tapnow #TapTV #alibabacloud
 ```
 
-### No. 430: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 422: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10204,7 +10011,7 @@ Which model nailed it better?
 #AI #HappyHorse #Grok
 ```
 
-### No. 431: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 423: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10238,7 +10045,7 @@ Which model nailed it better?
 #AI #HappyHorse #Grok
 ```
 
-### No. 432: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 424: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10272,7 +10079,7 @@ Which model nailed it better?
 #AI #HappyHorse #Grok
 ```
 
-### No. 433: Excited To Share That Happyhorse Is Heading To
+### No. 425: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10294,7 +10101,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 434: Excited To Share That Happyhorse Is Heading To
+### No. 426: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10316,7 +10123,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 435: Excited To Share That Happyhorse Is Heading To
+### No. 427: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10338,7 +10145,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 436: Excited To Share That Happyhorse Is Heading To
+### No. 428: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10360,7 +10167,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 437: Excited To Share That Happyhorse Is Heading To
+### No. 429: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10382,7 +10189,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 438: Excited To Share That Happyhorse Is Heading To
+### No. 430: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10404,7 +10211,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 439: Excited To Share That Happyhorse Is Heading To
+### No. 431: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10426,7 +10233,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 440: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
+### No. 432: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10447,7 +10254,7 @@ Midjourneyで生成したアジア女性の画像を５種類のAIで動画化�
 Midjourneyで生成したアジア女性の画像を５種類のAIで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴音や小鳥のさえずりが聞こえ、Wan 2.7とPixVerse V6では女性が勝手にセリフをしゃべっていて、驚きました。#AI動画 #Midjourney
 ```
 
-### No. 441: This Is Best Happyhorse Video Model Creation I
+### No. 433: This Is Best Happyhorse Video Model Creation I
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10467,99 +10274,7 @@ This is best Happyhorse video model creation i have seen.
 That little jump scare 😂
 ```
 
-### No. 442: Got To Know That Will Be Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** mayowa 🍀
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2085424367538778517)
-
-#### Descricao
-
-Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
-```
-
-### No. 443: Got To Know That Will Be Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** mayowa 🍀
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2085424367538778517)
-
-#### Descricao
-
-Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
-```
-
-### No. 444: Got To Know That Will Be Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** mayowa 🍀
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2085424367538778517)
-
-#### Descricao
-
-Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
-```
-
-### No. 445: Got To Know That Will Be Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** mayowa 🍀
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085424367538778517.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2085424367538778517)
-
-#### Descricao
-
-Got to know that  will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Got to know that @HappyHorseATH will be heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with TapNow, they will be presenting a selection of AI-powered films from 10,000 Parallel Universes ( including several titles
-```
-
-### No. 446: A Short Film "Jing Tong &Amp; The Noodle
+### No. 434: A Short Film "Jing Tong &Amp; The Noodle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10577,7 +10292,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 447: A Short Film "Jing Tong &Amp; The Noodle
+### No. 435: A Short Film "Jing Tong &Amp; The Noodle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10595,7 +10310,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 448: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
+### No. 436: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10629,7 +10344,7 @@ Introducing Plum Video
 Let's dive in 👇
 ```
 
-### No. 449: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
+### No. 437: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10649,7 +10364,7 @@ Let's dive in 👇
 ヴェネツィアいきたいですね☺️
 ```
 
-### No. 450: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
+### No. 438: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10671,7 +10386,7 @@ Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测
 Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开源。目前只开源到 WAN 2.2，支持本地部署。
 ```
 
-### No. 451: Don'T Let Her Smile Fool You… 😏 Made
+### No. 439: Don'T Let Her Smile Fool You… 😏 Made
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10701,7 +10416,7 @@ Prompt in the com section 👇
 #happyhorse
 ```
 
-### No. 452: Don'T Let Her Smile Fool You… 😏 Made
+### No. 440: Don'T Let Her Smile Fool You… 😏 Made
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10731,7 +10446,7 @@ Prompt in the com section 👇
 #happyhorse
 ```
 
-### No. 453: Don'T Let Her Smile Fool You… 😏 Made
+### No. 441: Don'T Let Her Smile Fool You… 😏 Made
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10761,7 +10476,7 @@ Prompt in the com section 👇
 #happyhorse
 ```
 
-### No. 454: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
+### No. 442: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10779,7 +10494,7 @@ HappyHorse 1.1 turns one prompt into cinematic 15 second drama
 @bmx_ai13 @HappyHorseATH HappyHorse 1.1 turns one prompt into cinematic 15 second drama
 ```
 
-### No. 455: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 443: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10814,7 +10529,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 456: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 444: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10849,7 +10564,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 457: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 445: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10884,7 +10599,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 458: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 446: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10919,7 +10634,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 459: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 447: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10954,7 +10669,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 460: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 448: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10989,7 +10704,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 461: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+### No. 449: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11024,7 +10739,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 462: This Video Created With Happyhorse 1.1 On Prompt
+### No. 450: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11049,7 +10764,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 463: This Video Created With Happyhorse 1.1 On Prompt
+### No. 451: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11074,7 +10789,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 464: This Video Created With Happyhorse 1.1 On Prompt
+### No. 452: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11099,7 +10814,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 465: This Video Created With Happyhorse 1.1 On Prompt
+### No. 453: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11124,7 +10839,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 466: This Video Created With Happyhorse 1.1 On Prompt
+### No. 454: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11149,7 +10864,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 467: This Video Created With Happyhorse 1.1 On Prompt
+### No. 455: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11174,7 +10889,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 468: This Video Created With Happyhorse 1.1 On Prompt
+### No. 456: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11199,7 +10914,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 469: This Video Created With Happyhorse 1.1 On Prompt
+### No. 457: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11224,7 +10939,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 470: This Video Created With Happyhorse 1.1 On Prompt
+### No. 458: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11249,7 +10964,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 471: This Video Created With Happyhorse 1.1 On Prompt
+### No. 459: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11274,7 +10989,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 472: This Video Created With Happyhorse 1.1 On Prompt
+### No. 460: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11299,7 +11014,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 473: This Video Created With Happyhorse 1.1 On Prompt
+### No. 461: This Video Created With Happyhorse 1.1 On Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11324,711 +11039,7 @@ Style: Emotional fashion thriller, grounded performance, controlled tension, dia
 Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
 ```
 
-### No. 474: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 475: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 476: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 477: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 478: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 479: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 480: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 481: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 482: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 483: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 484: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 485: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 486: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 487: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 488: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 489: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 490: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 491: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 492: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 493: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 494: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 495: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 496: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 497: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 498: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 499: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 500: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 501: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 502: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 503: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 504: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 505: This Is The Prompt Behind The Most Treacherous
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085622033971564661)
-
-#### Descricao
-
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16.
-
-#### Prompt
-
-```text
-This is the prompt behind the most treacherous coffee 👇
-
-15-second ultra-realistic vertical smartphone vlog, 9:16. Use [Image1] as the strict identity reference and [Image2] as the exact opening composition, outfit, coffee cup, café entrance, lighting and weather reference.
-```
-
-### No. 506: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 462: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12059,7 +11070,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 507: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 463: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12090,7 +11101,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 508: We Created A Commercial-Style Promotional Video For Happyhorse
+### No. 464: We Created A Commercial-Style Promotional Video For Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12111,7 +11122,7 @@ We created a commercial-style promotional video for HappyHorse featuring digital
 We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
 ```
 
-### No. 509: We Created A Commercial-Style Promotional Video For Happyhorse
+### No. 465: We Created A Commercial-Style Promotional Video For Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12132,7 +11143,7 @@ We created a commercial-style promotional video for HappyHorse featuring digital
 We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
 ```
 
-### No. 510: We Created A Commercial-Style Promotional Video For Happyhorse
+### No. 466: We Created A Commercial-Style Promotional Video For Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12153,7 +11164,7 @@ We created a commercial-style promotional video for HappyHorse featuring digital
 We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
 ```
 
-### No. 511: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 467: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12186,7 +11197,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 512: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 468: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12219,7 +11230,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 513: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 469: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12252,7 +11263,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 514: The Face Consistency On This Is Crazy For
+### No. 470: The Face Consistency On This Is Crazy For
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12270,7 +11281,7 @@ The face consistency on this is crazy for a 15s clip.
 @Just_sharon7 @HappyHorseATH The face consistency on this is crazy for a 15s clip. Reference-to-video on HappyHorse 1.1 is clearly a different level.
 ```
 
-### No. 515: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 471: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12292,7 +11303,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 516: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 472: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12314,7 +11325,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 517: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 473: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12336,7 +11347,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 518: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 474: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12358,7 +11369,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 519: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 475: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12380,7 +11391,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 520: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 476: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12402,7 +11413,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 521: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 477: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12424,7 +11435,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 522: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 478: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12446,7 +11457,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 523: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 479: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12468,7 +11479,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 524: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 480: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12490,7 +11501,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 525: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 481: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12512,7 +11523,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 526: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 482: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12534,7 +11545,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 527: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 483: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12556,7 +11567,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 528: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 484: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12578,7 +11589,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 529: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 485: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12600,7 +11611,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 530: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 486: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12622,7 +11633,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 531: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 487: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12644,7 +11655,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 532: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 488: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12666,7 +11677,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 533: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 489: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12688,7 +11699,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 534: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 490: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12710,7 +11721,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 535: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 491: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12732,7 +11743,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 536: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 492: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12754,7 +11765,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 537: The Water Appears Tranquil, But Hidden Underneath Is
+### No. 493: The Water Appears Tranquil, But Hidden Underneath Is
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12776,7 +11787,7 @@ The water appears tranquil, but hidden underneath is a grotesque and glittering 
 #happyhorse #ai #cyberpunk
 ```
 
-### No. 538: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
+### No. 494: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12804,7 +11815,7 @@ Limited-time Night 50% Off
 Text Generation,Reasoning
 ```
 
-### No. 539: What If A Premium Beauty Commercial Could Be
+### No. 495: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12829,7 +11840,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 540: What If A Premium Beauty Commercial Could Be
+### No. 496: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12854,7 +11865,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 541: What If A Premium Beauty Commercial Could Be
+### No. 497: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12879,7 +11890,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 542: What If A Premium Beauty Commercial Could Be
+### No. 498: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12904,7 +11915,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 543: What If A Premium Beauty Commercial Could Be
+### No. 499: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12929,7 +11940,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 544: Two Models Shipped On July 31. I Think
+### No. 500: Two Models Shipped On July 31. I Think
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12949,7 +11960,7 @@ Two models shipped on July 31. I think we'll look back on that day as a turning 
 On the LLM side, DeepSeek V4 Flash 0731 dropped. People can argue about whether it's Opus/Fable-class. Harder to argue with is that a 13B-active model now beats DeepSeek's own
 ```
 
-### No. 545: Happy Horse 1.1 Prompt: 👇
+### No. 501: Happy Horse 1.1 Prompt: 👇
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12972,7 +11983,7 @@ Prompt: 👇
 👇 https://t.co/vBVstQf0XD
 ```
 
-### No. 546: 🚨 Openai Just Shut Down Sora. What Replaced
+### No. 502: 🚨 Openai Just Shut Down Sora. What Replaced
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12998,7 +12009,7 @@ Prompt: 👇
 the inventor of viral ai video just got
 ```
 
-### No. 547: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
+### No. 503: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13029,7 +12040,7 @@ the inventor of viral ai video just got
 ・3月24日
 ```
 
-### No. 548: Trying To Push The Frontier Here. Having Access
+### No. 504: Trying To Push The Frontier Here. Having Access
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13045,6 +12056,1346 @@ Trying to push the frontier here.
 
 ```text
 @Shreyassanthu77 Trying to push the frontier here. Having access to Qwen, Wan, HappyHorse via alibaba is quite nice. I’m starting to get a bit more into video 🙈
+```
+
+### No. 505: Check Out Happy-Horse Rescue-Sanctuary'S Video!
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AmericaOnlyNP
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/NursesSavingUSA/status/2085930355152900203)
+
+#### Descricao
+
+Check out Happy-horse Rescue-sanctuary's video!
+
+#### Prompt
+
+```text
+Check out Happy-horse Rescue-sanctuary's video! #TikTok
+```
+
+### No. 506: Ai-Made Vfx — Faster. Better. Smarter. From Background
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** CineAi Studio
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2085938603973337089/vid/avc1/720x720/ChOxVTsixQeJbAA_.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2085938603973337089/vid/avc1/720x720/ChOxVTsixQeJbAA_.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Cineai3/status/2085938758936113411)
+
+#### Descricao
+
+AI-Made VFX — Faster.
+
+#### Prompt
+
+```text
+AI-Made VFX — Faster. Better. Smarter. 
+From background replacement and character replacement to facial expression matching 
+We’ve also created a step-by-step MD guide to follow the workflow.
+Want to try it? DM us — we’ll share the guide
+@HappyHorseATH
+
+#HappyHorse #VisualEffects
+```
+
+### No. 507: Ai-Made Vfx — Faster. Better. Smarter. From Background
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** CineAi Studio
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2085938603973337089/vid/avc1/720x720/ChOxVTsixQeJbAA_.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2085938603973337089/vid/avc1/720x720/ChOxVTsixQeJbAA_.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Cineai3/status/2085938758936113411)
+
+#### Descricao
+
+AI-Made VFX — Faster.
+
+#### Prompt
+
+```text
+AI-Made VFX — Faster. Better. Smarter. 
+From background replacement and character replacement to facial expression matching 
+We’ve also created a step-by-step MD guide to follow the workflow.
+Want to try it? DM us — we’ll share the guide
+@HappyHorseATH
+
+#HappyHorse #VisualEffects
+```
+
+### No. 508: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 509: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 510: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 511: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 512: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 513: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 514: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 515: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 516: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 517: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 518: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 519: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 520: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 521: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 522: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 523: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 524: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 525: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 526: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 527: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 528: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 529: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 530: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 531: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 532: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 533: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 534: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 535: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 536: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 537: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 538: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 539: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 540: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 541: The Prompt Behind The Driest Underwater Delivery Ever
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2085984417265402055)
+
+#### Descricao
+
+The prompt behind the driest underwater delivery ever attempted.
+
+#### Prompt
+
+```text
+The prompt behind the driest underwater delivery ever attempted. 🛵🐠
+
+TITLE: THE IMPOSSIBLE DELIVERY
+
+FORMAT
+Exactly 15 seconds, 16:9 landscape, original premium stylized 3D animated comedy, cinematic underwater lighting, expressive feature-film character animation, synchronized
+```
+
+### No. 542: I'Ve Not Used Flux Before So I Can'T
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** mayowa 🍀
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2086005639197622611)
+
+#### Descricao
+
+I've not used flux before so I can't judge but from a similar experience.
+
+#### Prompt
+
+```text
+I've not used flux before so I can't judge but from a similar experience.
+
+I generated bunch of videos with Kling 3.0, grok video 1.5 and happy horse 1.1, 
+
+and yes aside, from video quality, Happy horse 1.1 feels way smarter than the others and just better overall.
+
+If we see a
+```
+
+### No. 543: I'Ve Not Used Flux Before So I Can'T
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** mayowa 🍀
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2086005639197622611)
+
+#### Descricao
+
+I've not used flux before so I can't judge but from a similar experience.
+
+#### Prompt
+
+```text
+I've not used flux before so I can't judge but from a similar experience.
+
+I generated bunch of videos with Kling 3.0, grok video 1.5 and happy horse 1.1, 
+
+and yes aside, from video quality, Happy horse 1.1 feels way smarter than the others and just better overall.
+
+If we see a
+```
+
+### No. 544: I'Ve Not Used Flux Before So I Can'T
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** mayowa 🍀
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2086005639197622611)
+
+#### Descricao
+
+I've not used flux before so I can't judge but from a similar experience.
+
+#### Prompt
+
+```text
+I've not used flux before so I can't judge but from a similar experience.
+
+I generated bunch of videos with Kling 3.0, grok video 1.5 and happy horse 1.1, 
+
+and yes aside, from video quality, Happy horse 1.1 feels way smarter than the others and just better overall.
+
+If we see a
+```
+
+### No. 545: I'Ve Not Used Flux Before So I Can'T
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** mayowa 🍀
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2086005639197622611)
+
+#### Descricao
+
+I've not used flux before so I can't judge but from a similar experience.
+
+#### Prompt
+
+```text
+I've not used flux before so I can't judge but from a similar experience.
+
+I generated bunch of videos with Kling 3.0, grok video 1.5 and happy horse 1.1, 
+
+and yes aside, from video quality, Happy horse 1.1 feels way smarter than the others and just better overall.
+
+If we see a
+```
+
+### No. 546: I'Ve Not Used Flux Before So I Can'T
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** mayowa 🍀
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/bigZUKO_/status/2086005639197622611)
+
+#### Descricao
+
+I've not used flux before so I can't judge but from a similar experience.
+
+#### Prompt
+
+```text
+I've not used flux before so I can't judge but from a similar experience.
+
+I generated bunch of videos with Kling 3.0, grok video 1.5 and happy horse 1.1, 
+
+and yes aside, from video quality, Happy horse 1.1 feels way smarter than the others and just better overall.
+
+If we see a
+```
+
+### No. 547: I'Ve Been Enjoying A Small Mental Rest Days
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sparkful
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2086005714598932552)
+
+#### Descricao
+
+I've been enjoying a small mental rest days, back to creating tmr.
+
+#### Prompt
+
+```text
+I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
+```
+
+### No. 548: I'Ve Been Enjoying A Small Mental Rest Days
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sparkful
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2086005714598932552)
+
+#### Descricao
+
+I've been enjoying a small mental rest days, back to creating tmr.
+
+#### Prompt
+
+```text
+I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
+```
+
+### No. 549: I'Ve Been Enjoying A Small Mental Rest Days
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sparkful
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2086005714598932552)
+
+#### Descricao
+
+I've been enjoying a small mental rest days, back to creating tmr.
+
+#### Prompt
+
+```text
+I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
+```
+
+### No. 550: I'Ve Been Enjoying A Small Mental Rest Days
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sparkful
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14)
+
+<video src="https://video.twimg.com/amplify_video/2086005190059249664/vid/avc1/1280x720/DBelkd9I46MkWCIv.mp4?tag=14" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/SparkfulArt/status/2086005714598932552)
+
+#### Descricao
+
+I've been enjoying a small mental rest days, back to creating tmr.
+
+#### Prompt
+
+```text
+I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
+```
+
+### No. 551: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** moeyan@グローバルにHR
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/moeyangogo55/status/2086016106972803310)
+
+#### Descricao
+
+Q.
+
+#### Prompt
+
+```text
+Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？
+
+A. 要点は2つ
+①社内が「ベンチャーの集合体」になっている
+- 小さなプロダクトチームが多数あり、各チームが独立してどんどん開発を進める
+- 社内で競争させる構造。動画モデルの HappyHorse と
+```
+
+### No. 552: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** moeyan@グローバルにHR
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/moeyangogo55/status/2086016106972803310)
+
+#### Descricao
+
+Q.
+
+#### Prompt
+
+```text
+Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？
+
+A. 要点は2つ
+①社内が「ベンチャーの集合体」になっている
+- 小さなプロダクトチームが多数あり、各チームが独立してどんどん開発を進める
+- 社内で競争させる構造。動画モデルの HappyHorse と
+```
+
+### No. 553: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** moeyan@グローバルにHR
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/moeyangogo55/status/2086016106972803310)
+
+#### Descricao
+
+Q.
+
+#### Prompt
+
+```text
+Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？
+
+A. 要点は2つ
+①社内が「ベンチャーの集合体」になっている
+- 小さなプロダクトチームが多数あり、各チームが独立してどんどん開発を進める
+- 社内で競争させる構造。動画モデルの HappyHorse と
+```
+
+### No. 554: The Combo: Seedream + Happyhorse + Storyboard By
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kliptix AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/kliptixai/status/2086097503414317479)
+
+#### Descricao
+
+The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
+
+#### Prompt
+
+```text
+The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
+```
+
+### No. 555: The Combo: Seedream + Happyhorse + Storyboard By
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kliptix AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/kliptixai/status/2086097503414317479)
+
+#### Descricao
+
+The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
+
+#### Prompt
+
+```text
+The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
+```
+
+### No. 556: The Combo: Seedream + Happyhorse + Storyboard By
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kliptix AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086097170990551040/vid/avc1/1920x1080/k7ncov7XVQup395r.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/kliptixai/status/2086097503414317479)
+
+#### Descricao
+
+The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
+
+#### Prompt
+
+```text
+The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
+```
+
+### No. 557: Playcut V2 Is Officially Live. The Full Ai
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Playcut AI
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/playcutai/status/2086103939489939692)
+
+#### Descricao
+
+Playcut V2 is officially live.
+
+#### Prompt
+
+```text
+Playcut V2 is officially live.
+
+The full AI content studio — everything in one place:
+
+AI Actors — create a face once, keep it consistent forever. Photoshoots, product shots, and talking videos where your actor speaks the script natively. 4 quality tiers
+
+Images — 3 engines
+```
+
+### No. 558: How Do You Make Ai Feel Love? Not
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Manish Bhati
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/mahivisuals/status/2086125535433027744)
+
+#### Descricao
+
+How do you make AI feel love?
+
+#### Prompt
+
+```text
+How do you make AI feel love?
+
+Not with beautiful frames but with the silence between two hearts. 🌸
+
+Crafted in @HappyHorseATH 
+Happy Horse 1.1 T2V
+
+#animelover #romance #HappyHorseCPP
+```
+
+### No. 559: How Do You Make Ai Feel Love? Not
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Manish Bhati
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/mahivisuals/status/2086125535433027744)
+
+#### Descricao
+
+How do you make AI feel love?
+
+#### Prompt
+
+```text
+How do you make AI feel love?
+
+Not with beautiful frames but with the silence between two hearts. 🌸
+
+Crafted in @HappyHorseATH 
+Happy Horse 1.1 T2V
+
+#animelover #romance #HappyHorseCPP
+```
+
+### No. 560: How Do You Make Ai Feel Love? Not
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Manish Bhati
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4)
+
+<video src="https://video.twimg.com/amplify_video/2086125420240662528/vid/avc1/3840x2160/XL8NZqWWVBMrB1MH.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/mahivisuals/status/2086125535433027744)
+
+#### Descricao
+
+How do you make AI feel love?
+
+#### Prompt
+
+```text
+How do you make AI feel love?
+
+Not with beautiful frames but with the silence between two hearts. 🌸
+
+Crafted in @HappyHorseATH 
+Happy Horse 1.1 T2V
+
+#animelover #romance #HappyHorseCPP
+```
+
+### No. 561: And Alibaba Labs Are No Holding Back, No
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** RYOUGI Ilakya
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/RY0UGI/status/2086240051651043792)
+
+#### Descricao
+
+And Alibaba labs are no holding back, no business plan.
+
+#### Prompt
+
+```text
+@SwayStar123 And Alibaba labs are no holding back, no business plan. Just like they're compete each other.
+
+Qwen text gen suddenly do Qwen image.
+Wan video suddenly do Wan image.
+Then Happyhorse video gen appears.
+
+All from Alibaba.
+```
+
+### No. 562: 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成Ai市場への参入を加速しています。😀
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 柴亮太のAI最前線
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/sivanakai/status/2086252146861949327)
+
+#### Descricao
+
+動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成AI市場への参入を加速しています。😀
+
+#### Prompt
+
+```text
+動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成AI市場への参入を加速しています。😀
 ```
 
 <a id="category-2"></a>
@@ -29168,7 +29519,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-08-08T05:48:48.223Z
+> Este README e gerado automaticamente. 2026-08-09T06:57:27.433Z
 
 ## More Atlas Cloud Tools
 

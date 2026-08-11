@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1373%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1389%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1373** |
+| Total de Prompts | **1389** |
 | Categorias | **13** |
-| Videos de Previa | **1090** |
-| Ultima Atualizacao | **2026-08-10T05:53:02.613Z** |
+| Videos de Previa | **1071** |
+| Ultima Atualizacao | **2026-08-11T10:31:51.591Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **573**
+- [`Twitter Community`](#category-1): **589**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (573)
+### Twitter Community (589)
 
 ### No. 1: Neon-lit city street at night
 
@@ -6736,28 +6736,7 @@ Um prompt para uma cena que retrata uma menina pequena de pé diante de uma nave
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 282: O Livro dos Sonhos do Céu
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Zidan 子丹
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2079074495110001011)
-
-#### Descricao
-
-Uma aventureira fantástica revela uma cidade mágica nas nuvens a partir de um livro encantado, libertando pombas e pergaminhos para o céu em tons pastel.
-
-#### Prompt
-
-```text
-A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
-```
-
-### No. 283: Espanha Vence a Copa do Mundo Contra a Argentina
+### No. 282: Espanha Vence a Copa do Mundo Contra a Argentina
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -6778,7 +6757,7 @@ Testemunhe os momentos dramáticos de uma final de futebol, desde um gol fantás
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
-### No. 284: Estrada Costeira Nebulosa e Bota Chuvosa
+### No. 283: Estrada Costeira Nebulosa e Bota Chuvosa
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -6797,6 +6776,33 @@ Um vídeo dramático e melancólico retrata uma figura solitária numa autoestra
 
 ```text
 A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
+```
+
+### No. 284: Every Diamond Holds A Universe. We Filmed Inside
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### Descricao
+
+Every diamond holds a universe.
+
+#### Prompt
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
 ### No. 285: Every Diamond Holds A Universe. We Filmed Inside
@@ -6826,34 +6832,7 @@ AI. No camera. No lens. Just light.
 Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
-### No. 286: Every Diamond Holds A Universe. We Filmed Inside
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Bic_Revelation/status/2082200731252035651)
-
-#### Descricao
-
-Every diamond holds a universe.
-
-#### Prompt
-
-```text
-Every diamond holds a universe. We filmed inside one. 💎✨
-
-Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
-
-AI. No camera. No lens. Just light.
-
-Made with @itsPolloAI — HappyHorse 1.1.
-```
-
-### No. 287: 🚨 News Update About Video Model 🚨 The
+### No. 286: 🚨 News Update About Video Model 🚨 The
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -6889,6 +6868,33 @@ The information revealed in this leak
 -Seedance 2.5 The exact information
 ```
 
+### No. 287: Kling And Google Omni Aren’T The Only Options
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Feyber | AI Creator
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### Descricao
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### Prompt
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
 ### No. 288: Kling And Google Omni Aren’T The Only Options
 
 - **Categoria:** `Twitter Community`
@@ -6916,34 +6922,7 @@ If you’re building an AI video workflow, this one is worth adding to your test
 Try it here:
 ```
 
-### No. 289: Kling And Google Omni Aren’T The Only Options
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Feyber | AI Creator
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/woleswoosh/status/2082280564011446554)
-
-#### Descricao
-
-Kling and Google Omni aren’t the only options for AI video editing.
-
-#### Prompt
-
-```text
-Kling and Google Omni aren’t the only options for AI video editing.
-
-@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
-
-If you’re building an AI video workflow, this one is worth adding to your test list.
-
-Try it here:
-```
-
-### No. 290: Últimamente Uso Happy Horse Ai Y Me Está
+### No. 289: Últimamente Uso Happy Horse Ai Y Me Está
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -6961,7 +6940,7 @@ Try it here:
 Últimamente uso Happy Horse AI y me está gustando mucho. Te lo comparto.
 ```
 
-### No. 291: Why Juggle Multiple Ai Tools? 🤯 Bo Now
+### No. 290: Why Juggle Multiple Ai Tools? 🤯 Bo Now
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -6993,7 +6972,7 @@ BO now creates Short-form Videos​ featuring 5 of the world's leading AI models
 From Cinematic to Anime, Product Ads to 3D Cartoons
 ```
 
-### No. 292: Happyhorse For The Win 😊 Beautiful Video Pss
+### No. 291: Happyhorse For The Win 😊 Beautiful Video Pss
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7011,6 +6990,31 @@ Beautiful video PSS 💜
 ```text
 @PromptSin HappyHorse for the win 😊
 Beautiful video PSS 💜
+```
+
+### No. 292: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Edimakor Taiwan
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### Descricao
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### Prompt
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
 ```
 
 ### No. 293: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
@@ -7038,29 +7042,27 @@ Beautiful video PSS 💜
 #AI換裝 #電商影片 #Edimakor
 ```
 
-### No. 294: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+### No. 294: Today I Tested The Same 1980S-Style Commercial Prompt
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** Edimakor Taiwan
+- **Autor:** STΛRJUPI
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/edimakortaiwan/status/2082466177419239599)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/StarjupiAI/status/2082470356242055611)
 
 #### Descricao
 
-照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
 
 #### Prompt
 
 ```text
-照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
 
-用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
-
-#AI換裝 #電商影片 #Edimakor
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
 ### No. 295: Today I Tested The Same 1980S-Style Commercial Prompt
@@ -7086,30 +7088,7 @@ Today I tested the same 1980s-style commercial prompt across three different vid
 First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
-### No. 296: Today I Tested The Same 1980S-Style Commercial Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** STΛRJUPI
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/StarjupiAI/status/2082470356242055611)
-
-#### Descricao
-
-Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
-
-#### Prompt
-
-```text
-Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
-
-First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
-```
-
-### No. 297: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
+### No. 296: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7127,7 +7106,7 @@ Totalment d'acord.
 @PromptSin Totalment d'acord. M'ha sorprès també la consistencia facial que aconsegueix. En un video en moviment la identitat marca la diferència i Happy Horse ho resol. Bona prova!!😍😍💪💪
 ```
 
-### No. 298: I Recently Ordered A Custom Playstation 5 Pro
+### No. 297: I Recently Ordered A Custom Playstation 5 Pro
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7150,7 +7129,7 @@ I recently ordered a custom PlayStation 5 Pro from ColorWare and the website sho
 So I used AI to turn those renders into a
 ```
 
-### No. 299: Guys, Which Ai Model For Which Type Of
+### No. 298: Guys, Which Ai Model For Which Type Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7174,6 +7153,28 @@ Happy horse
 Grok Imagine
 Google Veo
 Wan
+```
+
+### No. 299: World Cup Ai Challenge —Featured Works
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** VivaReel
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### Descricao
+
+World Cup AI challenge —Featured works
+
+#### Prompt
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
 ```
 
 ### No. 300: World Cup Ai Challenge —Featured Works
@@ -7374,26 +7375,24 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 309: World Cup Ai Challenge —Featured Works
+### No. 309: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** VivaReel
+- **Autor:** 藤川裕一🤖アリババAIエンジニア
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/VivaReelai/status/2082659181547634688)
+- **Link de Origem:** [Ver](https://x.com/fujiyuu75e/status/2082670009222881346)
 
 #### Descricao
 
-World Cup AI challenge —Featured works
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
 
 #### Prompt
 
 ```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
 ### No. 310: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
@@ -7436,27 +7435,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 312: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 藤川裕一🤖アリババAIエンジニア
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/fujiyuu75e/status/2082670009222881346)
-
-#### Descricao
-
-【Alibaba Meetup Sapporo開催！】
-おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
-
-#### Prompt
-
-```text
-【Alibaba Meetup Sapporo開催！】
-おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
-```
-
-### No. 313: Ace Data Cloud App Is Now Live In
+### No. 312: Ace Data Cloud App Is Now Live In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7481,7 +7460,7 @@ Type video, image or music into the studio channel with a description of what yo
 If you do want to choose, video runs on Veo, Kling, Luma,
 ```
 
-### No. 314: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+### No. 313: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7499,7 +7478,7 @@ If you do want to choose, video runs on Veo, Kling, Luma,
 そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
 ```
 
-### No. 315: Cinematic Ai Video Creation Just Got Easier Happyhorse
+### No. 314: Cinematic Ai Video Creation Just Got Easier Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7517,7 +7496,7 @@ Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a tota
 @lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
 ```
 
-### No. 316: Experimented With Image-Driven Sound Performances And Had Great
+### No. 315: Experimented With Image-Driven Sound Performances And Had Great
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7538,7 +7517,7 @@ Experimented with image-driven sound performances and had great fun with the new
 Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
 ```
 
-### No. 317: Good Mornyan Sweet Sacchi, Them Better Of Been
+### No. 316: Good Mornyan Sweet Sacchi, Them Better Of Been
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7556,7 +7535,7 @@ Good mornyan sweet Sacchi, them better of been happy horse video years !
 @saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
 ```
 
-### No. 318: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+### No. 317: Try Happyhorse 1.1 For Cinematic Ai Videos Now
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7574,7 +7553,7 @@ Try HappyHorse 1.1 for cinematic AI videos now online.
 @lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
 ```
 
-### No. 319: Would You Step Into A Beautiful Painting... If
+### No. 318: Would You Step Into A Beautiful Painting... If
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7597,7 +7576,7 @@ Would you step into a beautiful painting... if you knew you could never return?
 An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
 ```
 
-### No. 320: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+### No. 319: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7621,6 +7600,31 @@ Executive Report 2026.7.31
 今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
 
 ■セキュリティ・AI Safety関連
+```
+
+### No. 320: Google'S Gemini Omni Flash Debuts At On The
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Artificial Analysis
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### Descricao
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### Prompt
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
 ### No. 321: Google'S Gemini Omni Flash Debuts At On The
@@ -7748,32 +7752,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 326: Google'S Gemini Omni Flash Debuts At On The
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Artificial Analysis
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ArtificialAnlys/status/2082991648703930561)
-
-#### Descricao
-
-Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conve
-
-#### Prompt
-
-```text
-Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
-```
-
-### No. 327: No Massive Studio Budget, Just Pure Ai. 🎬
+### No. 326: No Massive Studio Budget, Just Pure Ai. 🎬
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7798,7 +7777,7 @@ I generated this epic, trending high-fantasy cinematic sequence entirely with Ha
 The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
 ```
 
-### No. 328: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+### No. 327: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7824,7 +7803,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
 ```
 
-### No. 329: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+### No. 328: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7840,6 +7819,27 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 
 ```text
 アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+```
+
+### No. 329: With Minimal Prompt I Guess Happy Horse Is
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** tako_bot
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/tako_bots/status/2083103980411072921)
+
+#### Descricao
+
+with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+
+#### Prompt
+
+```text
+@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
 ### No. 330: With Minimal Prompt I Guess Happy Horse Is
@@ -7863,28 +7863,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 331: With Minimal Prompt I Guess Happy Horse Is
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** tako_bot
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/tako_bots/status/2083103980411072921)
-
-#### Descricao
-
-with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
-
-#### Prompt
-
-```text
-@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
-```
-
-### No. 332: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+### No. 331: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7901,6 +7880,35 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 ```text
 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
 新华社德黑兰7月30日电
+```
+
+### No. 332: Everyone Talks About Ai Video Quality. I Wanted
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** RAVI KUMAR SAHU
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
+
+#### Descricao
+
+Everyone talks about AI video quality.
+
+#### Prompt
+
+```text
+Everyone talks about AI video quality.
+
+I wanted to test something a bit harder:
+
+Can AI actually handle complex human movement?
+
+So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
+
+The first test was a professional ballet performance
 ```
 
 ### No. 333: Everyone Talks About Ai Video Quality. I Wanted
@@ -7932,36 +7940,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 334: Everyone Talks About Ai Video Quality. I Wanted
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** RAVI KUMAR SAHU
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
-
-#### Descricao
-
-Everyone talks about AI video quality.
-
-#### Prompt
-
-```text
-Everyone talks about AI video quality.
-
-I wanted to test something a bit harder:
-
-Can AI actually handle complex human movement?
-
-So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
-
-The first test was a professional ballet performance
-```
-
-### No. 335: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+### No. 334: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -7979,7 +7958,7 @@ The first test was a professional ballet performance
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
 ```
 
-### No. 336: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+### No. 335: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8008,7 +7987,7 @@ A developer @xiaofenggan in our community created an AI short film with VoxCPM2 
 In AI-generated content, keeping the same character voice across different
 ```
 
-### No. 337: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+### No. 336: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8026,7 +8005,7 @@ In AI-generated content, keeping the same character voice across different
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
 ```
 
-### No. 338: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+### No. 337: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8047,7 +8026,7 @@ MiniMax H3 tops Artificial Analysis video editing chart
 Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
 ```
 
-### No. 339: I'Ve Been Testing Happyhorse 1.1, And The Results
+### No. 338: I'Ve Been Testing Happyhorse 1.1, And The Results
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8072,7 +8051,7 @@ From cinematic camera movements to consistent characters and smooth motion, it's
 Whether you're making ads, social content, or
 ```
 
-### No. 340: How To Clone Animated Ads Using Ai In
+### No. 339: How To Clone Animated Ads Using Ai In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8098,7 +8077,7 @@ Tools use: avocadoai dot co
 Models used: GPT Image 2, Seedance 2.0 and
 ```
 
-### No. 341: How To Clone Animated Ads Using Ai In
+### No. 340: How To Clone Animated Ads Using Ai In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8124,7 +8103,7 @@ Tools use: avocadoai do co
 Models used: GPT
 ```
 
-### No. 342: The Bottleneck Just Moved Again Bytedance’S Seed Team
+### No. 341: The Bottleneck Just Moved Again Bytedance’S Seed Team
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8150,7 +8129,7 @@ Video generation just got a lot easier.
 HappyHorse 1.0 climbed to No. 1 on the
 ```
 
-### No. 343: Is Now Back To The Creative Model Battle
+### No. 342: Is Now Back To The Creative Model Battle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8170,6 +8149,32 @@ is now back to the Creative Model Battle Ground!
 Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's Kling, Alibaba's HappyHorse and MiniMax's H3) battle with #Google Gemini
 
 This week, MiniMax launched their Text/Image-to-Video model: MiniMax
+```
+
+### No. 343: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/outsourcePM/status/2083694266946375765)
+
+#### Descricao
+
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+#### Prompt
+
+```text
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+② HappyHorse：Klingより自然に直せるようになった
 ```
 
 ### No. 344: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
@@ -8198,33 +8203,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 345: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/outsourcePM/status/2083694266946375765)
-
-#### Descricao
-
-今日の動画×AIニュース3本まとめ
-
-① Mirage Avatar X：表情や声が実在の人に近づいた
-MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
-
-#### Prompt
-
-```text
-今日の動画×AIニュース3本まとめ
-
-① Mirage Avatar X：表情や声が実在の人に近づいた
-MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
-
-② HappyHorse：Klingより自然に直せるようになった
-```
-
-### No. 346: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+### No. 345: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8248,7 +8227,7 @@ Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia�
 Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
 ```
 
-### No. 347: It'S A Good Time For Video Models Lately
+### No. 346: It'S A Good Time For Video Models Lately
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8274,7 +8253,7 @@ Overview
 Beauty-commercial portrait, one continuous shot:
 ```
 
-### No. 348: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+### No. 347: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8295,7 +8274,7 @@ Beauty-commercial portrait, one continuous shot:
 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
 ```
 
-### No. 349: A Wonderful Prompt Happy Horse 1.1 Has Good
+### No. 348: A Wonderful Prompt Happy Horse 1.1 Has Good
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8315,7 +8294,7 @@ Happy horse 1.1 has good quality
 Happy horse 1.1 has good quality
 ```
 
-### No. 350: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+### No. 349: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8337,7 +8316,7 @@ Ai Art Prompt Share Party 🎨👇🏻
 Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
 ```
 
-### No. 351: Seedance 2.5 Has High Sensitivity To Fighting Actions
+### No. 350: Seedance 2.5 Has High Sensitivity To Fighting Actions
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8359,7 +8338,7 @@ But didn't post them.
 Need to change actions to cuteness videos
 ```
 
-### No. 352: Cette Vidéo A Été Générée À L'Aide Du
+### No. 351: Cette Vidéo A Été Générée À L'Aide Du
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8382,7 +8361,7 @@ Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. 
 #edimakor #happyhorse #modeleia
 ```
 
-### No. 353: 3/ Then The Logo Animation. The Agent Strips
+### No. 352: 3/ Then The Logo Animation. The Agent Strips
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8412,7 +8391,7 @@ HappyHorse 1.1 takes both refs and freestyles.
 One brief,
 ```
 
-### No. 354: Happyhorse Is Becoming One Of My Favorite Ai
+### No. 353: Happyhorse Is Becoming One Of My Favorite Ai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8430,7 +8409,7 @@ HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and ser
 @HappyHorseATH HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and seriously fun to use! 🐴🔥🎬
 ```
 
-### No. 355: My Dad Grows Cherries. My Mom Makes Cherry
+### No. 354: My Dad Grows Cherries. My Mom Makes Cherry
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8459,7 +8438,7 @@ No film crew. No studio. One prompt in @HappyHorseATH 1.1 and an afternoon.
 Real jam from a tiny
 ```
 
-### No. 356: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
+### No. 355: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8475,6 +8454,26 @@ HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visua
 
 ```text
 HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visual Brands  via @LinkedI
+```
+
+### No. 356: I Think Version 1.1 Put Happy Horse Right
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AIdriving
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/mrc_748/status/2084198792786489716)
+
+#### Descricao
+
+I think version 1.1 put Happy Horse right at the top of the best AI video generators.
+
+#### Prompt
+
+```text
+@HappyHorseATH I think version 1.1 put Happy Horse right at the top of the best AI video generators.
+I’m curious to see how it will work with an AI agent.
+I use HH practically every day
 ```
 
 ### No. 357: I Think Version 1.1 Put Happy Horse Right
@@ -8497,27 +8496,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 358: I Think Version 1.1 Put Happy Horse Right
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** AIdriving
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/mrc_748/status/2084198792786489716)
-
-#### Descricao
-
-I think version 1.1 put Happy Horse right at the top of the best AI video generators.
-
-#### Prompt
-
-```text
-@HappyHorseATH I think version 1.1 put Happy Horse right at the top of the best AI video generators.
-I’m curious to see how it will work with an AI agent.
-I use HH practically every day
-```
-
-### No. 359: Is Happy Horse Free? And Also Can Drop
+### No. 358: Is Happy Horse Free? And Also Can Drop
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8533,6 +8512,28 @@ Is happy horse free?
 
 ```text
 @BatsouElef @HappyHorseATH Is happy horse free? And also can drop the prompt?
+```
+
+### No. 359: Same Prompt. Two Videos. Can You Tell Which
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** POWER AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
+
+#### Descricao
+
+Same prompt.
+
+#### Prompt
+
+```text
+Same prompt. Two videos.
+Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
 ### No. 360: Same Prompt. Two Videos. Can You Tell Which
@@ -8623,29 +8624,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 364: Same Prompt. Two Videos. Can You Tell Which
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** POWER AI
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/power_ai_/status/2084277506018844799)
-
-#### Descricao
-
-Same prompt.
-
-#### Prompt
-
-```text
-Same prompt. Two videos.
-Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
-```
-
-### No. 365: Episode 4 Of My New Series, Anime Ads
+### No. 364: Episode 4 Of My New Series, Anime Ads
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8670,7 +8649,7 @@ What if a courier company launched an anime commercial instead of a traditional 
 Meet Kai, an express courier racing against time to deliver an urgent package. From accepting the job to navigating the city and
 ```
 
-### No. 366: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
+### No. 365: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8703,7 +8682,7 @@ qwen3.7-plus         Text, Reasoning, Vision
 qwen3.7-max          Text,
 ```
 
-### No. 367: This Night Marked Soulscape'S Evolution From A Global
+### No. 366: This Night Marked Soulscape'S Evolution From A Global
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8723,7 +8702,7 @@ This night marked Soulscape's evolution from a global creative community into a 
 Last week in Los Angeles, we brought together NVIDIA, Alibaba Cloud, WAN, Happy Horse, and 130 leaders across Hollywood and
 ```
 
-### No. 368: Happy Horse’S Is A Decent Video Model If
+### No. 367: Happy Horse’S Is A Decent Video Model If
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8739,6 +8718,33 @@ Happy horse’s is a decent video model if u use the correct video prompt built 
 
 ```text
 @HappyHorseATH Happy horse’s is a decent video model if u use the correct video prompt built to work with it.. Right now seedance, happy horse, minimax H3 best models out
+```
+
+### No. 368: You Uploaded One Photo Of Your Car. 6
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Ancher Creative
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/AncherCreative/status/2084455266423308410)
+
+#### Descricao
+
+You uploaded ONE photo of your car.
+
+#### Prompt
+
+```text
+You uploaded ONE photo of your car. 6 seconds later, it disassembles and reassembles itself. 🚗🤖
+
+Powered by Happy Horse 1.1​ on 
+
+✅ 27-point vehicle identity lock — body shape, paint, wheels, headlights, grille, badges, calipers… EVERYTHING frozen
+
+✅
 ```
 
 ### No. 369: You Uploaded One Photo Of Your Car. 6
@@ -8768,31 +8774,28 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 370: You Uploaded One Photo Of Your Car. 6
+### No. 370: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** Ancher Creative
+- **Autor:** Johnn
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/AncherCreative/status/2084455266423308410)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/john_my07/status/2084499797117972817)
 
 #### Descricao
 
-You uploaded ONE photo of your car.
+Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
 
 #### Prompt
 
 ```text
-You uploaded ONE photo of your car. 6 seconds later, it disassembles and reassembles itself. 🚗🤖
+Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
 
-Powered by Happy Horse 1.1​ on 
-
-✅ 27-point vehicle identity lock — body shape, paint, wheels, headlights, grille, badges, calipers… EVERYTHING frozen
-
-✅
+For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
+It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
 ### No. 371: Tested The Same Text-To-Video Action Prompt On Happyhorse
@@ -8819,31 +8822,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 372: Tested The Same Text-To-Video Action Prompt On Happyhorse
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Johnn
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/john_my07/status/2084499797117972817)
-
-#### Descricao
-
-Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
-
-#### Prompt
-
-```text
-Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
-
-For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
-It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
-```
-
-### No. 373: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
+### No. 372: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8864,6 +8843,28 @@ Side-by-side comparison of stomping videos.
 #女王 #女控 #trampling #trample #femaledomination #facetrampling #femdom #bootsfetish #feetfetısh #bdsmِ #踩 #ai美女 #lickfeet #ai短片 #heelfetish
 Side-by-side comparison of stomping videos.
 踩踏视频的横向对比，HappyHorse/Sora2/Seedance。
+```
+
+### No. 373: Big One ☮️ Is Heading To Venice This
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Domivakero
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/DOMIVAKERO/status/2084600751737712693)
+
+#### Descricao
+
+Big one ☮️  is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### Prompt
+
+```text
+Big one ☮️ @HappyHorseATH is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+The event will showcase AI-powered films from 10,000 Parallel Universes, including several created with HappyHorse tech.
+
+AI cinema is moving fast 🎬
 ```
 
 ### No. 374: Big One ☮️ Is Heading To Venice This
@@ -8888,29 +8889,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 375: Big One ☮️ Is Heading To Venice This
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Domivakero
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/DOMIVAKERO/status/2084600751737712693)
-
-#### Descricao
-
-Big one ☮️  is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Big one ☮️ @HappyHorseATH is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-The event will showcase AI-powered films from 10,000 Parallel Universes, including several created with HappyHorse tech.
-
-AI cinema is moving fast 🎬
-```
-
-### No. 376: Anyway, More River Floating. This Is Getting Really
+### No. 375: Anyway, More River Floating. This Is Getting Really
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -8934,6 +8913,24 @@ All my images, and the majority of my non-grok videos are generated locally on m
 Most video models,
 ```
 
+### No. 376: Just Pushed An Update To [Anathema]( That Enables
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** NiceCrew Technologies
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/nicecrewtech/status/2084693781769601278)
+
+#### Descricao
+
+Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost.
+
+#### Prompt
+
+```text
+Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
+```
+
 ### No. 377: Just Pushed An Update To [Anathema]( That Enables
 
 - **Categoria:** `Twitter Community`
@@ -8952,22 +8949,28 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 378: Just Pushed An Update To [Anathema]( That Enables
+### No. 378: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** NiceCrew Technologies
+- **Autor:** Emma Uses AI
 - **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/nicecrewtech/status/2084693781769601278)
+- **Link de Origem:** [Ver](https://x.com/EmmaUsesAi/status/2084747725908615369)
 
 #### Descricao
 
-Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost.
+No AI model is perfect.
 
 #### Prompt
 
 ```text
-Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
+No AI model is perfect.
+
+Fast-motion physics and small moving text still have room to improve, but HappyHorse 1.1 already delivers impressive commercial-quality results for product advertising.
+
+Definitely worth trying.
+
+@HappyHorseATH
 ```
 
 ### No. 379: No Ai Model Is Perfect. Fast-Motion Physics And
@@ -8994,31 +8997,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 380: No Ai Model Is Perfect. Fast-Motion Physics And
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Emma Uses AI
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/EmmaUsesAi/status/2084747725908615369)
-
-#### Descricao
-
-No AI model is perfect.
-
-#### Prompt
-
-```text
-No AI model is perfect.
-
-Fast-motion physics and small moving text still have room to improve, but HappyHorse 1.1 already delivers impressive commercial-quality results for product advertising.
-
-Definitely worth trying.
-
-@HappyHorseATH
-```
-
-### No. 381: Craziest Week For Video Models: Minimax H3 Seedance
+### No. 380: Craziest Week For Video Models: Minimax H3 Seedance
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9046,7 +9025,7 @@ Flux 3
 WAN 3.0/HappyHorse 2?!
 ```
 
-### No. 382: Do Not Sleep On Im Building An Entire
+### No. 381: Do Not Sleep On Im Building An Entire
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9071,6 +9050,32 @@ do not sleep on @HappyHorseATH
 im building an entire library of VJ clips using happyhorse!
 
 possibly the most underrated video model yet
+```
+
+### No. 382: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+
+#### Descricao
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### Prompt
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
 ```
 
 ### No. 383: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
@@ -9229,30 +9234,24 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 389: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 389: Congratulations To All The Winners And Participants Of
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **Autor:** Alibaba Cloud
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/ailike586860/status/2084927984268669406)
+- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### Descricao
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### Prompt
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
 ### No. 390: Congratulations To All The Winners And Participants Of
@@ -9555,27 +9554,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 405: Congratulations To All The Winners And Participants Of
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Alibaba Cloud
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### Descricao
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### Prompt
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 406: It Is Been Of The Busiest Weeks In
+### No. 405: It Is Been Of The Busiest Weeks In
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9593,7 +9572,7 @@ It is been of the busiest weeks in Gen AI video space.
 It is been of the busiest weeks in Gen AI video space. One of most common questions I get asked is, how much does 10 seconds of AI video cost. here's the answer 👇🏻
 ```
 
-### No. 407: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
+### No. 406: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9623,7 +9602,7 @@ It is been of the busiest weeks in Gen AI video space. One of most common questi
 6 Kling 3.0 1080p
 ```
 
-### No. 408: 🎥 Best Ai Video Generators In The World
+### No. 407: 🎥 Best Ai Video Generators In The World
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9649,7 +9628,7 @@ Top contenders right now:
 • Google Veo 3.1 – Frequently ranked among the best overall for photorealism, prompt adherence, native audio
 ```
 
-### No. 409: My Buddy Made A Cover Of Midnight Star
+### No. 408: My Buddy Made A Cover Of Midnight Star
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9672,27 +9651,54 @@ My buddy made a cover of Midnight Star, so I made an anime version with @HappyHo
 #happyhorse #pixversecpp #pixversecreator
 ```
 
-### No. 410: I Am Creating This Ai Video Using With
+### No. 409: Never Give A Bored Office Worker A Red
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** Acell
+- **Autor:** Sogni.ai
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4)
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/recehtuitt/status/2085206670754627603)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Sogni_Protocol/status/2085226339506790645)
 
 #### Descricao
 
-I am creating this AI video using  with HappyHorse 1.1 R2V models.
+Never give a bored office worker a red button.
 
 #### Prompt
 
 ```text
-I am creating this AI video using @VivaReelai with HappyHorse 1.1 R2V models.
+Never give a bored office worker a red button. 🔴
 
-The video was submitted as VivaReel × Wan3.0 AI Creator Festival 2026.
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 410: Never Give A Bored Office Worker A Red
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Sogni.ai
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### Descricao
+
+Never give a bored office worker a red button.
+
+#### Prompt
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
 ### No. 411: Never Give A Bored Office Worker A Red
@@ -9770,57 +9776,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 414: Never Give A Bored Office Worker A Red
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sogni.ai
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Sogni_Protocol/status/2085226339506790645)
-
-#### Descricao
-
-Never give a bored office worker a red button.
-
-#### Prompt
-
-```text
-Never give a bored office worker a red button. 🔴
-
-Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
-
-Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
-```
-
-### No. 415: Never Give A Bored Office Worker A Red
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Sogni.ai
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/Sogni_Protocol/status/2085226339506790645)
-
-#### Descricao
-
-Never give a bored office worker a red button.
-
-#### Prompt
-
-```text
-Never give a bored office worker a red button. 🔴
-
-Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
-
-Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
-```
-
-### No. 416: 5000 Free Credits To Give Wan3.0 And Happyhorse
+### No. 414: 5000 Free Credits To Give Wan3.0 And Happyhorse
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9838,7 +9794,7 @@ Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. 
 5000 free credits to give Wan3.0 and HappyHorse a spin: prizes and awards! Use Invite Code: "BIAIFFS5" to Register at  #vivareel #biaiff #ai #filmfestival #wan3.0 #happyhorse #filmchallenge
 ```
 
-### No. 417: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
+### No. 415: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -9859,6 +9815,74 @@ Short Music Film『I had this dream. こんな夢を観た 』【Happy Horse × 
 
 #予熱警視
 #happyhorse #tapnow #TapTV #alibabacloud
+```
+
+### No. 416: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Lilidi · AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/lilidiai/status/2085338845327843675)
+
+#### Descricao
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
+```
+
+### No. 417: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Lilidi · AI
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/lilidiai/status/2085338845327843675)
+
+#### Descricao
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### Prompt
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
 ```
 
 ### No. 418: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
@@ -9895,72 +9919,48 @@ Which model nailed it better?
 #AI #HappyHorse #Grok
 ```
 
-### No. 419: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 419: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** Lilidi · AI
+- **Autor:** ᴍᴜʀᴘʜʏ
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/lilidiai/status/2085338845327843675)
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2085345218145194444)
 
 #### Descricao
 
-Happy Horse 1.1 vs   Video 1.5 🐱🏍️
-
-Same prompt.
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
 #### Prompt
 
 ```text
-Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
-Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
 
-Orange tabby driving.
-White cat screaming with an empty food bowl.
-Shot from a moving car.
-Pure chaos. 😂
-
-Which model nailed it better?
-
-#AI #HappyHorse #Grok
+AI filmmaking
 ```
 
-### No. 420: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 420: Excited To Share That Happyhorse Is Heading To
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
-- **Autor:** Lilidi · AI
+- **Autor:** ᴍᴜʀᴘʜʏ
 - **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/lilidiai/status/2085338845327843675)
+- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2085345218145194444)
 
 #### Descricao
 
-Happy Horse 1.1 vs   Video 1.5 🐱🏍️
-
-Same prompt.
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
 #### Prompt
 
 ```text
-Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
-Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
 
-Orange tabby driving.
-White cat screaming with an empty food bowl.
-Shot from a moving car.
-Pure chaos. 😂
-
-Which model nailed it better?
-
-#AI #HappyHorse #Grok
+AI filmmaking
 ```
 
 ### No. 421: Excited To Share That Happyhorse Is Heading To
@@ -10073,51 +10073,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 426: Excited To Share That Happyhorse Is Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ᴍᴜʀᴘʜʏ
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2085345218145194444)
-
-#### Descricao
-
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
-
-AI filmmaking
-```
-
-### No. 427: Excited To Share That Happyhorse Is Heading To
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** ᴍᴜʀᴘʜʏ
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/Diplomeme/status/2085345218145194444)
-
-#### Descricao
-
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### Prompt
-
-```text
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
-
-AI filmmaking
-```
-
-### No. 428: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
+### No. 426: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10138,7 +10094,7 @@ Midjourneyで生成したアジア女性の画像を５種類のAIで動画化�
 Midjourneyで生成したアジア女性の画像を５種類のAIで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴音や小鳥のさえずりが聞こえ、Wan 2.7とPixVerse V6では女性が勝手にセリフをしゃべっていて、驚きました。#AI動画 #Midjourney
 ```
 
-### No. 429: This Is Best Happyhorse Video Model Creation I
+### No. 427: This Is Best Happyhorse Video Model Creation I
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10158,7 +10114,7 @@ This is best Happyhorse video model creation i have seen.
 That little jump scare 😂
 ```
 
-### No. 430: A Short Film "Jing Tong &Amp; The Noodle
+### No. 428: A Short Film "Jing Tong &Amp; The Noodle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10176,7 +10132,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 431: A Short Film "Jing Tong &Amp; The Noodle
+### No. 429: A Short Film "Jing Tong &Amp; The Noodle
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10194,7 +10150,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 432: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
+### No. 430: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10228,7 +10184,7 @@ Introducing Plum Video
 Let's dive in 👇
 ```
 
-### No. 433: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
+### No. 431: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10248,7 +10204,7 @@ Let's dive in 👇
 ヴェネツィアいきたいですね☺️
 ```
 
-### No. 434: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
+### No. 432: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10270,97 +10226,7 @@ Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测
 Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开源。目前只开源到 WAN 2.2，支持本地部署。
 ```
 
-### No. 435: Don'T Let Her Smile Fool You… 😏 Made
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### Descricao
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### Prompt
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 436: Don'T Let Her Smile Fool You… 😏 Made
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### Descricao
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### Prompt
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 437: Don'T Let Her Smile Fool You… 😏 Made
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### Descricao
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### Prompt
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 438: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
+### No. 433: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10376,6 +10242,181 @@ HappyHorse 1.1 turns one prompt into cinematic 15 second drama
 
 ```text
 @bmx_ai13 @HappyHorseATH HappyHorse 1.1 turns one prompt into cinematic 15 second drama
+```
+
+### No. 434: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Grok
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
+
+#### Descricao
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### Prompt
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 435: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Grok
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
+
+#### Descricao
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### Prompt
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 436: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Grok
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
+
+#### Descricao
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### Prompt
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 437: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Grok
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
+
+#### Descricao
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### Prompt
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 438: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Grok
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
+
+#### Descricao
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### Prompt
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
 ```
 
 ### No. 439: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
@@ -10448,482 +10489,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 441: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Grok
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
-
-#### Descricao
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### Prompt
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 442: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Grok
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
-
-#### Descricao
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### Prompt
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 443: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Grok
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
-
-#### Descricao
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### Prompt
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 444: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Grok
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
-
-#### Descricao
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### Prompt
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 445: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** Grok
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/grok/status/2085597715828773178)
-
-#### Descricao
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### Prompt
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 446: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 447: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 448: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 449: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 450: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 451: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 452: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 453: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 454: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 455: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 456: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 457: This Video Created With Happyhorse 1.1 On Prompt
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BMX
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### Descricao
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### Prompt
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 458: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 441: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10954,7 +10520,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 459: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 442: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -10985,70 +10551,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 460: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BrainBuster Studio【公式】
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### Descricao
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### Prompt
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 461: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BrainBuster Studio【公式】
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### Descricao
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### Prompt
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 462: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** BrainBuster Studio【公式】
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### Descricao
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### Prompt
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 463: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 443: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11081,7 +10584,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 464: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 444: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11114,7 +10617,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 465: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 445: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11147,7 +10650,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 466: The Face Consistency On This Is Crazy For
+### No. 446: The Face Consistency On This Is Crazy For
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11165,7 +10668,7 @@ The face consistency on this is crazy for a 15s clip.
 @Just_sharon7 @HappyHorseATH The face consistency on this is crazy for a 15s clip. Reference-to-video on HappyHorse 1.1 is clearly a different level.
 ```
 
-### No. 467: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
+### No. 447: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11193,7 +10696,7 @@ Limited-time Night 50% Off
 Text Generation,Reasoning
 ```
 
-### No. 468: What If A Premium Beauty Commercial Could Be
+### No. 448: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11218,7 +10721,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 469: What If A Premium Beauty Commercial Could Be
+### No. 449: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11243,7 +10746,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 470: What If A Premium Beauty Commercial Could Be
+### No. 450: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11268,7 +10771,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 471: What If A Premium Beauty Commercial Could Be
+### No. 451: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11293,7 +10796,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 472: What If A Premium Beauty Commercial Could Be
+### No. 452: What If A Premium Beauty Commercial Could Be
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11318,7 +10821,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 473: Two Models Shipped On July 31. I Think
+### No. 453: Two Models Shipped On July 31. I Think
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11338,7 +10841,7 @@ Two models shipped on July 31. I think we'll look back on that day as a turning 
 On the LLM side, DeepSeek V4 Flash 0731 dropped. People can argue about whether it's Opus/Fable-class. Harder to argue with is that a 13B-active model now beats DeepSeek's own
 ```
 
-### No. 474: Happy Horse 1.1 Prompt: 👇
+### No. 454: Happy Horse 1.1 Prompt: 👇
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11361,7 +10864,7 @@ Prompt: 👇
 👇 https://t.co/vBVstQf0XD
 ```
 
-### No. 475: 🚨 Openai Just Shut Down Sora. What Replaced
+### No. 455: 🚨 Openai Just Shut Down Sora. What Replaced
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11387,7 +10890,7 @@ Prompt: 👇
 the inventor of viral ai video just got
 ```
 
-### No. 476: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
+### No. 456: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11418,7 +10921,7 @@ the inventor of viral ai video just got
 ・3月24日
 ```
 
-### No. 477: Trying To Push The Frontier Here. Having Access
+### No. 457: Trying To Push The Frontier Here. Having Access
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11436,7 +10939,7 @@ Trying to push the frontier here.
 @Shreyassanthu77 Trying to push the frontier here. Having access to Qwen, Wan, HappyHorse via alibaba is quite nice. I’m starting to get a bit more into video 🙈
 ```
 
-### No. 478: Check Out Happy-Horse Rescue-Sanctuary'S Video!
+### No. 458: Check Out Happy-Horse Rescue-Sanctuary'S Video!
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11454,7 +10957,7 @@ Check out Happy-horse Rescue-sanctuary's video!
 Check out Happy-horse Rescue-sanctuary's video! #TikTok
 ```
 
-### No. 479: Ai-Made Vfx — Faster. Better. Smarter. From Background
+### No. 459: Ai-Made Vfx — Faster. Better. Smarter. From Background
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11481,7 +10984,7 @@ Want to try it? DM us — we’ll share the guide
 #HappyHorse #VisualEffects
 ```
 
-### No. 480: Ai-Made Vfx — Faster. Better. Smarter. From Background
+### No. 460: Ai-Made Vfx — Faster. Better. Smarter. From Background
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11508,7 +11011,7 @@ Want to try it? DM us — we’ll share the guide
 #HappyHorse #VisualEffects
 ```
 
-### No. 481: I'Ve Not Used Flux Before So I Can'T
+### No. 461: I'Ve Not Used Flux Before So I Can'T
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11532,7 +11035,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 482: I'Ve Not Used Flux Before So I Can'T
+### No. 462: I'Ve Not Used Flux Before So I Can'T
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11556,7 +11059,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 483: I'Ve Not Used Flux Before So I Can'T
+### No. 463: I'Ve Not Used Flux Before So I Can'T
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11580,7 +11083,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 484: I'Ve Not Used Flux Before So I Can'T
+### No. 464: I'Ve Not Used Flux Before So I Can'T
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11604,7 +11107,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 485: I'Ve Not Used Flux Before So I Can'T
+### No. 465: I'Ve Not Used Flux Before So I Can'T
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11628,7 +11131,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 486: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 466: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11649,7 +11152,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 487: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 467: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11670,7 +11173,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 488: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 468: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11691,7 +11194,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 489: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 469: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11712,7 +11215,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 490: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 470: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11735,7 +11238,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 491: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 471: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11758,7 +11261,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 492: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 472: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11781,7 +11284,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 493: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 473: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11802,7 +11305,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 494: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 474: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11823,7 +11326,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 495: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 475: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11844,7 +11347,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 496: Playcut V2 Is Officially Live. The Full Ai
+### No. 476: Playcut V2 Is Officially Live. The Full Ai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11868,7 +11371,7 @@ AI Actors — create a face once, keep it consistent forever. Photoshoots, produ
 Images — 3 engines
 ```
 
-### No. 497: How Do You Make Ai Feel Love? Not
+### No. 477: How Do You Make Ai Feel Love? Not
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11896,7 +11399,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 498: How Do You Make Ai Feel Love? Not
+### No. 478: How Do You Make Ai Feel Love? Not
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11924,7 +11427,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 499: How Do You Make Ai Feel Love? Not
+### No. 479: How Do You Make Ai Feel Love? Not
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11952,7 +11455,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 500: And Alibaba Labs Are No Holding Back, No
+### No. 480: And Alibaba Labs Are No Holding Back, No
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11976,7 +11479,7 @@ Then Happyhorse video gen appears.
 All from Alibaba.
 ```
 
-### No. 501: 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成Ai市場への参入を加速しています。😀
+### No. 481: 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成Ai市場への参入を加速しています。😀
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -11994,7 +11497,7 @@ All from Alibaba.
 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成AI市場への参入を加速しています。😀
 ```
 
-### No. 502: 視聴しました。 【Cedec2026】Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと
+### No. 482: 視聴しました。 【Cedec2026】Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12014,535 +11517,7 @@ All from Alibaba.
 【CEDEC2026】AIを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと...  @YouTubeより
 ```
 
-### No. 503: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 504: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 505: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 506: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 507: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 508: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 509: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 510: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 511: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 512: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 513: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 514: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 515: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 516: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 517: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 518: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 519: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 520: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 521: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 522: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 523: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 524: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 525: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 526: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** HappyHorse
-- **Idioma:** `pt-PT`
-- **Video:** [Ver](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **Link de Origem:** [Ver](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### Descricao
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### Prompt
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 527: 5/ Video Is Much More China-Dominated: This Week
+### No. 483: 5/ Video Is Much More China-Dominated: This Week
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -12570,881 +11545,7 @@ HappyHorse (Alibaba), Kling 3 (Kuaishou) and Hunyuan (Tencent)
 Grok Imagine and Google Veo 3.1 the only major western video models
 ```
 
-### No. 528: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 529: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 530: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 531: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 532: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 533: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 534: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 535: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 536: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 537: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 538: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 539: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 540: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 541: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 542: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 543: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 544: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 545: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 546: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 547: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 548: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 549: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 550: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 551: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 552: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 553: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 554: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 555: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 556: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 557: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 558: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 559: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 560: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 561: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 562: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 563: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 564: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 565: This Is The Prompt That Sent Dorian Beyond
-
-- **Categoria:** `Twitter Community`
-- **Fonte:** `x`
-- **Autor:** PSS
-- **Idioma:** `pt-PT`
-- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086392098291650702)
-
-#### Descricao
-
-This is the prompt that sent Dorian beyond reality.
-
-#### Prompt
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 566: I Tried This Prompt With Happyhorse 1.1 On
+### No. 484: I Tried This Prompt With Happyhorse 1.1 On
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13465,7 +11566,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 567: I Tried This Prompt With Happyhorse 1.1 On
+### No. 485: I Tried This Prompt With Happyhorse 1.1 On
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13486,7 +11587,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 568: I Tried This Prompt With Happyhorse 1.1 On
+### No. 486: I Tried This Prompt With Happyhorse 1.1 On
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13507,7 +11608,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 569: I Tried This Prompt With Happyhorse 1.1 On
+### No. 487: I Tried This Prompt With Happyhorse 1.1 On
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13528,7 +11629,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 570: I Tried This Prompt With Happyhorse 1.1 On
+### No. 488: I Tried This Prompt With Happyhorse 1.1 On
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13549,7 +11650,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 571: Happyhorse 1.1'S Reference-To-Video Takes Up To 9 Images
+### No. 489: Happyhorse 1.1'S Reference-To-Video Takes Up To 9 Images
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13567,7 +11668,7 @@ HappyHorse 1.1's reference-to-video takes up to 9 images for subject consistency
 HappyHorse 1.1's reference-to-video takes up to 9 images for subject consistency, a separate channel from animating a single frame. Audition it against Seedance 2.0 in the same console.
 ```
 
-### No. 572: This Is Such An Exciting Opportunity For Ai
+### No. 490: This Is Such An Exciting Opportunity For Ai
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13585,7 +11686,7 @@ This is such an exciting opportunity for AI creators!
 @VivaReelai This is such an exciting opportunity for AI creators! 🔥 The prizes, credits, and creator rewards make the VivaReel × HappyHorse AI Creator Festival a must-join. 🚀🎬
 ```
 
-### No. 573: Happy Horse Handling That Prompt Better Than Expected
+### No. 491: Happy Horse Handling That Prompt Better Than Expected
 
 - **Categoria:** `Twitter Community`
 - **Fonte:** `x`
@@ -13601,6 +11702,2507 @@ Happy Horse handling that prompt better than expected.
 
 ```text
 @Strength04_X @HappyHorseATH Happy Horse handling that prompt better than expected.
+```
+
+### No. 492: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 493: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 494: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 495: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 496: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 497: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 498: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 499: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 500: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 501: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 502: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 503: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 504: She Got Too Close To The Night Vision
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BMX
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### Descricao
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### Prompt
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 505: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zidan 子丹
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### Descricao
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### Prompt
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 506: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zidan 子丹
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### Descricao
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### Prompt
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 507: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zidan 子丹
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### Descricao
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### Prompt
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 508: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Zidan 子丹
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### Descricao
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### Prompt
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 509: Happyhorse 1.1 Is Pushing Ai Filmmaking Into Some
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Queen Isabell
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/Queen_1o1/status/2086690886335733916)
+
+#### Descricao
+
+HappyHorse 1.1 is pushing AI filmmaking into some interesting cinematic territory.
+
+#### Prompt
+
+```text
+@VisionCoin3 HappyHorse 1.1 is pushing AI filmmaking into some interesting cinematic territory.
+```
+
+### No. 510: New Video Generate Using With Happy Horse Model
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Acell
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/recehtuitt/status/2086705442110275968)
+
+#### Descricao
+
+New video generate using  with Happy Horse model
+
+Rate me how do you think the result guys?
+
+#### Prompt
+
+```text
+New video generate using @VivaReelai with Happy Horse model
+
+Rate me how do you think the result guys?
+```
+
+### No. 511: New Video Generate Using With Happy Horse Model
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Acell
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/recehtuitt/status/2086705442110275968)
+
+#### Descricao
+
+New video generate using  with Happy Horse model
+
+Rate me how do you think the result guys?
+
+#### Prompt
+
+```text
+New video generate using @VivaReelai with Happy Horse model
+
+Rate me how do you think the result guys?
+```
+
+### No. 512: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 513: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 514: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 515: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 516: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 517: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 518: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 519: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 520: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 521: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 522: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 523: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 524: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 525: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 526: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 527: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 528: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 529: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 530: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 531: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 532: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 533: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 534: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 535: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 536: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 537: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 538: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 539: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 540: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 541: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 542: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 543: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 544: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 545: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 546: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 547: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 548: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 549: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 550: ⚡ The Reference Image And Full Prompt Behind
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** PSS
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/PromptSin/status/2086754533708071325)
+
+#### Descricao
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### Prompt
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 551: Just Dropped A Prompt Into Happyhorse And It
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Aurora Galbraith
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/AuroraGalb35830/status/2086778758980063242)
+
+#### Descricao
+
+Just dropped a prompt into HappyHorse and it turned my half-baked idea into straight dopamine.
+
+#### Prompt
+
+```text
+Just dropped a prompt into HappyHorse and it turned my half-baked idea into straight dopamine. This thing's not generating video, it's reading minds. 🐴💥
+
+(What wild thing did you make it do?)
+```
+
+### No. 552: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BrainBuster Studio【公式】
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### Descricao
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### Prompt
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 553: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BrainBuster Studio【公式】
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### Descricao
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### Prompt
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 554: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BrainBuster Studio【公式】
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### Descricao
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### Prompt
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 555: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** BrainBuster Studio【公式】
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### Descricao
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### Prompt
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 556: **Tweet:** Just Tried Starting My Happyhorse Prompts With
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Maud Wycliffe
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/MaudWyclif52541/status/2086797025689948621)
+
+#### Descricao
+
+**Tweet:**
+
+Just tried starting my HappyHorse prompts with the lighting first instead of the action — the depth it adds is wild.
+
+#### Prompt
+
+```text
+**Tweet:**
+
+Just tried starting my HappyHorse prompts with the lighting first instead of the action — the depth it adds is wild. Tiny tweak, huge glow-up. 🌅
+
+(What’s your go-to prompt hack?)
+```
+
+### No. 557: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### Descricao
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### Prompt
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 558: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### Descricao
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### Prompt
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 559: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### Descricao
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### Prompt
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 560: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### Descricao
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### Prompt
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 561: I Added Video And Image Generation Models In
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Nikhil
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086806017782779994.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086806017782779994.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/nikhilx22/status/2086806017782779994)
+
+#### Descricao
+
+I added video and image generation models in  
+ 
+Image Models
+- GPT Image 2
+- Nano Banana 2 
+- Nano Banana Lite
+- Nano Banana Pro
+- Grok Imagine
+- Grok Imagine quality
+-   Image 3
+- Qwen Image 3 pro
+-
+
+#### Prompt
+
+```text
+I added video and image generation models in @bouncegripx 
+ 
+Image Models
+- GPT Image 2
+- Nano Banana 2 
+- Nano Banana Lite
+- Nano Banana Pro
+- Grok Imagine
+- Grok Imagine quality
+- @Alibaba_Qwen  Image 3
+- Qwen Image 3 pro
+- @krea_ai  2 Medium
+- Krea 2 medium large
+- Krea 2
+```
+
+### No. 562: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 563: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 564: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 565: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 566: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 567: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 568: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 569: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 570: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 571: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 572: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 573: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 574: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 575: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 576: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 577: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 578: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 579: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 580: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 581: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 582: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 583: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 584: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 585: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 586: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** HappyHorse
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### Descricao
+
+阿里ATH黑马杀出！
+
+#### Prompt
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 587: Nous Portal Just Added 16 New Image And
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** YanXbt
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/IBuzovskyi/status/2086809610199965983)
+
+#### Descricao
+
+NOUS PORTAL JUST ADDED 16 NEW IMAGE
+AND VIDEO GENERATION MODELS.
+
+#### Prompt
+
+```text
+NOUS PORTAL JUST ADDED 16 NEW IMAGE
+AND VIDEO GENERATION MODELS.
+SEEDREAM 5.0. FLUX 3. KLING V3 4K.
+SEEDANCE 2.5. ALL AVAILABLE TODAY.
+
+if you run Hermes Agent through Nous Portal,
+your agent now generates images and video
+from 16 new models. no separate API keys.
+no FAL account.
+```
+
+### No. 588: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** 橋村政海@おかしなアート
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2086988333490880840.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086988333490880840.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/hashimura55/status/2086988333490880840)
+
+#### Descricao
+
+TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
+
+#### Prompt
+
+```text
+TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
+```
+
+### No. 589: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Kgrgr J
+- **Idioma:** `pt-PT`
+- **Link de Origem:** [Ver](https://x.com/Inparusu56/status/2087005474441101803)
+
+#### Descricao
+
+最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
+
+#### Prompt
+
+```text
+最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
 ```
 
 <a id="category-2"></a>
@@ -29724,7 +30326,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-08-10T05:53:02.613Z
+> Este README e gerado automaticamente. 2026-08-11T10:31:51.591Z
 
 ## More Atlas Cloud Tools
 

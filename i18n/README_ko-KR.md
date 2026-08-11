@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1373%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1389%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1373** |
+| 전체 프롬프트 | **1389** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **1090** |
-| 마지막 업데이트 | **2026-08-10T05:53:02.356Z** |
+| 미리보기 비디오 | **1071** |
+| 마지막 업데이트 | **2026-08-11T10:31:51.339Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **661**
+- [`Twitter Community`](#category-1): **677**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (661)
+### Twitter Community (677)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -8495,28 +8495,7 @@ Dynamic cinematic video of a football (soccer) match. Begin with a wide, sweepin
 At the foot of a colossal spacecraft stranded across a barren plain, a lone young girl waits motionless before its fractured bow, her small silhouette occupying the lower foreground while the vessel rises beyond the frame like a ruined mountain. Low ground-level
 ```
 
-### No. 370: 하늘 꿈의 책
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Zidan 子丹
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2079074495110001011.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/liluocheng13/status/2079074495110001011)
-
-#### 설명
-
-환상적인 모험가가 마법의 책에서 마법의 구름 도시를 드러내며, 과거로 비둘기와 두루마리를 페이스텔 하늘로 날려보냅니다.
-
-#### 프롬프트
-
-```text
-A whimsical female adventurer with a steampunk-inspired pink and blue outfit, top hat, and goggles, stands on a gigantic open book. She opens a glowing vintage suitcase, then the book, releasing flying scrolls and white doves that ascend. The camera slowly zooms out and pans up, revealing a breathtaking, highly detailed dreamlike cloud city with ornate Victorian architecture, pastel hot air balloons, and floating islands under a soft, golden sky. Dreamy, magical, fairytale art style, soft lighting, vibrant pastel colors, epic wide shot.
-```
-
-### No. 371: 스페인, 아르헨티나를 꺾고 월드컵 우승
+### No. 370: 스페인, 아르헨티나를 꺾고 월드컵 우승
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8537,7 +8516,7 @@ A whimsical female adventurer with a steampunk-inspired pink and blue outfit, to
 A cinematic, high-definition video of a thrilling soccer match between Spain and Argentina in a packed stadium. Start with an aerial shot of the stadium at sunset, then a dynamic close-up of a Spanish player (number 19) dribbling past an Argentinian player (number 10) and taking a powerful shot. The ball flies towards the goal with a magical golden dragon-like energy trail, past a diving goalkeeper into the net. The Spanish team celebrates their victory, culminating in the player lifting the World Cup trophy amidst fireworks and confetti, followed by a moment of sportsmanship between the two teams.
 ```
 
-### No. 372: 안개 낀 해안 도로와 비 맞는 부츠
+### No. 371: 안개 낀 해안 도로와 비 맞는 부츠
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8556,6 +8535,33 @@ A cinematic, high-definition video of a thrilling soccer match between Spain and
 
 ```text
 A cinematic wide shot features a lone hooded figure in a dark jacket standing on a winding, rain-slicked coastal road, gazing out at a turbulent, foggy ocean with powerful waves crashing against misty cliffs. Rain falls steadily, and thick fog rolls across the highway. A distant car headlight briefly pierces through the dense mist. The camera slowly zooms in on the figure, emphasizing isolation. Following this, a close-up shot reveals a dark brown leather boot with visible raindrops stepping into a shimmering puddle on the wet asphalt, creating subtle ripples.
+```
+
+### No. 372: Every Diamond Holds A Universe. We Filmed Inside
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Bic_Revelation/status/2082200731252035651)
+
+#### 설명
+
+Every diamond holds a universe.
+
+#### 프롬프트
+
+```text
+Every diamond holds a universe. We filmed inside one. 💎✨
+
+Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
+
+AI. No camera. No lens. Just light.
+
+Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
 ### No. 373: Every Diamond Holds A Universe. We Filmed Inside
@@ -8585,34 +8591,7 @@ AI. No camera. No lens. Just light.
 Made with @itsPolloAI — HappyHorse 1.1.
 ```
 
-### No. 374: Every Diamond Holds A Universe. We Filmed Inside
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082200731252035651.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Bic_Revelation/status/2082200731252035651)
-
-#### 설명
-
-Every diamond holds a universe.
-
-#### 프롬프트
-
-```text
-Every diamond holds a universe. We filmed inside one. 💎✨
-
-Macro descent into the heart of a gemstone — galaxies of refracted light, a nebula at its core, constellations of fire in every facet.
-
-AI. No camera. No lens. Just light.
-
-Made with @itsPolloAI — HappyHorse 1.1.
-```
-
-### No. 375: 🚨 News Update About Video Model 🚨 The
+### No. 374: 🚨 News Update About Video Model 🚨 The
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8648,6 +8627,33 @@ The information revealed in this leak
 -Seedance 2.5 The exact information
 ```
 
+### No. 375: Kling And Google Omni Aren’T The Only Options
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Feyber | AI Creator
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/woleswoosh/status/2082280564011446554)
+
+#### 설명
+
+Kling and Google Omni aren’t the only options for AI video editing.
+
+#### 프롬프트
+
+```text
+Kling and Google Omni aren’t the only options for AI video editing.
+
+@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
+
+If you’re building an AI video workflow, this one is worth adding to your test list.
+
+Try it here:
+```
+
 ### No. 376: Kling And Google Omni Aren’T The Only Options
 
 - **카테고리:** `Twitter Community`
@@ -8675,34 +8681,7 @@ If you’re building an AI video workflow, this one is worth adding to your test
 Try it here:
 ```
 
-### No. 377: Kling And Google Omni Aren’T The Only Options
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Feyber | AI Creator
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082280564011446554.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/woleswoosh/status/2082280564011446554)
-
-#### 설명
-
-Kling and Google Omni aren’t the only options for AI video editing.
-
-#### 프롬프트
-
-```text
-Kling and Google Omni aren’t the only options for AI video editing.
-
-@HappyHorseATH  has a video editing feature too, and I tested it on this clip.
-
-If you’re building an AI video workflow, this one is worth adding to your test list.
-
-Try it here:
-```
-
-### No. 378: Últimamente Uso Happy Horse Ai Y Me Está
+### No. 377: Últimamente Uso Happy Horse Ai Y Me Está
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8720,7 +8699,7 @@ Try it here:
 Últimamente uso Happy Horse AI y me está gustando mucho. Te lo comparto.
 ```
 
-### No. 379: Why Juggle Multiple Ai Tools? 🤯 Bo Now
+### No. 378: Why Juggle Multiple Ai Tools? 🤯 Bo Now
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8752,7 +8731,7 @@ BO now creates Short-form Videos​ featuring 5 of the world's leading AI models
 From Cinematic to Anime, Product Ads to 3D Cartoons
 ```
 
-### No. 380: Happyhorse For The Win 😊 Beautiful Video Pss
+### No. 379: Happyhorse For The Win 😊 Beautiful Video Pss
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8770,6 +8749,31 @@ Beautiful video PSS 💜
 ```text
 @PromptSin HappyHorse for the win 😊
 Beautiful video PSS 💜
+```
+
+### No. 380: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Edimakor Taiwan
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/edimakortaiwan/status/2082466177419239599)
+
+#### 설명
+
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+#### 프롬프트
+
+```text
+照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+
+用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
+
+#AI換裝 #電商影片 #Edimakor
 ```
 
 ### No. 381: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
@@ -8797,29 +8801,27 @@ Beautiful video PSS 💜
 #AI換裝 #電商影片 #Edimakor
 ```
 
-### No. 382: 照著老師這組 Prompt，下班用 Pixverse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？ 用 Edim
+### No. 382: Today I Tested The Same 1980S-Style Commercial Prompt
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Edimakor Taiwan
+- **작성자:** STΛRJUPI
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082466177419239599.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/edimakortaiwan/status/2082466177419239599)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/StarjupiAI/status/2082470356242055611)
 
 #### 설명
 
-照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
 
 #### 프롬프트
 
 ```text
-照著老師這組 Prompt，下班用 PixVerse（夯）、可靈（還行）、Happyhorse（有點拉🤣） 各跑了一版 10 秒變裝影片，你投誰？
+Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
 
-用 Edimakor 做電商換裝短片超輕鬆，AI 生成＋剪輯一次搞定。免費試試👉
-
-#AI換裝 #電商影片 #Edimakor
+First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
 ### No. 383: Today I Tested The Same 1980S-Style Commercial Prompt
@@ -8845,30 +8847,7 @@ Today I tested the same 1980s-style commercial prompt across three different vid
 First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
 ```
 
-### No. 384: Today I Tested The Same 1980S-Style Commercial Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** STΛRJUPI
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082470356242055611.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/StarjupiAI/status/2082470356242055611)
-
-#### 설명
-
-Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash.
-
-#### 프롬프트
-
-```text
-Today I tested the same 1980s-style commercial prompt across three different video models: Seedance, Alibaba Happy Horse 1.1, and Gemini Omni Flash. I’ll share the results one by one.
-
-First up: Seedance. The scene flow, physics, camera movement, and retro commercial atmosphere
-```
-
-### No. 385: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
+### No. 384: Totalment D'Acord. M'Ha Sorprès També La Consistencia Facial
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8886,7 +8865,7 @@ Totalment d'acord.
 @PromptSin Totalment d'acord. M'ha sorprès també la consistencia facial que aconsegueix. En un video en moviment la identitat marca la diferència i Happy Horse ho resol. Bona prova!!😍😍💪💪
 ```
 
-### No. 386: I Recently Ordered A Custom Playstation 5 Pro
+### No. 385: I Recently Ordered A Custom Playstation 5 Pro
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8909,7 +8888,7 @@ I recently ordered a custom PlayStation 5 Pro from ColorWare and the website sho
 So I used AI to turn those renders into a
 ```
 
-### No. 387: Guys, Which Ai Model For Which Type Of
+### No. 386: Guys, Which Ai Model For Which Type Of
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -8933,6 +8912,28 @@ Happy horse
 Grok Imagine
 Google Veo
 Wan
+```
+
+### No. 387: World Cup Ai Challenge —Featured Works
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** VivaReel
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/VivaReelai/status/2082659181547634688)
+
+#### 설명
+
+World Cup AI challenge —Featured works
+
+#### 프롬프트
+
+```text
+World Cup AI challenge —Featured works
+#VivaReel #happyhorse
 ```
 
 ### No. 388: World Cup Ai Challenge —Featured Works
@@ -9133,26 +9134,24 @@ World Cup AI challenge —Featured works
 #VivaReel #happyhorse
 ```
 
-### No. 397: World Cup Ai Challenge —Featured Works
+### No. 397: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** VivaReel
+- **작성자:** 藤川裕一🤖アリババAIエンジニア
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082659181547634688.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/VivaReelai/status/2082659181547634688)
+- **원본 링크:** [보기](https://x.com/fujiyuu75e/status/2082670009222881346)
 
 #### 설명
 
-World Cup AI challenge —Featured works
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
 
 #### 프롬프트
 
 ```text
-World Cup AI challenge —Featured works
-#VivaReel #happyhorse
+【Alibaba Meetup Sapporo開催！】
+おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
 ### No. 398: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
@@ -9195,27 +9194,7 @@ World Cup AI challenge —Featured works
 おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
 ```
 
-### No. 400: 【Alibaba Meetup Sapporo開催！】 おそらく初めて？札幌で8/8(土) 19時からAiauとのコラボでミートアップを開催します！ Qwen/
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 藤川裕一🤖アリババAIエンジニア
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/fujiyuu75e/status/2082670009222881346)
-
-#### 설명
-
-【Alibaba Meetup Sapporo開催！】
-おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！
-
-#### 프롬프트
-
-```text
-【Alibaba Meetup Sapporo開催！】
-おそらく初めて？札幌で8/8(土) 19時からAIAUとのコラボでミートアップを開催します！ Qwen/HappyHorse/wanなど、アリババクラウドの最新モデルのトレンドはもちろん、オフラインなので「ここだけの裏話」もたっぷり話す予定です😎
-```
-
-### No. 401: Ace Data Cloud App Is Now Live In
+### No. 400: Ace Data Cloud App Is Now Live In
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9240,7 +9219,7 @@ Type video, image or music into the studio channel with a description of what yo
 If you do want to choose, video runs on Veo, Kling, Luma,
 ```
 
-### No. 402: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
+### No. 401: そういや、Seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9258,7 +9237,7 @@ If you do want to choose, video runs on Veo, Kling, Luma,
 そういや、seedance2.0以降って、HappyhorseやGoogleやら色々挑んで惨敗した後、進化が停滞気味な気がするので、Minimaxは久々の動画生成AIニュースって感じがする。噂だと明日はseedance2.5が来るという話もあるけど、また動画生成AI界隈が賑やかになるかねえ。
 ```
 
-### No. 403: Cinematic Ai Video Creation Just Got Easier Happyhorse
+### No. 402: Cinematic Ai Video Creation Just Got Easier Happyhorse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9276,7 +9255,7 @@ Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a tota
 @lilidiai Cinematic AI video creation just got easier HappyHorse 1.1 on Lilidiai is a total game changer.
 ```
 
-### No. 404: Experimented With Image-Driven Sound Performances And Had Great
+### No. 403: Experimented With Image-Driven Sound Performances And Had Great
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9297,7 +9276,7 @@ Experimented with image-driven sound performances and had great fun with the new
 Experimented with image-driven sound performances and had great fun with the new #mimimaxH3 omni video model. I had early access and would rate it up there with VEO, Kling and Happy Horse in the follow-up to Seedance. The creativity of the sound performance even rivals Seedance
 ```
 
-### No. 405: Good Mornyan Sweet Sacchi, Them Better Of Been
+### No. 404: Good Mornyan Sweet Sacchi, Them Better Of Been
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9315,7 +9294,7 @@ Good mornyan sweet Sacchi, them better of been happy horse video years !
 @saccharinsucc Good mornyan sweet Sacchi, them better of been happy horse video years ! But glad you didn’t bed rot, have fun playing SS. Tonight’s going to be another wonderful night. Hope you have an amazing day until then I’ll be waiting ❤️‍🩹❤️‍🩹❤️‍🩹
 ```
 
-### No. 406: Try Happyhorse 1.1 For Cinematic Ai Videos Now
+### No. 405: Try Happyhorse 1.1 For Cinematic Ai Videos Now
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9333,7 +9312,7 @@ Try HappyHorse 1.1 for cinematic AI videos now online.
 @lilidiai Try HappyHorse 1.1 for cinematic AI videos now online.
 ```
 
-### No. 407: Would You Step Into A Beautiful Painting... If
+### No. 406: Would You Step Into A Beautiful Painting... If
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9356,7 +9335,7 @@ Would you step into a beautiful painting... if you knew you could never return?
 An original fantasy short film by Catlynx, created with Happy Horse 1.1 AI. @HappyHorseATH #horseinspodump #happyhorse #HorsepowerAICinema
 ```
 
-### No. 408: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
+### No. 407: エージェント収集レポート Executive Report 2026.7.31 今日はXtechの情報量が多めですが、先に見てほしいのはArxiv側です。「監視
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9380,6 +9359,31 @@ Executive Report 2026.7.31
 今日はxTECHの情報量が多めですが、先に見てほしいのはarXiv側です。「監視があると挙動が変わる」「内部指標を下げても行動は変わらない」が並び、評価の見方を少し引き締めたくなる日です。
 
 ■セキュリティ・AI Safety関連
+```
+
+### No. 408: Google'S Gemini Omni Flash Debuts At On The
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Artificial Analysis
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2082991648703930561)
+
+#### 설명
+
+Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conve
+
+#### 프롬프트
+
+```text
+Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
+
+Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
 ### No. 409: Google'S Gemini Omni Flash Debuts At On The
@@ -9507,32 +9511,7 @@ Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing
 Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
 ```
 
-### No. 414: Google'S Gemini Omni Flash Debuts At On The
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Artificial Analysis
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2082991648703930561.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/ArtificialAnlys/status/2082991648703930561)
-
-#### 설명
-
-Google's Gemini Omni Flash debuts at  on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conve
-
-#### 프롬프트
-
-```text
-Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Video Editing Leaderboard, completing a near sweep of our video leaderboards
-
-Beyond generating video, Gemini Omni Flash supports conversational video editing: pass an instruction and the model modifies a video
-```
-
-### No. 415: No Massive Studio Budget, Just Pure Ai. 🎬
+### No. 414: No Massive Studio Budget, Just Pure Ai. 🎬
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9557,7 +9536,7 @@ I generated this epic, trending high-fantasy cinematic sequence entirely with Ha
 The fluid character animation and the precise camera control - smoothly transitioning from a top-down close-up to a sweeping landscape reveal
 ```
 
-### No. 416: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
+### No. 415: Minimax 发布了最新视频模型Minimax H3，并且居然打算将这个视频模型开源！ 这个视频模型在 Artificial Analysis 排行榜上杀疯了
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9583,7 +9562,7 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 它采用多模态架构，支持文本、图片、视频、音频输入，可生成 5-15 秒、24fps
 ```
 
-### No. 417: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
+### No. 416: アリババの動画生成Ai「Happyhorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、Cmなど
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9599,6 +9578,27 @@ MiniMax 发布了最新视频模型MiniMax H3，并且居然打算将这个视�
 
 ```text
 アリババの動画生成AI「HappyHorse」、表現力の強化と価格競争力で攻勢: リアリティーのある動画を簡単に、しかも定価価格で生成できるようになり、CMなどの商業利用も広がっています。
+```
+
+### No. 417: With Minimal Prompt I Guess Happy Horse Is
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** tako_bot
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/tako_bots/status/2083103980411072921)
+
+#### 설명
+
+with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
+
+#### 프롬프트
+
+```text
+@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
 ### No. 418: With Minimal Prompt I Guess Happy Horse Is
@@ -9622,28 +9622,7 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 @RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
 ```
 
-### No. 419: With Minimal Prompt I Guess Happy Horse Is
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** tako_bot
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083103980411072921.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/tako_bots/status/2083103980411072921)
-
-#### 설명
-
-with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
-
-#### 프롬프트
-
-```text
-@RedNovaGHF @Synnerette with minimal prompt i guess happy horse is not as good as seedance in following the storyboard
-```
-
-### No. 420: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
+### No. 419: 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？ 新华社德黑兰7月30日电
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9660,6 +9639,35 @@ with minimal prompt i guess happy horse is not as good as seedance in following 
 ```text
 💡【知乎热榜】伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？
 新华社德黑兰7月30日电
+```
+
+### No. 420: Everyone Talks About Ai Video Quality. I Wanted
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** RAVI KUMAR SAHU
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
+
+#### 설명
+
+Everyone talks about AI video quality.
+
+#### 프롬프트
+
+```text
+Everyone talks about AI video quality.
+
+I wanted to test something a bit harder:
+
+Can AI actually handle complex human movement?
+
+So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
+
+The first test was a professional ballet performance
 ```
 
 ### No. 421: Everyone Talks About Ai Video Quality. I Wanted
@@ -9691,36 +9699,7 @@ So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results
 The first test was a professional ballet performance
 ```
 
-### No. 422: Everyone Talks About Ai Video Quality. I Wanted
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** RAVI KUMAR SAHU
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2083139338590908514.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/RAVIKUMARSAHU78/status/2083139338590908514)
-
-#### 설명
-
-Everyone talks about AI video quality.
-
-#### 프롬프트
-
-```text
-Everyone talks about AI video quality.
-
-I wanted to test something a bit harder:
-
-Can AI actually handle complex human movement?
-
-So I gave HappyHorse 1.1 and Kling 3.0 the same prompts and compared the results side by side.
-
-The first test was a professional ballet performance
-```
-
-### No. 423: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
+### No. 422: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse 1.1」を活用したハッカ
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9738,7 +9717,7 @@ The first test was a professional ballet performance
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカ...
 ```
 
-### No. 424: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
+### No. 423: 🎙️Build With Voxcpm2: Creating Consistent Ai Character Voices
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9767,7 +9746,7 @@ A developer @xiaofenggan in our community created an AI short film with VoxCPM2 
 In AI-generated content, keeping the same character voice across different
 ```
 
-### No. 425: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
+### No. 424: ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成Ai「Happy Horse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9785,7 +9764,7 @@ In AI-generated content, keeping the same character voice across different
 ＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse ...
 ```
 
-### No. 426: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
+### No. 425: 「Minimax H3」登場 !!! 動画編集Aiの独立評価で世界1位に😳 Minimax H3 Tops Artificial
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9806,7 +9785,7 @@ MiniMax H3 tops Artificial Analysis video editing chart
 Fable5です✨中国MiniMax社の最新動画AI『H3』(Hailuoシリーズ最新版)が7/31に正式リリース。独立評価機関Artificial
 ```
 
-### No. 427: I'Ve Been Testing Happyhorse 1.1, And The Results
+### No. 426: I'Ve Been Testing Happyhorse 1.1, And The Results
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9831,7 +9810,7 @@ From cinematic camera movements to consistent characters and smooth motion, it's
 Whether you're making ads, social content, or
 ```
 
-### No. 428: How To Clone Animated Ads Using Ai In
+### No. 427: How To Clone Animated Ads Using Ai In
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9857,7 +9836,7 @@ Tools use: avocadoai dot co
 Models used: GPT Image 2, Seedance 2.0 and
 ```
 
-### No. 429: How To Clone Animated Ads Using Ai In
+### No. 428: How To Clone Animated Ads Using Ai In
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9883,7 +9862,7 @@ Tools use: avocadoai do co
 Models used: GPT
 ```
 
-### No. 430: The Bottleneck Just Moved Again Bytedance’S Seed Team
+### No. 429: The Bottleneck Just Moved Again Bytedance’S Seed Team
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9909,7 +9888,7 @@ Video generation just got a lot easier.
 HappyHorse 1.0 climbed to No. 1 on the
 ```
 
-### No. 431: Is Now Back To The Creative Model Battle
+### No. 430: Is Now Back To The Creative Model Battle
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -9929,6 +9908,32 @@ is now back to the Creative Model Battle Ground!
 Now in #Video Model Arena, it's Chinese Labs( Bytedance's Seedance, Kuaishou's Kling, Alibaba's HappyHorse and MiniMax's H3) battle with #Google Gemini
 
 This week, MiniMax launched their Text/Image-to-Video model: MiniMax
+```
+
+### No. 431: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/outsourcePM/status/2083694266946375765)
+
+#### 설명
+
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+#### 프롬프트
+
+```text
+今日の動画×AIニュース3本まとめ
+
+① Mirage Avatar X：表情や声が実在の人に近づいた
+MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
+
+② HappyHorse：Klingより自然に直せるようになった
 ```
 
 ### No. 432: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
@@ -9957,33 +9962,7 @@ MirageがAvatar Xを新しく出しました。実在の人に近い表情や動
 ② HappyHorse：Klingより自然に直せるようになった
 ```
 
-### No. 433: 今日の動画×Aiニュース3本まとめ ① Mirage Avatar X：表情や声が実在の人に近づいた MirageがAvatar Xを新しく出しました。実在の人
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 🛒外注動画の鬼｜動画編集の8割をAIで消す
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/outsourcePM/status/2083694266946375765)
-
-#### 설명
-
-今日の動画×AIニュース3本まとめ
-
-① Mirage Avatar X：表情や声が実在の人に近づいた
-MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
-
-#### 프롬프트
-
-```text
-今日の動画×AIニュース3本まとめ
-
-① Mirage Avatar X：表情や声が実在の人に近づいた
-MirageがAvatar Xを新しく出しました。実在の人に近い表情や動き、声で縦や横の動画を作れるAIアバターなので、外注せずに動画をたくさん自分で作れます。
-
-② HappyHorse：Klingより自然に直せるようになった
-```
-
-### No. 434: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
+### No. 433: 14社参加してますね 元々エンジニアでなのでAiツールをいじくるのが好きなんです もちらん、作品作りも好きです Hailuo、Vidu、Kling、Dreami
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10007,7 +9986,7 @@ Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia�
 Hailuo、Vidu、Kling、Dreamina、Happyhorse、TapNow、OiiOii、Flova、Zopia、CapCut、Flexclip、TOPVIEW、WaveSpeedAI、ImagineArt
 ```
 
-### No. 435: It'S A Good Time For Video Models Lately
+### No. 434: It'S A Good Time For Video Models Lately
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10033,7 +10012,7 @@ Overview
 Beauty-commercial portrait, one continuous shot:
 ```
 
-### No. 436: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
+### No. 435: 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，Ai味比较明显，比不上阿里的Happyhorse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10054,7 +10033,7 @@ Beauty-commercial portrait, one continuous shot:
 我又用Minimax新出的H3视频模型做了个类似的无人机视频，看它的细节比较多抖动和扭曲，AI味比较明显，比不上阿里的happyhorse.
 ```
 
-### No. 437: A Wonderful Prompt Happy Horse 1.1 Has Good
+### No. 436: A Wonderful Prompt Happy Horse 1.1 Has Good
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10074,7 +10053,7 @@ Happy horse 1.1 has good quality
 Happy horse 1.1 has good quality
 ```
 
-### No. 438: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
+### No. 437: Ai Art Prompt Share Party 🎨👇🏻 Simple Gouache
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10096,7 +10075,7 @@ Ai Art Prompt Share Party 🎨👇🏻
 Simple gouache painting of a happy horse with flowing mane, flat matte colors, bold shapes, cheerful and graphic
 ```
 
-### No. 439: Seedance 2.5 Has High Sensitivity To Fighting Actions
+### No. 438: Seedance 2.5 Has High Sensitivity To Fighting Actions
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10118,7 +10097,7 @@ But didn't post them.
 Need to change actions to cuteness videos
 ```
 
-### No. 440: Cette Vidéo A Été Générée À L'Aide Du
+### No. 439: Cette Vidéo A Été Générée À L'Aide Du
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10141,7 +10120,7 @@ Cette vidéo a été générée à l'aide du modèle de Happy Horse d'Edimakor. 
 #edimakor #happyhorse #modeleia
 ```
 
-### No. 441: 3/ Then The Logo Animation. The Agent Strips
+### No. 440: 3/ Then The Logo Animation. The Agent Strips
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10171,7 +10150,7 @@ HappyHorse 1.1 takes both refs and freestyles.
 One brief,
 ```
 
-### No. 442: Happyhorse Is Becoming One Of My Favorite Ai
+### No. 441: Happyhorse Is Becoming One Of My Favorite Ai
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10189,7 +10168,7 @@ HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and ser
 @HappyHorseATH HappyHorse is becoming one of my favorite AI tools, creative, cinematic, and seriously fun to use! 🐴🔥🎬
 ```
 
-### No. 443: My Dad Grows Cherries. My Mom Makes Cherry
+### No. 442: My Dad Grows Cherries. My Mom Makes Cherry
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10218,7 +10197,7 @@ No film crew. No studio. One prompt in @HappyHorseATH 1.1 and an afternoon.
 Real jam from a tiny
 ```
 
-### No. 444: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
+### No. 443: Happyhorse 1.1 Text-To-Video Ai Is Becoming The Version
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10234,6 +10213,26 @@ HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visua
 
 ```text
 HappyHorse 1.1 Text-to-Video AI Is Becoming the Version Control System for Visual Brands  via @LinkedI
+```
+
+### No. 444: I Think Version 1.1 Put Happy Horse Right
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AIdriving
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/mrc_748/status/2084198792786489716)
+
+#### 설명
+
+I think version 1.1 put Happy Horse right at the top of the best AI video generators.
+
+#### 프롬프트
+
+```text
+@HappyHorseATH I think version 1.1 put Happy Horse right at the top of the best AI video generators.
+I’m curious to see how it will work with an AI agent.
+I use HH practically every day
 ```
 
 ### No. 445: I Think Version 1.1 Put Happy Horse Right
@@ -10256,27 +10255,7 @@ I’m curious to see how it will work with an AI agent.
 I use HH practically every day
 ```
 
-### No. 446: I Think Version 1.1 Put Happy Horse Right
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** AIdriving
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/mrc_748/status/2084198792786489716)
-
-#### 설명
-
-I think version 1.1 put Happy Horse right at the top of the best AI video generators.
-
-#### 프롬프트
-
-```text
-@HappyHorseATH I think version 1.1 put Happy Horse right at the top of the best AI video generators.
-I’m curious to see how it will work with an AI agent.
-I use HH practically every day
-```
-
-### No. 447: Is Happy Horse Free? And Also Can Drop
+### No. 446: Is Happy Horse Free? And Also Can Drop
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10292,6 +10271,28 @@ Is happy horse free?
 
 ```text
 @BatsouElef @HappyHorseATH Is happy horse free? And also can drop the prompt?
+```
+
+### No. 447: Same Prompt. Two Videos. Can You Tell Which
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** POWER AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/power_ai_/status/2084277506018844799)
+
+#### 설명
+
+Same prompt.
+
+#### 프롬프트
+
+```text
+Same prompt. Two videos.
+Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
 ### No. 448: Same Prompt. Two Videos. Can You Tell Which
@@ -10382,29 +10383,7 @@ Same prompt. Two videos.
 Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
 ```
 
-### No. 452: Same Prompt. Two Videos. Can You Tell Which
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** POWER AI
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084277506018844799.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/power_ai_/status/2084277506018844799)
-
-#### 설명
-
-Same prompt.
-
-#### 프롬프트
-
-```text
-Same prompt. Two videos.
-Can you tell which one is HappyHorse and which is Google Omni?  (Prompt + correct answer in the comments 👇)  #happyhorse #AIVideo #GenAI
-```
-
-### No. 453: Episode 4 Of My New Series, Anime Ads
+### No. 452: Episode 4 Of My New Series, Anime Ads
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10429,7 +10408,7 @@ What if a courier company launched an anime commercial instead of a traditional 
 Meet Kai, an express courier racing against time to deliver an urgent package. From accepting the job to navigating the city and
 ```
 
-### No. 454: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
+### No. 453: Deepseek Deepseek-V4-Pro Text, Reasoning ⚡️Deepseek-V4-Flash-0731 Text, Reasonin
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10462,7 +10441,7 @@ qwen3.7-plus         Text, Reasoning, Vision
 qwen3.7-max          Text,
 ```
 
-### No. 455: This Night Marked Soulscape'S Evolution From A Global
+### No. 454: This Night Marked Soulscape'S Evolution From A Global
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10482,7 +10461,7 @@ This night marked Soulscape's evolution from a global creative community into a 
 Last week in Los Angeles, we brought together NVIDIA, Alibaba Cloud, WAN, Happy Horse, and 130 leaders across Hollywood and
 ```
 
-### No. 456: Happy Horse’S Is A Decent Video Model If
+### No. 455: Happy Horse’S Is A Decent Video Model If
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10498,6 +10477,33 @@ Happy horse’s is a decent video model if u use the correct video prompt built 
 
 ```text
 @HappyHorseATH Happy horse’s is a decent video model if u use the correct video prompt built to work with it.. Right now seedance, happy horse, minimax H3 best models out
+```
+
+### No. 456: You Uploaded One Photo Of Your Car. 6
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Ancher Creative
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/AncherCreative/status/2084455266423308410)
+
+#### 설명
+
+You uploaded ONE photo of your car.
+
+#### 프롬프트
+
+```text
+You uploaded ONE photo of your car. 6 seconds later, it disassembles and reassembles itself. 🚗🤖
+
+Powered by Happy Horse 1.1​ on 
+
+✅ 27-point vehicle identity lock — body shape, paint, wheels, headlights, grille, badges, calipers… EVERYTHING frozen
+
+✅
 ```
 
 ### No. 457: You Uploaded One Photo Of Your Car. 6
@@ -10527,31 +10533,28 @@ Powered by Happy Horse 1.1​ on
 ✅
 ```
 
-### No. 458: You Uploaded One Photo Of Your Car. 6
+### No. 458: Tested The Same Text-To-Video Action Prompt On Happyhorse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Ancher Creative
+- **작성자:** Johnn
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084455266423308410.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/AncherCreative/status/2084455266423308410)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/john_my07/status/2084499797117972817)
 
 #### 설명
 
-You uploaded ONE photo of your car.
+Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
 
 #### 프롬프트
 
 ```text
-You uploaded ONE photo of your car. 6 seconds later, it disassembles and reassembles itself. 🚗🤖
+Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
 
-Powered by Happy Horse 1.1​ on 
-
-✅ 27-point vehicle identity lock — body shape, paint, wheels, headlights, grille, badges, calipers… EVERYTHING frozen
-
-✅
+For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
+It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
 ### No. 459: Tested The Same Text-To-Video Action Prompt On Happyhorse
@@ -10578,31 +10581,7 @@ For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
 It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
 ```
 
-### No. 460: Tested The Same Text-To-Video Action Prompt On Happyhorse
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Johnn
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084499797117972817.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/john_my07/status/2084499797117972817)
-
-#### 설명
-
-Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
-
-#### 프롬프트
-
-```text
-Tested the same Text-to-Video action prompt on HappyHorse 1.1 and Kling 3.0.
-
-For this cinematic fight sequence, HappyHorse 1.1 delivered the stronger result.
-It followed the prompt more accurately, maintained better camera control, preserved character consistency throughout the
-```
-
-### No. 461: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
+### No. 460: Side-By-Side Comparison Of Stomping Videos. 踩踏视频的横向对比，Happyhorse/Sora2/Seedance。
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10623,6 +10602,28 @@ Side-by-side comparison of stomping videos.
 #女王 #女控 #trampling #trample #femaledomination #facetrampling #femdom #bootsfetish #feetfetısh #bdsmِ #踩 #ai美女 #lickfeet #ai短片 #heelfetish
 Side-by-side comparison of stomping videos.
 踩踏视频的横向对比，HappyHorse/Sora2/Seedance。
+```
+
+### No. 461: Big One ☮️ Is Heading To Venice This
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Domivakero
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/DOMIVAKERO/status/2084600751737712693)
+
+#### 설명
+
+Big one ☮️  is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+#### 프롬프트
+
+```text
+Big one ☮️ @HappyHorseATH is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
+
+The event will showcase AI-powered films from 10,000 Parallel Universes, including several created with HappyHorse tech.
+
+AI cinema is moving fast 🎬
 ```
 
 ### No. 462: Big One ☮️ Is Heading To Venice This
@@ -10647,29 +10648,7 @@ The event will showcase AI-powered films from 10,000 Parallel Universes, includi
 AI cinema is moving fast 🎬
 ```
 
-### No. 463: Big One ☮️ Is Heading To Venice This
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Domivakero
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/DOMIVAKERO/status/2084600751737712693)
-
-#### 설명
-
-Big one ☮️  is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### 프롬프트
-
-```text
-Big one ☮️ @HappyHorseATH is heading to Venice this September as co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-The event will showcase AI-powered films from 10,000 Parallel Universes, including several created with HappyHorse tech.
-
-AI cinema is moving fast 🎬
-```
-
-### No. 464: Anyway, More River Floating. This Is Getting Really
+### No. 463: Anyway, More River Floating. This Is Getting Really
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10693,6 +10672,24 @@ All my images, and the majority of my non-grok videos are generated locally on m
 Most video models,
 ```
 
+### No. 464: Just Pushed An Update To [Anathema]( That Enables
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** NiceCrew Technologies
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/nicecrewtech/status/2084693781769601278)
+
+#### 설명
+
+Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost.
+
+#### 프롬프트
+
+```text
+Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
+```
+
 ### No. 465: Just Pushed An Update To [Anathema]( That Enables
 
 - **카테고리:** `Twitter Community`
@@ -10711,22 +10708,28 @@ Just pushed an update to [Anathema]( that enables you to filter video and image 
 Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
 ```
 
-### No. 466: Just Pushed An Update To [Anathema]( That Enables
+### No. 466: No Ai Model Is Perfect. Fast-Motion Physics And
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** NiceCrew Technologies
+- **작성자:** Emma Uses AI
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/nicecrewtech/status/2084693781769601278)
+- **원본 링크:** [보기](https://x.com/EmmaUsesAi/status/2084747725908615369)
 
 #### 설명
 
-Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost.
+No AI model is perfect.
 
 #### 프롬프트
 
 ```text
-Just pushed an update to [Anathema]( that enables you to filter video and image models by capability, latitude, and cost. Also integrated video-to-video capabilities for HappyHorse 1.0 and Wan 2.7. These take quite a while to finish (unlike me), so be
+No AI model is perfect.
+
+Fast-motion physics and small moving text still have room to improve, but HappyHorse 1.1 already delivers impressive commercial-quality results for product advertising.
+
+Definitely worth trying.
+
+@HappyHorseATH
 ```
 
 ### No. 467: No Ai Model Is Perfect. Fast-Motion Physics And
@@ -10753,31 +10756,7 @@ Definitely worth trying.
 @HappyHorseATH
 ```
 
-### No. 468: No Ai Model Is Perfect. Fast-Motion Physics And
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Emma Uses AI
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/EmmaUsesAi/status/2084747725908615369)
-
-#### 설명
-
-No AI model is perfect.
-
-#### 프롬프트
-
-```text
-No AI model is perfect.
-
-Fast-motion physics and small moving text still have room to improve, but HappyHorse 1.1 already delivers impressive commercial-quality results for product advertising.
-
-Definitely worth trying.
-
-@HappyHorseATH
-```
-
-### No. 469: Craziest Week For Video Models: Minimax H3 Seedance
+### No. 468: Craziest Week For Video Models: Minimax H3 Seedance
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10805,7 +10784,7 @@ Flux 3
 WAN 3.0/HappyHorse 2?!
 ```
 
-### No. 470: Do Not Sleep On Im Building An Entire
+### No. 469: Do Not Sleep On Im Building An Entire
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -10830,6 +10809,32 @@ do not sleep on @HappyHorseATH
 im building an entire library of VJ clips using happyhorse!
 
 possibly the most underrated video model yet
+```
+
+### No. 470: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/ailike586860/status/2084927984268669406)
+
+#### 설명
+
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+
+#### 프롬프트
+
+```text
+「雪の日の相棒」
+雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+相棒との記憶は、今を支えてくれる。
+HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
+@alibaba_cloud
 ```
 
 ### No. 471: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
@@ -10988,30 +10993,24 @@ HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p
 @alibaba_cloud
 ```
 
-### No. 477: 「雪の日の相棒」 雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。 相棒との記憶は、今を支えてくれる。 Happy
+### No. 477: Congratulations To All The Winners And Participants Of
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** AI Motion Workflow Lab｜生成AI映像と制作フロー
+- **작성자:** Alibaba Cloud
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2084927984268669406.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/ailike586860/status/2084927984268669406)
+- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2084930154124439852)
 
 #### 설명
 
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
 
 #### 프롬프트
 
 ```text
-「雪の日の相棒」
-雪の日の記憶には、いつもハスキーがいる。少女と大人の姿が重なり、二つの時間が一匹を抱きしめる。
-相棒との記憶は、今を支えてくれる。
-HappyHorse 1.1（Alibaba Cloud Model Studio API／Image-to-Video／15秒／1080p／9:16）で制作。プロンプトはリプ欄へ。
-@alibaba_cloud
+Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
+
+It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
 ### No. 478: Congratulations To All The Winners And Participants Of
@@ -11314,27 +11313,7 @@ Congratulations to all the winners and participants of the Alibaba Cloud Singapo
 It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
 ```
 
-### No. 493: Congratulations To All The Winners And Participants Of
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Alibaba Cloud
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/alibaba_cloud/status/2084930154124439852)
-
-#### 설명
-
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-#### 프롬프트
-
-```text
-Congratulations to all the winners and participants of the Alibaba Cloud Singapore x Fizzdragon SGWANders AI Video Challenge!
-
-It was inspiring to see so many creative ideas brought to life through Alibaba Cloud's Wan and Happy Horse AI models. Thank you to our partners, judges,
-```
-
-### No. 494: It Is Been Of The Busiest Weeks In
+### No. 493: It Is Been Of The Busiest Weeks In
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11352,7 +11331,7 @@ It is been of the busiest weeks in Gen AI video space.
 It is been of the busiest weeks in Gen AI video space. One of most common questions I get asked is, how much does 10 seconds of AI video cost. here's the answer 👇🏻
 ```
 
-### No. 495: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
+### No. 494: 【2026 Ai视频生成模型排名｜带音频文生视频前10】 1 Gemini Omni Flash：Elo 1246，视听一体化第一 2
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11382,7 +11361,7 @@ It is been of the busiest weeks in Gen AI video space. One of most common questi
 6 Kling 3.0 1080p
 ```
 
-### No. 496: 🎥 Best Ai Video Generators In The World
+### No. 495: 🎥 Best Ai Video Generators In The World
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11408,7 +11387,7 @@ Top contenders right now:
 • Google Veo 3.1 – Frequently ranked among the best overall for photorealism, prompt adherence, native audio
 ```
 
-### No. 497: My Buddy Made A Cover Of Midnight Star
+### No. 496: My Buddy Made A Cover Of Midnight Star
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11431,27 +11410,54 @@ My buddy made a cover of Midnight Star, so I made an anime version with @HappyHo
 #happyhorse #pixversecpp #pixversecreator
 ```
 
-### No. 498: I Am Creating This Ai Video Using With
+### No. 497: Never Give A Bored Office Worker A Red
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Acell
+- **작성자:** Sogni.ai
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4)
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
 
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085206670754627603.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/recehtuitt/status/2085206670754627603)
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Sogni_Protocol/status/2085226339506790645)
 
 #### 설명
 
-I am creating this AI video using  with HappyHorse 1.1 R2V models.
+Never give a bored office worker a red button.
 
 #### 프롬프트
 
 ```text
-I am creating this AI video using @VivaReelai with HappyHorse 1.1 R2V models.
+Never give a bored office worker a red button. 🔴
 
-The video was submitted as VivaReel × Wan3.0 AI Creator Festival 2026.
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
+```
+
+### No. 498: Never Give A Bored Office Worker A Red
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Sogni.ai
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Sogni_Protocol/status/2085226339506790645)
+
+#### 설명
+
+Never give a bored office worker a red button.
+
+#### 프롬프트
+
+```text
+Never give a bored office worker a red button. 🔴
+
+Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
+
+Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
 ### No. 499: Never Give A Bored Office Worker A Red
@@ -11529,57 +11535,7 @@ Where does it take him? You'll have to watch. Let's just say HR was not prepared
 Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
 ```
 
-### No. 502: Never Give A Bored Office Worker A Red
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Sogni.ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Sogni_Protocol/status/2085226339506790645)
-
-#### 설명
-
-Never give a bored office worker a red button.
-
-#### 프롬프트
-
-```text
-Never give a bored office worker a red button. 🔴
-
-Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
-
-Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
-```
-
-### No. 503: Never Give A Bored Office Worker A Red
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Sogni.ai
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085226339506790645.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/Sogni_Protocol/status/2085226339506790645)
-
-#### 설명
-
-Never give a bored office worker a red button.
-
-#### 프롬프트
-
-```text
-Never give a bored office worker a red button. 🔴
-
-Where does it take him? You'll have to watch. Let's just say HR was not prepared for this.
-
-Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. Just a prompt, no footage, no editing. It also animates
-```
-
-### No. 504: 5000 Free Credits To Give Wan3.0 And Happyhorse
+### No. 502: 5000 Free Credits To Give Wan3.0 And Happyhorse
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11597,7 +11553,7 @@ Made with Happy Horse 1.1 on Sogni - and this whole clip is pure text-to-video. 
 5000 free credits to give Wan3.0 and HappyHorse a spin: prizes and awards! Use Invite Code: "BIAIFFS5" to Register at  #vivareel #biaiff #ai #filmfestival #wan3.0 #happyhorse #filmchallenge
 ```
 
-### No. 505: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
+### No. 503: 予熱警視の新曲「遊園地で会った人（Feat.Charming）」がワンコーラスフルで聴ける！！！ 是非視聴を！！ Short Music Film『I Had 
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11618,6 +11574,74 @@ Short Music Film『I had this dream. こんな夢を観た 』【Happy Horse × 
 
 #予熱警視
 #happyhorse #tapnow #TapTV #alibabacloud
+```
+
+### No. 504: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Lilidi · AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/lilidiai/status/2085338845327843675)
+
+#### 설명
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
+```
+
+### No. 505: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Lilidi · AI
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/lilidiai/status/2085338845327843675)
+
+#### 설명
+
+Happy Horse 1.1 vs   Video 1.5 🐱🏍️
+
+Same prompt.
+
+#### 프롬프트
+
+```text
+Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+
+Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+
+Orange tabby driving.
+White cat screaming with an empty food bowl.
+Shot from a moving car.
+Pure chaos. 😂
+
+Which model nailed it better?
+
+#AI #HappyHorse #Grok
 ```
 
 ### No. 506: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
@@ -11654,72 +11678,48 @@ Which model nailed it better?
 #AI #HappyHorse #Grok
 ```
 
-### No. 507: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 507: Excited To Share That Happyhorse Is Heading To
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Lilidi · AI
+- **작성자:** ᴍᴜʀᴘʜʏ
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/lilidiai/status/2085338845327843675)
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2085345218145194444)
 
 #### 설명
 
-Happy Horse 1.1 vs   Video 1.5 🐱🏍️
-
-Same prompt.
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
 #### 프롬프트
 
 ```text
-Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
-Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
 
-Orange tabby driving.
-White cat screaming with an empty food bowl.
-Shot from a moving car.
-Pure chaos. 😂
-
-Which model nailed it better?
-
-#AI #HappyHorse #Grok
+AI filmmaking
 ```
 
-### No. 508: Happy Horse 1.1 Vs Video 1.5 🐱🏍️ Same
+### No. 508: Excited To Share That Happyhorse Is Heading To
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
-- **작성자:** Lilidi · AI
+- **작성자:** ᴍᴜʀᴘʜʏ
 - **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085338845327843675.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/lilidiai/status/2085338845327843675)
+- **원본 링크:** [보기](https://x.com/Diplomeme/status/2085345218145194444)
 
 #### 설명
 
-Happy Horse 1.1 vs   Video 1.5 🐱🏍️
-
-Same prompt.
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
 #### 프롬프트
 
 ```text
-Happy Horse 1.1 vs @grok  Video 1.5 🐱🏍️
+Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
 
-Same prompt. Same cats. Same tiny motorcycle. Completely different results.
+Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
 
-Orange tabby driving.
-White cat screaming with an empty food bowl.
-Shot from a moving car.
-Pure chaos. 😂
-
-Which model nailed it better?
-
-#AI #HappyHorse #Grok
+AI filmmaking
 ```
 
 ### No. 509: Excited To Share That Happyhorse Is Heading To
@@ -11832,51 +11832,7 @@ Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Univ
 AI filmmaking
 ```
 
-### No. 514: Excited To Share That Happyhorse Is Heading To
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2085345218145194444)
-
-#### 설명
-
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### 프롬프트
-
-```text
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
-
-AI filmmaking
-```
-
-### No. 515: Excited To Share That Happyhorse Is Heading To
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** ᴍᴜʀᴘʜʏ
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/Diplomeme/status/2085345218145194444)
-
-#### 설명
-
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-#### 프롬프트
-
-```text
-Excited to share that HappyHorse is heading to Venice this September as a co-host of the AI Cinema Forum at the Venice Production Bridge.
-
-Together with @TapNow_AI , we’ll be showing AI films from 10,000 Parallel Universes, including several made using HappyHorse.
-
-AI filmmaking
-```
-
-### No. 516: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
+### No. 514: Midjourneyで生成したアジア女性の画像を５種類のAiで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11897,7 +11853,7 @@ Midjourneyで生成したアジア女性の画像を５種類のAIで動画化�
 Midjourneyで生成したアジア女性の画像を５種類のAIで動画化してみました。同一画像に同一プロンプトを使っているのに、Happy Horse 1.1では靴音や小鳥のさえずりが聞こえ、Wan 2.7とPixVerse V6では女性が勝手にセリフをしゃべっていて、驚きました。#AI動画 #Midjourney
 ```
 
-### No. 517: This Is Best Happyhorse Video Model Creation I
+### No. 515: This Is Best Happyhorse Video Model Creation I
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11917,7 +11873,7 @@ This is best Happyhorse video model creation i have seen.
 That little jump scare 😂
 ```
 
-### No. 518: A Short Film "Jing Tong &Amp; The Noodle
+### No. 516: A Short Film "Jing Tong &Amp; The Noodle
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11935,7 +11891,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 519: A Short Film "Jing Tong &Amp; The Noodle
+### No. 517: A Short Film "Jing Tong &Amp; The Noodle
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11953,7 +11909,7 @@ A Short film "Jing Tong &amp; The Noodle Master" that I created with  1.1 a fun 
 A Short film "Jing Tong &amp; The Noodle Master" that I created with #Happyhorse 1.1 a fun project + includes some of the #AI workflow. #AIFilmmaking
 ```
 
-### No. 520: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
+### No. 518: Introducing Plum Video 📽️ Seedance 2 &Amp; Happy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -11987,7 +11943,7 @@ Introducing Plum Video
 Let's dive in 👇
 ```
 
-### No. 521: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
+### No. 519: また、Happy Horseは9月にヴェネツィア・プロダクション・ブリッジで開催される『Ai Cinema Forum』でTapnowと『10,000 Para
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12007,7 +11963,7 @@ Let's dive in 👇
 ヴェネツィアいきたいですね☺️
 ```
 
-### No. 522: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
+### No. 520: 目前只有阿里的 Ai 视频模型是两条线并行： Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12029,97 +11985,7 @@ Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测
 Wan（通义万相）：更偏基础模型和开发者生态，Wan 3.0 已公测，支持原生 30 秒和更强多模态参考，但暂未开源。目前只开源到 WAN 2.2，支持本地部署。
 ```
 
-### No. 523: Don'T Let Her Smile Fool You… 😏 Made
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### 설명
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### 프롬프트
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 524: Don'T Let Her Smile Fool You… 😏 Made
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### 설명
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### 프롬프트
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 525: Don'T Let Her Smile Fool You… 😏 Made
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085585603815670248.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/jin_okiru/status/2085585603815670248)
-
-#### 설명
-
-Don't Let Her Smile Fool You… 😏 
-
-Made by  1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-
-#### 프롬프트
-
-```text
-Don't Let Her Smile Fool You… 😏 
-
-Made by @HappyHorseATH 1.1 720p upscale to 1080P
-
-Prompt in the com section 👇
-#happyhorse
-```
-
-### No. 526: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
+### No. 521: Happyhorse 1.1 Turns One Prompt Into Cinematic 15
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12135,6 +12001,181 @@ HappyHorse 1.1 turns one prompt into cinematic 15 second drama
 
 ```text
 @bmx_ai13 @HappyHorseATH HappyHorse 1.1 turns one prompt into cinematic 15 second drama
+```
+
+### No. 522: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
+
+#### 설명
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### 프롬프트
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 523: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
+
+#### 설명
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### 프롬프트
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 524: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
+
+#### 설명
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### 프롬프트
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 525: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
+
+#### 설명
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### 프롬프트
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
+```
+
+### No. 526: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Grok
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
+
+#### 설명
+
+2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 
+
+#### 프롬프트
+
+```text
+@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
+
+Kling 3.0: 4-5 Şub (Q1)
+Seedance 2.0: Şub-Nis (Q1-Q2)
+HappyHorse 1.0: Nis (Q2)
+Kling 3.0 Turbo: 17 Haz (Q2)
+Seedance 2.5: Temmuz (Q3)
+Gemini Omni Flash: 30 Haz (Q2)
+MiniMax H3: 31 Tem (Q3)
+FLUX 3 Video: 4 Ağu (Q3)
+Wan 3.0: 6 Ağu beta
 ```
 
 ### No. 527: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
@@ -12207,482 +12248,7 @@ FLUX 3 Video: 4 Ağu (Q3)
 Wan 3.0: 6 Ağu beta
 ```
 
-### No. 529: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
-
-#### 설명
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### 프롬프트
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 530: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
-
-#### 설명
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### 프롬프트
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 531: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
-
-#### 설명
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### 프롬프트
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 532: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
-
-#### 설명
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### 프롬프트
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 533: 2026 Bilinen Text-To-Video Çıkışları (Q1-Q3): Kling 3.0: 4-5
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** Grok
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/grok/status/2085597715828773178)
-
-#### 설명
-
-2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 
-
-#### 프롬프트
-
-```text
-@saban_anac74214 2026 bilinen text-to-video çıkışları (Q1-Q3):
-
-Kling 3.0: 4-5 Şub (Q1)
-Seedance 2.0: Şub-Nis (Q1-Q2)
-HappyHorse 1.0: Nis (Q2)
-Kling 3.0 Turbo: 17 Haz (Q2)
-Seedance 2.5: Temmuz (Q3)
-Gemini Omni Flash: 30 Haz (Q2)
-MiniMax H3: 31 Tem (Q3)
-FLUX 3 Video: 4 Ağu (Q3)
-Wan 3.0: 6 Ağu beta
-```
-
-### No. 534: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 535: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 536: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 537: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 538: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 539: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 540: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 541: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 542: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 543: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 544: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 545: This Video Created With Happyhorse 1.1 On Prompt
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BMX
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085611144840909085.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2085611144840909085)
-
-#### 설명
-
-This video created with HappyHorse 1.1 on  
-
-Prompt: Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-#### 프롬프트
-
-```text
-Style: Emotional fashion thriller, grounded performance, controlled tension, dialogue-led revelation.
-
-Create a 15 second confrontation in an empty runway corridor immediately after Maya nearly falls because her https://t.co/YCsvJjRgyg
-```
-
-### No. 546: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 529: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12713,7 +12279,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 547: Happyhorse Video Generator By Ai Video Generation Keeps
+### No. 530: Happyhorse Video Generator By Ai Video Generation Keeps
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12744,70 +12310,7 @@ Try it here:
 #MyShell #HappyHorse #AIVideo #AIGenerator #ContentCreator
 ```
 
-### No. 548: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BrainBuster Studio【公式】
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### 설명
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### 프롬프트
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 549: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BrainBuster Studio【公式】
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### 설명
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### 프롬프트
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 550: We Created A Commercial-Style Promotional Video For Happyhorse
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** BrainBuster Studio【公式】
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2085677912179798202.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2085677912179798202)
-
-#### 설명
-
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms.
-
-#### 프롬프트
-
-```text
-We created a commercial-style promotional video for HappyHorse featuring digital model Shijo Kaori, who boasts over 150,000 followers across social media platforms. "Always HappyHorse Edition" With HappyHorse, there are plenty of reference prompts on the website, making it easy
-```
-
-### No. 551: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 531: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12840,7 +12343,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 552: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 532: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12873,7 +12376,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 553: Happyhorse 1.1 Is Now Live Made With Happy
+### No. 533: Happyhorse 1.1 Is Now Live Made With Happy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12906,7 +12409,7 @@ prompt
 Reference: Use Image1 only for facial identity. Preserve the exact face, facial features, skin tone, damp slicked-back short black hair, and identity throughout. Ignore the reference image's
 ```
 
-### No. 554: The Face Consistency On This Is Crazy For
+### No. 534: The Face Consistency On This Is Crazy For
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12924,7 +12427,7 @@ The face consistency on this is crazy for a 15s clip.
 @Just_sharon7 @HappyHorseATH The face consistency on this is crazy for a 15s clip. Reference-to-video on HappyHorse 1.1 is clearly a different level.
 ```
 
-### No. 555: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
+### No. 535: 알리클라우드 200달러 1년 코딩플랜 만족스러운게 사용간 불편사항을 먼저
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12952,7 +12455,7 @@ Limited-time Night 50% Off
 Text Generation,Reasoning
 ```
 
-### No. 556: What If A Premium Beauty Commercial Could Be
+### No. 536: What If A Premium Beauty Commercial Could Be
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -12977,7 +12480,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 557: What If A Premium Beauty Commercial Could Be
+### No. 537: What If A Premium Beauty Commercial Could Be
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13002,7 +12505,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 558: What If A Premium Beauty Commercial Could Be
+### No. 538: What If A Premium Beauty Commercial Could Be
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13027,7 +12530,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 559: What If A Premium Beauty Commercial Could Be
+### No. 539: What If A Premium Beauty Commercial Could Be
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13052,7 +12555,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 560: What If A Premium Beauty Commercial Could Be
+### No. 540: What If A Premium Beauty Commercial Could Be
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13077,7 +12580,7 @@ What if a premium beauty commercial could be created from a single storyboard? �
 This lip gloss concept ad was created entirely with HappyHorse 1.1. Instead of organizing a full commercial shoot, I started with a single storyboard that mapped out the entire
 ```
 
-### No. 561: Two Models Shipped On July 31. I Think
+### No. 541: Two Models Shipped On July 31. I Think
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13097,7 +12600,7 @@ Two models shipped on July 31. I think we'll look back on that day as a turning 
 On the LLM side, DeepSeek V4 Flash 0731 dropped. People can argue about whether it's Opus/Fable-class. Harder to argue with is that a 13B-active model now beats DeepSeek's own
 ```
 
-### No. 562: Happy Horse 1.1 Prompt: 👇
+### No. 542: Happy Horse 1.1 Prompt: 👇
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13120,7 +12623,7 @@ Prompt: 👇
 👇 https://t.co/vBVstQf0XD
 ```
 
-### No. 563: 🚨 Openai Just Shut Down Sora. What Replaced
+### No. 543: 🚨 Openai Just Shut Down Sora. What Replaced
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13146,7 +12649,7 @@ Prompt: 👇
 the inventor of viral ai video just got
 ```
 
-### No. 564: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
+### No. 544: 動画生成Aiを調べたら、2年で先頭が入れ替わっていました。 そして2024年に一番話題だったモデルが、来月消えます。 ■時系列 2024年2月 Sora 発表 
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13177,7 +12680,7 @@ the inventor of viral ai video just got
 ・3月24日
 ```
 
-### No. 565: Trying To Push The Frontier Here. Having Access
+### No. 545: Trying To Push The Frontier Here. Having Access
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13195,7 +12698,7 @@ Trying to push the frontier here.
 @Shreyassanthu77 Trying to push the frontier here. Having access to Qwen, Wan, HappyHorse via alibaba is quite nice. I’m starting to get a bit more into video 🙈
 ```
 
-### No. 566: Check Out Happy-Horse Rescue-Sanctuary'S Video!
+### No. 546: Check Out Happy-Horse Rescue-Sanctuary'S Video!
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13213,7 +12716,7 @@ Check out Happy-horse Rescue-sanctuary's video!
 Check out Happy-horse Rescue-sanctuary's video! #TikTok
 ```
 
-### No. 567: Ai-Made Vfx — Faster. Better. Smarter. From Background
+### No. 547: Ai-Made Vfx — Faster. Better. Smarter. From Background
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13240,7 +12743,7 @@ Want to try it? DM us — we’ll share the guide
 #HappyHorse #VisualEffects
 ```
 
-### No. 568: Ai-Made Vfx — Faster. Better. Smarter. From Background
+### No. 548: Ai-Made Vfx — Faster. Better. Smarter. From Background
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13267,7 +12770,7 @@ Want to try it? DM us — we’ll share the guide
 #HappyHorse #VisualEffects
 ```
 
-### No. 569: I'Ve Not Used Flux Before So I Can'T
+### No. 549: I'Ve Not Used Flux Before So I Can'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13291,7 +12794,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 570: I'Ve Not Used Flux Before So I Can'T
+### No. 550: I'Ve Not Used Flux Before So I Can'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13315,7 +12818,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 571: I'Ve Not Used Flux Before So I Can'T
+### No. 551: I'Ve Not Used Flux Before So I Can'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13339,7 +12842,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 572: I'Ve Not Used Flux Before So I Can'T
+### No. 552: I'Ve Not Used Flux Before So I Can'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13363,7 +12866,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 573: I'Ve Not Used Flux Before So I Can'T
+### No. 553: I'Ve Not Used Flux Before So I Can'T
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13387,7 +12890,7 @@ and yes aside, from video quality, Happy horse 1.1 feels way smarter than the ot
 If we see a
 ```
 
-### No. 574: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 554: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13408,7 +12911,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 575: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 555: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13429,7 +12932,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 576: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 556: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13450,7 +12953,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 577: I'Ve Been Enjoying A Small Mental Rest Days
+### No. 557: I'Ve Been Enjoying A Small Mental Rest Days
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13471,7 +12974,7 @@ I've been enjoying a small mental rest days, back to creating tmr.
 I've been enjoying a small mental rest days, back to creating tmr. Here is a Happy Horse 1.1 test, 2x clips 🔊Cinematic color continue to impress, 2x clip detailed crowd scene is interesting, detailed prompt test. #aiarts #happyhorse
 ```
 
-### No. 578: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 558: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13494,7 +12997,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 579: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 559: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13517,7 +13020,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 580: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
+### No. 560: Q. 大企業として、小規模なモデル企業とどう戦うのか。組織としてスピード感をどう担保しているのか？ A. 要点は2つ ①社内が「ベンチャーの集合体」になっている
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13540,7 +13043,7 @@ A. 要点は2つ
 - 社内で競争させる構造。動画モデルの HappyHorse と
 ```
 
-### No. 581: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 561: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13561,7 +13064,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 582: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 562: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13582,7 +13085,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 583: The Combo: Seedream + Happyhorse + Storyboard By
+### No. 563: The Combo: Seedream + Happyhorse + Storyboard By
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13603,7 +13106,7 @@ The combo: Seedream + HappyHorse + Storyboard by  it's a game changer!
 The combo: Seedream + HappyHorse + Storyboard by @kliptixai, it's a game changer!  #AI #AIVIDEO #STORYBOARD
 ```
 
-### No. 584: Playcut V2 Is Officially Live. The Full Ai
+### No. 564: Playcut V2 Is Officially Live. The Full Ai
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13627,7 +13130,7 @@ AI Actors — create a face once, keep it consistent forever. Photoshoots, produ
 Images — 3 engines
 ```
 
-### No. 585: How Do You Make Ai Feel Love? Not
+### No. 565: How Do You Make Ai Feel Love? Not
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13655,7 +13158,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 586: How Do You Make Ai Feel Love? Not
+### No. 566: How Do You Make Ai Feel Love? Not
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13683,7 +13186,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 587: How Do You Make Ai Feel Love? Not
+### No. 567: How Do You Make Ai Feel Love? Not
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13711,7 +13214,7 @@ Happy Horse 1.1 T2V
 #animelover #romance #HappyHorseCPP
 ```
 
-### No. 588: And Alibaba Labs Are No Holding Back, No
+### No. 568: And Alibaba Labs Are No Holding Back, No
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13735,7 +13238,7 @@ Then Happyhorse video gen appears.
 All from Alibaba.
 ```
 
-### No. 589: 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成Ai市場への参入を加速しています。😀
+### No. 569: 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成Ai市場への参入を加速しています。😀
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13753,7 +13256,7 @@ All from Alibaba.
 動画は撮る時代から、生成する時代へ完全に移行しますね！Sora撤退の裏で、まさかの大手が動画生成AI市場への参入を加速しています。😀
 ```
 
-### No. 590: 視聴しました。 【Cedec2026】Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと
+### No. 570: 視聴しました。 【Cedec2026】Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -13773,535 +13276,7 @@ All from Alibaba.
 【CEDEC2026】AIを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームと...  @YouTubeより
 ```
 
-### No. 591: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 592: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 593: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 594: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 595: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 596: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 597: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 598: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 599: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 600: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 601: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 602: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 603: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 604: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 605: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 606: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 607: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 608: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 609: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 610: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 611: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 612: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 613: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 614: Pov: Casting Mbti Avatars In Iconic Classic Film
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** HappyHorse
-- **언어:** `ko-KR`
-- **비디오:** [보기](https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2086328023230611456/vid/avc1/3840x2160/0hQXdzN_9LGxS7Vs.mp4" controls muted playsinline width="720"></video>
-- **원본 링크:** [보기](https://x.com/HappyHorseATH/status/2086333132656283839)
-
-#### 설명
-
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-
-#### 프롬프트
-
-```text
-POV: Casting MBTI avatars in iconic classic film roles 🤓
-#happyhorse #ai #mbti
-```
-
-### No. 615: 5/ Video Is Much More China-Dominated: This Week
+### No. 571: 5/ Video Is Much More China-Dominated: This Week
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -14329,881 +13304,7 @@ HappyHorse (Alibaba), Kling 3 (Kuaishou) and Hunyuan (Tencent)
 Grok Imagine and Google Veo 3.1 the only major western video models
 ```
 
-### No. 616: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 617: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 618: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 619: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 620: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 621: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 622: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 623: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 624: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 625: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 626: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 627: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 628: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 629: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 630: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 631: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 632: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 633: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 634: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 635: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 636: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 637: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 638: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 639: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 640: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 641: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 642: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 643: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 644: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 645: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 646: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 647: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 648: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 649: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 650: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 651: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 652: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 653: This Is The Prompt That Sent Dorian Beyond
-
-- **카테고리:** `Twitter Community`
-- **출처:** `x`
-- **작성자:** PSS
-- **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2086392098291650702)
-
-#### 설명
-
-This is the prompt that sent Dorian beyond reality.
-
-#### 프롬프트
-
-```text
-This is the prompt that sent Dorian beyond reality. 🐘⏳
-
-TITLE: DORIAN VANE — THE SHADOW KNOWS
-
-FORMAT
-Exactly 15 seconds, 16:9 widescreen, premium mixed-media surrealist adventure with native stereo audio. Dorian Vane is the only live-action photorealistic subject inside an
-```
-
-### No. 654: I Tried This Prompt With Happyhorse 1.1 On
+### No. 572: I Tried This Prompt With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15224,7 +13325,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 655: I Tried This Prompt With Happyhorse 1.1 On
+### No. 573: I Tried This Prompt With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15245,7 +13346,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 656: I Tried This Prompt With Happyhorse 1.1 On
+### No. 574: I Tried This Prompt With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15266,7 +13367,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 657: I Tried This Prompt With Happyhorse 1.1 On
+### No. 575: I Tried This Prompt With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15287,7 +13388,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 658: I Tried This Prompt With Happyhorse 1.1 On
+### No. 576: I Tried This Prompt With Happyhorse 1.1 On
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15308,7 +13409,7 @@ I tried this prompt with Happyhorse 1.1 on
 I tried this prompt with Happyhorse 1.1 on @HappyHorseATH
 ```
 
-### No. 659: Happyhorse 1.1'S Reference-To-Video Takes Up To 9 Images
+### No. 577: Happyhorse 1.1'S Reference-To-Video Takes Up To 9 Images
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15326,7 +13427,7 @@ HappyHorse 1.1's reference-to-video takes up to 9 images for subject consistency
 HappyHorse 1.1's reference-to-video takes up to 9 images for subject consistency, a separate channel from animating a single frame. Audition it against Seedance 2.0 in the same console.
 ```
 
-### No. 660: This Is Such An Exciting Opportunity For Ai
+### No. 578: This Is Such An Exciting Opportunity For Ai
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15344,7 +13445,7 @@ This is such an exciting opportunity for AI creators!
 @VivaReelai This is such an exciting opportunity for AI creators! 🔥 The prizes, credits, and creator rewards make the VivaReel × HappyHorse AI Creator Festival a must-join. 🚀🎬
 ```
 
-### No. 661: Happy Horse Handling That Prompt Better Than Expected
+### No. 579: Happy Horse Handling That Prompt Better Than Expected
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
@@ -15360,6 +13461,2507 @@ Happy Horse handling that prompt better than expected.
 
 ```text
 @Strength04_X @HappyHorseATH Happy Horse handling that prompt better than expected.
+```
+
+### No. 580: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 581: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 582: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 583: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 584: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 585: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 586: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 587: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 588: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 589: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 590: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 591: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 592: She Got Too Close To The Night Vision
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BMX
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086664335099662763.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/bmx_ai13/status/2086664335099662763)
+
+#### 설명
+
+She Got Too Close to the Night Vision Camera and This Happened.
+
+#### 프롬프트
+
+```text
+Create a 10 second 16:9 music video shot that feels captured on a real consumer night vision camcorder inside a dim modern interior at night. The image https://t.co/HpsbuYUr3b
+```
+
+### No. 593: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zidan 子丹
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### 설명
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### 프롬프트
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 594: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zidan 子丹
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### 설명
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### 프롬프트
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 595: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zidan 子丹
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### 설명
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### 프롬프트
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 596: 《Mandala Of Heaven》Seedance 2.5 30S What If Heaven
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Zidan 子丹
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086670491381576184.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/liluocheng13/status/2086670491381576184)
+
+#### 설명
+
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+#### 프롬프트
+
+```text
+《Mandala of Heaven》Seedance 2.5 30s
+
+What if heaven were not a kingdom above mankind,
+but a place where gods and humans could meet as equals?
+
+I imagined a celestial realm suspended beyond the clouds —
+vast mandalas turning across the sky, ancient temples rising from an endless
+```
+
+### No. 597: Happyhorse 1.1 Is Pushing Ai Filmmaking Into Some
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Queen Isabell
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Queen_1o1/status/2086690886335733916)
+
+#### 설명
+
+HappyHorse 1.1 is pushing AI filmmaking into some interesting cinematic territory.
+
+#### 프롬프트
+
+```text
+@VisionCoin3 HappyHorse 1.1 is pushing AI filmmaking into some interesting cinematic territory.
+```
+
+### No. 598: New Video Generate Using With Happy Horse Model
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Acell
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/recehtuitt/status/2086705442110275968)
+
+#### 설명
+
+New video generate using  with Happy Horse model
+
+Rate me how do you think the result guys?
+
+#### 프롬프트
+
+```text
+New video generate using @VivaReelai with Happy Horse model
+
+Rate me how do you think the result guys?
+```
+
+### No. 599: New Video Generate Using With Happy Horse Model
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Acell
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086705442110275968.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/recehtuitt/status/2086705442110275968)
+
+#### 설명
+
+New video generate using  with Happy Horse model
+
+Rate me how do you think the result guys?
+
+#### 프롬프트
+
+```text
+New video generate using @VivaReelai with Happy Horse model
+
+Rate me how do you think the result guys?
+```
+
+### No. 600: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 601: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 602: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 603: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 604: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 605: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 606: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 607: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 608: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 609: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 610: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 611: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 612: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 613: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 614: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 615: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 616: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 617: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 618: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 619: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 620: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 621: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 622: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 623: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 624: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 625: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 626: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 627: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 628: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 629: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 630: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 631: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 632: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 633: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 634: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 635: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 636: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 637: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 638: ⚡ The Reference Image And Full Prompt Behind
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2086754533708071325)
+
+#### 설명
+
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
+
+#### 프롬프트
+
+```text
+⚡ The reference image and full prompt behind VOLTARIS:
+
+TITLE: VOLTARIS — CHARGE WHAT'S NEXT
+
+FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
+```
+
+### No. 639: Just Dropped A Prompt Into Happyhorse And It
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Aurora Galbraith
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/AuroraGalb35830/status/2086778758980063242)
+
+#### 설명
+
+Just dropped a prompt into HappyHorse and it turned my half-baked idea into straight dopamine.
+
+#### 프롬프트
+
+```text
+Just dropped a prompt into HappyHorse and it turned my half-baked idea into straight dopamine. This thing's not generating video, it's reading minds. 🐴💥
+
+(What wild thing did you make it do?)
+```
+
+### No. 640: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BrainBuster Studio【公式】
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### 설명
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### 프롬프트
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 641: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BrainBuster Studio【公式】
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### 설명
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### 프롬프트
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 642: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BrainBuster Studio【公式】
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### 설명
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### 프롬프트
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 643: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** BrainBuster Studio【公式】
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/brainbuster_st/status/2086787759541493995)
+
+#### 설명
+
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream.
+
+#### 프롬프트
+
+```text
+【お知らせ】
+先日、驚きの今年四度目の動画生成AIコンテスト受賞作、Happy Horse × TapNow「AI MVドリーム・コンテスト」
+傑出ノミネート賞受賞を受賞した
+『I had this dream. _ こんな夢を観た _ 』の全編をYouTubeにUPしました。
+新聞、雑誌、段ボール、紙片だけでできた夢の世界。
+```
+
+### No. 644: **Tweet:** Just Tried Starting My Happyhorse Prompts With
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Maud Wycliffe
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/MaudWyclif52541/status/2086797025689948621)
+
+#### 설명
+
+**Tweet:**
+
+Just tried starting my HappyHorse prompts with the lighting first instead of the action — the depth it adds is wild.
+
+#### 프롬프트
+
+```text
+**Tweet:**
+
+Just tried starting my HappyHorse prompts with the lighting first instead of the action — the depth it adds is wild. Tiny tweak, huge glow-up. 🌅
+
+(What’s your go-to prompt hack?)
+```
+
+### No. 645: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### 설명
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### 프롬프트
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 646: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### 설명
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### 프롬프트
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 647: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### 설명
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### 프롬프트
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 648: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 𝕵𝖎𝖓𝖜𝖔𝖔 🖤
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086804628684054881.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/jin_okiru/status/2086804628684054881)
+
+#### 설명
+
+Happy Horse 1.1  
+
+15-second cinematic video prompt:
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs).
+
+#### 프롬프트
+
+```text
+A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
+```
+
+### No. 649: I Added Video And Image Generation Models In
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Nikhil
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086806017782779994.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086806017782779994.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/nikhilx22/status/2086806017782779994)
+
+#### 설명
+
+I added video and image generation models in  
+ 
+Image Models
+- GPT Image 2
+- Nano Banana 2 
+- Nano Banana Lite
+- Nano Banana Pro
+- Grok Imagine
+- Grok Imagine quality
+-   Image 3
+- Qwen Image 3 pro
+-
+
+#### 프롬프트
+
+```text
+I added video and image generation models in @bouncegripx 
+ 
+Image Models
+- GPT Image 2
+- Nano Banana 2 
+- Nano Banana Lite
+- Nano Banana Pro
+- Grok Imagine
+- Grok Imagine quality
+- @Alibaba_Qwen  Image 3
+- Qwen Image 3 pro
+- @krea_ai  2 Medium
+- Krea 2 medium large
+- Krea 2
+```
+
+### No. 650: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 651: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 652: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 653: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 654: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 655: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 656: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 657: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 658: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 659: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 660: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 661: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 662: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 663: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 664: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 665: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 666: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 667: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 668: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 669: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 670: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 671: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 672: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 673: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 674: 阿里Ath黑马杀出！ Ca：0Xd6970D6Adc8E3Cb75Afb06967Fdd6Dd1E4Fc7777 全球Ai视频生成新王 Happyhorse 1
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** HappyHorse
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/happyhorsera/status/2086806925258444849)
+
+#### 설명
+
+阿里ATH黑马杀出！
+
+#### 프롬프트
+
+```text
+阿里ATH黑马杀出！
+
+CA：0xd6970d6adc8e3cb75afb06967fdd6dd1e4fc7777
+
+全球AI视频生成新王 HappyHorse 1.1 同款社区代币上线！
+从匿名屠榜Artificial Analysis，到官方认领，再到HorsePower AI Cinema Awards——
+
+这匹快乐马已经把整个AI视频赛道掀翻了！
+
+现在，轮到社区一起骑上这匹马，冲向月球！
+```
+
+### No. 675: Nous Portal Just Added 16 New Image And
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** YanXbt
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/IBuzovskyi/status/2086809610199965983)
+
+#### 설명
+
+NOUS PORTAL JUST ADDED 16 NEW IMAGE
+AND VIDEO GENERATION MODELS.
+
+#### 프롬프트
+
+```text
+NOUS PORTAL JUST ADDED 16 NEW IMAGE
+AND VIDEO GENERATION MODELS.
+SEEDREAM 5.0. FLUX 3. KLING V3 4K.
+SEEDANCE 2.5. ALL AVAILABLE TODAY.
+
+if you run Hermes Agent through Nous Portal,
+your agent now generates images and video
+from 16 new models. no separate API keys.
+no FAL account.
+```
+
+### No. 676: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** 橋村政海@おかしなアート
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2086988333490880840.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2086988333490880840.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/hashimura55/status/2086988333490880840)
+
+#### 설명
+
+TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
+
+#### 프롬프트
+
+```text
+TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
+```
+
+### No. 677: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Kgrgr J
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/Inparusu56/status/2087005474441101803)
+
+#### 설명
+
+最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
+
+#### 프롬프트
+
+```text
+最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
 ```
 
 <a id="category-2"></a>
@@ -29743,7 +30345,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-08-10T05:53:02.356Z
+> 이 README는 자동 생성됩니다. 2026-08-11T10:31:51.339Z
 
 ## More Atlas Cloud Tools
 

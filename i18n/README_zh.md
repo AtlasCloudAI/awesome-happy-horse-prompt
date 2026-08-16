@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1400** |
+| 提示词总数 | **1401** |
 | 分类数 | **13** |
-| 预览视频数 | **1061** |
-| 最后更新 | **2026-08-15T08:50:17.391Z** |
+| 预览视频数 | **1062** |
+| 最后更新 | **2026-08-16T08:51:07.246Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **600**
+- [`Twitter Community`](#category-1): **601**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (600)
+### Twitter Community (601)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14252,6 +14252,27 @@ Love seeing @VORTEX_Promos  push the limits! 🙌
 They didn’t just test features; they crafted a full fictional ad campaign using HappyHorse 1.1. From prompt to polished video, see how we help creators build coherent narratives, not just random clips. 🐴🎬
 
 Check out the workflow
+```
+
+### No. 601: 动画忍者切水果
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Larisa Shutova / Larysa Shutava
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### 描述
+
+一位可爱的3D动画忍者女孩用武士刀熟练地切开漂浮的水果，创造出充满活力的果汁飞溅效果。
+
+#### 提示词
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
 <a id="category-2"></a>
@@ -30319,7 +30340,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-08-15T08:50:17.391Z
+> 此 README 为自动生成。 2026-08-16T08:51:07.246Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1400** |
+| 전체 프롬프트 | **1401** |
 | 카테고리 수 | **12** |
-| 미리보기 비디오 | **1061** |
-| 마지막 업데이트 | **2026-08-15T08:50:17.475Z** |
+| 미리보기 비디오 | **1062** |
+| 마지막 업데이트 | **2026-08-16T08:51:07.332Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **688**
+- [`Twitter Community`](#category-1): **689**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (688)
+### Twitter Community (689)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -16013,6 +16013,27 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
+### No. 689: 과일을 슬라이스하는 애니메이션 닌자
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** Larisa Shutova / Larysa Shutava
+- **언어:** `ko-KR`
+- **비디오:** [보기](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **원본 링크:** [보기](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### 설명
+
+사랑스러운 3D 애니메이션 닌자 소녀가 카타나로 공중에 떠 있는 과일을 능숙하게 썰어 생동감 넘치는 주스가 튀는 장면입니다.
+
+#### 프롬프트
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
 <a id="category-2"></a>
 
 ### HappyHorse 크리에이티브 배치 (240)
@@ -30394,7 +30415,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-08-15T08:50:17.475Z
+> 이 README는 자동 생성됩니다. 2026-08-16T08:51:07.332Z
 
 ## More Atlas Cloud Tools
 

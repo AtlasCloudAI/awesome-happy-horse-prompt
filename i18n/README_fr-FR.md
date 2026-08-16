@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1400** |
+| Nombre Total de Prompts | **1401** |
 | Categories | **13** |
-| Videos d'Apercu | **1061** |
-| Derniere Mise a Jour | **2026-08-15T08:50:17.669Z** |
+| Videos d'Apercu | **1062** |
+| Derniere Mise a Jour | **2026-08-16T08:51:07.521Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **600**
+- [`Twitter Community`](#category-1): **601**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (600)
+### Twitter Community (601)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14252,6 +14252,27 @@ Love seeing @VORTEX_Promos  push the limits! 🙌
 They didn’t just test features; they crafted a full fictional ad campaign using HappyHorse 1.1. From prompt to polished video, see how we help creators build coherent narratives, not just random clips. 🐴🎬
 
 Check out the workflow
+```
+
+### No. 601: Ninja Animé Découpant des Fruits
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** Larisa Shutova / Larysa Shutava
+- **Langue:** `fr-FR`
+- **Video:** [Voir](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **Lien Source:** [Voir](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### Description
+
+Une adorable ninja fille en animation 3D découpe avec expertise des fruits flottants à l'aide d'un katana, créant des éclaboussures de jus vibrantes.
+
+#### Prompt
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
 <a id="category-2"></a>
@@ -30375,7 +30396,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-08-15T08:50:17.669Z
+> Ce README est genere automatiquement. 2026-08-16T08:51:07.521Z
 
 ## More Atlas Cloud Tools
 

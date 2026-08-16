@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Uma colecao curada de prompts Happy Horse 1.0 obtidos do ecossistema de prompts da AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Quantidade |
 |--------|-------|
-| Total de Prompts | **1400** |
+| Total de Prompts | **1401** |
 | Categorias | **13** |
-| Videos de Previa | **1061** |
-| Ultima Atualizacao | **2026-08-15T08:50:17.762Z** |
+| Videos de Previa | **1062** |
+| Ultima Atualizacao | **2026-08-16T08:51:07.607Z** |
 
 ## 🏷️ Navegar por Categoria
 
-- [`Twitter Community`](#category-1): **600**
+- [`Twitter Community`](#category-1): **601**
 - [`Lote criativo HappyHorse`](#category-2): **240**
 - [`Comunidade do Twitter`](#category-3): **88**
 - [`Audio & Voice Synthesis`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (600)
+### Twitter Community (601)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14252,6 +14252,27 @@ Love seeing @VORTEX_Promos  push the limits! 🙌
 They didn’t just test features; they crafted a full fictional ad campaign using HappyHorse 1.1. From prompt to polished video, see how we help creators build coherent narratives, not just random clips. 🐴🎬
 
 Check out the workflow
+```
+
+### No. 601: Ninja Animada a Fatiar Frutas
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autor:** Larisa Shutova / Larysa Shutava
+- **Idioma:** `pt-PT`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **Link de Origem:** [Ver](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### Descricao
+
+Uma adorável ninja animada em 3D fatiando habilmente frutas flutuantes com uma katana, criando respingos de sumo vibrantes.
+
+#### Prompt
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
 <a id="category-2"></a>
@@ -30375,7 +30396,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README e gerado automaticamente. 2026-08-15T08:50:17.762Z
+> Este README e gerado automaticamente. 2026-08-16T08:51:07.607Z
 
 ## More Atlas Cloud Tools
 

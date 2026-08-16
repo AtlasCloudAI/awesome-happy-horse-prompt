@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Bo suu tap prompt video Happy Horse 1.0 duoc tong hop tu he sinh thai prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Muc | So luong |
 |--------|-------|
-| Tong so Prompt | **1400** |
+| Tong so Prompt | **1401** |
 | So danh muc | **12** |
-| Video xem truoc | **1061** |
-| Cap nhat lan cuoi | **2026-08-15T08:50:17.532Z** |
+| Video xem truoc | **1062** |
+| Cap nhat lan cuoi | **2026-08-16T08:51:07.393Z** |
 
 ## 🏷️ Duyet theo danh muc
 
-- [`Twitter Community`](#category-1): **688**
+- [`Twitter Community`](#category-1): **689**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (688)
+### Twitter Community (689)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -16013,6 +16013,27 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
+### No. 689: Ninja Hoạt Hình Chém Trái Cây
+
+- **Danh muc:** `Twitter Community`
+- **Nguon:** `x`
+- **Tac gia:** Larisa Shutova / Larysa Shutava
+- **Ngon ngu:** `vi-VN`
+- **Video:** [Xem](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **Lien ket nguon:** [Xem](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### Mo ta
+
+Một cô ninja 3D đáng yêu khéo léo chém những trái cây đang lơ lửng bằng thanh katana, tạo ra những tia nước ép bắn tung tóe rực rỡ.
+
+#### Prompt
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
 <a id="category-2"></a>
 
 ### HappyHorse Creative Batch (240)
@@ -30314,7 +30335,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README nay duoc tao tu dong. 2026-08-15T08:50:17.532Z
+> README nay duoc tao tu dong. 2026-08-16T08:51:07.393Z
 
 ## More Atlas Cloud Tools
 

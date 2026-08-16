@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1400** |
+| 総プロンプト数 | **1401** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **1061** |
-| 最終更新 | **2026-08-15T08:50:17.446Z** |
+| プレビュー動画数 | **1062** |
+| 最終更新 | **2026-08-16T08:51:07.303Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **688**
+- [`Twitter Community`](#category-1): **689**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (688)
+### Twitter Community (689)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -16013,6 +16013,27 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
+### No. 689: アニメ風忍者がフルーツを斬る
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Larisa Shutova / Larysa Shutava
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### 説明
+
+愛らしい3Dアニメの忍者少女が、カタナで宙に浮くフルーツを巧みに斬り、鮮やかな果汁の飛沫を生み出す。
+
+#### プロンプト
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
 <a id="category-2"></a>
 
 ### HappyHorse クリエイティブバッチ (240)
@@ -30394,7 +30415,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-08-15T08:50:17.446Z
+> この README は自動生成です。 2026-08-16T08:51:07.303Z
 
 ## More Atlas Cloud Tools
 

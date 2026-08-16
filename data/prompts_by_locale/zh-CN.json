@@ -17702,5 +17702,24 @@
     "language": "zh-CN",
     "source_link": "https://x.com/LeiYa93998/status/2087060628670398752",
     "needs_preview": true
+  },
+  {
+    "id": "x_2088485176397402276",
+    "title": "动画忍者切水果",
+    "description": "一位可爱的3D动画忍者女孩用武士刀熟练地切开漂浮的水果，创造出充满活力的果汁飞溅效果。",
+    "prompt": "A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4",
+    "author_name": "Larisa Shutova / Larysa Shutava",
+    "source_platform": "x",
+    "language": "zh-CN",
+    "source_link": "https://x.com/Colorinmyspirit/status/2088485176397402276",
+    "needs_preview": true,
+    "reverse_engineered": true,
+    "sort_order": 1,
+    "local_media": {
+      "images": [],
+      "video": "media/happy-horse/x_2088485176397402276.mp4"
+    }
   }
 ]

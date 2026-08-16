@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1400%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > ชุดพรอมต์วิดีโอ Happy Horse 1.0 ที่คัดสรรจากระบบนิเวศพรอมต์ของ AtlasCloud
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | รายการ | จำนวน |
 |--------|-------|
-| พรอมต์ทั้งหมด | **1400** |
+| พรอมต์ทั้งหมด | **1401** |
 | จำนวนหมวดหมู่ | **12** |
-| วิดีโอตัวอย่าง | **1061** |
-| อัปเดตล่าสุด | **2026-08-15T08:50:17.506Z** |
+| วิดีโอตัวอย่าง | **1062** |
+| อัปเดตล่าสุด | **2026-08-16T08:51:07.368Z** |
 
 ## 🏷️ เรียกดูตามหมวดหมู่
 
-- [`Twitter Community`](#category-1): **688**
+- [`Twitter Community`](#category-1): **689**
 - [`ชุดสร้างสรรค์ HappyHorse`](#category-2): **240**
 - [`เสียงและการสังเคราะห์เสียงพูด`](#category-3): **80**
 - [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (688)
+### Twitter Community (689)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -16013,6 +16013,27 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
+### No. 689: นินจาหน้าใส่น่ารักสับผลไม้แอนิเมชัน
+
+- **หมวดหมู่:** `Twitter Community`
+- **แหล่งที่มา:** `x`
+- **ผู้เขียน:** Larisa Shutova / Larysa Shutava
+- **ภาษา:** `th-TH`
+- **วิดีโอ:** [ดู](https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088485176397402276.mp4" controls muted playsinline width="720"></video>
+- **ลิงก์ต้นทาง:** [ดู](https://x.com/Colorinmyspirit/status/2088485176397402276)
+
+#### คำอธิบาย
+
+นินจาสาวแอนิเมชัน 3D น่ารัก สับผลไม้ลอยฟ้าด้วยดาบคาตานาอย่างชำนาญ สร้างการกระเซ็นของน้ำผลไม้สีสันสดใส
+
+#### พรอมต์
+
+```text
+A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
 <a id="category-2"></a>
 
 ### ชุดสร้างสรรค์ HappyHorse (240)
@@ -30314,7 +30335,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> README นี้สร้างอัตโนมัติ 2026-08-15T08:50:17.506Z
+> README นี้สร้างอัตโนมัติ 2026-08-16T08:51:07.368Z
 
 ## More Atlas Cloud Tools
 

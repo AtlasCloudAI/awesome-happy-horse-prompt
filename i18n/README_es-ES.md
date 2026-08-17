@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una coleccion curada de prompts de Happy Horse 1.0 obtenidos del ecosistema de prompts de AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Cantidad |
 |--------|-------|
-| Prompts Totales | **1401** |
+| Prompts Totales | **1402** |
 | Categorias | **13** |
-| Videos de Vista Previa | **1062** |
-| Ultima Actualizacion | **2026-08-16T08:51:07.443Z** |
+| Videos de Vista Previa | **1063** |
+| Ultima Actualizacion | **2026-08-17T11:25:52.744Z** |
 
 ## 🏷️ Explorar por Categoria
 
-- [`Twitter Community`](#category-1): **601**
+- [`Twitter Community`](#category-1): **602**
 - [`Lote creativo de HappyHorse`](#category-2): **240**
 - [`Comunidad de Twitter`](#category-3): **88**
 - [`Audio y Síntesis de Voz`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (601)
+### Twitter Community (602)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14273,6 +14273,27 @@ Una adorable ninja animada en 3D corta con destreza frutas flotantes usando una 
 
 ```text
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
+### No. 602: Mujer Gótica en el Jardín de Medianoche
+
+- **Categoria:** `Twitter Community`
+- **Fuente:** `x`
+- **Autor:** Talia
+- **Idioma:** `es-ES`
+- **Video:** [Ver](https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4" controls muted playsinline width="720"></video>
+- **Enlace de Origen:** [Ver](https://x.com/TaliaAariz/status/2088891097334362387)
+
+#### Descripcion
+
+Una sugerencia de video de fantasía oscura y cinematográfica que presenta a una mujer pálida con labios rojos y cabello negro, vestida con un traje de encaje, deslizándose a través de un jardín a medianoche.
+
+#### Prompt
+
+```text
+A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
 <a id="category-2"></a>
@@ -30396,7 +30417,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Este README se genera automaticamente. 2026-08-16T08:51:07.443Z
+> Este README se genera automaticamente. 2026-08-17T11:25:52.744Z
 
 ## More Atlas Cloud Tools
 

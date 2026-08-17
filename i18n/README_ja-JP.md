@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1401** |
+| 総プロンプト数 | **1402** |
 | カテゴリ数 | **12** |
-| プレビュー動画数 | **1062** |
-| 最終更新 | **2026-08-16T08:51:07.303Z** |
+| プレビュー動画数 | **1063** |
+| 最終更新 | **2026-08-17T11:25:52.605Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **689**
+- [`Twitter Community`](#category-1): **690**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (689)
+### Twitter Community (690)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -16034,6 +16034,27 @@ Check out the workflow
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
+### No. 690: 真夜中の庭園のゴシック女性
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** Talia
+- **言語:** `ja-JP`
+- **動画:** [表示](https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4" controls muted playsinline width="720"></video>
+- **元リンク:** [表示](https://x.com/TaliaAariz/status/2088891097334362387)
+
+#### 説明
+
+シネマティックなダークファンタジーの動画プロンプト。レースのガウンをまとった、赤い唇と黒髪の色白の女性が、真夜中の庭園を滑るように歩く。
+
+#### プロンプト
+
+```text
+A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
+```
+
 <a id="category-2"></a>
 
 ### HappyHorse クリエイティブバッチ (240)
@@ -30415,7 +30436,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-08-16T08:51:07.303Z
+> この README は自動生成です。 2026-08-17T11:25:52.605Z
 
 ## More Atlas Cloud Tools
 

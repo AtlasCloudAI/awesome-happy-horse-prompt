@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Una raccolta curata di prompt Happy Horse 1.0 provenienti dall'ecosistema di prompt AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt Totali | **1401** |
+| Prompt Totali | **1402** |
 | Categorie | **12** |
-| Video di Anteprima | **1062** |
-| Ultimo Aggiornamento | **2026-08-16T08:51:07.544Z** |
+| Video di Anteprima | **1063** |
+| Ultimo Aggiornamento | **2026-08-17T11:25:52.851Z** |
 
 ## 🏷️ Sfoglia per Categoria
 
-- [`Twitter Community`](#category-1): **689**
+- [`Twitter Community`](#category-1): **690**
 - [`HappyHorse Creative Batch`](#category-2): **240**
 - [`Audio & Voice Synthesis`](#category-3): **80**
 - [`Creative Visual Effects`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (689)
+### Twitter Community (690)
 
 ### No. 1: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
@@ -16034,6 +16034,27 @@ Un'adorabile ninja animata in 3D taglia con maestria frutta fluttuante con una k
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
+### No. 690: Donna Gotica nel Giardino di Mezzanotte
+
+- **Categoria:** `Twitter Community`
+- **Fonte:** `x`
+- **Autore:** Talia
+- **Lingua:** `it-IT`
+- **Video:** [Vedi](https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4" controls muted playsinline width="720"></video>
+- **Link Sorgente:** [Vedi](https://x.com/TaliaAariz/status/2088891097334362387)
+
+#### Descrizione
+
+Un prompt video di dark fantasy cinematografico che ritrae una donna pallida con labbra rosse e capelli neri, in un abito di pizzo, che scivola attraverso un giardino di mezzanotte.
+
+#### Prompt
+
+```text
+A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
+```
+
 <a id="category-2"></a>
 
 ### HappyHorse Creative Batch (240)
@@ -30335,7 +30356,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Questo README e generato automaticamente. 2026-08-16T08:51:07.544Z
+> Questo README e generato automaticamente. 2026-08-17T11:25:52.851Z
 
 ## More Atlas Cloud Tools
 

@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud prompt ekosisteminden derlenmis Happy Horse 1.0 promptlarinin secilmis koleksiyonu.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Olcut | Sayi |
 |--------|-------|
-| Toplam Prompt | **1401** |
+| Toplam Prompt | **1402** |
 | Kategoriler | **13** |
-| Onizleme Videolari | **1062** |
-| Son Guncelleme | **2026-08-16T08:51:07.635Z** |
+| Onizleme Videolari | **1063** |
+| Son Guncelleme | **2026-08-17T11:25:52.935Z** |
 
 ## 🏷️ Kategoriye Gore Gozat
 
-- [`Twitter Community`](#category-1): **601**
+- [`Twitter Community`](#category-1): **602**
 - [`HappyHorse Yaratici Seri`](#category-2): **240**
 - [`Twitter Toplulugu`](#category-3): **88**
 - [`Ses ve Konuşma Sentezi`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (601)
+### Twitter Community (602)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14273,6 +14273,27 @@ Sevimli bir 3D animasyonlu ninja kız, bir katana ile havada süzülen meyveleri
 
 ```text
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
+### No. 602: Gece Bahçesinde Gotik Kadın
+
+- **Kategori:** `Twitter Community`
+- **Kaynak:** `x`
+- **Yazar:** Talia
+- **Dil:** `tr-TR`
+- **Video:** [Goruntule](https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4" controls muted playsinline width="720"></video>
+- **Kaynak Baglantisi:** [Goruntule](https://x.com/TaliaAariz/status/2088891097334362387)
+
+#### Aciklama
+
+Bir karanlık fantezi sinematik video tasviri; kırmızı dudaklı, siyah saçlı, soluk tenli bir kadın, dantelli bir elbise içinde, bir gece bahçesinde süzülüyor.
+
+#### Prompt
+
+```text
+A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
 <a id="category-2"></a>
@@ -30340,7 +30361,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Bu README otomatik uretilmistir. 2026-08-16T08:51:07.635Z
+> Bu README otomatik uretilmistir. 2026-08-17T11:25:52.935Z
 
 ## More Atlas Cloud Tools
 

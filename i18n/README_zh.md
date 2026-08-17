@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1401%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基于 AtlasCloud 提示词生态整理的 Happy Horse 1.0 精选视频提示词仓库。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **1401** |
+| 提示词总数 | **1402** |
 | 分类数 | **13** |
-| 预览视频数 | **1062** |
-| 最后更新 | **2026-08-16T08:51:07.246Z** |
+| 预览视频数 | **1063** |
+| 最后更新 | **2026-08-17T11:25:52.548Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **601**
+- [`Twitter Community`](#category-1): **602**
 - [`HappyHorse 创意批次`](#category-2): **240**
 - [`Twitter 社区`](#category-3): **88**
 - [`音频与语音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更适合创意表达、情绪氛围和强镜头感的视频生�
 
 <a id="category-1"></a>
 
-### Twitter Community (601)
+### Twitter Community (602)
 
 ### No. 1: Neon-lit city street at night
 
@@ -14273,6 +14273,27 @@ Check out the workflow
 
 ```text
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
+```
+
+### No. 602: 午夜花园中的哥特女子
+
+- **分类:** `Twitter Community`
+- **来源:** `x`
+- **作者:** Talia
+- **语言:** `zh-CN`
+- **视频:** [查看](https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/happy-horse/x_2088891097334362387.mp4" controls muted playsinline width="720"></video>
+- **原始链接:** [查看](https://x.com/TaliaAariz/status/2088891097334362387)
+
+#### 描述
+
+一段电影般的黑暗奇幻视频提示，描绘了一位面色苍白、红唇黑发的女子，身着蕾丝长裙，在午夜的花园中滑行。
+
+#### 提示词
+
+```text
+A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
 <a id="category-2"></a>
@@ -30340,7 +30361,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-08-16T08:51:07.246Z
+> 此 README 为自动生成。 2026-08-17T11:25:52.548Z
 
 ## More Atlas Cloud Tools
 

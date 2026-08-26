@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1403%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud のプロンプトエコシステムから整理した Happy Horse 1.0 向け動画プロンプト集です。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 項目 | 数 |
 |--------|-------|
-| 総プロンプト数 | **1402** |
+| 総プロンプト数 | **1403** |
 | カテゴリ数 | **12** |
 | プレビュー動画数 | **1063** |
-| 最終更新 | **2026-08-25T10:51:03.495Z** |
+| 最終更新 | **2026-08-26T11:06:23.290Z** |
 
 ## 🏷️ カテゴリ別に見る
 
-- [`Twitter Community`](#category-1): **690**
+- [`Twitter Community`](#category-1): **691**
 - [`HappyHorse クリエイティブバッチ`](#category-2): **240**
 - [`音声＆ボイス合成`](#category-3): **80**
 - [`クリエイティブ視覚効果`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (690)
+### Twitter Community (691)
 
 ### No. 1: 5分で1分の映画級戦争動画を生成、4ショット構成
 
@@ -13633,1021 +13633,7 @@ New video generate using @VivaReelai with Happy Horse model
 Rate me how do you think the result guys?
 ```
 
-### No. 586: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 587: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 588: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 589: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 590: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 591: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 592: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 593: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 594: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 595: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 596: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 597: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 598: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 599: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 600: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 601: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 602: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 603: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 604: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 605: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 606: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 607: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 608: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 609: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 610: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 611: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 612: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 613: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 614: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 615: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 616: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 617: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 618: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 619: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 620: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 621: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 622: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 623: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 624: ⚡ The Reference Image And Full Prompt Behind
-
-- **カテゴリ:** `Twitter Community`
-- **ソース:** `x`
-- **作者:** PSS
-- **言語:** `ja-JP`
-- **元リンク:** [表示](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 説明
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### プロンプト
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 625: Just Dropped A Prompt Into Happyhorse And It
+### No. 586: Just Dropped A Prompt Into Happyhorse And It
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14667,7 +13653,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 (What wild thing did you make it do?)
 ```
 
-### No. 626: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 587: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14692,7 +13678,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 627: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 588: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14717,7 +13703,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 628: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 589: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14742,7 +13728,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 629: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 590: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14767,7 +13753,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 630: **Tweet:** Just Tried Starting My Happyhorse Prompts With
+### No. 591: **Tweet:** Just Tried Starting My Happyhorse Prompts With
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14791,7 +13777,7 @@ Just tried starting my HappyHorse prompts with the lighting first instead of the
 (What’s your go-to prompt hack?)
 ```
 
-### No. 631: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 592: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14815,7 +13801,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 632: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 593: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14839,7 +13825,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 633: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 594: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14863,7 +13849,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 634: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 595: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14887,7 +13873,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 635: I Added Video And Image Generation Models In
+### No. 596: I Added Video And Image Generation Models In
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14932,7 +13918,7 @@ Image Models
 - Krea 2
 ```
 
-### No. 636: Nous Portal Just Added 16 New Image And
+### No. 597: Nous Portal Just Added 16 New Image And
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14959,7 +13945,7 @@ from 16 new models. no separate API keys.
 no FAL account.
 ```
 
-### No. 637: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
+### No. 598: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14980,7 +13966,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
 ```
 
-### No. 638: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
+### No. 599: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -14998,7 +13984,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
 ```
 
-### No. 639: 🎬 献丑Ai 8 月打折季｜多系视频与图片模型 4 折起 📅 8
+### No. 600: 🎬 献丑Ai 8 月打折季｜多系视频与图片模型 4 折起 📅 8
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15028,7 +14014,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 · 图片：Midjourney、通义万相、通义千问。
 ```
 
-### No. 640: Cute Ai Cats! Love The Happy Horse Vibe
+### No. 601: Cute Ai Cats! Love The Happy Horse Vibe
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15046,7 +14032,7 @@ Cute AI cats!
 @Flkrstudio @HappyHorseATH @NyaiiBubu Cute AI cats!  Love the Happy Horse vibe.
 ```
 
-### No. 641: Cute Ai Cats! Love The Happy Horse Vibe
+### No. 602: Cute Ai Cats! Love The Happy Horse Vibe
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15064,7 +14050,7 @@ Cute AI cats!
 @Flkrstudio @HappyHorseATH @NyaiiBubu Cute AI cats!  Love the Happy Horse vibe.
 ```
 
-### No. 642: Coba Generate Text To Video Iklan Mie Instan
+### No. 603: Coba Generate Text To Video Iklan Mie Instan
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15087,7 +14073,7 @@ Coba generate text to video iklan mie instan, pake 3 model berbeda :
 https://t.co/akZodQK7Jh
 ```
 
-### No. 643: Coba Generate Text To Video Iklan Mie Instan
+### No. 604: Coba Generate Text To Video Iklan Mie Instan
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15110,7 +14096,7 @@ Coba generate text to video iklan mie instan, pake 3 model berbeda :
 https://t.co/akZodQK7Jh
 ```
 
-### No. 644: This Is A Seriously Detailed Food-Ad Test. 🔥
+### No. 605: This Is A Seriously Detailed Food-Ad Test. 🔥
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15130,7 +14116,7 @@ This is a seriously detailed food-ad test.
 Now
 ```
 
-### No. 645: Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームとAiの新しい協働のかたち 観た。アリバ
+### No. 606: Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームとAiの新しい協働のかたち 観た。アリバ
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15154,7 +14140,7 @@ AIを「とりあえず使う」から「戦略的に使いこなす」へ：Qwe
 観た。アリババの宣伝セッションなんだけど、動画生成のデモリールでいきなり『君の名は。』の瀧くんと三葉が出てきてかなり迫力あった。
 ```
 
-### No. 646: Lux 3 Video Ful_Lhd 20S 無料で生成できる様なのでお試し、Happyhorse 1.1と同じプロンプト、リファレンスが出来ないのでスタート
+### No. 607: Lux 3 Video Ful_Lhd 20S 無料で生成できる様なのでお試し、Happyhorse 1.1と同じプロンプト、リファレンスが出来ないのでスタート
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15177,7 +14163,7 @@ LUX 3 video ful_lHD　20s
 無料で生成できる様なのでお試し、HappyHorse 1.1と同じプロンプト、リファレンスが出来ないのでスタートフレーム指定です。動きが少ない様な感じです
 ```
 
-### No. 647: J'Utilise Happy Horse Ai Récemment, C'Est Excellent. Je
+### No. 608: J'Utilise Happy Horse Ai Récemment, C'Est Excellent. Je
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15195,7 +14181,7 @@ J'utilise Happy Horse AI récemment, c'est excellent.
 J'utilise Happy Horse AI récemment, c'est excellent. Je te le partage ici.
 ```
 
-### No. 648: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 609: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15213,7 +14199,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 649: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 610: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15231,7 +14217,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 650: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 611: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15249,7 +14235,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 651: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 612: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15267,7 +14253,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 652: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 613: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15285,7 +14271,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 653: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 614: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15303,7 +14289,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 654: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 615: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15321,7 +14307,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 655: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 616: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15339,7 +14325,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 656: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 617: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15357,7 +14343,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 657: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 618: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15375,7 +14361,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 658: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 619: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15393,7 +14379,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 659: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 620: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15411,7 +14397,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 660: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 621: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15429,7 +14415,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 661: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 622: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15447,7 +14433,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 662: Flux Schnell: Full Image, 1 Credit, ~3 Seconds
+### No. 623: Flux Schnell: Full Image, 1 Credit, ~3 Seconds
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15467,7 +14453,7 @@ Flux Schnell: full image, 1 credit, ~3 seconds. Happy Horse 1.1: up to 9 referen
 #AetherWave #GenerativeAI
 ```
 
-### No. 663: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 624: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15488,7 +14474,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 664: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 625: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15509,7 +14495,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 665: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 626: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15530,7 +14516,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 666: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 627: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15551,7 +14537,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 667: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 628: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15572,7 +14558,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 668: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 629: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15593,7 +14579,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 669: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 630: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15614,7 +14600,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 670: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 631: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15635,7 +14621,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 671: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 632: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15656,7 +14642,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 672: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 633: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15677,7 +14663,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 673: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 634: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15698,7 +14684,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 674: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 635: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15719,7 +14705,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 675: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 636: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15740,7 +14726,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 676: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 637: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15761,7 +14747,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 677: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 638: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15782,7 +14768,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 678: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 639: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15803,7 +14789,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 679: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 640: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15824,7 +14810,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 680: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 641: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15845,7 +14831,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 681: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 642: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15866,7 +14852,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 682: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 643: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15887,7 +14873,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 683: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 644: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15908,7 +14894,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 684: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 645: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15929,7 +14915,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 685: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 646: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15950,7 +14936,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 686: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 647: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15971,7 +14957,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 687: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 648: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -15992,7 +14978,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 688: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 649: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -16013,7 +14999,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 689: アニメ風忍者がフルーツを斬る
+### No. 650: アニメ風忍者がフルーツを斬る
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -16034,7 +15020,7 @@ Check out the workflow
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
-### No. 690: 真夜中の庭園のゴシック女性
+### No. 651: 真夜中の庭園のゴシック女性
 
 - **カテゴリ:** `Twitter Community`
 - **ソース:** `x`
@@ -16053,6 +15039,726 @@ A cute, stylized 3D animated female ninja character with a red headband and glas
 
 ```text
 A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
+```
+
+### No. 652: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 653: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 654: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 655: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 656: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 657: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 658: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 659: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 660: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 661: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 662: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 663: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 664: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 665: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 666: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 667: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 668: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 669: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 670: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 671: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 672: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 673: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 674: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 675: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 676: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 677: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 678: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 679: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 680: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 681: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 682: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 683: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 684: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 685: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 686: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 687: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 688: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 689: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 690: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 691: キュビズム風景の中の映画的ファンタジー・コメディ
+
+- **カテゴリ:** `Twitter Community`
+- **ソース:** `x`
+- **作者:** PSS
+- **言語:** `ja-JP`
+- **元リンク:** [表示](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 説明
+
+ジョアン・ミロにインスパイアされたカラフルで手作りのキュビズム風景の中に設定され、特定のキャラクターが登場する連続したファンタジー・コメディ動画を生成するためのプロンプト。
+
+#### プロンプト
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
 ```
 
 <a id="category-2"></a>
@@ -30436,7 +30142,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> この README は自動生成です。 2026-08-25T10:51:03.495Z
+> この README は自動生成です。 2026-08-26T11:06:23.290Z
 
 ## More Atlas Cloud Tools
 

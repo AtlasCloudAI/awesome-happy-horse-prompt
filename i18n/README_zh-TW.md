@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1402%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1403%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **1402** |
+| 提示詞總數 | **1403** |
 | 分類數 | **13** |
 | 預覽影片數 | **1063** |
-| 最後更新 | **2026-08-25T10:51:03.468Z** |
+| 最後更新 | **2026-08-26T11:06:23.263Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`Twitter Community`](#category-1): **602**
+- [`Twitter Community`](#category-1): **603**
 - [`HappyHorse 創意批次`](#category-2): **240**
 - [`Twitter 社群`](#category-3): **88**
 - [`音訊與語音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 <a id="category-1"></a>
 
-### Twitter Community (602)
+### Twitter Community (603)
 
 ### No. 1: Neon-lit city street at night
 
@@ -11874,1021 +11874,7 @@ New video generate using @VivaReelai with Happy Horse model
 Rate me how do you think the result guys?
 ```
 
-### No. 498: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 499: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 500: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 501: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 502: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 503: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 504: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 505: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 506: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 507: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 508: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 509: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 510: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 511: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 512: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 513: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 514: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 515: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 516: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 517: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 518: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 519: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 520: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 521: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 522: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 523: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 524: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 525: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 526: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 527: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 528: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 529: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 530: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 531: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 532: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 533: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 534: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 535: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 536: ⚡ The Reference Image And Full Prompt Behind
-
-- **分類:** `Twitter Community`
-- **来源:** `x`
-- **作者:** PSS
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2086754533708071325)
-
-#### 描述
-
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product 
-
-#### 提示詞
-
-```text
-⚡ The reference image and full prompt behind VOLTARIS:
-
-TITLE: VOLTARIS — CHARGE WHAT'S NEXT
-
-FORMAT: 15-second cinematic futuristic energy drink commercial, 16:9 landscape, hyperreal premium product advertising, electric cyan, ultraviolet and acid-lime neon palette, dynamic but
-```
-
-### No. 537: Just Dropped A Prompt Into Happyhorse And It
+### No. 498: Just Dropped A Prompt Into Happyhorse And It
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -12908,7 +11894,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 (What wild thing did you make it do?)
 ```
 
-### No. 538: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 499: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -12933,7 +11919,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 539: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 500: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -12958,7 +11944,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 540: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 501: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -12983,7 +11969,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 541: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
+### No. 502: 【お知らせ】 先日、驚きの今年四度目の動画生成Aiコンテスト受賞作、Happy Horse × Tapnow「Ai Mvドリーム・コンテスト」 傑出ノミネート賞
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13008,7 +11994,7 @@ Just dropped a prompt into HappyHorse and it turned my half-baked idea into stra
 新聞、雑誌、段ボール、紙片だけでできた夢の世界。
 ```
 
-### No. 542: **Tweet:** Just Tried Starting My Happyhorse Prompts With
+### No. 503: **Tweet:** Just Tried Starting My Happyhorse Prompts With
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13032,7 +12018,7 @@ Just tried starting my HappyHorse prompts with the lighting first instead of the
 (What’s your go-to prompt hack?)
 ```
 
-### No. 543: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 504: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13056,7 +12042,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 544: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 505: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13080,7 +12066,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 545: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 506: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13104,7 +12090,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 546: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
+### No. 507: Happy Horse 1.1 15-Second Cinematic Video Prompt: A
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13128,7 +12114,7 @@ A stunning young woman with long black hair and piercing blue eyes sits in the s
 A stunning young woman with long black hair and piercing blue eyes sits in the stands during a night basketball game (GSW vs Cavs). She wears a plush white faux-fur jacket with black toggle fasteners. Her expression is cool and https://t.co/f7YhD7J6To
 ```
 
-### No. 547: I Added Video And Image Generation Models In
+### No. 508: I Added Video And Image Generation Models In
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13173,7 +12159,7 @@ Image Models
 - Krea 2
 ```
 
-### No. 548: Nous Portal Just Added 16 New Image And
+### No. 509: Nous Portal Just Added 16 New Image And
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13200,7 +12186,7 @@ from 16 new models. no separate API keys.
 no FAL account.
 ```
 
-### No. 549: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
+### No. 510: Topview Aiでは、話題のいろんな種類の生成Aiが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13221,7 +12207,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seedance2.5、Seedance2.0、Mini Max H3、Happy Horse 1.0、Kling 3.0 Turboで、同じ2枚の画像とプロンプトを使って動画を生成してみました。
 ```
 
-### No. 550: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
+### No. 511: 最近Happy Horse Aiを使っていますが、とても良いです。あなたにも共有します。
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13239,7 +12225,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 最近Happy Horse AIを使っていますが、とても良いです。あなたにも共有します。
 ```
 
-### No. 551: 🎬 献丑Ai 8 月打折季｜多系视频与图片模型 4 折起 📅 8
+### No. 512: 🎬 献丑Ai 8 月打折季｜多系视频与图片模型 4 折起 📅 8
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13269,7 +12255,7 @@ TOPVIEW AIでは、話題のいろんな種類の生成AIが使えます✨Seeda
 · 图片：Midjourney、通义万相、通义千问。
 ```
 
-### No. 552: Cute Ai Cats! Love The Happy Horse Vibe
+### No. 513: Cute Ai Cats! Love The Happy Horse Vibe
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13287,7 +12273,7 @@ Cute AI cats!
 @Flkrstudio @HappyHorseATH @NyaiiBubu Cute AI cats!  Love the Happy Horse vibe.
 ```
 
-### No. 553: Cute Ai Cats! Love The Happy Horse Vibe
+### No. 514: Cute Ai Cats! Love The Happy Horse Vibe
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13305,7 +12291,7 @@ Cute AI cats!
 @Flkrstudio @HappyHorseATH @NyaiiBubu Cute AI cats!  Love the Happy Horse vibe.
 ```
 
-### No. 554: Coba Generate Text To Video Iklan Mie Instan
+### No. 515: Coba Generate Text To Video Iklan Mie Instan
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13328,7 +12314,7 @@ Coba generate text to video iklan mie instan, pake 3 model berbeda :
 https://t.co/akZodQK7Jh
 ```
 
-### No. 555: Coba Generate Text To Video Iklan Mie Instan
+### No. 516: Coba Generate Text To Video Iklan Mie Instan
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13351,7 +12337,7 @@ Coba generate text to video iklan mie instan, pake 3 model berbeda :
 https://t.co/akZodQK7Jh
 ```
 
-### No. 556: This Is A Seriously Detailed Food-Ad Test. 🔥
+### No. 517: This Is A Seriously Detailed Food-Ad Test. 🔥
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13371,7 +12357,7 @@ This is a seriously detailed food-ad test.
 Now
 ```
 
-### No. 557: Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームとAiの新しい協働のかたち 観た。アリバ
+### No. 518: Aiを「とりあえず使う」から「戦略的に使いこなす」へ：Qwen・Wan・Happy Horseを活用したゲーム開発チームとAiの新しい協働のかたち 観た。アリバ
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13395,7 +12381,7 @@ AIを「とりあえず使う」から「戦略的に使いこなす」へ：Qwe
 観た。アリババの宣伝セッションなんだけど、動画生成のデモリールでいきなり『君の名は。』の瀧くんと三葉が出てきてかなり迫力あった。
 ```
 
-### No. 558: Lux 3 Video Ful_Lhd 20S 無料で生成できる様なのでお試し、Happyhorse 1.1と同じプロンプト、リファレンスが出来ないのでスタート
+### No. 519: Lux 3 Video Ful_Lhd 20S 無料で生成できる様なのでお試し、Happyhorse 1.1と同じプロンプト、リファレンスが出来ないのでスタート
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13418,7 +12404,7 @@ LUX 3 video ful_lHD　20s
 無料で生成できる様なのでお試し、HappyHorse 1.1と同じプロンプト、リファレンスが出来ないのでスタートフレーム指定です。動きが少ない様な感じです
 ```
 
-### No. 559: J'Utilise Happy Horse Ai Récemment, C'Est Excellent. Je
+### No. 520: J'Utilise Happy Horse Ai Récemment, C'Est Excellent. Je
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13436,7 +12422,7 @@ J'utilise Happy Horse AI récemment, c'est excellent.
 J'utilise Happy Horse AI récemment, c'est excellent. Je te le partage ici.
 ```
 
-### No. 560: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 521: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13454,7 +12440,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 561: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 522: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13472,7 +12458,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 562: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 523: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13490,7 +12476,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 563: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 524: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13508,7 +12494,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 564: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 525: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13526,7 +12512,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 565: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 526: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13544,7 +12530,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 566: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 527: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13562,7 +12548,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 567: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 528: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13580,7 +12566,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 568: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 529: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13598,7 +12584,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 569: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 530: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13616,7 +12602,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 570: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 531: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13634,7 +12620,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 571: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 532: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13652,7 +12638,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 572: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 533: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13670,7 +12656,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 573: Happy Horse Is Alibaba’S Ai Video And Audio
+### No. 534: Happy Horse Is Alibaba’S Ai Video And Audio
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13688,7 +12674,7 @@ Happy Horse is Alibaba’s AI video and audio generation model.
 @itsme__maddy @HappyHorseATH Happy Horse is Alibaba’s AI video and audio generation model.
 ```
 
-### No. 574: Flux Schnell: Full Image, 1 Credit, ~3 Seconds
+### No. 535: Flux Schnell: Full Image, 1 Credit, ~3 Seconds
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13708,7 +12694,7 @@ Flux Schnell: full image, 1 credit, ~3 seconds. Happy Horse 1.1: up to 9 referen
 #AetherWave #GenerativeAI
 ```
 
-### No. 575: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 536: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13729,7 +12715,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 576: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 537: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13750,7 +12736,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 577: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 538: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13771,7 +12757,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 578: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 539: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13792,7 +12778,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 579: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 540: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13813,7 +12799,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 580: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 541: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13834,7 +12820,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 581: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 542: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13855,7 +12841,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 582: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 543: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13876,7 +12862,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 583: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 544: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13897,7 +12883,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 584: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 545: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13918,7 +12904,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 585: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 546: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13939,7 +12925,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 586: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 547: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13960,7 +12946,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 587: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 548: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -13981,7 +12967,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 588: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 549: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14002,7 +12988,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 589: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 550: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14023,7 +13009,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 590: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 551: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14044,7 +13030,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 591: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 552: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14065,7 +13051,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 592: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 553: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14086,7 +13072,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 593: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 554: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14107,7 +13093,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 594: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 555: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14128,7 +13114,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 595: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 556: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14149,7 +13135,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 596: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 557: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14170,7 +13156,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 597: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 558: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14191,7 +13177,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 598: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 559: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14212,7 +13198,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 599: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 560: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14233,7 +13219,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 600: Love Seeing Push The Limits! 🙌 They Didn’T
+### No. 561: Love Seeing Push The Limits! 🙌 They Didn’T
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14254,7 +13240,7 @@ They didn’t just test features; they crafted a full fictional ad campaign usin
 Check out the workflow
 ```
 
-### No. 601: 動畫忍者切水果
+### No. 562: 動畫忍者切水果
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14275,7 +13261,7 @@ Check out the workflow
 A cute, stylized 3D animated female ninja character with a red headband and glasses, wearing a black jumpsuit, fluidly performing martial arts moves and slicing various fruits (banana, strawberry, apple, peach, coconut, lemon) with a katana in a vibrant, dynamic way. Colorful juice splashes accompany each cut. The scene is set against a clean, light grey studio background. The camera movements are dynamic, including zooms, pans, and close-ups, following the action with an energetic, Pixar-like animation style.
 ```
 
-### No. 602: 午夜花園中的哥特女子
+### No. 563: 午夜花園中的哥特女子
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
@@ -14294,6 +13280,726 @@ A cute, stylized 3D animated female ninja character with a red headband and glas
 
 ```text
 A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
+```
+
+### No. 564: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 565: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 566: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 567: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 568: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 569: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 570: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 571: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 572: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 573: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 574: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 575: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 576: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 577: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 578: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 579: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 580: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 581: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 582: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 583: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 584: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 585: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 586: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 587: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 588: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 589: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 590: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 591: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 592: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 593: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 594: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 595: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 596: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 597: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 598: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 599: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 600: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 601: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 602: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+```
+
+### No. 603: 立體派風景中的奇幻喜劇電影
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+
+#### 描述
+
+一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+
+#### 提示詞
+
+```text
+Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
 ```
 
 <a id="category-2"></a>
@@ -30361,7 +30067,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-08-25T10:51:03.468Z
+> 此 README 為自動生成。 2026-08-26T11:06:23.263Z
 
 ## More Atlas Cloud Tools
 

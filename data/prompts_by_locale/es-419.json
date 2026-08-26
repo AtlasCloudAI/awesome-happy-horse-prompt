@@ -17739,5 +17739,18 @@
       "images": [],
       "video": "media/happy-horse/x_2088891097334362387.mp4"
     }
+  },
+  {
+    "id": "x_2092241889529614716",
+    "title": "Comedia Fantástica Cinematográfica en un Paisaje Cubista",
+    "description": "Un prompt para generar un video continuo de comedia fantástica ambientado en un colorido paisaje cubista de inspiración artesanal, inspirado en Joan Miró, que presenta un personaje específico.",
+    "prompt": "Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "es-419",
+    "source_link": "https://x.com/PromptSin/status/2092241889529614716",
+    "needs_preview": true
   }
 ]

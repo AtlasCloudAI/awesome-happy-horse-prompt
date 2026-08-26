@@ -17739,5 +17739,18 @@
       "images": [],
       "video": "media/happy-horse/x_2088891097334362387.mp4"
     }
+  },
+  {
+    "id": "x_2092241889529614716",
+    "title": "घनवादी परिदृश्य में सिनेमाई फंतासी कॉमेडी",
+    "description": "जोआन मिरो से प्रेरित एक रंगीन, हस्तनिर्मित घनवादी परिदृश्य के भीतर स्थित एक निरंतर फंतासी-कॉमेडी वीडियो बनाने के लिए एक प्रॉम्प्ट, जिसमें एक विशिष्ट चरित्र शामिल है।",
+    "prompt": "Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "hi-IN",
+    "source_link": "https://x.com/PromptSin/status/2092241889529614716",
+    "needs_preview": true
   }
 ]

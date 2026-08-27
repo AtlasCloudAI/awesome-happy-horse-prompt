@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1403%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1405%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > AtlasCloud 프롬프트 생태계에서 정리한 Happy Horse 1.0 비디오 프롬프트 모음입니다.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | 항목 | 수량 |
 |--------|-------|
-| 전체 프롬프트 | **1403** |
+| 전체 프롬프트 | **1405** |
 | 카테고리 수 | **12** |
 | 미리보기 비디오 | **1063** |
-| 마지막 업데이트 | **2026-08-26T11:06:23.318Z** |
+| 마지막 업데이트 | **2026-08-27T10:04:19.065Z** |
 
 ## 🏷️ 카테고리별 보기
 
-- [`Twitter Community`](#category-1): **691**
+- [`Twitter Community`](#category-1): **693**
 - [`HappyHorse 크리에이티브 배치`](#category-2): **240**
 - [`오디오 & 음성 합성`](#category-3): **80**
 - [`크리에이티브 시각효과`](#category-4): **64**
@@ -82,7 +82,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (691)
+### Twitter Community (693)
 
 ### No. 1: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
 
@@ -15041,724 +15041,970 @@ A cute, stylized 3D animated female ninja character with a red headband and glas
 A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
-### No. 652: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 652: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 653: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 653: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 654: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 654: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 655: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 655: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 656: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 656: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 657: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 657: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 658: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 658: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 659: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 659: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 660: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 660: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 661: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 661: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 662: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 662: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 663: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 663: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 664: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 664: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 665: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 665: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 666: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 666: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 667: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 667: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 668: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 668: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 669: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 669: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 670: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 670: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 671: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 671: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 672: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 672: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 673: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 673: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 674: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 674: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 675: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 675: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 676: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 676: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 677: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 677: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 678: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 678: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 679: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 679: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 680: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 680: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 681: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 681: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 682: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 682: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 683: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 683: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 684: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 684: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 685: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 685: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 686: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 686: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 687: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 687: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 688: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 688: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 689: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 689: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 690: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 690: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 691: 입체주의 풍경 속 시네마틱 판타지 코미디
+### No. 691: Cat's Performance Review Animated Comedy
 
 - **카테고리:** `Twitter Community`
 - **출처:** `x`
 - **작성자:** PSS
 - **언어:** `ko-KR`
-- **원본 링크:** [보기](https://x.com/PromptSin/status/2092241889529614716)
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 설명
 
-조안 미로에서 영감을 받은 다채롭고 수작업 같은 입체주의 풍경을 배경으로, 특정 캐릭터가 등장하는 연속적인 판타지 코미디 영상을 생성하기 위한 프롬프트입니다.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 프롬프트
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 692: Cat's Performance Review Animated Comedy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
+
+#### 설명
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### 프롬프트
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 693: Cat's Performance Review Animated Comedy
+
+- **카테고리:** `Twitter Community`
+- **출처:** `x`
+- **작성자:** PSS
+- **언어:** `ko-KR`
+- **원본 링크:** [보기](https://x.com/PromptSin/status/2092624354270187594)
+
+#### 설명
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### 프롬프트
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
 <a id="category-2"></a>
@@ -30142,7 +30388,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 이 README는 자동 생성됩니다. 2026-08-26T11:06:23.318Z
+> 이 README는 자동 생성됩니다. 2026-08-27T10:04:19.065Z
 
 ## More Atlas Cloud Tools
 

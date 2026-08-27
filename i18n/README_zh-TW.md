@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1403%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1405%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > 基於 AtlasCloud 提示詞生態整理的 Happy Horse 1.0 精選影片提示詞倉庫。
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **1403** |
+| 提示詞總數 | **1405** |
 | 分類數 | **13** |
 | 預覽影片數 | **1063** |
-| 最後更新 | **2026-08-26T11:06:23.263Z** |
+| 最後更新 | **2026-08-27T10:04:19.006Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`Twitter Community`](#category-1): **603**
+- [`Twitter Community`](#category-1): **605**
 - [`HappyHorse 創意批次`](#category-2): **240**
 - [`Twitter 社群`](#category-3): **88**
 - [`音訊與語音合成`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 更適合創意表達、情緒氛圍與強鏡頭感的影片生�
 
 <a id="category-1"></a>
 
-### Twitter Community (603)
+### Twitter Community (605)
 
 ### No. 1: Neon-lit city street at night
 
@@ -13282,724 +13282,970 @@ A cute, stylized 3D animated female ninja character with a red headband and glas
 A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
-### No. 564: 立體派風景中的奇幻喜劇電影
+### No. 564: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 565: 立體派風景中的奇幻喜劇電影
+### No. 565: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 566: 立體派風景中的奇幻喜劇電影
+### No. 566: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 567: 立體派風景中的奇幻喜劇電影
+### No. 567: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 568: 立體派風景中的奇幻喜劇電影
+### No. 568: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 569: 立體派風景中的奇幻喜劇電影
+### No. 569: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 570: 立體派風景中的奇幻喜劇電影
+### No. 570: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 571: 立體派風景中的奇幻喜劇電影
+### No. 571: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 572: 立體派風景中的奇幻喜劇電影
+### No. 572: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 573: 立體派風景中的奇幻喜劇電影
+### No. 573: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 574: 立體派風景中的奇幻喜劇電影
+### No. 574: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 575: 立體派風景中的奇幻喜劇電影
+### No. 575: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 576: 立體派風景中的奇幻喜劇電影
+### No. 576: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 577: 立體派風景中的奇幻喜劇電影
+### No. 577: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 578: 立體派風景中的奇幻喜劇電影
+### No. 578: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 579: 立體派風景中的奇幻喜劇電影
+### No. 579: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 580: 立體派風景中的奇幻喜劇電影
+### No. 580: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 581: 立體派風景中的奇幻喜劇電影
+### No. 581: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 582: 立體派風景中的奇幻喜劇電影
+### No. 582: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 583: 立體派風景中的奇幻喜劇電影
+### No. 583: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 584: 立體派風景中的奇幻喜劇電影
+### No. 584: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 585: 立體派風景中的奇幻喜劇電影
+### No. 585: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 586: 立體派風景中的奇幻喜劇電影
+### No. 586: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 587: 立體派風景中的奇幻喜劇電影
+### No. 587: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 588: 立體派風景中的奇幻喜劇電影
+### No. 588: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 589: 立體派風景中的奇幻喜劇電影
+### No. 589: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 590: 立體派風景中的奇幻喜劇電影
+### No. 590: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 591: 立體派風景中的奇幻喜劇電影
+### No. 591: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 592: 立體派風景中的奇幻喜劇電影
+### No. 592: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 593: 立體派風景中的奇幻喜劇電影
+### No. 593: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 594: 立體派風景中的奇幻喜劇電影
+### No. 594: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 595: 立體派風景中的奇幻喜劇電影
+### No. 595: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 596: 立體派風景中的奇幻喜劇電影
+### No. 596: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 597: 立體派風景中的奇幻喜劇電影
+### No. 597: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 598: 立體派風景中的奇幻喜劇電影
+### No. 598: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 599: 立體派風景中的奇幻喜劇電影
+### No. 599: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 600: 立體派風景中的奇幻喜劇電影
+### No. 600: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 601: 立體派風景中的奇幻喜劇電影
+### No. 601: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 602: 立體派風景中的奇幻喜劇電影
+### No. 602: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 603: 立體派風景中的奇幻喜劇電影
+### No. 603: Cat's Performance Review Animated Comedy
 
 - **分類:** `Twitter Community`
 - **来源:** `x`
 - **作者:** PSS
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://x.com/PromptSin/status/2092241889529614716)
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
 
 #### 描述
 
-一個用於生成連續奇幻喜劇影片的提示，場景設定在受胡安·米羅啟發、色彩繽紛的手工立體派風景中，並以特定角色為特色。
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### 提示詞
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 604: Cat's Performance Review Animated Comedy
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
+
+#### 描述
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### 提示詞
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 605: Cat's Performance Review Animated Comedy
+
+- **分類:** `Twitter Community`
+- **来源:** `x`
+- **作者:** PSS
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://x.com/PromptSin/status/2092624354270187594)
+
+#### 描述
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### 提示詞
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
 <a id="category-2"></a>
@@ -30067,7 +30313,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-08-26T11:06:23.263Z
+> 此 README 為自動生成。 2026-08-27T10:04:19.006Z
 
 ## More Atlas Cloud Tools
 

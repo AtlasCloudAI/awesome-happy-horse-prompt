@@ -17752,5 +17752,31 @@
     "language": "de-DE",
     "source_link": "https://x.com/PromptSin/status/2092241889529614716",
     "needs_preview": true
+  },
+  {
+    "id": "x_2092704312455803011",
+    "title": "Dorian Vane in Pop Art City Comedy",
+    "description": "A prompt for a 12-second cinematic comedy video featuring a photorealistic man walking through a graphic Pop Art cityscape, followed by a red disk.",
+    "prompt": "Create a continuous 12-second cinematic visual comedy in which a photorealistic Dorian Vane walks through a graphic Pop Art city and is followed by one red disk.\n[REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "de-DE",
+    "source_link": "https://x.com/PromptSin/status/2092704312455803011",
+    "needs_preview": true
+  },
+  {
+    "id": "x_2092624354270187594",
+    "title": "Cat's Performance Review Animated Comedy",
+    "description": "A 15-second 3D animated comedy video featuring a woman in a cat performance review.",
+    "prompt": "TITLE: THE CAT'S PERFORMANCE REVIEW\n\nExactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.\n\nREFERENCE\nUse [Ref_image1] as the strict reference for the woman,",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "PSS",
+    "source_platform": "x",
+    "language": "de-DE",
+    "source_link": "https://x.com/PromptSin/status/2092624354270187594",
+    "needs_preview": true
   }
 ]

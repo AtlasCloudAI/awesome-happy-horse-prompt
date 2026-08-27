@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update README](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/actions/workflows/update-readme.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-1403%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-1405%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts)
 
 > Une collection de prompts Happy Horse 1.0 issue de l'ecosysteme de prompts AtlasCloud.
 
@@ -56,14 +56,14 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 | Mesure | Nombre |
 |--------|-------|
-| Nombre Total de Prompts | **1403** |
+| Nombre Total de Prompts | **1405** |
 | Categories | **13** |
 | Videos d'Apercu | **1063** |
-| Derniere Mise a Jour | **2026-08-26T11:06:23.509Z** |
+| Derniere Mise a Jour | **2026-08-27T10:04:19.250Z** |
 
 ## 🏷️ Parcourir par Categorie
 
-- [`Twitter Community`](#category-1): **603**
+- [`Twitter Community`](#category-1): **605**
 - [`Selection creative HappyHorse`](#category-2): **240**
 - [`Communaute Twitter`](#category-3): **88**
 - [`Audio & Synthèse Vocale`](#category-4): **80**
@@ -83,7 +83,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 
 <a id="category-1"></a>
 
-### Twitter Community (603)
+### Twitter Community (605)
 
 ### No. 1: Neon-lit city street at night
 
@@ -13282,724 +13282,970 @@ Un prompt vidéo de dark fantasy cinématographique mettant en scène une femme 
 A cinematic 8K dark fantasy gothic video featuring a stunning woman with pale skin, bold red lipstick, and long flowing black hair, wearing an intricate black lace gown, red jewel necklace, and tiara. She glides through a haunting midnight garden
 ```
 
-### No. 564: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 564: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 565: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 565: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 566: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 566: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 567: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 567: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 568: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 568: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 569: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 569: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 570: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 570: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 571: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 571: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 572: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 572: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 573: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 573: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 574: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 574: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 575: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 575: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 576: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 576: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 577: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 577: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 578: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 578: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 579: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 579: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 580: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 580: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 581: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 581: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 582: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 582: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 583: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 583: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 584: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 584: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 585: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 585: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 586: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 586: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 587: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 587: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 588: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 588: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 589: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 589: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 590: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 590: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 591: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 591: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 592: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 592: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 593: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 593: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 594: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 594: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 595: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 595: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 596: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 596: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 597: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 597: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 598: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 598: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 599: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 599: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 600: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 600: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 601: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 601: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 602: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 602: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
-### No. 603: Comédie Fantastique Cinématographique dans un Paysage Cubiste
+### No. 603: Cat's Performance Review Animated Comedy
 
 - **Categorie:** `Twitter Community`
 - **Source:** `x`
 - **Auteur:** PSS
 - **Langue:** `fr-FR`
-- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092241889529614716)
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
 
 #### Description
 
-Une consigne pour générer une vidéo de comédie fantastique continue se déroulant dans un paysage cubiste coloré et artisanal, inspiré de Joan Miró, mettant en scène un personnage spécifique.
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
 
 #### Prompt
 
 ```text
-Create a continuous cinematic fantasy-comedy inside a colorful handcrafted cubist landscape inspired by Joan Miró. [REFERENCE1] is Dorian Vane. Preserve his exact photorealistic human identity: adult man with warm lightly tanned skin, hazel-green
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 604: Cat's Performance Review Animated Comedy
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
+
+#### Description
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### Prompt
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
+```
+
+### No. 605: Cat's Performance Review Animated Comedy
+
+- **Categorie:** `Twitter Community`
+- **Source:** `x`
+- **Auteur:** PSS
+- **Langue:** `fr-FR`
+- **Lien Source:** [Voir](https://x.com/PromptSin/status/2092624354270187594)
+
+#### Description
+
+A 15-second 3D animated comedy video featuring a woman in a cat performance review.
+
+#### Prompt
+
+```text
+TITLE: THE CAT'S PERFORMANCE REVIEW
+
+Exactly 15 seconds, 16:9, original premium stylized 3D animated comedy, synchronized English dialogue and stereo audio.
+
+REFERENCE
+Use [Ref_image1] as the strict reference for the woman,
 ```
 
 <a id="category-2"></a>
@@ -30123,7 +30369,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Ce README est genere automatiquement. 2026-08-26T11:06:23.509Z
+> Ce README est genere automatiquement. 2026-08-27T10:04:19.250Z
 
 ## More Atlas Cloud Tools
 

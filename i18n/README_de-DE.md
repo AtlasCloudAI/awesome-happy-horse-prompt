@@ -59,7 +59,7 @@ Happy Horse 1.0 is strongest at expressive motion, cinematic atmosphere, and vis
 | Prompts Insgesamt | **1405** |
 | Kategorien | **13** |
 | Vorschauvideos | **1063** |
-| Zuletzt aktualisiert | **2026-09-07T09:31:49.026Z** |
+| Zuletzt aktualisiert | **2026-09-08T10:12:57.209Z** |
 
 ## 🏷️ Nach Kategorie durchsuchen
 
@@ -30369,7 +30369,7 @@ npm run generate
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Diese README wird automatisch erzeugt. 2026-09-07T09:31:49.026Z
+> Diese README wird automatisch erzeugt. 2026-09-08T10:12:57.209Z
 
 ## More Atlas Cloud Tools
 
